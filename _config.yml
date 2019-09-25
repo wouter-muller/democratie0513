@@ -72,13 +72,20 @@ kramdown:
 # The following items will not be processed.
 exclude:
   - README.md
-  - LICENSE.txt
+  - LICENSE
   - netlify.toml
   - feed.xml
   - Gemfile
   - Gemfile.lock
+  - gulpfile.js
+  - package-lock.json
+  - package.json
   - node_modules
   - vendor/bundle/
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - src/
+  - design/
+
+keep_files: [dist, uploads]
