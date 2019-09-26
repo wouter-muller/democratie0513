@@ -4,6 +4,14 @@
     background-size: cover
     display: grid
     padding: 0 px(50) 0 px(63)
+    position: relative
+
+    &:after
+        content: ''
+        +fill-space
+        +background-image('header-dots.svg')
+        background-size: cover
+        opacity: 0.1
 
     +tablet-desktop
         grid-gap: px(40)
