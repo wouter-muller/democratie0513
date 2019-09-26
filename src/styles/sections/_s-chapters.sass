@@ -1,0 +1,49 @@
+.s-chapters
+    +tablet-desktop
+        display: flex
+
+    &__chapter
+        color: $inverted-text-color
+        text-align: center
+        padding: 50px
+        width: 25%
+
+        &.\--research
+            background-color: $pink
+
+        &.\--summary
+            background-color: $red
+
+        &.\--results
+            background-color: $turqoise
+
+        &.\--analysis
+            background-color: $dark-blue
+
+        img
+            margin-bottom: 50px
+
+    &__heading
+        +font-merriweather
+        font-weight: $bold
+        font-size: 36px
+        letter-spacing: 8px
+        position: relative
+        line-height: 1.2
+        margin-bottom: 40px
+        min-height: 100px
+
+        &:after
+            content: ''
+            background-color: white
+            height: 2px
+            width: 100px
+            position: absolute
+            bottom: 0
+            left: 50%
+            transform: translateX(-50%)
+
+    &__paragraph
+        font-size: 18px
+        line-height: 30px
+        flex: 0
