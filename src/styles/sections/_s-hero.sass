@@ -3,52 +3,52 @@
     background-position: center top
     background-size: cover
     display: grid
-    padding: 0 50px 0 63px
+    padding: 0 px(50) 0 px(63)
 
     +tablet-desktop
-        grid-gap: 40px
-        grid-template-columns: 1fr 420px
+        grid-gap: px(40)
+        grid-template-columns: 1fr px(420)
 
     &__text-area
-        padding: 480px 0 180px 0
+        padding: px(480) 0 px(180) 0
 
     &__heading
-        font-size: 94px
+        font-size: px(94)
         +font-merriweather
         font-weight: $medium
         color: $inverted-text-color
-        margin-bottom: 35px
+        margin-bottom: px(35)
 
     &__subheading
         font-weight: 100
         color: $light-blue
-        font-size: 38px
-        margin-bottom: 40px
+        font-size: px(38)
+        margin-bottom: px(40)
 
     &__paragraph
         font-style: italic
         font-weight: $bold
         +font-merriweather
-        font-size: 30px
+        font-size: px(30)
         line-height: 2
         color: $inverted-text-color
 
 .s-hero-links
-    margin-top: 30px
+    margin-top: px(30)
 
     &__link
         color: $inverted-text-color
         display: block
-        height: 70px
-        line-height: 70px
+        height: px(70)
+        line-height: px(70)
         +font-merriweather
-        font-size: 30px
-        letter-spacing: 8px
+        font-size: px(30)
+        letter-spacing: px(8)
         font-weight: $bold
         text-align: right
         position: relative
         transition: color 0.1s ease-in
-        padding-left: 67px
+        padding-left: px(67)
 
         &:after
             position: absolute
@@ -69,4 +69,4 @@
         &:hover,
         &.\--active
             background-position: left center
-            background-size: 36px 41px
+            background-size: px(36) px(41)
