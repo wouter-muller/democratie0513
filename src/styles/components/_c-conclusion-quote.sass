@@ -1,0 +1,60 @@
+.c-conclusion-quote
+    padding: px(90) 0
+
+    h2
+        +font-merriweather
+        font-size: px(42)
+        margin-bottom: px(40)
+        font-weight: $medium
+
+    p
+        position: relative
+        font-size: px(24)
+        line-height: px(50)
+        +font-merriweather
+        display: inline
+        background-color: white
+
+        &:before,
+        &:after
+            content: ''
+            position: absolute
+            width: px(21)
+            height: px(21)
+
+        &:before
+            +background-image('quote-open.svg')
+            left: px(-40)
+
+        &:after
+            right: px(-40)
+            bottom: px(-10)
+
+
+    &.\--blue
+        background-color: #e6f2f4
+
+        h2,
+        p
+            color: $turqoise
+
+        p
+            &:before
+                +background-image('quote-open-blue.svg')
+
+            &:after
+                +background-image('quote-close-blue.svg')
+
+    &.\--red
+        background-color: #fdf6f6
+
+        h2,
+        p
+            color: $red
+
+        p
+            &:before
+                +background-image('quote-open-red.svg')
+
+            &:after
+                +background-image('quote-close-red.svg')

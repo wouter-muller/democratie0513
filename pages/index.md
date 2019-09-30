@@ -11,6 +11,34 @@ chapters-summary-paragraph: Lorem ipsum dolor sit amet, consectetur adipisicing 
 chapters-results-paragraph: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, temporibus rerum recusandae sapiente deserunt molestias at, odit deleniti aliquam expedita assumenda saepe sit sequi nisi consequatur ipsa est delectus iste.
 chapters-analysis-paragraph: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, temporibus rerum recusandae sapiente deserunt molestias at, odit deleniti aliquam expedita assumenda saepe sit sequi nisi consequatur ipsa est delectus iste.
 content-intro: De afgelopen jaren heeft de gemeente Heerenveen samen met inwoners geëxperimenteerd met nieuwe vormen van lokale democratie om de betrokkenheid van inwoners te vergroten. Deze experimenten waren leerzaam en over het algemeen zijn ze positief gewaardeerd.
+table-class: --turqoise
+table-title-left: Deelvragen 4A t/m 1G
+table-title-right: Democratische waarde
+table-items:
+  - letter: A
+    sentence: In hoeverre is er sprake van (meer) betrokkenheid of eigen kracht bij betrokken inwoners?
+    word: Burgerschap
+  - letter: B
+    sentence: In hoeverre zijn de gelote of aangemelde inwoners een representatie van het dorp of het vraagstuk.
+    word: Inclusie
+  - letter: C
+    sentence: In hoeverre heeft het proces en de uitkomst van het besluitvormingsproces vertrouwen en acceptatie ...
+    word: Legitimiteit
+  - letter: D
+    sentence: In hoeverre hebben inwoners ervaren dat zij invloed hebben gehad en in hoeverre zijn de genomen besluiten overgenomen in beleid en uitvoering.
+    word: Invloed
+  - letter: E
+    sentence: In hoeverre is er duidelijkheid over verwachtingen, rollen en taken van alle betrokkenen en is informatie helder gedeeld.
+    word: Transparantie
+  - letter: F
+    sentence: In hoeverre is er voor de deelnemers een balans tussen de kosten en baten (tijdsinzet) van het besluitvormingsproces.
+    word: Efficiëntie
+  - letter: G
+    sentence: In hoeverre zijn inwoners door deliberatie gekomen tot besluitvorming.
+    word: Deliberatie
+conclusion-quote-class: --blue
+conclusion-quote-title: Conclusie Burgerschap
+conclusion-quote-paragraph: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident
 
 ---
 

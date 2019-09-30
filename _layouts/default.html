@@ -80,7 +80,7 @@
                 </div>
             </div>
 
-            <div class="c-normal-table --turqoise">
+            <div class="c-normal-table {{ page.table-class }}">
                 {% include normal-table.html %}
             </div>
 
@@ -89,6 +89,14 @@
             </div>
 
             {% include colored-table.html %}
+
+            <div class="c-conclusion-quote {{ page.conclusion-quote-class }}">
+                {% include conclusion-quote.html %}
+            </div>
+
+            <div class="c-conclusion-quote --red">
+                {% include conclusion-quote.html %}
+            </div>
     </main>
 
     {% include footer.html %}

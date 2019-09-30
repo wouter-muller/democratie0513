@@ -2,53 +2,19 @@
     <table>
         <thead>
             <tr>
-                <td colspan="2"><b>Deelvragen 4A t/m 1G</b></td>
-                <td colspan="2"><b>Democratische waarde</b></td>
+                <td colspan="2"><b>{{ page.table-title-left }}</b></td>
+                <td colspan="2"><b>{{ page.table-title-right }}</b></td>
             </tr>
         </thead>
         <tbody>
-            <tr>
-                <td class="c-normal-table__letter">A</td>
-                <td>In hoeverre is er sprake van (meer) betrokkenheid of eigen kracht bij betrokken inwoners?</td>
-                <td></td>
-                <td><b>Burgerschap</b></td>
-            </tr>
-            <tr>
-                <td class="c-normal-table__letter">B</td>
-                <td>In hoeverre zijn de gelote of aangemelde inwoners een representatie van het dorp of het vraagstuk.</td>
-                <td></td>
-                <td><b>Inclusie</b></td>
-            </tr>
-            <tr>
-                <td class="c-normal-table__letter">C</td>
-                <td>In hoeverre heeft het proces en de uitkomst van het besluitvormingsproces vertrouwen en acceptatie ...</td>
-                <td></td>
-                <td><b>Legitimiteit</b></td>
-            </tr>
-            <tr>
-                <td class="c-normal-table__letter">D</td>
-                <td>In hoeverre hebben inwoners ervaren dat zij invloed hebben gehad en in hoeverre zijn de genomen besluiten overgenomen in beleid en uitvoering.</td>
-                <td></td>
-                <td><b>Invloed</b></td>
-            </tr>
-            <tr>
-                <td class="c-normal-table__letter">E</td>
-                <td>In hoeverre is er duidelijkheid over verwachtingen, rollen en taken van alle betrokkenen en is informatie helder gedeeld.</td>
-                <td></td>
-                <td><b>Transparantie</b></td>
-            </tr>
-            <tr>
-                <td class="c-normal-table__letter">F</td>
-                <td>In hoeverre is er voor de deelnemers een balans tussen de kosten en baten (tijdsinzet) van het besluitvormingsproces.</td>
-                <td></td>
-                <td><b>Efficiëntie</b></td>
-            </tr>
-            <tr>
-                <td class="c-normal-table__letter">G</td>
-                <td>In hoeverre zijn inwoners door deliberatie gekomen tot besluitvorming. </td>
-                <td></td>
-                <td><b>Deliberatie</b></td>
-            </tr>
+            {% for item in page.table-items %}
+                <tr>
+                    <td class="c-normal-table__letter">{{ item.letter }}</td>
+                    <td>{{ item.sentence }}</td>
+                    <td></td>
+                    <td><b>{{ item.word }}</b></td>
+                </tr>
+            {% endfor %}
         </tbody>
         <thead>
             <tr>
