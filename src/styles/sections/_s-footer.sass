@@ -3,18 +3,23 @@
     border-top: px(6) solid $turqoise
 
     &__main
-        display: grid
-        grid-template-columns: 1fr 1fr 1fr 1fr
-        grid-gap: px(30)
         padding: px(90)0 px(80) 0
+        display: grid
+        grid-gap: px(30)
+
+        +mobile
+            text-align: center
+
+        +tablet-desktop
+            grid-template-columns: 1fr 1fr 1fr 1fr
 
         p,
         a
             color: #999
-            font-size: 14px
+            font-size: px(14)
 
         p
-            margin-bottom: 15px
+            margin-bottom: px(15)
 
     &__heading
         color: $inverted-text-color
@@ -30,5 +35,5 @@
         p
             text-align: center
             line-height: px(90)
-            font-size: 14px
+            font-size: px(14)
             color: $inverted-text-color
