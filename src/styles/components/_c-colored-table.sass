@@ -1,0 +1,67 @@
+.c-colored-table
+    width: 100%
+    font-size: px(24)
+    margin-bottom: px(90)
+
+    &__title
+        background-color: $dark-blue
+        font-size: px(36)
+        color: $inverted-text-color
+        font-weight: $bold
+        padding: 20px
+        vertical-align: top
+
+    &__col
+        vertical-align: bottom
+        width: px(130)
+        padding: 20px 40px
+
+        &.\--red
+            background-color: $red
+
+        &.\--turqoise
+            background-color: $turqoise
+
+        &.\--pink
+            background-color: $pink
+
+        &.\--turqoise-light
+            background-color: $turqoise-light
+
+        &.\--green-light
+            background-color: $green-light
+
+        &.\--grey-light
+            background-color: $grey-light
+
+    &__vertical
+        display: block
+        writing-mode: vertical-lr
+        transform: rotate(180deg)
+        font-weight: $bold
+        font-size: px(24)
+        color: $dark-blue
+
+    &__content
+        td
+            padding: 15px 10px
+            text-align: center
+            vertical-align: middle
+
+            &.\--align-left
+                text-align: left
+
+        tr:nth-child(even)
+
+            td:nth-child(odd)
+                background-color: #e6e6e6
+
+            td:nth-child(even)
+                background-color: #f7f7f7
+
+        tr:nth-child(odd)
+            td:nth-child(odd)
+                background-color: white
+
+            td:nth-child(even)
+                background-color: #e6e6e6
