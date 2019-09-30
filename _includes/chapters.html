@@ -1,0 +1,42 @@
+<div class="s-chapters">
+    <div class="s-chapters__chapter --research">
+        {% if page.chapters-research-paragraph %}
+            <img src="{{ site.image_path }}/chapters/research.svg">
+        {% endif %}
+        <h2 class="s-chapters__heading">Het onderzoek</h2>
+        {% if page.chapters-research-paragraph %}
+            <p class="s-chapters__paragraph">{{ page.chapters-research-paragraph }}
+        {% endif %}
+    </div>
+
+    <div class="s-chapters__chapter --summary">
+        {% if page.chapters-summary-paragraph %}
+            <img src="{{ site.image_path }}/chapters/summary.svg">
+        {% endif %}
+        <h2 class="s-chapters__heading">Samenvatting</h2>
+        {% if page.chapters-summary-paragraph %}
+            <p class="s-chapters__paragraph">{{ page.chapters-summary-paragraph }}
+        {% endif %}
+    </div>
+
+    <div class="s-chapters__chapter --results">
+        {% if page.chapters-results-paragraph %}
+            <img src="{{ site.image_path }}/chapters/results.svg">
+        {% endif %}
+        <h2 class="s-chapters__heading">Uitkomsten</h2>
+        {% if page.chapters-results-paragraph %}
+            <p class="s-chapters__paragraph">{{ page.chapters-results-paragraph }}
+        {% endif %}
+    </div>
+
+    <div class="s-chapters__chapter --analysis">
+        {% if page.chapters-analysis-paragraph %}
+            <img src="{{ site.image_path }}/chapters/analysis.svg">
+        {% endif %}
+        <h2 class="s-chapters__heading">Analyse en conclusie</h2>
+        {% if page.chapters-analysis-paragraph %}
+            <p class="s-chapters__paragraph">{{ page.chapters-analysis-paragraph }}
+        {% endif %}
+    </div>
+
+</div>

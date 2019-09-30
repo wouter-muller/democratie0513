@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="{{ page.section }}" lang="nl">
+<html class="{{ page.section }} {{ page.color }}" lang="nl">
 
   {% include head.html %}
 
@@ -8,7 +8,7 @@
     {% include header.html %}
 
     <main>
-        <div class="s-hero">
+        <div class="s-hero --{{ page.color }}">
             <div class="s-hero__dots"></div>
             <div class="s-hero__text-area">
                 <h1 class="s-hero__heading">
@@ -45,28 +45,7 @@
             </div>
         </div>
 
-        <div class="s-chapters">
-            <div class="s-chapters__chapter --research">
-                <img src="{{ site.image_path }}/chapters/research.svg">
-                <h2 class="s-chapters__heading">Het onderzoek</h2>
-                <p class="s-chapters__paragraph">{{ page.chapters-research-paragraph }}
-            </div>
-            <div class="s-chapters__chapter --summary">
-                <img src="{{ site.image_path }}/chapters/summary.svg">
-                <h2 class="s-chapters__heading">Samenvatting</h2>
-                <p class="s-chapters__paragraph">{{ page.chapters-summary-paragraph }}
-            </div>
-            <div class="s-chapters__chapter --results">
-                <img src="{{ site.image_path }}/chapters/results.svg">
-                <h2 class="s-chapters__heading">Uitkomsten</h2>
-                <p class="s-chapters__paragraph">{{ page.chapters-results-paragraph }}
-            </div>
-            <div class="s-chapters__chapter --analysis">
-                <img src="{{ site.image_path }}/chapters/analysis.svg">
-                <h2 class="s-chapters__heading">Analyse en conclusie</h2>
-                <p class="s-chapters__paragraph">{{ page.chapters-analysis-paragraph }}
-            </div>
-        </div>
+        {% include chapters.html %}
 
         <div class="s-content">
             <div class="l-wrapper-medium">
@@ -76,25 +55,16 @@
 
                 <div class="s-content__main-content">
                     {{ content }}
-
                 </div>
             </div>
 
-            <div class="c-normal-table {{ page.table-class }}">
-                {% include normal-table.html %}
-            </div>
-
-            <div class="c-normal-table --red">
+            <div class="c-normal-table --{{ page.color }}">
                 {% include normal-table.html %}
             </div>
 
             {% include colored-table.html %}
 
-            <div class="c-conclusion-quote {{ page.conclusion-quote-class }}">
-                {% include conclusion-quote.html %}
-            </div>
-
-            <div class="c-conclusion-quote --red">
+            <div class="c-conclusion-quote --{{ page.color }}">
                 {% include conclusion-quote.html %}
             </div>
     </main>

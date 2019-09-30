@@ -5,8 +5,9 @@
     &__chapter
         color: $inverted-text-color
         text-align: center
-        padding: px(50)
-        width: 25%
+        padding: px(50) px(20)
+        word-break: break-word
+        flex: 1
 
         &.\--research
             background-color: $pink
@@ -28,10 +29,15 @@
         font-weight: $bold
         font-size: px(30)
         letter-spacing: px(8)
-        position: relative
         line-height: 1.2
-        margin-bottom: px(40)
-        min-height: px(100)
+        // min-height: px(100)
+
+    &__paragraph
+        font-size: px(18)
+        line-height: px(30)
+        position: relative
+        margin-top: px(30)
+        padding-top: px(30)
 
         &:after
             content: ''
@@ -39,11 +45,6 @@
             height: px(2)
             width: px(100)
             position: absolute
-            bottom: 0
+            top: 0
             left: 50%
             transform: translateX(-50%)
-
-    &__paragraph
-        font-size: px(18)
-        line-height: px(30)
-        flex: 0

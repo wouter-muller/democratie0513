@@ -2,6 +2,7 @@
 layout: default
 section: home
 title_tag: Democratie0513
+color: blue
 permalink: /
 hero-heading: Kopregel Kopregel
 hero-subheading: Monitoren en evalueren van processen van lokale democratie in Heerenveen.
@@ -11,7 +12,7 @@ chapters-summary-paragraph: Lorem ipsum dolor sit amet, consectetur adipisicing 
 chapters-results-paragraph: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, temporibus rerum recusandae sapiente deserunt molestias at, odit deleniti aliquam expedita assumenda saepe sit sequi nisi consequatur ipsa est delectus iste.
 chapters-analysis-paragraph: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, temporibus rerum recusandae sapiente deserunt molestias at, odit deleniti aliquam expedita assumenda saepe sit sequi nisi consequatur ipsa est delectus iste.
 content-intro: De afgelopen jaren heeft de gemeente Heerenveen samen met inwoners geëxperimenteerd met nieuwe vormen van lokale democratie om de betrokkenheid van inwoners te vergroten. Deze experimenten waren leerzaam en over het algemeen zijn ze positief gewaardeerd.
-table-class: --turqoise
+table-heading:
 table-title-left: Deelvragen 4A t/m 1G
 table-title-right: Democratische waarde
 table-items:
@@ -22,7 +23,7 @@ table-items:
     sentence: In hoeverre zijn de gelote of aangemelde inwoners een representatie van het dorp of het vraagstuk.
     word: Inclusie
   - letter: C
-    sentence: In hoeverre heeft het proces en de uitkomst van het besluitvormingsproces vertrouwen en acceptatie ...
+    sentence: In hoeverre heeft het proces en de uitkomst van het besluitvormingsproces vertrouwen en acceptatie van inwoners, ambtenaren en de gemeenteraad?
     word: Legitimiteit
   - letter: D
     sentence: In hoeverre hebben inwoners ervaren dat zij invloed hebben gehad en in hoeverre zijn de genomen besluiten overgenomen in beleid en uitvoering.
@@ -36,7 +37,6 @@ table-items:
   - letter: G
     sentence: In hoeverre zijn inwoners door deliberatie gekomen tot besluitvorming.
     word: Deliberatie
-conclusion-quote-class: --blue
 conclusion-quote-title: Conclusie Burgerschap
 conclusion-quote-paragraph: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident
 
@@ -65,3 +65,5 @@ Toelichting: Alle betrokkenen zijn: inwoners, raadsleden en ambtenaren. Om een i
 2. Wat zijn de kenmerken van de verschillende processen waarmee de gemeente Heerenveen experimenteert?
 3. Op welke manier krijgen de democratische waarden vorm in ieder van de processen?
 4. Hoe wordt de democratische kwaliteit van de processen ervaren door de betrokkenen?
+
+Deelvraag 4 kan worden opgedeeld in een vraag per waarde:
