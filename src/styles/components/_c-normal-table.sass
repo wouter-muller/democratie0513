@@ -1,0 +1,37 @@
+.c-normal-table
+    padding: px(90) 0
+
+    &.\--turqoise
+        background-color: #f6fcfd
+
+        thead
+            background-color: $turqoise
+
+    &.\--red
+        background-color: #fdf6f6
+
+        thead
+            background-color: $red
+
+    table
+        width: 100%
+        border-collapse: collapse
+        background-color: white
+
+        td
+            padding: px(16) px(18)
+
+        thead
+            color: $inverted-text-color
+            font-size: px(18)
+            font-weight: $bold
+
+        tbody
+            color: #666
+
+            tr:nth-child(even)
+                background-color: #f7f7f7
+
+    &__letter
+        font-weight: $bold
+        font-size: px(18)
