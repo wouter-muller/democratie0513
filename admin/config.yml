@@ -52,7 +52,7 @@ collections: # A list of collections the CMS should be able to edit
     files:
       - name: "homepage"
         label: "Homepage"
-        file: "/pages/index.html"
+        file: "/pages/index.md"
         fields:
           - {label: "Layout", name: "layout", widget: "hidden"}
           - {label: "Browser title tag", name: "title_tag", widget: "string"}
