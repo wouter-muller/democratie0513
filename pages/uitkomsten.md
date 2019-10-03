@@ -1,30 +1,43 @@
 ---
 layout: default
-section: home
-title_tag: Het onderzoek
+title_tag: Monitoren democratisering - Uitkomsten
 color: blue
 permalink: /uitkomsten
 hero-heading: Uitkomsten
 hero-subheading: Het beeld na 80 interviews
-hero-paragraph:
 chapters:
-  - type: research
+  - paragraph: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem,
+      temporibus rerum recusandae sapiente deserunt molestias at, odit deleniti
+      aliquam expedita assumenda saepe sit sequi nisi consequatur ipsa est
+      delectus iste.
     title: Het onderzoek
-    paragraph: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, temporibus rerum recusandae sapiente deserunt molestias at, odit deleniti aliquam expedita assumenda saepe sit sequi nisi consequatur ipsa est delectus iste.
+    type: research
     url: /het-onderzoek
-  - type: summary
+  - paragraph: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem,
+      temporibus rerum recusandae sapiente deserunt molestias at, odit deleniti
+      aliquam expedita assumenda saepe sit sequi nisi consequatur ipsa est
+      delectus iste.
     title: Samenvatting
-    paragraph: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, temporibus rerum recusandae sapiente deserunt molestias at, odit deleniti aliquam expedita assumenda saepe sit sequi nisi consequatur ipsa est delectus iste.
+    type: summary
     url: /samenvatting
-  - type: results
+  - paragraph: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem,
+      temporibus rerum recusandae sapiente deserunt molestias at, odit deleniti
+      aliquam expedita assumenda saepe sit sequi nisi consequatur ipsa est
+      delectus iste.
     title: Uitkomsten
-    paragraph: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, temporibus rerum recusandae sapiente deserunt molestias at, odit deleniti aliquam expedita assumenda saepe sit sequi nisi consequatur ipsa est delectus iste.
+    type: results
     url: /uitkomsten
-  - type: analysis
+  - paragraph: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem,
+      temporibus rerum recusandae sapiente deserunt molestias at, odit deleniti
+      aliquam expedita assumenda saepe sit sequi nisi consequatur ipsa est
+      delectus iste.
     title: Analyse en conclusie
-    paragraph: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, temporibus rerum recusandae sapiente deserunt molestias at, odit deleniti aliquam expedita assumenda saepe sit sequi nisi consequatur ipsa est delectus iste.
+    type: analysis
     url: /analyse
-content-intro: Hier komt nog een korte introductie tekst van 4 regels om de invulling van de website aan te houden. Deze tekst zal iets zeggen over de uitkomsten, etc. hier moet ik nog over nadenken en ik ga dit samen met de communicatieadviseur van de gemeente maken.
 ---
 ## Uitkomsten
 
