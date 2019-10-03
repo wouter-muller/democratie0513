@@ -4,8 +4,8 @@ title_tag: Mildam
 color: red
 permalink: /mildam
 hero-heading: Analyse Mildam
-hero-subheading: Monitoren en evalueren van processen van lokale democratie in Heerenveen.
-hero-paragraph: Ruimte voor introductietekst (trigger), consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea.
+hero-subheading:
+hero-paragraph:
 content-intro: Inwoners van noordelijk Mildam zijn door de gemeente Heerenveen gevraagd om een plan te maken voor herbestrating en herinrichting van Noord-Mildam. Zeker 20 inwoners hebben zich in 2018 aangemeld voor een werkgroep en hebben een plan gemaakt en gepresenteerd op 2 april 2019 aan het dorp. Hoe hebben deze deelnemers het hele proces ervaren en beleefd? Wat kunnen we leren van de G1000 Heerenveen en welke mechanismes komen we tegen?
 chapters:
   - type: results
@@ -14,9 +14,6 @@ chapters:
   - type: analysis
     title: Analyse en conclusie
     url: analysis
-conclusion-quote-title: Conclusie Burgerschap
-conclusion-quote-paragraph: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident
-
 ---
 
 <div id="uitkomsten"></div>
@@ -28,7 +25,7 @@ Onderstaande uitkomsten van het onderzoek zijn gebaseerd op:
 - Observatie van de bijeenkomst van 2 april 2019
 - Bezwaarschrift ingediend op
 - Mail van voorzitter plaatselijk belang Mildam
-- Communicatie via website: https://www.maakhet.nl/groep/mildam-grootonderhoud/
+- Communicatie via website: [https://www.maakhet.nl/groep/mildam-grootonderhoud/](https://www.maakhet.nl/groep/mildam-grootonderhoud/)
 - Dorpsvisie plaatselijk belang
 
 ### Inclusie
