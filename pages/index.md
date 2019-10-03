@@ -7,10 +7,23 @@ permalink: /
 hero-heading: Kopregel Kopregel
 hero-subheading: Monitoren en evalueren van processen van lokale democratie in Heerenveen.
 hero-paragraph: Ruimte voor introductietekst (trigger), consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea.
-chapters-research-paragraph: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, temporibus rerum recusandae sapiente deserunt molestias at, odit deleniti aliquam expedita assumenda saepe sit sequi nisi consequatur ipsa est delectus iste.
-chapters-summary-paragraph: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, temporibus rerum recusandae sapiente deserunt molestias at, odit deleniti aliquam expedita assumenda saepe sit sequi nisi consequatur ipsa est delectus iste.
-chapters-results-paragraph: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, temporibus rerum recusandae sapiente deserunt molestias at, odit deleniti aliquam expedita assumenda saepe sit sequi nisi consequatur ipsa est delectus iste.
-chapters-analysis-paragraph: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, temporibus rerum recusandae sapiente deserunt molestias at, odit deleniti aliquam expedita assumenda saepe sit sequi nisi consequatur ipsa est delectus iste.
+chapters:
+  - type: research
+    title: Het onderzoek
+    paragraph: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, temporibus rerum recusandae sapiente deserunt molestias at, odit deleniti aliquam expedita assumenda saepe sit sequi nisi consequatur ipsa est delectus iste.
+    url: /onderzoek
+  - type: summary
+    title: Samenvatting
+    paragraph: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, temporibus rerum recusandae sapiente deserunt molestias at, odit deleniti aliquam expedita assumenda saepe sit sequi nisi consequatur ipsa est delectus iste.
+    url: /samenvatting
+  - type: results
+    title: Uitkomsten
+    paragraph: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, temporibus rerum recusandae sapiente deserunt molestias at, odit deleniti aliquam expedita assumenda saepe sit sequi nisi consequatur ipsa est delectus iste.
+    url: /uitkomsten
+  - type: analysis
+    title: Analyse en conclusie
+    paragraph: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, temporibus rerum recusandae sapiente deserunt molestias at, odit deleniti aliquam expedita assumenda saepe sit sequi nisi consequatur ipsa est delectus iste.
+    url: /analyse
 content-intro: De afgelopen jaren heeft de gemeente Heerenveen samen met inwoners geëxperimenteerd met nieuwe vormen van lokale democratie om de betrokkenheid van inwoners te vergroten. Deze experimenten waren leerzaam en over het algemeen zijn ze positief gewaardeerd.
 table-heading:
 table-title-left: Deelvragen 4A t/m 1G
