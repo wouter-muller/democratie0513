@@ -1,9 +1,9 @@
 ---
 layout: default
-title_tag: Mildam
+title_tag: Mildam Noord
 color: red
 permalink: /mildam
-hero-heading: Analyse Mildam
+hero-heading: Mildam Noord
 hero-subheading: ''
 chapters:
   - title: Uitkomsten
