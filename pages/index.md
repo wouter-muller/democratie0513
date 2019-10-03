@@ -68,16 +68,16 @@ Wat is de democratische kwaliteit van de verschillende democratische processen i
 
 Deelvraag 4 kan worden opgedeeld in een vraag per waarde:
 
-\|---+------------+-----------------|
+|---+------------+-----------------|
 |   |Deelvragen 4A t/m 1G| Democratische waarde  |
 |-----------------|:-----------|---------------:|
-| a | In hoeverre is er sprake van (meer) betrokkenheid of eigen kracht bij betrokken inwoners? | **Burgerschap**  |
-| b | In hoeverre zijn de gelote of aangemelde inwoners een representatie van het dorp of het vraagstuk. | **Inclusie**      |
-| c | In hoeverre heeft het proces en de uitkomst van het besluitvormingsproces vertrouwen en acceptatie van inwoners, ambtenaren en de gemeenteraad?        | **Legitimiteit**             |
-| d |  In hoeverre hebben inwoners ervaren dat zij invloed hebben gehad en in hoeverre zijn de genomen besluiten overgenomen in beleid en uitvoering.          |      **Invloed**           |
-| e |  In hoeverre is er duidelijkheid over verwachtingen, rollen en taken van alle betrokkenen en is informatie helder gedeeld.          |      **Transparantie**           |\
-| f | In hoeverre is er voor de deelnemers een balans tussen de kosten en baten (tijdsinzet) van het besluitvormingsproces. | **Efficiëntie** |\
-| g | In hoeverre zijn inwoners door deliberatie gekomen tot besluitvorming. | **Deliberatie** |
+| **a** | In hoeverre is er sprake van (meer) betrokkenheid of eigen kracht bij betrokken inwoners? | **Burgerschap**  |
+| **b** | In hoeverre zijn de gelote of aangemelde inwoners een representatie van het dorp of het vraagstuk. | **Inclusie**      |
+| **c** | In hoeverre heeft het proces en de uitkomst van het besluitvormingsproces vertrouwen en acceptatie van inwoners, ambtenaren en de gemeenteraad?        | **Legitimiteit**             |
+| **d** |  In hoeverre hebben inwoners ervaren dat zij invloed hebben gehad en in hoeverre zijn de genomen besluiten overgenomen in beleid en uitvoering.          |      **Invloed**           |
+| **e** |  In hoeverre is er duidelijkheid over verwachtingen, rollen en taken van alle betrokkenen en is informatie helder gedeeld.          |      **Transparantie**           |
+| **f** | In hoeverre is er voor de deelnemers een balans tussen de kosten en baten (tijdsinzet) van het besluitvormingsproces. | **Efficiëntie** |
+| **g** | In hoeverre zijn inwoners door deliberatie gekomen tot besluitvorming. | **Deliberatie** |
 |===+============+=================|
 |   |            |                 |
 |---+------------+-----------------|
