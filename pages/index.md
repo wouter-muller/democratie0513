@@ -5,28 +5,44 @@ color: blue
 permalink: /
 hero-heading: Kopregel Kopregel
 hero-subheading: Monitoren en evalueren van processen van lokale democratie in Heerenveen.
-hero-paragraph: Ruimte voor introductietekst (trigger), consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea.
+hero-paragraph: >-
+  Ruimte voor introductietekst (trigger), consectetur adipisicing elit, sed do
+  eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+  veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea.
 chapters:
-  - type: research
+  - paragraph: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem,
+      temporibus rerum recusandae sapiente deserunt molestias at, odit deleniti
+      aliquam expedita assumenda saepe sit sequi nisi consequatur ipsa est
+      delectus iste.
     title: Het onderzoek
-    paragraph: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, temporibus rerum recusandae sapiente deserunt molestias at, odit deleniti aliquam expedita assumenda saepe sit sequi nisi consequatur ipsa est delectus iste.
+    type: research
     url: /het-onderzoek
-  - type: summary
+  - paragraph: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem,
+      temporibus rerum recusandae sapiente deserunt molestias at, odit deleniti
+      aliquam expedita assumenda saepe sit sequi nisi consequatur ipsa est
+      delectus iste.
     title: Samenvatting
-    paragraph: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, temporibus rerum recusandae sapiente deserunt molestias at, odit deleniti aliquam expedita assumenda saepe sit sequi nisi consequatur ipsa est delectus iste.
+    type: summary
     url: /samenvatting
-  - type: results
+  - paragraph: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem,
+      temporibus rerum recusandae sapiente deserunt molestias at, odit deleniti
+      aliquam expedita assumenda saepe sit sequi nisi consequatur ipsa est
+      delectus iste.
     title: Uitkomsten
-    paragraph: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, temporibus rerum recusandae sapiente deserunt molestias at, odit deleniti aliquam expedita assumenda saepe sit sequi nisi consequatur ipsa est delectus iste.
+    type: results
     url: /uitkomsten
-  - type: analysis
+  - paragraph: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem,
+      temporibus rerum recusandae sapiente deserunt molestias at, odit deleniti
+      aliquam expedita assumenda saepe sit sequi nisi consequatur ipsa est
+      delectus iste.
     title: Analyse en conclusie
-    paragraph: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, temporibus rerum recusandae sapiente deserunt molestias at, odit deleniti aliquam expedita assumenda saepe sit sequi nisi consequatur ipsa est delectus iste.
+    type: analysis
     url: /analyse
-content-intro: De afgelopen jaren heeft de gemeente Heerenveen samen met inwoners geëxperimenteerd met nieuwe vormen van lokale democratie om de betrokkenheid van inwoners te vergroten. Deze experimenten waren leerzaam en over het algemeen zijn ze positief gewaardeerd.
 ---
-
-
 De gemeenteraad van Heerenveen wil daarom de komende jaren samen met de inwoners van Heerenveen verder samenwerken met nieuwe vormen van lokale democratie (bijvoorbeeld: loting, G1000, community processing), waarbij er meer betrokkenheid ontstaat van inwoners, instellingen en ondernemers. De basis voor deze samenwerking is gelegd in het Thematisch Raadsakkoord 2018-2022, van waaruit de gemeente Heerenveen samen met burgers wil werken aan ideeën en oplossingen voor relevante thema’s zoals de energietransitie, veranderingen aan het centrum van Heerenveen, een omgevingsvisie, etc.
 
 Twee thema’s staan geprogrammeerd: het centrum van Heerenveen en de Omgevingsvisie. De eerste wordt opgepakt vanuit de G1000 methode. Van februari tot juni 2019 zullen inwoners van de gemeente Heerenveen met ideeën komen voor een nieuw centrum en komen tot een burgerbesluit. Andere thema’s zijn de Omgevingsvisie, herinrichtingsprojecten en een burgerbesluit op een bestemming voor een monumentaal pand. Daarnaast zijn allerlei andere experimenten gedaan vanuit de raad en de organisatie, in verschillende wijken, op verschillende beleidsterreinen.
@@ -43,7 +59,7 @@ De gemeenteraad van Heerenveen wil weten hoe de processen van vernieuwing in lok
 
 Wat is de democratische kwaliteit van de verschillende democratische processen in de gemeente Heerenveen en hoe hebben betrokkenen de processen ervaren en beleefd?
 
-Toelichting: Alle betrokkenen zijn: inwoners, raadsleden en ambtenaren. Om een indruk te krijgen van het succes van het experiment, wordt gekeken naar in welke mate en op welke wijze zeven democratische waarden vorm krijgen in de te onderzoeken processen. Om de democratische kwaliteit van de processen in beeld te krijgen, zijn de volgende deelvragen geformuleerd:
+**Toelichting**: Alle betrokkenen zijn: inwoners, raadsleden en ambtenaren. Om een indruk te krijgen van het succes van het experiment, wordt gekeken naar in welke mate en op welke wijze zeven democratische waarden vorm krijgen in de te onderzoeken processen. Om de democratische kwaliteit van de processen in beeld te krijgen, zijn de volgende deelvragen geformuleerd:
 
 1. Wat zijn de verwachtingen van de raad van de gemeente Heerenveen bij opstarten en inrichten van de processen? (beleidstheorie en interviews)
 2. Wat zijn de kenmerken van de verschillende processen waarmee de gemeente Heerenveen experimenteert?
@@ -51,3 +67,11 @@ Toelichting: Alle betrokkenen zijn: inwoners, raadsleden en ambtenaren. Om een i
 4. Hoe wordt de democratische kwaliteit van de processen ervaren door de betrokkenen?
 
 Deelvraag 4 kan worden opgedeeld in een vraag per waarde:
+
+### Lees verder over:
+
+* Hoe het onderzoek is ingericht
+* De theorie achter het onderzoek
+* [De meetlat democratische waarden](/de-democratische-meetlat)
+* De resultaten van het onderzoek
+* De analyse en conclusies van het onderzoek
