@@ -10,10 +10,10 @@ content-intro: Inwoners van noordelijk Mildam zijn door de gemeente Heerenveen g
 chapters:
   - type: results
     title: Uitkomsten
-    url: uitkomsten
+    url: "#uitkomsten"
   - type: analysis
     title: Analyse en conclusie
-    url: analysis
+    url: "#analysis"
 ---
 
 <div id="uitkomsten"></div>

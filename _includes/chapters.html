@@ -1,6 +1,6 @@
 <div class="s-chapters">
     {% for chapter in page.chapters %}
-        <a href="#{{ chapter.url }}" class="s-chapters__chapter --{{ chapter.type }}">
+        <a href="{{ chapter.url }}" class="s-chapters__chapter --{{ chapter.type }}">
             {% if chapter.paragraph %}
                 <img src="{{ site.image_path }}/chapters/{{ chapter.type }}.svg">
             {% endif %}

@@ -1,6 +1,5 @@
 ---
 layout: default
-section: home
 title_tag: Democratie0513
 color: blue
 permalink: /
@@ -11,7 +10,7 @@ chapters:
   - type: research
     title: Het onderzoek
     paragraph: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, temporibus rerum recusandae sapiente deserunt molestias at, odit deleniti aliquam expedita assumenda saepe sit sequi nisi consequatur ipsa est delectus iste.
-    url: /onderzoek
+    url: /het-onderzoek
   - type: summary
     title: Samenvatting
     paragraph: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, temporibus rerum recusandae sapiente deserunt molestias at, odit deleniti aliquam expedita assumenda saepe sit sequi nisi consequatur ipsa est delectus iste.
