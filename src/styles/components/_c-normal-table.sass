@@ -1,48 +1,44 @@
 .c-normal-table
-    padding: px(90) 0
+    width: 100%
+    border-collapse: collapse
+    background-color: white
+    margin-bottom: px(50)
 
-    h3
-        text-align: center
-        font-size: px(36)
-        font-weight: $bold
-        margin-bottom: px(40)
-
-    &.\--blue
+    @at-root .blue &
         background-color: #f6fcfd
 
         h3
             color: $turqoise
 
-        thead
+        thead,
+        tfoot
             background-color: $turqoise
 
-    &.\--red
+    @at-root .red &
         background-color: #fdf6f6
 
         h3
             color: $red
 
-        thead
+        thead,
+        tfoot
             background-color: $red
 
-    table
-        width: 100%
-        border-collapse: collapse
-        background-color: white
+    td,
+    th
+        padding: px(16) px(18)
 
-        td
-            padding: px(16) px(18)
+    thead,
+    tfoot
+        color: $inverted-text-color
+        font-size: px(18)
+        font-weight: $bold
 
-        thead
-            color: $inverted-text-color
-            font-size: px(18)
-            font-weight: $bold
+    tbody
+        color: #666
 
-        tbody
-            color: #666
-
-            tr:nth-child(even)
-                background-color: #f7f7f7
+        tr:nth-child(even)
+            background-color: #f7f7f7
 
     &__letter
         font-weight: $bold

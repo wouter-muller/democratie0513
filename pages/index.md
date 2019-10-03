@@ -68,6 +68,18 @@ Wat is de democratische kwaliteit van de verschillende democratische processen i
 
 Deelvraag 4 kan worden opgedeeld in een vraag per waarde:
 
+|---+------------+-----------------|
+|   |Deelvragen 4A t/m 1G| Democratische waarde  |
+|-----------------|:-----------|---------------:|
+| a |Second cell | Third cell      |
+| b |foo         | **strong**      |
+| c |quux        | baz             |
+| d |            |                 |
+| e |            |                 |
+|===+============+=================|
+|   |            |                 |
+|---+------------+-----------------|
+
 ### Lees verder over:
 
 * Hoe het onderzoek is ingericht

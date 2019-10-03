@@ -54,7 +54,7 @@
                 </div>
 
                 <div class="s-content__main-content">
-                    {{ content }}
+                    {{ content | replace: "<table", "<table class='c-normal-table'"}}
                 </div>
             </div>
         </div>
