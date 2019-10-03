@@ -1,30 +1,42 @@
 ---
 layout: default
-section: home
-title_tag: Het onderzoek
+title_tag: Monitoren democratisering - Samenvatting
 color: blue
 permalink: /samenvatting
 hero-heading: Samenvatting
-hero-subheading:
-hero-paragraph:
 chapters:
-  - type: research
+  - paragraph: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem,
+      temporibus rerum recusandae sapiente deserunt molestias at, odit deleniti
+      aliquam expedita assumenda saepe sit sequi nisi consequatur ipsa est
+      delectus iste.
     title: Het onderzoek
-    paragraph: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, temporibus rerum recusandae sapiente deserunt molestias at, odit deleniti aliquam expedita assumenda saepe sit sequi nisi consequatur ipsa est delectus iste.
+    type: research
     url: /het-onderzoek
-  - type: summary
+  - paragraph: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem,
+      temporibus rerum recusandae sapiente deserunt molestias at, odit deleniti
+      aliquam expedita assumenda saepe sit sequi nisi consequatur ipsa est
+      delectus iste.
     title: Samenvatting
-    paragraph: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, temporibus rerum recusandae sapiente deserunt molestias at, odit deleniti aliquam expedita assumenda saepe sit sequi nisi consequatur ipsa est delectus iste.
+    type: summary
     url: /samenvatting
-  - type: results
+  - paragraph: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem,
+      temporibus rerum recusandae sapiente deserunt molestias at, odit deleniti
+      aliquam expedita assumenda saepe sit sequi nisi consequatur ipsa est
+      delectus iste.
     title: Uitkomsten
-    paragraph: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, temporibus rerum recusandae sapiente deserunt molestias at, odit deleniti aliquam expedita assumenda saepe sit sequi nisi consequatur ipsa est delectus iste.
+    type: results
     url: /uitkomsten
-  - type: analysis
+  - paragraph: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem,
+      temporibus rerum recusandae sapiente deserunt molestias at, odit deleniti
+      aliquam expedita assumenda saepe sit sequi nisi consequatur ipsa est
+      delectus iste.
     title: Analyse en conclusie
-    paragraph: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, temporibus rerum recusandae sapiente deserunt molestias at, odit deleniti aliquam expedita assumenda saepe sit sequi nisi consequatur ipsa est delectus iste.
+    type: analysis
     url: /analyse
-content-intro:
 ---
 ## Samenvatting
 
