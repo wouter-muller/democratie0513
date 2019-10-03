@@ -13,18 +13,17 @@ chapters:
     type: analysis
     url: '#analysis'
 ---
-
 <div id="uitkomsten"></div>
 
 Onderstaande uitkomsten van het onderzoek zijn gebaseerd op:
 
-- Gesprekken met 8 respondenten: waarvan 6 werkgroepleden en 2 inwoners
-- Gesprekken met 4 ambtenaren
-- Observatie van de bijeenkomst van 2 april 2019
-- Bezwaarschrift ingediend op
-- Mail van voorzitter plaatselijk belang Mildam
-- Communicatie via website: [https://www.maakhet.nl/groep/mildam-grootonderhoud/](https://www.maakhet.nl/groep/mildam-grootonderhoud/)
-- Dorpsvisie plaatselijk belang
+* Gesprekken met 8 respondenten: waarvan 6 werkgroepleden en 2 inwoners
+* Gesprekken met 4 ambtenaren
+* Observatie van de bijeenkomst van 2 april 2019
+* Bezwaarschrift ingediend op
+* Mail van voorzitter plaatselijk belang Mildam
+* Communicatie via website: <https://www.maakhet.nl/groep/mildam-grootonderhoud/>
+* Dorpsvisie plaatselijk belang
 
 ### Inclusie
 
@@ -36,19 +35,26 @@ De wijze van uitnodigen was door een brief huis aan huis verstuurd aan alle inwo
 
 Alle geïnterviewden vertellen dat er een grote opkomst was voor de 2 bijeenkomsten (40 en 90 deelnemers) en voor deelname aan de werkgroep (20 deelnemers). De groep was divers en de betrokkenheid werd als groot ervaren. De leeftijdsgroep 18 – 45 jaar was iets ondervertegenwoordigd in de werkgroep. 18 % van de inwoners van Mildam heeft een leeftijd tussen de 25 tot 45 jaar. De groep 45 tot 65+ bestaat uit zo’n 60% van de inwoners van Mildam.
 
-{% include conclusion-quote.html title="Conclusie inclusie" paragraph="Er is sprake van inclusie. Er was grote betrokkenheid van een diverse groep inwoners. De groep deelnemers is representatief voor het vraagstuk, de herinrichting van Mildam-Noord. " %}
+{% include conclusion-quote.html 
+
+title="Conclusie inclusie" 
+
+paragraph="Er is sprake van inclusie. Er was grote betrokkenheid van een diverse groep inwoners. De groep deelnemers is representatief voor het vraagstuk, de herinrichting van Mildam-Noord. " 
+
+%}
 
 ### Burgerschap
 
 Je kunt spreken van de aanwezigheid van Burgerschap als de deelnemers tevreden zijn over het proces, initiatieven nemen en als ze bereid zijn om nogmaals te participeren. Deelnemers hebben ook verteld waarom ze wilden meedoen in de werkgroep en of ze iets hebben geleerd van het proces.
 
 Deelnemers aan de werkgroep gaven aan dat zij meedoen omdat ze:
-- Ook al betrokken zijn vanuit een andere functie in het dorp, bijvoorbeeld als lid van het plaatselijk belang of als buurt coördinator.
-- Kennis van zaken hebben
-- Onvrede met het achterstallig onderhoud hebben
-- Het leuk en belangrijk vinden om mee te praten en mee te beslissen
-- Een direct eigen belang hebben en dat voor elkaar willen krijgen
-- Mensen willen leren kennen
+
+* Ook al betrokken zijn vanuit een andere functie in het dorp, bijvoorbeeld als lid van het plaatselijk belang of als buurt coördinator.
+* Kennis van zaken hebben
+* Onvrede met het achterstallig onderhoud hebben
+* Het leuk en belangrijk vinden om mee te praten en mee te beslissen
+* Een direct eigen belang hebben en dat voor elkaar willen krijgen
+* Mensen willen leren kennen
 
 De deelnemers zijn niet actiever geworden na deelname aan het proces. Zij waren reeds actief in het plaatselijk belang of zij deden eenmalig mee omdat zij een belang hadden in de herinrichting. De aanwezige kennis en kunde over groen, onderhoud en verkeersmaatregelen van de werkgroepleden viel positief op. De werkgroepleden geven aan dat veel van deze kennis reeds aanwezig was en niet per sé opgedaan is tijdens dit proces.
 
@@ -93,18 +99,21 @@ Alle respondenten geven aan dat de uitnodigingen en informatie over de bijeenkom
 Alle respondenten hebben onduidelijkheid ervaren over de taak van de werkgroepleden om hun straten te vertegenwoordigen en draagvlak te organiseren. Een aantal respondenten zegt dat de inwoners ook zelf een verantwoordelijkheid hebben om informatie te halen en het contact te zoeken met hun buren. Een aantal respondenten zegt dat zij een volgende keer de straatvertegenwoordiging anders willen of zouden oppakken.
 
 Door alle respondenten werd gezegd over de straatvertegenwoordiging:
-- Een aantal inwoners zijn tijdens het maken van de plannen te weinig en op ongelijke wijze geïnformeerd over de plannen.
-- Een aantal inwoners voelden zich niet gehoord en niet betrokken, er is een bezwaarschrift ingediend.
+
+* Een aantal inwoners zijn tijdens het maken van de plannen te weinig en op ongelijke wijze geïnformeerd over de plannen.
+* Een aantal inwoners voelden zich niet gehoord en niet betrokken, er is een bezwaarschrift ingediend.
 
 {% include conclusion-quote.html title="Conclusie Transparantie" paragraph="Er is geen sprake van Transparantie. Er is onduidelijk ervaren over de status van het plan en over de mogelijkheden voor inwoners om plannen te wijzigen. Er is onduidelijkheid geweest over de taak van de werkgroepleden om draagvlak te organiseren. " %}
 
 ### Efficiëntie
+
 Er is sprake van efficiëntie als de werkgroep leden het idee hebben dat er balans bestaat tussen de inzet van tijd en de opbrengsten.
 Alle werkgroep leden vinden dat hun tijd goed besteed is en dat de inzet en tijd die zij gestoken hebben in het maken van de plannen prima te doen is en dat het zinvol was. Eén werkgroep lid heeft aangegeven dat het toch nog meer tijd heeft gekost dan gedacht. Eén werkgroeplid gaf aan dat het proces te snel is verlopen en dat er meer tijd en aandacht nodig was voor een goede afronding van het proces.
 
 {% include conclusion-quote.html title="Conclusie Efficiëntie" paragraph="Er is sprake van Efficiëntie, de werkgroepleden vonden dat er een goede balans bestond uit de inzet van tijd en de opbrengsten. " %}
 
 ### Wat ambtenaren vertellen
+
 Ambtenaren vertellen dat Mildam-Noord een dorp is met betrokken inwoners. Ze vertellen ook dat er onduidelijkheid was over de taak van de werkgroepleden om alle straatbewoners te informeren en te betrekken bij de plannen. Zij geven aan dat er achteraf nog vragen of nabranders zijn geweest maar dat dit gebruikelijk is bij een herinrichting van een dorp. Ambtenaren geven aan dat ze in de slotbijeenkomst duidelijker hadden moeten vertellen dat er op de avond nog gelegenheid was om suggesties te doen.
 
 Quote ambtenaar: “De avond had ingericht moeten worden als een besluitenavond. We hebben weer veel geleerd en we nemen dat mee.”
@@ -116,8 +125,6 @@ Het proces, de herinrichting van Mildam-Noord mocht rekenen op een grote betrokk
 
 De werkgroepleden zijn inwoners die met name vanuit een direct belang of interesse meedoen, ofwel actieve inwoners zijn die lid zijn van het plaatselijk belang. Ambtenaren noemen Mildam-Noord een dorp met veel betrokken inwoners. Dat is mogelijk. Het is ook mogelijk dat zodra een onderwerp direct het belang van inwoners raakt dat zij eerder geneigd zijn om betrokken te zijn.
 
-
 De werkgroepleden hebben de opdracht gekregen om draagvlak te organiseren bij de straat die zij vertegenwoordigen. Dit is in sommige straten goed gelukt en in sommige straten is het misgegaan. Tijdens de bijeenkomst op 2 april is verzet of protest gekomen op de plannen. David van Reybrouck zegt dat wanneer inwoners meedoen aan besluitvormingsprocessen dat dan daarmee draagvlak en draagkracht georganiseerd is voor de plannen. De werkgroepleden van Mildam-Noord nemen niet allemaal als vanzelfsprekend dat zij vertegenwoordigers zijn en draagvlak moeten regelen in hun eigen straat. Bovendien kunnen onderlinge relaties een belangrijke rol spelen. Kunnen mensen met elkaar overweg, of niet.
 
 Het proces Mildam-Noord heeft een concreet plan opgeleverd dat uitgevoerd kan worden en waar inwoners tevreden mee zijn. Inwoners en werkgroepleden hebben vertrouwen dat het plan uitgevoerd gaat worden zoals het in samenwerking tot stand is gekomen. De indruk bestaat wel dat het proces waarschijnlijk wat zorgvuldiger was verlopen als er wat meer tijd was besteed aan het maken van afspraken over het proces en wie waarover gaat op welk moment. Het proces heeft voor de werkgroepleden een goede balans tussen inzet van tijd en opbrengst.
-
