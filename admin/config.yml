@@ -61,15 +61,15 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "string"}
           - {label: "Permalink", name: "permalink", widget: "string"}
           - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
-          - {label: "Subtitel", name: "hero-subheading", widget: "string"}
-          - {label: "Zinnetje bovenaan", name: "hero-paragraph", widget: "text"}
+          - {label: "Subtitel", name: "hero-subheading", widget: "string", required: false }
+          - {label: "Zinnetje bovenaan", name: "hero-paragraph", widget: "text", required: false }
           - label: "Gekleurde navigatieblokjes"
             name: "chapters"
             widget: list
             fields:
               - { label: "Type (research, summary, results of analysis", name: "type", widget: "string" }
               - { label: "Titel", name: "title", widget: "string" }
-              - { label: "Tekst", name: "paragraph", widget: "text" }
+              - { label: "Tekst", name: "paragraph", widget: "text", required: false }
               - { label: "Link", name: "url", widget: "string" }
           - {label: "Body", name: "body", widget: "markdown"}
       - name: "het-onderzoek"
@@ -81,15 +81,15 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "string"}
           - {label: "Permalink", name: "permalink", widget: "string"}
           - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
-          - {label: "Subtitel", name: "hero-subheading", widget: "string"}
-          - {label: "Zinnetje bovenaan", name: "hero-paragraph", widget: "text"}
+          - {label: "Subtitel", name: "hero-subheading", widget: "string", required: false}
+          - {label: "Zinnetje bovenaan", name: "hero-paragraph", widget: "text", required: false}
           - label: "Gekleurde navigatieblokjes"
             name: "chapters"
             widget: list
             fields:
               - { label: "Type (research, summary, results of analysis", name: "type", widget: "string" }
               - { label: "Titel", name: "title", widget: "string" }
-              - { label: "Tekst", name: "paragraph", widget: "text" }
+              - { label: "Tekst", name: "paragraph", widget: "text", required: false }
               - { label: "Link", name: "url", widget: "string" }
           - {label: "Body", name: "body", widget: "markdown"}
       - name: "samenvatting"
@@ -101,15 +101,15 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "string"}
           - {label: "Permalink", name: "permalink", widget: "string"}
           - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
-          - {label: "Subtitel", name: "hero-subheading", widget: "string"}
-          - {label: "Zinnetje bovenaan", name: "hero-paragraph", widget: "text"}
+          - {label: "Subtitel", name: "hero-subheading", widget: "string", required: false}
+          - {label: "Zinnetje bovenaan", name: "hero-paragraph", widget: "text", required: false}
           - label: "Gekleurde navigatieblokjes"
             name: "chapters"
             widget: list
             fields:
               - { label: "Type (research, summary, results of analysis", name: "type", widget: "string" }
               - { label: "Titel", name: "title", widget: "string" }
-              - { label: "Tekst", name: "paragraph", widget: "text" }
+              - { label: "Tekst", name: "paragraph", widget: "text", required: false }
               - { label: "Link", name: "url", widget: "string" }
           - {label: "Body", name: "body", widget: "markdown"}
       - name: "uitkomsten"
@@ -121,15 +121,15 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "string"}
           - {label: "Permalink", name: "permalink", widget: "string"}
           - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
-          - {label: "Subtitel", name: "hero-subheading", widget: "string"}
-          - {label: "Zinnetje bovenaan", name: "hero-paragraph", widget: "text"}
+          - {label: "Subtitel", name: "hero-subheading", widget: "string", required: false}
+          - {label: "Zinnetje bovenaan", name: "hero-paragraph", widget: "text", required: false}
           - label: "Gekleurde navigatieblokjes"
             name: "chapters"
             widget: list
             fields:
               - { label: "Type (research, summary, results of analysis", name: "type", widget: "string" }
               - { label: "Titel", name: "title", widget: "string" }
-              - { label: "Tekst", name: "paragraph", widget: "text" }
+              - { label: "Tekst", name: "paragraph", widget: "text", required: false }
               - { label: "Link", name: "url", widget: "string" }
           - {label: "Body", name: "body", widget: "markdown"}
       - name: "analyse-en-conclusie"
@@ -141,15 +141,15 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "string"}
           - {label: "Permalink", name: "permalink", widget: "string"}
           - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
-          - {label: "Subtitel", name: "hero-subheading", widget: "string"}
-          - {label: "Zinnetje bovenaan", name: "hero-paragraph", widget: "text"}
+          - {label: "Subtitel", name: "hero-subheading", widget: "string", required: false}
+          - {label: "Zinnetje bovenaan", name: "hero-paragraph", widget: "text", required: false}
           - label: "Gekleurde navigatieblokjes"
             name: "chapters"
             widget: list
             fields:
               - { label: "Type (research, summary, results of analysis", name: "type", widget: "string" }
               - { label: "Titel", name: "title", widget: "string" }
-              - { label: "Tekst", name: "paragraph", widget: "text" }
+              - { label: "Tekst", name: "paragraph", widget: "text", required: false }
               - { label: "Link", name: "url", widget: "string" }
           - {label: "Body", name: "body", widget: "markdown"}
       - name: "democratische-meetlat"
@@ -161,15 +161,15 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "string"}
           - {label: "Permalink", name: "permalink", widget: "string"}
           - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
-          - {label: "Subtitel", name: "hero-subheading", widget: "string"}
-          - {label: "Zinnetje bovenaan", name: "hero-paragraph", widget: "text"}
+          - {label: "Subtitel", name: "hero-subheading", widget: "string", required: false}
+          - {label: "Zinnetje bovenaan", name: "hero-paragraph", widget: "text", required: false}
           - label: "Gekleurde navigatieblokjes"
             name: "chapters"
             widget: list
             fields:
               - { label: "Type (research, summary, results of analysis", name: "type", widget: "string" }
               - { label: "Titel", name: "title", widget: "string" }
-              - { label: "Tekst", name: "paragraph", widget: "text" }
+              - { label: "Tekst", name: "paragraph", widget: "text", required: false }
               - { label: "Link", name: "url", widget: "string" }
           - {label: "Body", name: "body", widget: "markdown"}
   - name: "deelonderzoek-pages"
@@ -187,15 +187,15 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "string"}
           - {label: "Permalink", name: "permalink", widget: "string"}
           - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
-          - {label: "Subtitel", name: "hero-subheading", widget: "string"}
-          - {label: "Zinnetje bovenaan", name: "hero-paragraph", widget: "text"}
+          - {label: "Subtitel", name: "hero-subheading", widget: "string", required: false}
+          - {label: "Zinnetje bovenaan", name: "hero-paragraph", widget: "text", required: false}
           - label: "Gekleurde navigatieblokjes"
             name: "chapters"
             widget: list
             fields:
               - { label: "Type (research, summary, results of analysis", name: "type", widget: "string" }
               - { label: "Titel", name: "title", widget: "string" }
-              - { label: "Tekst", name: "paragraph", widget: "text" }
+              - { label: "Tekst", name: "paragraph", widget: "text", required: false }
               - { label: "Link", name: "url", widget: "string" }
           - {label: "Body", name: "body", widget: "markdown"}
       - name: "omgevingsvisie"
@@ -207,15 +207,15 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "string"}
           - {label: "Permalink", name: "permalink", widget: "string"}
           - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
-          - {label: "Subtitel", name: "hero-subheading", widget: "string"}
-          - {label: "Zinnetje bovenaan", name: "hero-paragraph", widget: "text"}
+          - {label: "Subtitel", name: "hero-subheading", widget: "string", required: false}
+          - {label: "Zinnetje bovenaan", name: "hero-paragraph", widget: "text", required: false}
           - label: "Gekleurde navigatieblokjes"
             name: "chapters"
             widget: list
             fields:
               - { label: "Type (research, summary, results of analysis", name: "type", widget: "string" }
               - { label: "Titel", name: "title", widget: "string" }
-              - { label: "Tekst", name: "paragraph", widget: "text" }
+              - { label: "Tekst", name: "paragraph", widget: "text", required: false }
               - { label: "Link", name: "url", widget: "string" }
           - {label: "Body", name: "body", widget: "markdown"}
       - name: "mildam"
@@ -227,15 +227,15 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "string"}
           - {label: "Permalink", name: "permalink", widget: "string"}
           - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
-          - {label: "Subtitel", name: "hero-subheading", widget: "string"}
-          - {label: "Zinnetje bovenaan", name: "hero-paragraph", widget: "text"}
+          - {label: "Subtitel", name: "hero-subheading", widget: "string", required: false}
+          - {label: "Zinnetje bovenaan", name: "hero-paragraph", widget: "text", required: false}
           - label: "Gekleurde navigatieblokjes"
             name: "chapters"
             widget: list
             fields:
               - { label: "Type (research, summary, results of analysis", name: "type", widget: "string" }
               - { label: "Titel", name: "title", widget: "string" }
-              - { label: "Tekst", name: "paragraph", widget: "text" }
+              - { label: "Tekst", name: "paragraph", widget: "text", required: false }
               - { label: "Link", name: "url", widget: "string" }
           - {label: "Body", name: "body", widget: "markdown"}
       - name: "akkrum"
@@ -247,15 +247,15 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "string"}
           - {label: "Permalink", name: "permalink", widget: "string"}
           - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
-          - {label: "Subtitel", name: "hero-subheading", widget: "string"}
-          - {label: "Zinnetje bovenaan", name: "hero-paragraph", widget: "text"}
+          - {label: "Subtitel", name: "hero-subheading", widget: "string", required: false}
+          - {label: "Zinnetje bovenaan", name: "hero-paragraph", widget: "text", required: false}
           - label: "Gekleurde navigatieblokjes"
             name: "chapters"
             widget: list
             fields:
               - { label: "Type (research, summary, results of analysis", name: "type", widget: "string" }
               - { label: "Titel", name: "title", widget: "string" }
-              - { label: "Tekst", name: "paragraph", widget: "text" }
+              - { label: "Tekst", name: "paragraph", widget: "text", required: false }
               - { label: "Link", name: "url", widget: "string" }
           - {label: "Body", name: "body", widget: "markdown"}
       - name: "de-greiden"
@@ -267,15 +267,15 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "string"}
           - {label: "Permalink", name: "permalink", widget: "string"}
           - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
-          - {label: "Subtitel", name: "hero-subheading", widget: "string"}
-          - {label: "Zinnetje bovenaan", name: "hero-paragraph", widget: "text"}
+          - {label: "Subtitel", name: "hero-subheading", widget: "string", required: false}
+          - {label: "Zinnetje bovenaan", name: "hero-paragraph", widget: "text", required: false}
           - label: "Gekleurde navigatieblokjes"
             name: "chapters"
             widget: list
             fields:
               - { label: "Type (research, summary, results of analysis", name: "type", widget: "string" }
               - { label: "Titel", name: "title", widget: "string" }
-              - { label: "Tekst", name: "paragraph", widget: "text" }
+              - { label: "Tekst", name: "paragraph", widget: "text", required: false }
               - { label: "Link", name: "url", widget: "string" }
           - {label: "Body", name: "body", widget: "markdown"}
       - name: "aldeboarn"
@@ -287,14 +287,14 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "string"}
           - {label: "Permalink", name: "permalink", widget: "string"}
           - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
-          - {label: "Subtitel", name: "hero-subheading", widget: "string"}
-          - {label: "Zinnetje bovenaan", name: "hero-paragraph", widget: "text"}
+          - {label: "Subtitel", name: "hero-subheading", widget: "string", required: false}
+          - {label: "Zinnetje bovenaan", name: "hero-paragraph", widget: "text", required: false}
           - label: "Gekleurde navigatieblokjes"
             name: "chapters"
             widget: list
             fields:
               - { label: "Type (research, summary, results of analysis", name: "type", widget: "string" }
               - { label: "Titel", name: "title", widget: "string" }
-              - { label: "Tekst", name: "paragraph", widget: "text" }
+              - { label: "Tekst", name: "paragraph", widget: "text", required: false }
               - { label: "Link", name: "url", widget: "string" }
           - {label: "Body", name: "body", widget: "markdown"}
