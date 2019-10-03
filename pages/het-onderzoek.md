@@ -4,24 +4,38 @@ title_tag: Het onderzoek
 color: blue
 permalink: /het-onderzoek
 hero-heading: Het onderzoek
-hero-subheading:
-hero-paragraph:
 chapters:
-  - type: research
+  - paragraph: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem,
+      temporibus rerum recusandae sapiente deserunt molestias at, odit deleniti
+      aliquam expedita assumenda saepe sit sequi nisi consequatur ipsa est
+      delectus iste.
     title: Het onderzoek
-    paragraph: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, temporibus rerum recusandae sapiente deserunt molestias at, odit deleniti aliquam expedita assumenda saepe sit sequi nisi consequatur ipsa est delectus iste.
+    type: research
     url: /het-onderzoek
-  - type: summary
+  - paragraph: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem,
+      temporibus rerum recusandae sapiente deserunt molestias at, odit deleniti
+      aliquam expedita assumenda saepe sit sequi nisi consequatur ipsa est
+      delectus iste.
     title: Samenvatting
-    paragraph: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, temporibus rerum recusandae sapiente deserunt molestias at, odit deleniti aliquam expedita assumenda saepe sit sequi nisi consequatur ipsa est delectus iste.
+    type: summary
     url: /samenvatting
-  - type: results
+  - paragraph: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem,
+      temporibus rerum recusandae sapiente deserunt molestias at, odit deleniti
+      aliquam expedita assumenda saepe sit sequi nisi consequatur ipsa est
+      delectus iste.
     title: Uitkomsten
-    paragraph: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, temporibus rerum recusandae sapiente deserunt molestias at, odit deleniti aliquam expedita assumenda saepe sit sequi nisi consequatur ipsa est delectus iste.
+    type: results
     url: /uitkomsten
-  - type: analysis
+  - paragraph: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem,
+      temporibus rerum recusandae sapiente deserunt molestias at, odit deleniti
+      aliquam expedita assumenda saepe sit sequi nisi consequatur ipsa est
+      delectus iste.
     title: Analyse en conclusie
-    paragraph: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, temporibus rerum recusandae sapiente deserunt molestias at, odit deleniti aliquam expedita assumenda saepe sit sequi nisi consequatur ipsa est delectus iste.
+    type: analysis
     url: /analyse
-content-intro: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita doloribus quasi quae corrupti cumque quaerat distinctio nam, odit. Error, officia. Error debitis similique modi quasi, quam itaque, iure! Quis, laudantium.
 ---
+![](/uploads/schema_thematisch-raadsakkoord-v02.jpg)
