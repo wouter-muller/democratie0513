@@ -42,7 +42,12 @@ chapters:
 
 Het onderzoek is uitgevoerd door onderzoekers en studenten van de NHL Stenden Thorbecke Academie. Binnen de minor Politiek & Bestuur hebben 13 studenten samen met 3 onderzoekers een monitor opgezet en uitgevoerd. De monitor is op basis van literatuurstudie uitgewerkt. De 6 processen van lokale democratie die gemonitord en geëvalueerd zijn in de gemeente Heerenveen zijn:
 
-* G1000 (Toekomst van het centrum van Heerenveen)* Herinrichting Tjerkebleek (Akkrum)* Herinrichting Mildam Noord* Het Nieuwe Medium Aldeboarn* Wijkplan Spelen en Ontmoeten (De Greiden)* Omgevingsvisie (Alle dorpen in de gemeente Heerenveen)
+- G1000 (Toekomst van het centrum van Heerenveen)
+- Herinrichting Tjerkebleek (Akkrum)
+- Herinrichting Mildam Noord
+- Het Nieuwe Medium Aldeboarn
+- Wijkplan Spelen en Ontmoeten (De Greiden)
+- Omgevingsvisie (Alle dorpen in de gemeente Heerenveen)
 
 De processen zijn allemaal verschillend van aard en omvang.  De studenten en onderzoekers hebben de bijeenkomsten van de verschillende besluitvormingsprocessen bezocht en deden diepte-interviews (van februari t/m juli 2019).
 
