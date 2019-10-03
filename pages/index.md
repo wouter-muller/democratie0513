@@ -1,6 +1,6 @@
 ---
 layout: default
-title_tag: Democratie0513
+title_tag: Democratie0513 - Monitoren democratisering
 color: blue
 permalink: /
 hero-heading: Kopregel Kopregel
