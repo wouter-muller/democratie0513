@@ -22,7 +22,7 @@ chapters:
 
 Wat is de democratische kwaliteit van de verschillende democratische processen in de gemeente Heerenveen en hoe hebben betrokkenen de processen ervaren en beleefd?De gemeente Heerenveen experimenteert volop met nieuwe vormen van democratie en heeft NHL-Stenden gevraagd om de experimenten te monitoren en te evalueren. De opzet en uitvoering van de bijeenkomsten en de ervaringen van de deelnemers stonden centraal in de monitor. In een half jaar tijd hebben studenten en onderzoekers met de raad, ambtenaren en inwoners van de gemeente Heerenveen mee mogen kijken in 6 processen waarin op een andere manier met inwoners is samengewerkt. Door middel van interviews en observaties is de democratische kwaliteit van ieder van de processen in beeld gebracht. Het onderzoek startte met de vraag:
 
-#### Wat is de democratische kwaliteit van de verschillende democratische processen in de gemeente Heerenveen en hoe hebben betrokkenen de processen ervaren en beleefd?
+### Wat is de democratische kwaliteit van de verschillende democratische processen in de gemeente Heerenveen en hoe hebben betrokkenen de processen ervaren en beleefd?
 
 Om de democratische kwaliteit van de processen in beeld te krijgen, zijn de volgende deelvragen geformuleerd en beantwoord:
 
