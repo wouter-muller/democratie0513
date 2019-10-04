@@ -38,7 +38,7 @@ chapters:
     type: analysis
     url: /analyse
 ---
-## Analyse en conclusie
+## De 6 processen: wat werkt?
 
 In verschillende processen van lokale democratie zijn inwoners van de gemeente Heerenveen gaan samenwerken met elkaar en met ambtenaren, raadsleden en ondernemers. De inwoners hebben ideeën ingebracht en plannen gemaakt voor een diversiteit aan vraagstukken die hen aangaan. Hoe hebben alle betrokkenen dat beleefd en ervaren? Hoe scoren de processen op de democratische waarden? Wat kunnen we leren van deze processen van lokale democratie en welke mechanismes komen we tegen? 
 
@@ -46,10 +46,10 @@ In verschillende processen van lokale democratie zijn inwoners van de gemeente H
 
 Eén van de doelen was om te komen tot nieuwe verhoudingen met de inwoners, nieuwe vormen van democratie. De gemeente Heerenveen maakt gebruik van een grote diversiteit aan vormen van samenwerken. De processen die zijn onderzocht zien er allemaal anders uit, wat betreft opzet. De diversiteit zit in:
 
-* De deelnemers: wie er meedoen aan het proces om te komen tot een beslissing en de uiteindelijke beslissing;
-* De agendering: vooraf wel of niet vastgesteld en in welke mate is er afgebakend of worden er vooraf kaders gesteld; 
-* Proces van selectie/tussenstappen: op welke wijze (vooraf of tijdens) en in welke stappen de input wordt verwerkt tot een aantal gericht te maken keuzes en op welke wijze worden inwoners daarbij ondersteund; 
-* Beslisregels: op welke wijze uiteindelijk een besluit tot stand komt (door consensus, consent of via stemmen) en wie dat besluit dan neemt (raad, inwoners, ambtenaren).
+* **De deelnemers:** wie er meedoen aan het proces om te komen tot een beslissing en de uiteindelijke beslissing;
+* **De agendering:** vooraf wel of niet vastgesteld en in welke mate is er afgebakend of worden er vooraf kaders gesteld; 
+* **Proces van selectie/tussenstappen:** op welke wijze (vooraf of tijdens) en in welke stappen de input wordt verwerkt tot een aantal gericht te maken keuzes en op welke wijze worden inwoners daarbij ondersteund; 
+* **Beslisregels:** op welke wijze uiteindelijk een besluit tot stand komt (door consensus, consent of via stemmen) en wie dat besluit dan neemt (raad, inwoners, ambtenaren).
 
 Een aantal ambtenaren ervaart een aantal processen niet als nieuwe vormen van lokale democratie. Zij geven aan dat zij al langere tijd samenwerken met inwoners vanaf de ontwerpfase. Deelnemers ervaren de processen wel als nieuw en kunnen het goed waarderen dat zij worden uitgenodigd om mee te doen aan de processen. Zij geven aan dat de gemeente Heerenveen het vaker moet doen. Deelnemers die lid zijn van een plaatselijk belang en een langdurige relatie hebben met de gemeente hebben meer kennis van de processen en hebben een hogere verwachting op de uitvoering van de samenwerking. Alhoewel de procesvormen vernieuwend zijn kun je niet spreken van de laatste stap op de participatieladder: inwoners besluiten. In alle processen (behalve Verkoop pand Aldeboarn) ligt de afweging en het besluit bij raadsleden en/of ambtenaren.  
 
@@ -85,7 +85,21 @@ Inclusie is een belangrijke waarde omdat het gaat om wie in de democratie allema
 
 ### Hoe scoren de processen op Inclusie?
 
-\#invoegen tabel#
+\|-----+-----|
+
+\| XXX |     |
+
+\|----:|:---:|
+
+\| XXX | XXX |
+
+\| XXX | XXX |
+
+\|===+=======|
+
+\|   |       |
+
+\|---+-------|
 
 De wijze van uitnodigen was divers in de zes processen van lokale democratie. We zagen van een a-selecte loting tot het uitnodigen van een selecte groep directbetrokkenen. Deelnemers geven bij bijna alle processen aan dat nog niet de juiste formule gevonden is in de wijze van uitnodigen of het betrekken van mensen. Het breed uitnodigen van inwoners heeft de voorkeur omdat iedereen dan de kans krijgt om mee te doen en het vergroot ook de bekendheid met de activiteit. Toch zien we ook bij breed uitnodigen, of loten dat niet alle groepen vertegenwoordigd zijn of alle belangen aan tafel zitten.
 
@@ -120,13 +134,27 @@ Iedereen met een belang aan tafel.
 
 Elke ambitie vraagt een andere manier van uitnodigen, loting biedt geen garantie voor inclusie. 
 
-### Burgerschap\
+### Burgerschap
 
 Omdat het belangrijk is dat burgers zich duurzaam inzetten voor politiek en samenleving zal er aandacht moeten zijn voor de tevredenheid die burgers voelen bij deze betrokkenheid. Bij Burgerschap wordt daarom gekeken naar de bereidheid van inwoners om mee te doen en de tevredenheid met die deelname in de verschillende processen en of het hun betrokkenheid vergroot. 
 
 Hoe scoren de processen op Burgerschap?
 
-\#invoegen tabel#
+\|-----+-----|
+
+\| XXX |     |
+
+\|----:|:---:|
+
+\| XXX | XXX |
+
+\| XXX | XXX |
+
+\|===+=======|
+
+\|   |       |
+
+\|---+-------|
 
 Het valt op dat de deelnemers aan deze processen vaak actieve betrokken deelnemers zijn die vrijwilliger zijn, lid van plaatselijk belang of in de politiek actief (zijn geweest). Bij een stevige a-selecte loting, zoals de G1000, komt in de eerste bijeenkomst een bredere groep inwoners, maar ook daar geven de deelnemers aan dat ze (vaker) maatschappelijk actief zijn dan niet. In Aldeboarn, Mildam en de Burgertop van de G1000 viel het op dat er bij de bijeenkomsten wel een diverse groep inwoners aanwezig waren, waarbij ook de ‘unusual suspects’. 
 
@@ -146,7 +174,21 @@ In een directe democratie (referenda, burgerfora) is de kwaliteit van het publie
 
 ### Hoe scoren de processen op Deliberatie?
 
-\#invoegen tabel#
+\|-----+-----|
+
+\| XXX |     |
+
+\|----:|:---:|
+
+\| XXX | XXX |
+
+\| XXX | XXX |
+
+\|===+=======|
+
+\|   |       |
+
+\|---+-------|
 
 Inwoners ervaren de meeste gesprekken als prettig, er werd naar elkaar geluisterd en meningen werden gerespecteerd. Tijdens de G1000 en de Omgevingsvisie kwam het wel eens voor dat meningen niet werden gerespecteerd, of mensen niet aan het woord kwamen. De omvang van de groep en de begeleiding door de gespreksleider bleek daar bepalend voor het wel of niet slagen van deliberatie. 
 
@@ -162,13 +204,27 @@ Hoewel de kwaliteit van het debat of de dialoog als belangrijk wordt gezien, is 
 >
 > Inwoners zijn goed in staat om respectvol met elkaar van gedachten te wisselen, maar er zijn maar weinig processen waarin daadwerkelijk een keuze gemaakt moest worden en andere opties afvielen, waarbij deliberatie de inwoners moest helpen bij het maken van een keuze. Voor de kwaliteit van deliberatie is niet alleen van belang dat het gesprek begeleid wordt, maar vooral dat duidelijk is dat er binnen bepaalde kaders een keuze gemaakt moet worden. Als dat helder is dan zijn inwoners prima in staat om door deliberatie die keuze te maken. 
 
-### Invloed\
+### Invloed
 
 Invloed is in een directe democratie (referenda, burgerfora, etc.) een belangrijke democratische waarde. Burgers moeten immers direct invloed kunnen uitoefenen op het politieke besluitvormingsproces. Bij Invloed wordt gekeken naar in hoeverre er geluisterd wordt naar de mening en de ideeën van burgers en in hoeverre de plannen van burgers leiden tot een werkelijke (beleids)verandering. 
 
 ### Hoe scoren de processen op Invloed?
 
-\#invoegen tabel#
+\|-----+-----|
+
+\| XXX |     |
+
+\|----:|:---:|
+
+\| XXX | XXX |
+
+\| XXX | XXX |
+
+\|===+=======|
+
+\|   |       |
+
+\|---+-------|
 
 In alle processen hebben de deelnemers aangegeven dat zij de gelegenheid hebben gehad om hun mening te geven. Er is tijdens de bijeenkomsten naar de deelnemers geluisterd, de ideeën zijn genoteerd, de stemmen zijn geteld. De deelnemers realiseren zich over het algemeen goed dat niet alle plannen uitgevoerd kunnen worden en dat het een tijdje kan duren voordat de veranderingen zichtbaar zijn. In een aantal processen zijn er al een aantal veranderingen gezien of ervaren. In de G1000 en De Greiden zijn er kleine veranderingen in de wijk gezien (banken, bloemen en borden) en in Aldeboarn is de sleutel tot het verkochte pand symbolisch uitgedeeld op dezelfde avond dat er is gestemd. 
 
@@ -192,7 +248,21 @@ Een goed werkende democratie heeft legitimiteit nodig, een goed vertrouwen en st
 
 Hoe scoren de processen op Legitimiteit?
 
-\#invoegen tabel#
+\|-----+-----|
+
+\| XXX |     |
+
+\|----:|:---:|
+
+\| XXX | XXX |
+
+\| XXX | XXX |
+
+\|===+=======|
+
+\|   |       |
+
+\|---+-------|
 
 De deelnemers zijn over het algemeen tevreden met de plannen die gemaakt zijn. Alleen de deelnemers van de Omgevingsvisie hebben nog onvoldoende zicht op de plannen omdat die nog moeten komen. De deelnemers aan de G1000 waren bijzonder tevreden over de plannen. Er is ook een groot vertrouwen in de uitvoering van de plannen. 
 
@@ -209,9 +279,23 @@ In de kleinere processen hebben inwoners over het algemeen vertrouwen in de uitk
 Transparantie\
 In een democratie is vrijheid van informatie belangrijk. Als burgers niet over informatie beschikken kunnen zij ook niet deelnemen aan besluitvorming. Het is in samenwerking belangrijk om duidelijk aan te geven wat deelnemers mogen verwachten: wat is ieders rol, wat zijn de kaders en wat gaat er gebeuren met het resultaat. Dit is belangrijk om teleurstelling achteraf te voorkomen. (Michels, 2011). Bij de democratische waarde Transparantie is gekeken naar communicatie over kaders en rollen, inhoud en proces. 
 
-Hoe scoren de processen op Transparantie?
+\### Hoe scoren de processen op Transparantie?
 
-\#invoegen tabel#
+\|-----+-----|
+
+\| XXX |     |
+
+\|----:|:---:|
+
+\| XXX | XXX |
+
+\| XXX | XXX |
+
+\|===+=======|
+
+\|   |       |
+
+\|---+-------|
 
 Elk proces heeft een andere opzet gekregen en elk proces liep anders dan van tevoren verwacht of bedacht. 
 
@@ -249,7 +333,21 @@ Nieuwe vormen van lokale democratie, zoals loting en burgerfora, moeten een opbr
 
 ## Hoe scoren de processen op Efficiëntie?
 
-\#invoegen tabel#
+\|-----+-----|
+
+\| XXX |     |
+
+\|----:|:---:|
+
+\| XXX | XXX |
+
+\| XXX | XXX |
+
+\|===+=======|
+
+\|   |       |
+
+\|---+-------|
 
 De ervaring van deelnemers met efficiëntie in de processen is over het algemeen goed. De deelnemers vinden de tijdsbesteding wel waard voor wat het proces heeft opgeleverd. De deelnemers aan de Omgevingsvisie en Mildam ervaren de tijdsinzet als prima te doen. Een aantal deelnemers ervaren het zelfs als te weinig tijd om het goed te doen. De G1000 burgertop, waarbij deelnemers één zaterdag meepraten, was volgens de deelnemers prima te doen. De deelnemers die het gehele G1000 proces hebben doorlopen als werkgroeplid hebben soms ervaren dat de tijdsinzet te veel was. Aan de andere kant zijn juist in de processen waarin meer tijd is besteed en er zeggenschap voor inwoners was, ook de betrokkenheid en burgerschap groter. 
 Inwoners zijn best bereid om zich in te zetten en tijd te besteden voor het maken van plannen of het inbrengen van ideeën. Ze willen dan wel graag van tevoren weten wat de tijdsinzet betekent. De tijdsinzet is leeftijdsgebonden. Deelnemers die met pensioen zijn en/of geen jonge kinderen hebben kijken anders naar tijd, zij geven aan dat ze ‘genoeg tijd hebben’.
