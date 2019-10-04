@@ -97,8 +97,12 @@ De deelnemers aan de verschillende processen worden over het algemeen niet actie
 
 Deelnemers doen om diverse redenen mee. Het valt op dat de deelnemers aan de G1000 en Aldeboarn nieuwsgierig waren naar het proces en dat in de processen gericht op specifieke plannen in het dorp deelnemers vaker benoemen dat zij een persoonlijk belang hebben.
 
-Conclusie\
-De processen van lokale democratie trekken over het algemeen de actieve, maatschappelijk betrokken inwoners aan. Het betrekken van niet actieve, bij de gemeente onbekende inwoners blijkt moeilijk. De gemeente kan meer en andere inwoners betrekken door te sturen op vorm van lokale democratie en de wijze van uitnodigen. Inwoners voelen zich bijvoorbeeld eerder uitgenodigd om mee te doen aan een nieuwe vorm (G1000 en Stem uitbrengen), wanneer zij persoonlijk benaderd worden of wanneer ze een heel duidelijk belang hebben.
+
+{% include conclusion-quote.html 
+    title="Conclusie" 
+    paragraph="De processen van lokale democratie trekken over het algemeen de actieve, maatschappelijk betrokken inwoners aan. Het betrekken van niet actieve, bij de gemeente onbekende inwoners blijkt moeilijk. De gemeente kan meer en andere inwoners betrekken door te sturen op vorm van lokale democratie en de wijze van uitnodigen. Inwoners voelen zich bijvoorbeeld eerder uitgenodigd om mee te doen aan een nieuwe vorm (G1000 en Stem uitbrengen), wanneer zij persoonlijk benaderd worden of wanneer ze een heel duidelijk belang hebben." 
+%}
+
 
 ## Deliberatie
 
