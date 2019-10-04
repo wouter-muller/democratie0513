@@ -102,7 +102,10 @@ Een veel gebruikte definitie van burgerschap is: ‘de juridische band van een i
 
 ### Evaluatievragen op het gebied van Burgerschap
 
-We kijken naar twee aspecten bij Burgerschap: bereidheid tot deelname en tevredenheid met deelname. 1. Waarom doen deelnemers mee met de nieuwe vorm van lokale democratie en hoe maatschappelijk actief waren deelnemers al voordat ze deelnamen aan de nieuwe vorm van lokale democratie? 2. In hoeverre zijn deelnemers tevreden met de maatschappelijke activiteiten na deelname aan het proces. Zijn ze heel erg tevreden en zouden zij zeker weer meedoen aan maatschappelijke of politieke activiteiten of gaan ze het zeker niet weer doen?
+We kijken naar twee aspecten bij Burgerschap: bereidheid tot deelname en tevredenheid met deelname.
+
+1. Waarom doen deelnemers mee met de nieuwe vorm van lokale democratie en hoe maatschappelijk actief waren deelnemers al voordat ze deelnamen aan de nieuwe vorm van lokale democratie?
+2. In hoeverre zijn deelnemers tevreden met de maatschappelijke activiteiten na deelname aan het proces. Zijn ze heel erg tevreden en zouden zij zeker weer meedoen aan maatschappelijke of politieke activiteiten of gaan ze het zeker niet weer doen?
 
 ## Processen en democratische waarden
 

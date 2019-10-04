@@ -82,3 +82,11 @@
         &.\--active
             background-position: left center
             background-size: px(36) px(41)
+
+        @at-root .blue &
+            &:hover
+                color: $red
+
+        @at-root .red &
+            &:hover
+                color: $turqoise
