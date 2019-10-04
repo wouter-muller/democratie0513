@@ -5,7 +5,6 @@ color: blue
 permalink: /uitkomsten
 hero-heading: Uitkomsten
 hero-subheading: Het beeld na 80 interviews
-content-intro:
 chapters:
   - title: Het onderzoek
     type: research
@@ -35,9 +34,11 @@ Tijdens de bijeenkomsten zijn ook korte interviews gevoerd over onder andere de 
 
 Lees hier verder over de uitkomsten van het onderzoek van het proces:
 
-- [G1000](/g1000)
-- [Omgevingsvisie](/omgevingsvisie)
-- [Mildam](/mildam)
-- [Akkrum](/akkrum)
-- [De Greiden](/de-greiden)
-- [Aldeboarn](/aldeboarn)
+* [G1000](/g1000)
+* [Omgevingsvisie](/omgevingsvisie)
+* [Mildam](/mildam)
+* [Akkrum](/akkrum)
+* [De Greiden](/de-greiden)
+* [Aldeboarn](/aldeboarn)
+
+![](/uploads/Ill_keuzes.jpg)
