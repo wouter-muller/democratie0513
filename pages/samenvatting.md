@@ -43,7 +43,7 @@ De tweede deelvraag laat zien dat de processen die ingezet zijn door de gemeente
 
 De wijze waarop de processen zijn ingericht beïnvloedt de verschillende democratische waarden, is een uitkomst van deelvraag drie. De wijze van uitnodigen heeft invloed op inclusie en burgerschap in een proces. Het wel of niet vooraf kaders stellen of de agenda bepalen, heeft invloed op de invloed die inwoners kunnen hebben en de kwaliteit van de deliberatie. Hoe het proces wordt ingericht in tussenstappen en de communicatie daarover heeft invloed op transparantie en efficiëntie in een proces. De beslisregels bepalen mede de legitimiteit en invloed. Afhankelijk van wat de gemeente in een proces wil bereiken, kan de gemeente spelen met de invulling van de democratische waarden.
 
-![]()
+![](/uploads/Ill_keuzes.jpg)
 
 In het onderzoek is, naar deelvraag vier, iedere waarde voor ieder proces in beeld gebracht aan de hand van de ervaringen van inwoners. Dit leverde de volgende inzichten op:
 
