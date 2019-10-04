@@ -39,7 +39,7 @@ In de observaties is gezien dat op sommige bijeenkomsten zo’n 80 deelnemers en
 
 |---+--------------|
 |  Wat de deelnemers hebben gezegd over Inclusie |   |
-|----------------:|:-----------:|
+|----------------|:-----------:|
 | Er was een goede opkomst | 4 |
 | Er was een lage opkomst | 8 |
 | Er waren vooral veel belangen vertegenwoordigd | 10 |
@@ -65,7 +65,7 @@ Je kunt spreken van de aanwezigheid van Burgerschap als de deelnemers zich inzet
 
 |---+--------------|
 |  Welke maatschappelijk activiteiten hebben deelnemers |   |
-|----------------:|:-----------:|
+|----------------|:-----------:|
 | Lid van plaatselijk belang of een bestuur | 10 |
 | Geen | 2 |
 |===+====================|
@@ -74,7 +74,7 @@ Je kunt spreken van de aanwezigheid van Burgerschap als de deelnemers zich inzet
 
 |---+--------------|
 |  Waarom doen deelnemers mee |   |
-|----------------:|:-----------:|
+|----------------|:-----------:|
 | Vertegenwoordiging van plaatselijk belang of vereniging | 8 |
 | Mijn stem laten horen | 4 |
 | Het is leerzaam | 3 |
@@ -106,7 +106,7 @@ Je kunt spreken van de aanwezigheid van deliberatie als in een debat de deelneme
 
 |---+--------------|
 |  Kon iedereen zeggen wat hij wilde |   |
-|----------------:|:-----------:|
+|----------------|:-----------:|
 | Er werd naar elkaar geluisterd en je kon je mening zeggen  | 12 |
 | Niet iedereen wil evenveel bijdragen of zeggen | 4 |
 | Argumenten werden uitgewisseld | 1 |
@@ -129,7 +129,7 @@ Er is sprake van de aanwezigheid van de democratische waarde invloed als er gelu
 
 |---+--------------|
 |  Luisteren naar de ideeën van deelnemers |   |
-|----------------:|:-----------:|
+|----------------|:-----------:|
 | Ik mocht mijn mening geven en ik ben gehoord    | 9 |
 | Ik kon niet al mijn ideeën kwijt/weet niet of ik wel gehoord ben    | 3 |
 | De gemeente kwam ideeën ophalen | 4 |
@@ -162,7 +162,7 @@ Er zijn nog geen plannen gemaakt. Daarom kan er nog niet gevraagd worden naar de
 
 |---+--------------|
 | Is er vertrouwen in het vervolg, het uitvoeren van de plannen? |   |
-|----------------:|:-----------:|
+|----------------|:-----------:|
 | We moeten nog afwachten wat er gaat gebeuren    | 8 |
 | Ja, ik heb wel vertrouwen dat er iets gebeurt   | 4 |
 |===+====================|
@@ -173,7 +173,7 @@ Er zijn nog geen plannen gemaakt. Daarom kan er nog niet gevraagd worden naar de
 
 |---+--------------|
 | Zijn deelnemers tevreden met het proces?   |    |
-|----------------:|:-----------:|
+|----------------|:-----------:|
 | Ik ben tevreden met het proces  |  7 |
 | Het proces was te diffuus, abstract, complex    |  5 |
 | Er was te weinig tijd om ideeën te delen    |  6 |
@@ -205,7 +205,7 @@ De informatie over de bijeenkomsten en de inhoudelijke informatie over de omgevi
 
 |---+--------------|
 | Hoe heb je informatie over de bijeenkomst ontvangen?    |  |
-|----------------:|:-----------:|
+|----------------|:-----------:|
 | Ik heb een flyer gelezen    |  4 |
 | Ik heb het via via gehoord  |  4 |
 | Ik hoorde het via mijn belangenorganisatie  |  4 |
@@ -220,7 +220,7 @@ De informatie over de bijeenkomsten en de inhoudelijke informatie over de omgevi
 
 |---+--------------|
 | De informatie was helder en duidelijk   | |
-|----------------:|:-----------:|
+|----------------|:-----------:|
 | Ja, de informatie was mij duidelijk |  3 |
 | Nee, ik vond de informatie niet helemaal duidelijk  |  5 |
 | Ik heb wel mails ontvangen maar ik heb ze (nog) niet gelezen    |  3 |
@@ -232,7 +232,7 @@ De informatie over de bijeenkomsten en de inhoudelijke informatie over de omgevi
 
 |---+--------------|
 | Helderheid over rollen en taken | |
-|----------------:|:-----------:|
+|----------------|:-----------:|
 | Ik vond de werkwijze of de bedoeling onduidelijk    |  7 |
 | Raadslid bracht politieke kleur |  5 |
 | Raadslid was toehoorder |  2 |
@@ -266,7 +266,7 @@ Er is sprake van efficiëntie als de deelnemers vinden dat er een goede balans b
 
 |---+--------------|
 | Over de tijdsinzet   | |
-|----------------:|:-----------:|
+|----------------|:-----------:|
 | De inzet van tijd was prima    | 10 |
 | Er was te weinig tijd om een bijdrage te leveren  |  2 |
 |===+====================|
@@ -285,7 +285,7 @@ De meeste deelnemers hebben één avond een bijeenkomst Omgevingsvisie gevolgd. 
 
 |---+--------------|
 | Wat raadsleden en ambtenaren vertellen  |  |
-|----------------:|:-----------:|
+|----------------|:-----------:|
 | Er was te weinig tijd tijdens de bijeenkomsten voor gesprek over thema  |  5 |
 | De Omgevingsvisie is een lastig onderwerp   |  3 |
 | Er was een lage opkomst (Heerenveen), weinig jeugd, veel bekenden    | 11 |
