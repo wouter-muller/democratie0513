@@ -92,21 +92,7 @@ Omdat het belangrijk is dat burgers zich duurzaam inzetten voor politiek en same
 
 Hoe scoren de processen op Burgerschap?
 
-\|-----+-----|
-
-\| XXX |     |
-
-\|----:|:---:|
-
-\| XXX | XXX |
-
-\| XXX | XXX |
-
-\|===+=======|
-
-\|   |       |
-
-\|---+-------|
+![Score burgerschap](/uploads/score_burgerschap.jpg "Score burgerschap")
 
 Het valt op dat de deelnemers aan deze processen vaak actieve betrokken deelnemers zijn die vrijwilliger zijn, lid van plaatselijk belang of in de politiek actief (zijn geweest). Bij een stevige a-selecte loting, zoals de G1000, komt in de eerste bijeenkomst een bredere groep inwoners, maar ook daar geven de deelnemers aan dat ze (vaker) maatschappelijk actief zijn dan niet. In Aldeboarn, Mildam en de Burgertop van de G1000 viel het op dat er bij de bijeenkomsten wel een diverse groep inwoners aanwezig waren, waarbij ook de ‘unusual suspects’.
 
