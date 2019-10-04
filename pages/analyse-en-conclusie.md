@@ -63,10 +63,9 @@ Er is in alle processen vaak gezegd dat het goed is dat de gemeente meer inwoner
 
 De betrokkenheid van inwoners en het belang van het betrekken van alle doelgroepen is niet in ieder proces hetzelfde. Dat is niet noodzakelijk een probleem: afhankelijk van wat je wilt bereiken, is het meer of minder belangrijk dat alle doelgroepen of alle betrokken belangen aan tafel zitten. Soms is het ook prima om die ene burger te treffen die over niets anders wil praten dan het fietspad dat er volgens hem echt moet komen. Je wilt als gemeente juist een variatie aan vormen inzetten, die meerdere groepen bereikt en niet iedereen zal evenveel betrokkenheid willen of kunnen hebben.
 
-
-
 1. [Verval van de democratische rechtsstaat en de rol van de pers.](http://www.expertisecentrumjournalistiek.nl/slot-toespraak-herman-tjeenk-willink-verval-van-de-democratische-rechtsstaat-en-de-rol-van-de-pers/)
 2. [Geerten Boogaard spreekt op eerste lustrum G1000-beweging.](https://www.universiteitleiden.nl/nieuws/2019/09/geerten-boogaard-spreekt-op-eerste-lustrum-g1000-beweging)
+
 
 
 {% include conclusion-quote.html 
@@ -75,6 +74,7 @@ De betrokkenheid van inwoners en het belang van het betrekken van alle doelgroep
 %}
 
 ## Voorbeelden van ambities zijn:
+
 * Een diverse groep mensen die voor de gemeenschap ideeën kan inbrengen en aandacht hebben voor het algemene belang.
 * Een representatieve groep van het dorp.
 * Een representatieve groep voor het vraagstuk.
