@@ -41,11 +41,7 @@ De gemeente Heerenveen haalde inspiratie voor het vormgeven van de processen uit
 
 [Vergelijking Democratische Waarden.](/de-democratische-meetlat) Lees hier de vergelijking tussen de democratische waarden In de verschillende processen.
 
-
-
 ## Vergelijking democratische waarden
-
-
 
 ### Inclusie
 
@@ -225,4 +221,4 @@ Inwoners zijn best bereid om zich in te zetten en tijd te besteden voor het make
 
 ## Overzichtstabel
 
-Hieronder worden de scores per proces en per waarde in een overzichtstabel samengevat. Daaruit komt duidelijk naar voren de processen waarbij inwoners daadwerkelijke zeggenschap hebben gekregen goed scoren op de verschillende democratische waarden. Dat zijn juist die processen waarbij er een beperkte groep inwoners met een concrete vraag aan de slag gaat. Dan lukt het ook om samen te komen tot afwegingen en keuzes, wat overigens niet altijd op basis van deliberatie gebeurt. (overzichtstabel volgt)
+Hieronder worden de scores per proces en per waarde in een overzichtstabel samengevat. Daaruit komt duidelijk naar voren de processen waarbij inwoners daadwerkelijke zeggenschap hebben gekregen goed scoren op de verschillende democratische waarden. Dat zijn juist die processen waarbij er een beperkte groep inwoners met een concrete vraag aan de slag gaat. Dan lukt het ook om samen te komen tot afwegingen en keuzes, wat overigens niet altijd op basis van deliberatie gebeurt. **_(overzichtstabel volgt)_**
