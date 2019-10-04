@@ -51,7 +51,7 @@ De gemeente Heerenveen haalde inspiratie voor het vormgeven van de processen uit
 
 Inclusie is een belangrijke waarde omdat het gaat om wie in de democratie allemaal mee kan doen. In ideale zin zou elke stem en mening van ieder lid van het volk gehoord moeten worden en meetellen. Dit gaat over het algemeen niet en daarom doet vaak maar een selectie van de inwoners mee. Bij Inclusie is gekeken naar de manier van selecteren en uitnodigen in de verschillende processen.
 
-#### Hoe scoren de processen op Inclusie?
+### Hoe scoren de processen op Inclusie?
 
 ![Score inclusie](/uploads/score_inclusie.jpg "Score inclusie")
 
@@ -87,7 +87,7 @@ De betrokkenheid van inwoners en het belang van het betrekken van alle doelgroep
 
 Omdat het belangrijk is dat burgers zich duurzaam inzetten voor politiek en samenleving zal er aandacht moeten zijn voor de tevredenheid die burgers voelen bij deze betrokkenheid. Bij Burgerschap wordt daarom gekeken naar de bereidheid van inwoners om mee te doen en de tevredenheid met die deelname in de verschillende processen en of het hun betrokkenheid vergroot.
 
-#### Hoe scoren de processen op Burgerschap?
+### Hoe scoren de processen op Burgerschap?
 
 ![Score burgerschap](/uploads/score_burgerschap.jpg "Score burgerschap")
 
@@ -106,7 +106,7 @@ Deelnemers doen om diverse redenen mee. Het valt op dat de deelnemers aan de G10
 
 In een directe democratie (referenda, burgerfora) is de kwaliteit van het publieke debat belangrijk voor de besluitvorming. In een debat moeten deelnemers naar elkaar luisteren en standpunten uit kunnen wisselen. Ze moeten bereid zijn om overtuigd te worden door de ander met rationele argumentatie. Dit vraagt een omgeving en omstandigheden waar iedereen gerespecteerd wordt en mee kan doen aan het debat. Deelnemers moeten ook redelijke argumenten kunnen aandragen en oog hebben voor het maatschappelijke belang (Michels, 2011). Bij Deliberatie wordt gekeken naar de dialoog tussen de deelnemers in de verschillende processen.
 
-#### Hoe scoren de processen op Deliberatie?
+### Hoe scoren de processen op Deliberatie?
 
 ![Score deliberatie](/uploads/score_deliberatie.jpg "Score deliberatie")
 
@@ -129,7 +129,7 @@ Hoewel de kwaliteit van het debat of de dialoog als belangrijk wordt gezien, is 
 
 Invloed is in een directe democratie (referenda, burgerfora, etc.) een belangrijke democratische waarde. Burgers moeten immers direct invloed kunnen uitoefenen op het politieke besluitvormingsproces. Bij Invloed wordt gekeken naar in hoeverre er geluisterd wordt naar de mening en de ideeën van burgers en in hoeverre de plannen van burgers leiden tot een werkelijke (beleids)verandering.
 
-#### Hoe scoren de processen op Invloed?
+### Hoe scoren de processen op Invloed?
 
 ![score invloed](/uploads/score_invloed.jpg "score invloed")
 
@@ -152,7 +152,7 @@ Het blijven informeren en betrekken van inwoners, ook al zitten zij niet in de w
 
 Een goed werkende democratie heeft legitimiteit nodig, een goed vertrouwen en steun in het systeem en de mensen (Peters et al, 2014). Steunen inwoners en/of steunen politici en ambtenaren het proces en/of de besluiten? Bij Legitimiteit wordt gekeken naar drie aspecten: acceptatie, vertrouwen en tevredenheid.
 
-#### Hoe scoren de processen op Legitimiteit?
+### Hoe scoren de processen op Legitimiteit?
 
 ![score legitimiteit](/uploads/score_legitimiteit.jpg "score legitimiteit")
 
@@ -171,7 +171,7 @@ In de kleinere processen hebben inwoners over het algemeen vertrouwen in de uitk
 
 In een democratie is vrijheid van informatie belangrijk. Als burgers niet over informatie beschikken kunnen zij ook niet deelnemen aan besluitvorming. Het is in samenwerking belangrijk om duidelijk aan te geven wat deelnemers mogen verwachten: wat is ieders rol, wat zijn de kaders en wat gaat er gebeuren met het resultaat. Dit is belangrijk om teleurstelling achteraf te voorkomen. (Michels, 2011). Bij de democratische waarde Transparantie is gekeken naar communicatie over kaders en rollen, inhoud en proces.
 
-#### Hoe scoren de processen op Transparantie?
+### Hoe scoren de processen op Transparantie?
 
 ![score transparantie](/uploads/score_transparantie.jpg "score transparantie")
 
@@ -211,7 +211,7 @@ Er is vanuit dit onderzoek een sterke aanwijzing dat het gebruik van visuele mid
 
 Nieuwe vormen van lokale democratie, zoals loting en burgerfora, moeten een opbrengst geven in termen van versterken van de democratie en vergroten van betrokkenheid. Tegelijkertijd is de gedachte dat het geen efficiënte manier van besturen is en dat het veel tijd kosten van inwoners en de gemeente. David van Reybrouck betoogt dat loting als politiek besluitvormingsproces juist wel een efficiënte manier van besturen is. Het vereist in het begin wellicht veel tijd maar het idee is dat er na de besluitvorming meer draagvlak is en meer legitimiteit. Daardoor zullen de besluiten sneller en beter hun weg vinden (Van Reybrouck, 2015). Bij efficiëntie wordt gekeken naar de beleving van de tijdsinzet van de deelnemers en ambtenaren.
 
-#### Hoe scoren de processen op Efficiëntie?
+### Hoe scoren de processen op Efficiëntie?
 
 ![score efficiency](/uploads/score_efficiency.jpg "score efficiency")
 
@@ -219,7 +219,7 @@ De ervaring van deelnemers met efficiëntie in de processen is over het algemeen
 Inwoners zijn best bereid om zich in te zetten en tijd te besteden voor het maken van plannen of het inbrengen van ideeën. Ze willen dan wel graag van tevoren weten wat de tijdsinzet betekent. De tijdsinzet is leeftijdsgebonden. Deelnemers die met pensioen zijn en/of geen jonge kinderen hebben kijken anders naar tijd, zij geven aan dat ze ‘genoeg tijd hebben’.
 
 {% include conclusion-quote.html 
-    title="Conclusie XXX" 
+    title="Conclusie" 
     paragraph="Of inwoners nu veel of weinig tijd besteden: ze vinden het de moeite waard. Wel willen ze graag van tevoren weten wat ze kunnen verwachten en is het de verwachting dat inwoners die meer tijd hebben of meer tijd over hebben voor hun omgeving makkelijker deelnemen. Dat heeft wel weer invloed op de mate van inclusie. Inwoners zijn wel meer tevreden over de efficiëntie van de processen waarbij er minder tijdsinvestering werd gevraagd. In de processen waarin veel tijd is besteed, is de betrokkenheid en burgerschap versterkt en is men inhoudelijk meer tevreden." 
 %}
 
