@@ -1,6 +1,6 @@
 ---
 layout: default
-title_tag: Monitoren democratisering - Analyse en conclusie
+title_tag: Analyse en conclusie
 color: blue
 permalink: /analyse
 hero-heading: Analyse en conclusie
