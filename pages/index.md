@@ -3,12 +3,14 @@ layout: default
 title_tag: Monitoren democratisering
 color: blue
 permalink: /
-hero-heading: Kopregel Kopregel
-hero-subheading: Monitoren en evalueren van processen van lokale democratie in Heerenveen.
+hero-heading: Lokale democratie
+hero-subheading: >-
+  Gemeente Heerenveen experimenteert volop met nieuwe vormen van lokale
+  democratie.
 hero-paragraph: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus libero leo,
-  pellentesque ornare, adipiscing vitae, rhoncus commodo, nulla. Fusce quis
-  ipsum.
+  Wat kunnen we leren van deze experimenten? En hoe hebben inwoners de
+  samenwerking ervaren en beleefd? Lees het allemaal in deze digitale
+  rapportage.
 content-intro: >-
   De afgelopen jaren heeft de gemeente Heerenveen samen met inwoners
   geëxperimenteerd met nieuwe vormen van lokale democratie om de betrokkenheid
@@ -28,11 +30,11 @@ chapters:
     type: analysis
     url: /analyse
 ---
-De gemeenteraad van Heerenveen wil daarom de komende jaren samen met de inwoners van Heerenveen verder samenwerken met nieuwe vormen van lokale democratie (bijvoorbeeld: loting, G1000, community processing), waarbij er meer betrokkenheid ontstaat van inwoners, instellingen en ondernemers. De basis voor deze samenwerking is gelegd in het Thematisch Raadsakkoord 2018-2022, van waaruit de gemeente Heerenveen samen met burgers wil werken aan ideeën en oplossingen voor relevante thema’s zoals de energietransitie, veranderingen aan het centrum van Heerenveen, een omgevingsvisie, etc.
+De gemeenteraad van Heerenveen wil samen met de inwoners van Heerenveen verder samenwerken met nieuwe vormen van lokale democratie (bijvoorbeeld: loting, G1000, community processing), waarbij er meer betrokkenheid ontstaat van inwoners, instellingen en ondernemers. De basis voor deze samenwerking is gelegd in het Thematisch Raadsakkoord 2018-2022, van waaruit de gemeente Heerenveen samen met burgers wil werken aan ideeën en oplossingen voor relevante thema’s zoals de energietransitie, veranderingen aan het centrum van Heerenveen, een omgevingsvisie, etc.
 
-Twee thema’s staan geprogrammeerd: het centrum van Heerenveen en de Omgevingsvisie. De eerste wordt opgepakt vanuit de G1000 methode. Van februari tot juni 2019 zullen inwoners van de gemeente Heerenveen met ideeën komen voor een nieuw centrum en komen tot een burgerbesluit. Andere thema’s zijn de Omgevingsvisie, herinrichtingsprojecten en een burgerbesluit op een bestemming voor een monumentaal pand. Daarnaast zijn allerlei andere experimenten gedaan vanuit de raad en de organisatie, in verschillende wijken, op verschillende beleidsterreinen.
+Van februari tot juli 2019 konden inwoners van de gemeente Heerenveen met ideeën komen voor een nieuw centrum en kwamen zij tot een burgerbesluit. Andere thema’s waren de Omgevingsvisie, herinrichtingsprojecten en een burgerbesluit op een bestemming voor een monumentaal pand. Daarnaast zijn allerlei andere experimenten gedaan vanuit de raad en de organisatie, in verschillende wijken, op verschillende beleidsterreinen.
 
-De gemeente Heerenveen experimenteert volop met nieuwe vormen van democratie. Om hier ook kennis over te ontwikkelen wil de gemeente Heerenveen monitoring/evaluatie toe passen. De opzet en uitvoering van de bijeenkomsten en de ervaringen van de deelnemers aan die bijeenkomsten moet centraal staan in de monitor. Door te monitoren en tussentijds te evalueren kan het verloop van de processen in beeld worden gebracht. In de aanpak ziet de gemeenteraad graag de theoretische basis (o.a. democratische waarden) die is gebruikt in het eerdere onderzoek naar Buitengewoon De Greiden terug. Daarnaast moet de aanpak ruimte bieden aan diepte-interviews of storytelling vanuit het perspectief van de deelnemers.
+De gemeente Heerenveen experimenteert dus volop met nieuwe vormen van democratie. Om hier ook kennis over te ontwikkelen wil de gemeente Heerenveen monitoring en evaluatie toe passen. De opzet en uitvoering van de bijeenkomsten en de ervaringen van de deelnemers aan die bijeenkomsten staat centraal in de monitor. In de aanpak ziet de gemeenteraad graag de theoretische basis (o.a. democratische waarden) die is gebruikt in het eerdere onderzoek naar Buitengewoon De Greiden terug. Daarnaast moet de aanpak ruimte bieden aan diepte-interviews of storytelling vanuit het perspectief van de deelnemers. Lees hieronder verder over de hoofd en deelvragen van het onderzoek.
 
 ![Ambtenaren burgers](/uploads/ambtenaren-burgers.jpg "Ambtenaren burgers")
 
@@ -53,7 +55,7 @@ Wat is de democratische kwaliteit van de verschillende democratische processen i
 
 Deelvraag 4 kan worden opgedeeld in een vraag per waarde:
 
-|---+------------+-----------------|
+\|---+------------+-----------------|
 |   |Deelvragen 4A t/m 1G| Democratische waarde  |
 |-----------------|:-----------|---------------:|
 | **a** | In hoeverre is er sprake van (meer) betrokkenheid of eigen kracht bij betrokken inwoners? | **Burgerschap**  |
