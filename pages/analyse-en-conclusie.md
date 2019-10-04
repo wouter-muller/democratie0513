@@ -45,11 +45,12 @@ De gemeente Heerenveen haalde inspiratie voor het vormgeven van de processen uit
 
 ### Vergelijking democratische waarden
 
-### Inclusie
+## Inclusie
 
 Inclusie is een belangrijke waarde omdat het gaat om wie in de democratie allemaal mee kan doen. In ideale zin zou elke stem en mening van ieder lid van het volk gehoord moeten worden en meetellen. Dit gaat over het algemeen niet en daarom doet vaak maar een selectie van de inwoners mee. Bij Inclusie is gekeken naar de manier van selecteren en uitnodigen in de verschillende processen.
 
-#### Hoe scoren de processen op Inclusie?
+### Hoe scoren de processen op Inclusie?
+
 
 ![Score inclusie](/uploads/score_inclusie.jpg "Score inclusie")
 
@@ -86,11 +87,12 @@ Iedereen met een belang aan tafel.
 
 Elke ambitie vraagt een andere manier van uitnodigen, loting biedt geen garantie voor inclusie.
 
-### Burgerschap
+## Burgerschap
 
 Omdat het belangrijk is dat burgers zich duurzaam inzetten voor politiek en samenleving zal er aandacht moeten zijn voor de tevredenheid die burgers voelen bij deze betrokkenheid. Bij Burgerschap wordt daarom gekeken naar de bereidheid van inwoners om mee te doen en de tevredenheid met die deelname in de verschillende processen en of het hun betrokkenheid vergroot.
 
-#### Hoe scoren de processen op Burgerschap?
+### Hoe scoren de processen op Burgerschap?
+
 
 ![Score burgerschap](/uploads/score_burgerschap.jpg "Score burgerschap")
 
