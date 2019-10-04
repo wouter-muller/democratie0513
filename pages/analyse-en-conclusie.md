@@ -156,23 +156,9 @@ Het blijven informeren en betrekken van inwoners, ook al zitten zij niet in de w
 
 Een goed werkende democratie heeft legitimiteit nodig, een goed vertrouwen en steun in het systeem en de mensen (Peters et al, 2014). Steunen inwoners en/of steunen politici en ambtenaren het proces en/of de besluiten? Bij Legitimiteit wordt gekeken naar drie aspecten: acceptatie, vertrouwen en tevredenheid.
 
-Hoe scoren de processen op Legitimiteit?
+### Hoe scoren de processen op Legitimiteit?
 
-\|-----+-----|
-
-\| XXX |     |
-
-\|----:|:---:|
-
-\| XXX | XXX |
-
-\| XXX | XXX |
-
-\|===+=======|
-
-\|   |       |
-
-\|---+-------|
+![score legitimiteit](/uploads/score_legitimiteit.jpg "score legitimiteit")
 
 De deelnemers zijn over het algemeen tevreden met de plannen die gemaakt zijn. Alleen de deelnemers van de Omgevingsvisie hebben nog onvoldoende zicht op de plannen omdat die nog moeten komen. De deelnemers aan de G1000 waren bijzonder tevreden over de plannen. Er is ook een groot vertrouwen in de uitvoering van de plannen.
 
@@ -186,26 +172,12 @@ In de kleinere processen hebben inwoners over het algemeen vertrouwen in de uitk
 >
 > De conclusies rond legitimiteit zijn opmerkelijk eensluidend: deelnemers zijn tevreden over uitkomsten en hebben er vertrouwen in dat in ieder geval een deel van de uitkomsten uitgevoerd gaat worden. In de meeste gevallen hebben de deelnemers iets minder vertrouwen in het proces, maar ze zijn zeker niet ontevreden. Mensen vertrouwen erop dat het goed komt als de gemeente verdergaat met de uitkomsten. Bijzonder aan het G1000 proces is de expliciete steun van ambtenaren en politici, dat draagt zeker bij aan een groter vertrouwen.
 
-Transparantie\
+\### Transparantie\
 In een democratie is vrijheid van informatie belangrijk. Als burgers niet over informatie beschikken kunnen zij ook niet deelnemen aan besluitvorming. Het is in samenwerking belangrijk om duidelijk aan te geven wat deelnemers mogen verwachten: wat is ieders rol, wat zijn de kaders en wat gaat er gebeuren met het resultaat. Dit is belangrijk om teleurstelling achteraf te voorkomen. (Michels, 2011). Bij de democratische waarde Transparantie is gekeken naar communicatie over kaders en rollen, inhoud en proces.
 
 \### Hoe scoren de processen op Transparantie?
 
-\|-----+-----|
-
-\| XXX |     |
-
-\|----:|:---:|
-
-\| XXX | XXX |
-
-\| XXX | XXX |
-
-\|===+=======|
-
-\|   |       |
-
-\|---+-------|
+![score transparantie](/uploads/score_transparantie.jpg "score transparantie")
 
 Elk proces heeft een andere opzet gekregen en elk proces liep anders dan van tevoren verwacht of bedacht.
 
@@ -243,21 +215,7 @@ Nieuwe vormen van lokale democratie, zoals loting en burgerfora, moeten een opbr
 
 ## Hoe scoren de processen op Efficiëntie?
 
-\|-----+-----|
-
-\| XXX |     |
-
-\|----:|:---:|
-
-\| XXX | XXX |
-
-\| XXX | XXX |
-
-\|===+=======|
-
-\|   |       |
-
-\|---+-------|
+![score efficiency](/uploads/score_efficiency.jpg "score efficiency")
 
 De ervaring van deelnemers met efficiëntie in de processen is over het algemeen goed. De deelnemers vinden de tijdsbesteding wel waard voor wat het proces heeft opgeleverd. De deelnemers aan de Omgevingsvisie en Mildam ervaren de tijdsinzet als prima te doen. Een aantal deelnemers ervaren het zelfs als te weinig tijd om het goed te doen. De G1000 burgertop, waarbij deelnemers één zaterdag meepraten, was volgens de deelnemers prima te doen. De deelnemers die het gehele G1000 proces hebben doorlopen als werkgroeplid hebben soms ervaren dat de tijdsinzet te veel was. Aan de andere kant zijn juist in de processen waarin meer tijd is besteed en er zeggenschap voor inwoners was, ook de betrokkenheid en burgerschap groter.
 Inwoners zijn best bereid om zich in te zetten en tijd te besteden voor het maken van plannen of het inbrengen van ideeën. Ze willen dan wel graag van tevoren weten wat de tijdsinzet betekent. De tijdsinzet is leeftijdsgebonden. Deelnemers die met pensioen zijn en/of geen jonge kinderen hebben kijken anders naar tijd, zij geven aan dat ze ‘genoeg tijd hebben’.
