@@ -9,6 +9,7 @@ hero-paragraph: >-
   Ruimte voor introductietekst (trigger), consectetur adipisicing elit, sed do
   eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
   veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea.
+content-intro: "De afgelopen jaren heeft de gemeente Heerenveen samen met inwoners geëxperimenteerd met nieuwe vormen van lokale democratie om de betrokkenheid van inwoners te vergroten. Deze experimenten waren leerzaam en over het algemeen zijn ze positief gewaardeerd. "
 chapters:
   - paragraph: >-
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem,
