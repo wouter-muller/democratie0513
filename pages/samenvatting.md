@@ -1,6 +1,6 @@
 ---
 layout: default
-title_tag: Monitoren democratisering - Samenvatting
+title_tag: Samenvatting
 color: blue
 permalink: /samenvatting
 hero-heading: Samenvatting
