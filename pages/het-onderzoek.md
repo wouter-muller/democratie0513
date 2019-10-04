@@ -1,6 +1,6 @@
 ---
 layout: default
-title_tag: Monitoren democratisering - Het onderzoek
+title_tag: Het onderzoek
 color: blue
 permalink: /het-onderzoek
 hero-heading: Het onderzoek
