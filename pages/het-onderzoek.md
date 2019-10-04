@@ -4,6 +4,7 @@ title_tag: Het onderzoek
 color: blue
 permalink: /het-onderzoek
 hero-heading: Het onderzoek
+content-intro:
 chapters:
   - paragraph: >-
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem,

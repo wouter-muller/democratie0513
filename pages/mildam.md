@@ -5,6 +5,7 @@ color: red
 permalink: /mildam
 hero-heading: Mildam Noord
 hero-subheading: ''
+content-intro: ''
 chapters:
   - title: Uitkomsten
     type: results
@@ -35,11 +36,11 @@ De wijze van uitnodigen was door een brief huis aan huis verstuurd aan alle inwo
 
 Alle geïnterviewden vertellen dat er een grote opkomst was voor de 2 bijeenkomsten (40 en 90 deelnemers) en voor deelname aan de werkgroep (20 deelnemers). De groep was divers en de betrokkenheid werd als groot ervaren. De leeftijdsgroep 18 – 45 jaar was iets ondervertegenwoordigd in de werkgroep. 18 % van de inwoners van Mildam heeft een leeftijd tussen de 25 tot 45 jaar. De groep 45 tot 65+ bestaat uit zo’n 60% van de inwoners van Mildam.
 
-{% include conclusion-quote.html 
+{% include conclusion-quote.html
 
-title="Conclusie inclusie" 
+title="Conclusie inclusie"
 
-paragraph="Er is sprake van inclusie. Er was grote betrokkenheid van een diverse groep inwoners. De groep deelnemers is representatief voor het vraagstuk, de herinrichting van Mildam-Noord. " 
+paragraph="Er is sprake van inclusie. Er was grote betrokkenheid van een diverse groep inwoners. De groep deelnemers is representatief voor het vraagstuk, de herinrichting van Mildam-Noord. "
 
 %}
 

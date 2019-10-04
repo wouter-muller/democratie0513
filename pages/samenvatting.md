@@ -4,6 +4,7 @@ title_tag: Samenvatting
 color: blue
 permalink: /samenvatting
 hero-heading: Samenvatting
+content-intro:
 chapters:
   - paragraph: >-
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem,

@@ -6,6 +6,7 @@ permalink: /de-democratische-meetlat
 hero-heading: De democratische meetlat
 hero-subheading:
 hero-paragraph:
+content-intro:
 chapters:
   - type: research
     title: Het onderzoek

@@ -5,6 +5,7 @@ color: blue
 permalink: /uitkomsten
 hero-heading: Uitkomsten
 hero-subheading: Het beeld na 80 interviews
+content-intro:
 chapters:
   - paragraph: >-
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem,
