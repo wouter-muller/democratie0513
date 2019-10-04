@@ -75,13 +75,15 @@ De gemeente Heerenveen haalde inspiratie voor het vormgeven van de processen uit
 
 [Vergelijking Democratische Waarden.](/de-democratische-meetlat) Lees hier de vergelijking tussen de democratische waarden In de verschillende processen.
 
+## 
+
 ## Vergelijking democratische waarden
 
 ### Inclusie
 
 Inclusie is een belangrijke waarde omdat het gaat om wie in de democratie allemaal mee kan doen. In ideale zin zou elke stem en mening van ieder lid van het volk gehoord moeten worden en meetellen. Dit gaat over het algemeen niet en daarom doet vaak maar een selectie van de inwoners mee. Bij Inclusie is gekeken naar de manier van selecteren en uitnodigen in de verschillende processen.  
 
-### Hoe scoren de processen op Inclusie?
+#### Hoe scoren de processen op Inclusie?
 
 \|-----+-----|
 
