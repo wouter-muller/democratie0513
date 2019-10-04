@@ -8,9 +8,7 @@ hero-subheading: Monitoren en evalueren van processen van lokale democratie in H
 hero-paragraph: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus libero leo,
   pellentesque ornare, adipiscing vitae, rhoncus commodo, nulla. Fusce quis
-  ipsum. Nulla neque massa, feugiat sed, commodo in, adipiscing ut, est. In
-  fermentum mattis ligula. Nulla ipsum. Vestibulum condimentum condimentum
-  augue.
+  ipsum.
 content-intro: >-
   De afgelopen jaren heeft de gemeente Heerenveen samen met inwoners
   geëxperimenteerd met nieuwe vormen van lokale democratie om de betrokkenheid
