@@ -59,7 +59,7 @@ Hieronder is in een overzichtstabel met een aantal kenmerken van de processen sa
 
 De gemeente Heerenveen haalde inspiratie voor het vormgeven van de processen uit de opzet van de G1000, community processing en de al meer ingeburgerde vorm coproductie. Ieder van de processen kent een eigen inrichting en werkwijze, waarbij de G1000 en Aldeboarn het meest strak geregisseerde proces was. In de andere processen is steeds een vorm van coproductie gekozen, waarbij elementen uit community processing zijn toegepast, de ene keer meer dan de andere keer. Het centrumproces is het best te classificeren als een experiment met loting. In De Greiden is ook loting toegepast, maar zijn daarna vooral elementen uit community processing gebruikt. In de andere processen is er feitelijk sprake van een vorm van coproductie, waarbij elementen van community processing zijn toegepast. Daarbij geldt dat in de kleinschalige processen meer ruimte voor input en keuzes van inwoners is geweest dan in het grotere en complexere proces rond de omgevingsvisie (dat overigens nog niet is afgerond).
 
-Vergelijking Democratische Waarden. Lees hier de vergelijking tussen de democratische waarden In de verschillende processen.
+[Vergelijking Democratische Waarden.](/de-democratische-meetlat) Lees hier de vergelijking tussen de democratische waarden In de verschillende processen.
 
 \#link toevoegen#
 
@@ -230,17 +230,20 @@ Er is vanuit dit onderzoek een sterke aanwijzing dat het gebruik van visuele mid
 > Bij de waarde legitimiteit bleek dat inwoners minder tevreden zijn over het proces dan over de inhoud. De conclusies bij de waarde transparantie bieden daar een verklaring voor. Processen zijn niet altijd voorspelbaar en het is niet altijd duidelijk hoe de rollen en verhoudingen in een proces liggen. Dat zorgt voor onzekerheid en soms wat minder vertrouwen. Toch hoeft het geen probleem te zijn, als er maar helder over wordt gecommuniceerd. Inwoners begrijpen het best dat als een proces anders loopt dan je denkt, dat je een aantal onderdelen aanpast. Wil je met inwoners samenwerken, dan heb je als gemeente een aantal obstakels te overwinnen: onbegrijpelijke beleidstaal, onbekendheid met de processen op het gemeentehuis en wisselende rollen en taken. Als je gebruikt maakt van beeldinformatie, is het makkelijker om mensen te binden, informeren en betrekken. 
 
 ### Efficiëntie
+
 Nieuwe vormen van lokale democratie, zoals loting en burgerfora, moeten een opbrengst geven in termen van versterken van de democratie en vergroten van betrokkenheid. Tegelijkertijd is de gedachte dat het geen efficiënte manier van besturen is en dat het veel tijd kosten van inwoners en de gemeente. David van Reybrouck betoogt dat loting als politiek besluitvormingsproces juist wel een efficiënte manier van besturen is. Het vereist in het begin wellicht veel tijd maar het idee is dat er na de besluitvorming meer draagvlak is en meer legitimiteit. Daardoor zullen de besluiten sneller en beter hun weg vinden (Van Reybrouck, 2015). Bij efficiëntie wordt gekeken naar de beleving van de tijdsinzet van de deelnemers en ambtenaren.
 
 ## Hoe scoren de processen op Efficiëntie?
 
-#invoegen tabel#
+\#invoegen tabel#
 
 De ervaring van deelnemers met efficiëntie in de processen is over het algemeen goed. De deelnemers vinden de tijdsbesteding wel waard voor wat het proces heeft opgeleverd. De deelnemers aan de Omgevingsvisie en Mildam ervaren de tijdsinzet als prima te doen. Een aantal deelnemers ervaren het zelfs als te weinig tijd om het goed te doen. De G1000 burgertop, waarbij deelnemers één zaterdag meepraten, was volgens de deelnemers prima te doen. De deelnemers die het gehele G1000 proces hebben doorlopen als werkgroeplid hebben soms ervaren dat de tijdsinzet te veel was. Aan de andere kant zijn juist in de processen waarin meer tijd is besteed en er zeggenschap voor inwoners was, ook de betrokkenheid en burgerschap groter. 
 Inwoners zijn best bereid om zich in te zetten en tijd te besteden voor het maken van plannen of het inbrengen van ideeën. Ze willen dan wel graag van tevoren weten wat de tijdsinzet betekent. De tijdsinzet is leeftijdsgebonden. Deelnemers die met pensioen zijn en/of geen jonge kinderen hebben kijken anders naar tijd, zij geven aan dat ze ‘genoeg tijd hebben’.
 
 ### Conclusie
+
 Of inwoners nu veel of weinig tijd besteden: ze vinden het de moeite waard. Wel willen ze graag van tevoren weten wat ze kunnen verwachten en is het de verwachting dat inwoners die meer tijd hebben of meer tijd over hebben voor hun omgeving makkelijker deelnemen. Dat heeft wel weer invloed op de mate van inclusie. Inwoners zijn wel meer tevreden over de efficiëntie van de processen waarbij er minder tijdsinvestering werd gevraagd. In de processen waarin veel tijd is besteed, is de betrokkenheid en burgerschap versterkt en is men inhoudelijk meer tevreden. 
 
-### Overzichtstabel 
-Hieronder worden de scores per proces en per waarde in een overzichtstabel samengevat. Daaruit komt duidelijk naar voren de processen waarbij inwoners daadwerkelijke zeggenschap hebben gekregen goed scoren op de verschillende democratische waarden. Dat zijn juist die processen waarbij er een beperkte groep inwoners met een concrete vraag aan de slag gaat. Dan lukt het ook om samen te komen tot afwegingen en keuzes, wat overigens niet altijd op basis van deliberatie gebeurt. 
+### Overzichtstabel
+
+Hieronder worden de scores per proces en per waarde in een overzichtstabel samengevat. Daaruit komt duidelijk naar voren de processen waarbij inwoners daadwerkelijke zeggenschap hebben gekregen goed scoren op de verschillende democratische waarden. Dat zijn juist die processen waarbij er een beperkte groep inwoners met een concrete vraag aan de slag gaat. Dan lukt het ook om samen te komen tot afwegingen en keuzes, wat overigens niet altijd op basis van deliberatie gebeurt.
