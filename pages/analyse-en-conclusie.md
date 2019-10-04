@@ -67,7 +67,7 @@ De betrokkenheid van inwoners en het belang van het betrekken van alle doelgroep
 2. [Geerten Boogaard spreekt op eerste lustrum G1000-beweging.](https://www.universiteitleiden.nl/nieuws/2019/09/geerten-boogaard-spreekt-op-eerste-lustrum-g1000-beweging)
 
 {% include conclusion-quote.html 
-    title="Conclusie Inclusie" 
+    title="Conclusie" 
     paragraph="Inclusie verdient meer aandacht in de processen waarbij de gemeente van tevoren kan bedenken welke ambities zij hebben op het gebied van inclusie." 
 %}
 
