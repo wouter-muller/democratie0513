@@ -90,7 +90,7 @@ Elke ambitie vraagt een andere manier van uitnodigen, loting biedt geen garantie
 
 Omdat het belangrijk is dat burgers zich duurzaam inzetten voor politiek en samenleving zal er aandacht moeten zijn voor de tevredenheid die burgers voelen bij deze betrokkenheid. Bij Burgerschap wordt daarom gekeken naar de bereidheid van inwoners om mee te doen en de tevredenheid met die deelname in de verschillende processen en of het hun betrokkenheid vergroot.
 
-Hoe scoren de processen op Burgerschap?
+#### Hoe scoren de processen op Burgerschap?
 
 ![Score burgerschap](/uploads/score_burgerschap.jpg "Score burgerschap")
 
@@ -110,7 +110,7 @@ Deelnemers doen om diverse redenen mee. Het valt op dat de deelnemers aan de G10
 
 In een directe democratie (referenda, burgerfora) is de kwaliteit van het publieke debat belangrijk voor de besluitvorming. In een debat moeten deelnemers naar elkaar luisteren en standpunten uit kunnen wisselen. Ze moeten bereid zijn om overtuigd te worden door de ander met rationele argumentatie. Dit vraagt een omgeving en omstandigheden waar iedereen gerespecteerd wordt en mee kan doen aan het debat. Deelnemers moeten ook redelijke argumenten kunnen aandragen en oog hebben voor het maatschappelijke belang (Michels, 2011). Bij Deliberatie wordt gekeken naar de dialoog tussen de deelnemers in de verschillende processen.
 
-### Hoe scoren de processen op Deliberatie?
+#### Hoe scoren de processen op Deliberatie?
 
 ![Score deliberatie](/uploads/score_deliberatie.jpg "Score deliberatie")
 
