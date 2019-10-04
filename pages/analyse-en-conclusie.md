@@ -223,7 +223,7 @@ Inwoners zijn best bereid om zich in te zetten en tijd te besteden voor het make
     paragraph="Of inwoners nu veel of weinig tijd besteden: ze vinden het de moeite waard. Wel willen ze graag van tevoren weten wat ze kunnen verwachten en is het de verwachting dat inwoners die meer tijd hebben of meer tijd over hebben voor hun omgeving makkelijker deelnemen. Dat heeft wel weer invloed op de mate van inclusie. Inwoners zijn wel meer tevreden over de efficiëntie van de processen waarbij er minder tijdsinvestering werd gevraagd. In de processen waarin veel tijd is besteed, is de betrokkenheid en burgerschap versterkt en is men inhoudelijk meer tevreden." 
 %}
 
-### Overzichtstabel
+## Overzichtstabel
 
 Hieronder worden de scores per proces en per waarde in een overzichtstabel samengevat. Daaruit komt duidelijk naar voren de processen waarbij inwoners daadwerkelijke zeggenschap hebben gekregen goed scoren op de verschillende democratische waarden. Dat zijn juist die processen waarbij er een beperkte groep inwoners met een concrete vraag aan de slag gaat. Dan lukt het ook om samen te komen tot afwegingen en keuzes, wat overigens niet altijd op basis van deliberatie gebeurt.
 
