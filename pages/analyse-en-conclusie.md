@@ -112,21 +112,7 @@ In een directe democratie (referenda, burgerfora) is de kwaliteit van het publie
 
 ### Hoe scoren de processen op Deliberatie?
 
-\|-----+-----|
-
-\| XXX |     |
-
-\|----:|:---:|
-
-\| XXX | XXX |
-
-\| XXX | XXX |
-
-\|===+=======|
-
-\|   |       |
-
-\|---+-------|
+![Score deliberatie](/uploads/score_deliberatie.jpg "Score deliberatie")
 
 Inwoners ervaren de meeste gesprekken als prettig, er werd naar elkaar geluisterd en meningen werden gerespecteerd. Tijdens de G1000 en de Omgevingsvisie kwam het wel eens voor dat meningen niet werden gerespecteerd, of mensen niet aan het woord kwamen. De omvang van de groep en de begeleiding door de gespreksleider bleek daar bepalend voor het wel of niet slagen van deliberatie.
 
