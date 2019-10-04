@@ -120,9 +120,10 @@ In Aldeboarn was de Deliberatie niet relevant. De inwoners mochten stemmen op ee
 
 Hoewel de kwaliteit van het debat of de dialoog als belangrijk wordt gezien, is dit in de interviews het lastigste onderwerp om te bevragen en te verwoorden. Gemiddeld genomen zijn mensen erg tevreden over hoe er met elkaar wordt gesproken. De vraag is echter of er daadwerkelijk sprake is van uitwisseling van argumenten om te komen tot een keuze. In een deel van de processen was het maken van een keuze niet echt nodig en in een ander deel was de weg naar een keuze niet door deliberatie, maar door stemmen. Bij deliberatie valt op dat als de vraag compact is en het aantal deelnemers beperkt, het makkelijker is om te komen tot een keuze. Daar waar sterk is ingezet op consensus, blijkt de kwaliteit van deliberatie hoog (Akkrum).
 
-> Conclusie
->
-> Inwoners zijn goed in staat om respectvol met elkaar van gedachten te wisselen, maar er zijn maar weinig processen waarin daadwerkelijk een keuze gemaakt moest worden en andere opties afvielen, waarbij deliberatie de inwoners moest helpen bij het maken van een keuze. Voor de kwaliteit van deliberatie is niet alleen van belang dat het gesprek begeleid wordt, maar vooral dat duidelijk is dat er binnen bepaalde kaders een keuze gemaakt moet worden. Als dat helder is dan zijn inwoners prima in staat om door deliberatie die keuze te maken.
+{% include conclusion-quote.html 
+    title="Conclusie" 
+    paragraph="Inwoners zijn goed in staat om respectvol met elkaar van gedachten te wisselen, maar er zijn maar weinig processen waarin daadwerkelijk een keuze gemaakt moest worden en andere opties afvielen, waarbij deliberatie de inwoners moest helpen bij het maken van een keuze. Voor de kwaliteit van deliberatie is niet alleen van belang dat het gesprek begeleid wordt, maar vooral dat duidelijk is dat er binnen bepaalde kaders een keuze gemaakt moet worden. Als dat helder is dan zijn inwoners prima in staat om door deliberatie die keuze te maken." 
+%}
 
 ## Invloed
 
@@ -142,11 +143,10 @@ In andere processen was er wel meer zichtbare invloed, zoals in Aldeboarn, Milda
 
 Het blijven informeren en betrekken van inwoners, ook al zitten zij niet in de werkgroep is een leermoment geweest voor de deelnemers en ambtenaren. Hoe zij die betrokkenheid en draagvlak moeten organiseren is niet vanzelfsprekend en ook een bewustwording geweest voor deelnemers. Des te groter de regie en verantwoordelijkheid van de werkgroepleden, des te meer wordt van de werkgroepleden verwacht dat zij ook draagvlak organiseren bij alle betrokken inwoners. Deze verwachting werd uitgesproken zowel door de gemeente als door de deelnemers zelf. Bij Akkrum, Mildam en Buitengewoon De Greiden werd het draagvlak organiseren ook echt gezien als een opdracht van de werkgroep. In de G1000 was het organiseren van draagvlak meer vrijblijvend en werd dit niet of nauwelijks opgepakt door de werkgroepleden. Het organiseren van draagvlak was niet relevant voor de deelnemers aan de Omgevingsvisie en Aldeboarn omdat deze deelnemers minder betrokkenheid, minder regie en verantwoordelijkheid hadden voor het proces. Zij kwamen ‘slechts’ een idee of een stem inbrengen.
 
-> Conclusie
->
-> \
->
-> Voor inwoners is het daadwerkelijk hebben van invloed niet noodzakelijk om te ervaren dat zij invloed hebben. Het aandragen van ideeën en actief bij kunnen dragen is voor inwoners ook al een vorm van invloed. Als de inwoners zelf verantwoordelijk gemaakt worden en zeggenschap krijgen, dan worden zij geconfronteerd met dezelfde vragen en dilemma’s als de gemeente normaal heeft: hoe zit het met draagvlak en hoe zit het met representativiteit? Daarover kunnen gerichte afspraken worden gemaakt, maar dat wordt nog niet altijd expliciet gedaan.
+{% include conclusion-quote.html 
+    title="Conclusie" 
+    paragraph="Voor inwoners is het daadwerkelijk hebben van invloed niet noodzakelijk om te ervaren dat zij invloed hebben. Het aandragen van ideeën en actief bij kunnen dragen is voor inwoners ook al een vorm van invloed. Als de inwoners zelf verantwoordelijk gemaakt worden en zeggenschap krijgen, dan worden zij geconfronteerd met dezelfde vragen en dilemma’s als de gemeente normaal heeft: hoe zit het met draagvlak en hoe zit het met representativiteit? Daarover kunnen gerichte afspraken worden gemaakt, maar dat wordt nog niet altijd expliciet gedaan." 
+%}
 
 ## Legitimiteit
 
@@ -162,11 +162,10 @@ De politieke betrokkenheid was zeer groot in de G1000 Heerenveen. Dit beeld is b
 
 In de kleinere processen hebben inwoners over het algemeen vertrouwen in de uitkomsten en zij uiten tevredenheid over de inhoud. Inwoners zijn meestal iets minder tevreden over de uitvoering van het proces, al is Aldeboarn daar een uitzondering op.
 
-> Conclusie
->
-> \
->
-> De conclusies rond legitimiteit zijn opmerkelijk eensluidend: deelnemers zijn tevreden over uitkomsten en hebben er vertrouwen in dat in ieder geval een deel van de uitkomsten uitgevoerd gaat worden. In de meeste gevallen hebben de deelnemers iets minder vertrouwen in het proces, maar ze zijn zeker niet ontevreden. Mensen vertrouwen erop dat het goed komt als de gemeente verdergaat met de uitkomsten. Bijzonder aan het G1000 proces is de expliciete steun van ambtenaren en politici, dat draagt zeker bij aan een groter vertrouwen.
+{% include conclusion-quote.html 
+    title="Conclusie" 
+    paragraph="De conclusies rond legitimiteit zijn opmerkelijk eensluidend: deelnemers zijn tevreden over uitkomsten en hebben er vertrouwen in dat in ieder geval een deel van de uitkomsten uitgevoerd gaat worden. In de meeste gevallen hebben de deelnemers iets minder vertrouwen in het proces, maar ze zijn zeker niet ontevreden. Mensen vertrouwen erop dat het goed komt als de gemeente verdergaat met de uitkomsten. Bijzonder aan het G1000 proces is de expliciete steun van ambtenaren en politici, dat draagt zeker bij aan een groter vertrouwen." 
+%}
 
 ## Transparantie
 
@@ -202,9 +201,11 @@ In het proces Omgevingsvisie zijn platen met grafische tekeningen van de omgevin
 
 Er is vanuit dit onderzoek een sterke aanwijzing dat het gebruik van visuele middelen in het vormgeven van ideeën en plannen aan te raden is.
 
-> Conclusie
->
-> Bij de waarde legitimiteit bleek dat inwoners minder tevreden zijn over het proces dan over de inhoud. De conclusies bij de waarde transparantie bieden daar een verklaring voor. Processen zijn niet altijd voorspelbaar en het is niet altijd duidelijk hoe de rollen en verhoudingen in een proces liggen. Dat zorgt voor onzekerheid en soms wat minder vertrouwen. Toch hoeft het geen probleem te zijn, als er maar helder over wordt gecommuniceerd. Inwoners begrijpen het best dat als een proces anders loopt dan je denkt, dat je een aantal onderdelen aanpast. Wil je met inwoners samenwerken, dan heb je als gemeente een aantal obstakels te overwinnen: onbegrijpelijke beleidstaal, onbekendheid met de processen op het gemeentehuis en wisselende rollen en taken. Als je gebruikt maakt van beeldinformatie, is het makkelijker om mensen te binden, informeren en betrekken.
+{% include conclusion-quote.html 
+    title="Conclusie" 
+    paragraph="Bij de waarde legitimiteit bleek dat inwoners minder tevreden zijn over het proces dan over de inhoud. De conclusies bij de waarde transparantie bieden daar een verklaring voor. Processen zijn niet altijd voorspelbaar en het is niet altijd duidelijk hoe de rollen en verhoudingen in een proces liggen. Dat zorgt voor onzekerheid en soms wat minder vertrouwen. Toch hoeft het geen probleem te zijn, als er maar helder over wordt gecommuniceerd. Inwoners begrijpen het best dat als een proces anders loopt dan je denkt, dat je een aantal onderdelen aanpast. Wil je met inwoners samenwerken, dan heb je als gemeente een aantal obstakels te overwinnen: onbegrijpelijke beleidstaal, onbekendheid met de processen op het gemeentehuis en wisselende rollen en taken. Als je gebruikt maakt van beeldinformatie, is het makkelijker om mensen te binden, informeren en betrekken.
+" 
+%}
 
 ### Efficiëntie
 
@@ -217,9 +218,10 @@ Nieuwe vormen van lokale democratie, zoals loting en burgerfora, moeten een opbr
 De ervaring van deelnemers met efficiëntie in de processen is over het algemeen goed. De deelnemers vinden de tijdsbesteding wel waard voor wat het proces heeft opgeleverd. De deelnemers aan de Omgevingsvisie en Mildam ervaren de tijdsinzet als prima te doen. Een aantal deelnemers ervaren het zelfs als te weinig tijd om het goed te doen. De G1000 burgertop, waarbij deelnemers één zaterdag meepraten, was volgens de deelnemers prima te doen. De deelnemers die het gehele G1000 proces hebben doorlopen als werkgroeplid hebben soms ervaren dat de tijdsinzet te veel was. Aan de andere kant zijn juist in de processen waarin meer tijd is besteed en er zeggenschap voor inwoners was, ook de betrokkenheid en burgerschap groter.
 Inwoners zijn best bereid om zich in te zetten en tijd te besteden voor het maken van plannen of het inbrengen van ideeën. Ze willen dan wel graag van tevoren weten wat de tijdsinzet betekent. De tijdsinzet is leeftijdsgebonden. Deelnemers die met pensioen zijn en/of geen jonge kinderen hebben kijken anders naar tijd, zij geven aan dat ze ‘genoeg tijd hebben’.
 
-### Conclusie
-
-Of inwoners nu veel of weinig tijd besteden: ze vinden het de moeite waard. Wel willen ze graag van tevoren weten wat ze kunnen verwachten en is het de verwachting dat inwoners die meer tijd hebben of meer tijd over hebben voor hun omgeving makkelijker deelnemen. Dat heeft wel weer invloed op de mate van inclusie. Inwoners zijn wel meer tevreden over de efficiëntie van de processen waarbij er minder tijdsinvestering werd gevraagd. In de processen waarin veel tijd is besteed, is de betrokkenheid en burgerschap versterkt en is men inhoudelijk meer tevreden.
+{% include conclusion-quote.html 
+    title="Conclusie XXX" 
+    paragraph="Of inwoners nu veel of weinig tijd besteden: ze vinden het de moeite waard. Wel willen ze graag van tevoren weten wat ze kunnen verwachten en is het de verwachting dat inwoners die meer tijd hebben of meer tijd over hebben voor hun omgeving makkelijker deelnemen. Dat heeft wel weer invloed op de mate van inclusie. Inwoners zijn wel meer tevreden over de efficiëntie van de processen waarbij er minder tijdsinvestering werd gevraagd. In de processen waarin veel tijd is besteed, is de betrokkenheid en burgerschap versterkt en is men inhoudelijk meer tevreden." 
+%}
 
 ### Overzichtstabel
 
