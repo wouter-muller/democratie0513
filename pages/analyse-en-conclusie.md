@@ -134,21 +134,7 @@ Invloed is in een directe democratie (referenda, burgerfora, etc.) een belangrij
 
 ### Hoe scoren de processen op Invloed?
 
-\|-----+-----|
-
-\| XXX |     |
-
-\|----:|:---:|
-
-\| XXX | XXX |
-
-\| XXX | XXX |
-
-\|===+=======|
-
-\|   |       |
-
-\|---+-------|
+![score invloed](/uploads/score_invloed.jpg "score invloed")
 
 In alle processen hebben de deelnemers aangegeven dat zij de gelegenheid hebben gehad om hun mening te geven. Er is tijdens de bijeenkomsten naar de deelnemers geluisterd, de ideeën zijn genoteerd, de stemmen zijn geteld. De deelnemers realiseren zich over het algemeen goed dat niet alle plannen uitgevoerd kunnen worden en dat het een tijdje kan duren voordat de veranderingen zichtbaar zijn. In een aantal processen zijn er al een aantal veranderingen gezien of ervaren. In de G1000 en De Greiden zijn er kleine veranderingen in de wijk gezien (banken, bloemen en borden) en in Aldeboarn is de sleutel tot het verkochte pand symbolisch uitgedeeld op dezelfde avond dat er is gestemd.
 
