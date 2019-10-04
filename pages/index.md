@@ -6,9 +6,11 @@ permalink: /
 hero-heading: Kopregel Kopregel
 hero-subheading: Monitoren en evalueren van processen van lokale democratie in Heerenveen.
 hero-paragraph: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-  nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus libero leo,
+  pellentesque ornare, adipiscing vitae, rhoncus commodo, nulla. Fusce quis
+  ipsum. Nulla neque massa, feugiat sed, commodo in, adipiscing ut, est. In
+  fermentum mattis ligula. Nulla ipsum. Vestibulum condimentum condimentum
+  augue.
 content-intro: >-
   De afgelopen jaren heeft de gemeente Heerenveen samen met inwoners
   geëxperimenteerd met nieuwe vormen van lokale democratie om de betrokkenheid
