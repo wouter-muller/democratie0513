@@ -55,21 +55,7 @@ Een aantal ambtenaren ervaart een aantal processen niet als nieuwe vormen van lo
 
 Hieronder is in een overzichtstabel met een aantal kenmerken van de processen samengevat.
 
-\|-----+-----|
-
-\| XXX |     |
-
-\|----:|:---:|
-
-\| XXX | XXX |
-
-\| XXX | XXX |
-
-\|===+=======|
-
-\|   |       |
-
-\|---+-------|
+![](/uploads/tabel.jpg)
 
 De gemeente Heerenveen haalde inspiratie voor het vormgeven van de processen uit de opzet van de G1000, community processing en de al meer ingeburgerde vorm coproductie. Ieder van de processen kent een eigen inrichting en werkwijze, waarbij de G1000 en Aldeboarn het meest strak geregisseerde proces was. In de andere processen is steeds een vorm van coproductie gekozen, waarbij elementen uit community processing zijn toegepast, de ene keer meer dan de andere keer. Het centrumproces is het best te classificeren als een experiment met loting. In De Greiden is ook loting toegepast, maar zijn daarna vooral elementen uit community processing gebruikt. In de andere processen is er feitelijk sprake van een vorm van coproductie, waarbij elementen van community processing zijn toegepast. Daarbij geldt dat in de kleinschalige processen meer ruimte voor input en keuzes van inwoners is geweest dan in het grotere en complexere proces rond de omgevingsvisie (dat overigens nog niet is afgerond).
 
