@@ -69,10 +69,12 @@ De betrokkenheid van inwoners en het belang van het betrekken van alle doelgroep
 2. [Geerten Boogaard spreekt op eerste lustrum G1000-beweging.](https://www.universiteitleiden.nl/nieuws/2019/09/geerten-boogaard-spreekt-op-eerste-lustrum-g1000-beweging)
 
 
+{% include conclusion-quote.html 
+    title="Conclusie Inclusie" 
+    paragraph="Inclusie verdient meer aandacht in de processen waarbij de gemeente van tevoren kan bedenken welke ambities zij hebben op het gebied van inclusie." 
+%}
 
-Conclusie
-Inclusie verdient meer aandacht in de processen waarbij de gemeente van tevoren kan bedenken welke ambities zij hebben op het gebied van inclusie. Voorbeelden van ambities zijn:
-
+## Voorbeelden van ambities zijn:
 * Een diverse groep mensen die voor de gemeenschap ideeën kan inbrengen en aandacht hebben voor het algemene belang.
 * Een representatieve groep van het dorp.
 * Een representatieve groep voor het vraagstuk.
