@@ -120,7 +120,7 @@ collections: # A list of collections the CMS should be able to edit
               - { label: "Tekst", name: "paragraph", widget: "text", required: false }
               - { label: "Link", name: "url", widget: "string" }
           - {label: "Body", name: "body", widget: "markdown"}
-      - name: "democratische-meetlat"
+      - name: "de-democratische-meetlat"
         label: "De democratische meetlat"
         file: "/pages/de-democratische-meetlat.md"
         fields:
