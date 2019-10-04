@@ -21,9 +21,12 @@ chapters:
 ## Samenvatting
 
 Wat is de democratische kwaliteit van de verschillende democratische processen in de gemeente Heerenveen en hoe hebben betrokkenen de processen ervaren en beleefd?De gemeente Heerenveen experimenteert volop met nieuwe vormen van democratie en heeft NHL-Stenden gevraagd om de experimenten te monitoren en te evalueren. De opzet en uitvoering van de bijeenkomsten en de ervaringen van de deelnemers stonden centraal in de monitor. In een half jaar tijd hebben studenten en onderzoekers met de raad, ambtenaren en inwoners van de gemeente Heerenveen mee mogen kijken in 6 processen waarin op een andere manier met inwoners is samengewerkt. Door middel van interviews en observaties is de democratische kwaliteit van ieder van de processen in beeld gebracht. Het onderzoek startte met de vraag:
-__________________________________________________________________________________
+
+- - -
+
 ### Wat is de democratische kwaliteit van de verschillende democratische processen in de gemeente Heerenveen en hoe hebben betrokkenen de processen ervaren en beleefd?
-__________________________________________________________________________________
+
+- - -
 
 Om de democratische kwaliteit van de processen in beeld te krijgen, zijn de volgende deelvragen geformuleerd en beantwoord:
 
@@ -39,6 +42,8 @@ De eerste deelvraag gaat in op de veronderstellingen van de gemeente Heerenveen.
 De tweede deelvraag laat zien dat de processen die ingezet zijn door de gemeente verschillen in aard en omvang. De inspiratie voor de processen komt uit verschillende bronnen, maar in ieder proces lijkt een mengvorm te zijn toegepast. De elementen uit community processing die veel worden ingezet zijn het hanteren van een open vraag, mensen zelf tot een oplossing laten komen en het betrekken van iedereen die betrokken wil worden. Uit de G1000 wordt het element loting ingezet. De processen verschillen op een aantal onderdelen: deelnemers, agendering en kaderstelling, processtappen, afweging en ondersteuning, zeggenschap en beslisregels.
 
 De wijze waarop de processen zijn ingericht beïnvloedt de verschillende democratische waarden, is een uitkomst van deelvraag drie. De wijze van uitnodigen heeft invloed op inclusie en burgerschap in een proces. Het wel of niet vooraf kaders stellen of de agenda bepalen, heeft invloed op de invloed die inwoners kunnen hebben en de kwaliteit van de deliberatie. Hoe het proces wordt ingericht in tussenstappen en de communicatie daarover heeft invloed op transparantie en efficiëntie in een proces. De beslisregels bepalen mede de legitimiteit en invloed. Afhankelijk van wat de gemeente in een proces wil bereiken, kan de gemeente spelen met de invulling van de democratische waarden.
+
+![]()
 
 In het onderzoek is, naar deelvraag vier, iedere waarde voor ieder proces in beeld gebracht aan de hand van de ervaringen van inwoners. Dit leverde de volgende inzichten op:
 
