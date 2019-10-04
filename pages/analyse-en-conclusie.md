@@ -41,9 +41,7 @@ De gemeente Heerenveen haalde inspiratie voor het vormgeven van de processen uit
 
 [Vergelijking Democratische Waarden.](/de-democratische-meetlat) Lees hier de vergelijking tussen de democratische waarden In de verschillende processen.
 
-
 ## Vergelijking democratische waarden
-
 
 ## Inclusie
 
@@ -65,10 +63,8 @@ Er is in alle processen vaak gezegd dat het goed is dat de gemeente meer inwoner
 
 De betrokkenheid van inwoners en het belang van het betrekken van alle doelgroepen is niet in ieder proces hetzelfde. Dat is niet noodzakelijk een probleem: afhankelijk van wat je wilt bereiken, is het meer of minder belangrijk dat alle doelgroepen of alle betrokken belangen aan tafel zitten. Soms is het ook prima om die ene burger te treffen die over niets anders wil praten dan het fietspad dat er volgens hem echt moet komen. Je wilt als gemeente juist een variatie aan vormen inzetten, die meerdere groepen bereikt en niet iedereen zal evenveel betrokkenheid willen of kunnen hebben.
 
-\#verwijzingen_voetnoot#\
-1 http://www.expertisecentrumjournalistiek.nl/slot-toespraak-herman-tjeenk-willink-verval-van-de-democratische-rechtsstaat-en-de-rol-van-de-pers/
-
-2 https://www.universiteitleiden.nl/nieuws/2019/09/geerten-boogaard-spreekt-op-eerste-lustrum-g1000-beweging
+1. [Verval van de democratische rechtsstaat en de rol van de pers.](http://www.expertisecentrumjournalistiek.nl/slot-toespraak-herman-tjeenk-willink-verval-van-de-democratische-rechtsstaat-en-de-rol-van-de-pers/)
+2. [Geerten Boogaard spreekt op eerste lustrum G1000-beweging.](https://www.universiteitleiden.nl/nieuws/2019/09/geerten-boogaard-spreekt-op-eerste-lustrum-g1000-beweging)
 
 > Conclusie
 >
@@ -173,6 +169,7 @@ In de kleinere processen hebben inwoners over het algemeen vertrouwen in de uitk
 > De conclusies rond legitimiteit zijn opmerkelijk eensluidend: deelnemers zijn tevreden over uitkomsten en hebben er vertrouwen in dat in ieder geval een deel van de uitkomsten uitgevoerd gaat worden. In de meeste gevallen hebben de deelnemers iets minder vertrouwen in het proces, maar ze zijn zeker niet ontevreden. Mensen vertrouwen erop dat het goed komt als de gemeente verdergaat met de uitkomsten. Bijzonder aan het G1000 proces is de expliciete steun van ambtenaren en politici, dat draagt zeker bij aan een groter vertrouwen.
 
 ## Transparantie
+
 In een democratie is vrijheid van informatie belangrijk. Als burgers niet over informatie beschikken kunnen zij ook niet deelnemen aan besluitvorming. Het is in samenwerking belangrijk om duidelijk aan te geven wat deelnemers mogen verwachten: wat is ieders rol, wat zijn de kaders en wat gaat er gebeuren met het resultaat. Dit is belangrijk om teleurstelling achteraf te voorkomen. (Michels, 2011). Bij de democratische waarde Transparantie is gekeken naar communicatie over kaders en rollen, inhoud en proces.
 
 ### Hoe scoren de processen op Transparantie?
