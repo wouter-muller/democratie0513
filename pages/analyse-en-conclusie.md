@@ -51,21 +51,7 @@ Inclusie is een belangrijke waarde omdat het gaat om wie in de democratie allema
 
 #### Hoe scoren de processen op Inclusie?
 
-\|-----+-----|
-
-\| XXX |     |
-
-\|----:|:---:|
-
-\| XXX | XXX |
-
-\| XXX | XXX |
-
-\|===+=======|
-
-\|   |       |
-
-\|---+-------|
+![Score inclusie](/uploads/score_inclusie.jpg "Score inclusie")
 
 De wijze van uitnodigen was divers in de zes processen van lokale democratie. We zagen van een a-selecte loting tot het uitnodigen van een selecte groep directbetrokkenen. Deelnemers geven bij bijna alle processen aan dat nog niet de juiste formule gevonden is in de wijze van uitnodigen of het betrekken van mensen. Het breed uitnodigen van inwoners heeft de voorkeur omdat iedereen dan de kans krijgt om mee te doen en het vergroot ook de bekendheid met de activiteit. Toch zien we ook bij breed uitnodigen, of loten dat niet alle groepen vertegenwoordigd zijn of alle belangen aan tafel zitten.
 
