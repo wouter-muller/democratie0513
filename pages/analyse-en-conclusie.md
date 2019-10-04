@@ -187,7 +187,7 @@ In Mildam is van tevoren met het plaatselijk belang besproken hoe het proces eru
 
 Wat opvalt is dat de veranderingen in de processtappen of besluiten geen probleem opleveren zolang er maar duidelijk over gecommuniceerd wordt. Als de processtappen en wijze van besluiten goed gecommuniceerd zijn dan voelen de deelnemers zich serieus genomen en heeft het geen negatief effect op de legitimiteit.
 
-<center>### “Een tekening is anders dan een verslag”.
+\### “Een tekening is anders dan een verslag”.
 
 Verschillende deelnemers geven aan dat een tekening een andere impact heeft dan een verslag. In Mildam werden de grote platen met tekeningen van de straten erg gewaardeerd. De deelnemers konden een goed beeld krijgen van de omgeving en de straat en men kon zelf zien waar en hoe de veranderingen plaats gingen vinden. Het gaf de deelnemers een gevoel van controle en invloed als zij op de tekening konden aangeven wat de wensen waren. Dit geeft een grotere betrokkenheid dan als een ambtenaar notulen maakt van wat er gezegd wordt. Dat heeft met de directe zichtbaarheid te maken, zeggen de deelnemers. Het zien van de uitkomsten maakt het concreet, echt en controleerbaar. Hetzelfde enthousiasme was ook te horen bij de deelnemers van de G1000, over de tekeningen van de plannen van de deelnemers die gemaakt zijn door ambtenaren.
 
