@@ -28,6 +28,7 @@ Wat is de democratische kwaliteit van de verschillende democratische processen i
 
 - - -
 
+\
 Om de democratische kwaliteit van de processen in beeld te krijgen, zijn de volgende deelvragen geformuleerd en beantwoord:
 
 * Wat zijn de verwachtingen van de raad van de gemeente Heerenveen bij opstarten en inrichten van de processen? (beleidstheorie en interviews)
