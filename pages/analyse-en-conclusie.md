@@ -45,7 +45,6 @@ In verschillende processen van lokale democratie zijn inwoners van de gemeente H
 ### Nieuwe vormen van lokale democratie?
 
 Eén van de doelen was om te komen tot nieuwe verhoudingen met de inwoners, nieuwe vormen van democratie. De gemeente Heerenveen maakt gebruik van een grote diversiteit aan vormen van samenwerken. De processen die zijn onderzocht zien er allemaal anders uit, wat betreft opzet. De diversiteit zit in:
-
 * **De deelnemers:** wie er meedoen aan het proces om te komen tot een beslissing en de uiteindelijke beslissing;
 * **De agendering:** vooraf wel of niet vastgesteld en in welke mate is er afgebakend of worden er vooraf kaders gesteld; 
 * **Proces van selectie/tussenstappen:** op welke wijze (vooraf of tijdens) en in welke stappen de input wordt verwerkt tot een aantal gericht te maken keuzes en op welke wijze worden inwoners daarbij ondersteund; 
