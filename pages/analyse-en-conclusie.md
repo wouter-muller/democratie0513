@@ -63,24 +63,21 @@ Er is in alle processen vaak gezegd dat het goed is dat de gemeente meer inwoner
 
 De betrokkenheid van inwoners en het belang van het betrekken van alle doelgroepen is niet in ieder proces hetzelfde. Dat is niet noodzakelijk een probleem: afhankelijk van wat je wilt bereiken, is het meer of minder belangrijk dat alle doelgroepen of alle betrokken belangen aan tafel zitten. Soms is het ook prima om die ene burger te treffen die over niets anders wil praten dan het fietspad dat er volgens hem echt moet komen. Je wilt als gemeente juist een variatie aan vormen inzetten, die meerdere groepen bereikt en niet iedereen zal evenveel betrokkenheid willen of kunnen hebben.
 
+
+
 1. [Verval van de democratische rechtsstaat en de rol van de pers.](http://www.expertisecentrumjournalistiek.nl/slot-toespraak-herman-tjeenk-willink-verval-van-de-democratische-rechtsstaat-en-de-rol-van-de-pers/)
 2. [Geerten Boogaard spreekt op eerste lustrum G1000-beweging.](https://www.universiteitleiden.nl/nieuws/2019/09/geerten-boogaard-spreekt-op-eerste-lustrum-g1000-beweging)
 
-> Conclusie
->
-> \
->
-> Inclusie verdient meer aandacht in de processen waarbij de gemeente van tevoren kan bedenken welke ambities zij hebben op het gebied van inclusie. Voorbeelden van ambities zijn:
 
-Een diverse groep mensen die voor de gemeenschap ideeën kan inbrengen en aandacht hebben voor het algemene belang.
 
-Een representatieve groep van het dorp.
+Conclusie
+Inclusie verdient meer aandacht in de processen waarbij de gemeente van tevoren kan bedenken welke ambities zij hebben op het gebied van inclusie. Voorbeelden van ambities zijn:
 
-Een representatieve groep voor het vraagstuk.
-
-Iedereen met een belang aan tafel.
-
-Elke ambitie vraagt een andere manier van uitnodigen, loting biedt geen garantie voor inclusie.
+* Een diverse groep mensen die voor de gemeenschap ideeën kan inbrengen en aandacht hebben voor het algemene belang.
+* Een representatieve groep van het dorp.
+* Een representatieve groep voor het vraagstuk.
+* Iedereen met een belang aan tafel.
+* Elke ambitie vraagt een andere manier van uitnodigen, loting biedt geen garantie voor inclusie.
 
 ## Burgerschap
 
@@ -96,11 +93,8 @@ De deelnemers aan de verschillende processen worden over het algemeen niet actie
 
 Deelnemers doen om diverse redenen mee. Het valt op dat de deelnemers aan de G1000 en Aldeboarn nieuwsgierig waren naar het proces en dat in de processen gericht op specifieke plannen in het dorp deelnemers vaker benoemen dat zij een persoonlijk belang hebben.
 
-> Conclusie
->
-> \
->
-> De processen van lokale democratie trekken over het algemeen de actieve, maatschappelijk betrokken inwoners aan. Het betrekken van niet actieve, bij de gemeente onbekende inwoners blijkt moeilijk. De gemeente kan meer en andere inwoners betrekken door te sturen op vorm van lokale democratie en de wijze van uitnodigen. Inwoners voelen zich bijvoorbeeld eerder uitgenodigd om mee te doen aan een nieuwe vorm (G1000 en Stem uitbrengen), wanneer zij persoonlijk benaderd worden of wanneer ze een heel duidelijk belang hebben.
+Conclusie\
+De processen van lokale democratie trekken over het algemeen de actieve, maatschappelijk betrokken inwoners aan. Het betrekken van niet actieve, bij de gemeente onbekende inwoners blijkt moeilijk. De gemeente kan meer en andere inwoners betrekken door te sturen op vorm van lokale democratie en de wijze van uitnodigen. Inwoners voelen zich bijvoorbeeld eerder uitgenodigd om mee te doen aan een nieuwe vorm (G1000 en Stem uitbrengen), wanneer zij persoonlijk benaderd worden of wanneer ze een heel duidelijk belang hebben.
 
 ## Deliberatie
 
