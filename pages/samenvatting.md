@@ -6,36 +6,16 @@ permalink: /samenvatting
 hero-heading: Samenvatting
 content-intro:
 chapters:
-  - paragraph: >-
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem,
-      temporibus rerum recusandae sapiente deserunt molestias at, odit deleniti
-      aliquam expedita assumenda saepe sit sequi nisi consequatur ipsa est
-      delectus iste.
-    title: Het onderzoek
+  - title: Het onderzoek
     type: research
     url: /het-onderzoek
-  - paragraph: >-
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem,
-      temporibus rerum recusandae sapiente deserunt molestias at, odit deleniti
-      aliquam expedita assumenda saepe sit sequi nisi consequatur ipsa est
-      delectus iste.
-    title: Samenvatting
+  - title: Samenvatting
     type: summary
     url: /samenvatting
-  - paragraph: >-
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem,
-      temporibus rerum recusandae sapiente deserunt molestias at, odit deleniti
-      aliquam expedita assumenda saepe sit sequi nisi consequatur ipsa est
-      delectus iste.
-    title: Uitkomsten
+  - title: Uitkomsten
     type: results
     url: /uitkomsten
-  - paragraph: >-
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem,
-      temporibus rerum recusandae sapiente deserunt molestias at, odit deleniti
-      aliquam expedita assumenda saepe sit sequi nisi consequatur ipsa est
-      delectus iste.
-    title: Analyse en conclusie
+  - title: Analyse en conclusie
     type: analysis
     url: /analyse
 ---
