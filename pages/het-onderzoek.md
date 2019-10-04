@@ -69,7 +69,7 @@ De belangrijkste actoren in het onderzoek zijn de betrokken inwoners. Uit alle a
 
 In onderstaand schema is zichtbaar welke en hoeveel actoren zijn geïnterviewd.
 
-\|---+------------+-----------------|
+|---+------------+-----------------|
 |  Actor  | Aantal | Hoe  |
 |-----------------|-----------|---------------|
 | Burgers (G1000) | 37 | Diepte-interview |
