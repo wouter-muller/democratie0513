@@ -41,7 +41,7 @@ De gemeente Heerenveen haalde inspiratie voor het vormgeven van de processen uit
 
 [Vergelijking Democratische Waarden.](/de-democratische-meetlat) Lees hier de vergelijking tussen de democratische waarden In de verschillende processen.
 
-## Vergelijking democratische waarden
+### Vergelijking democratische waarden
 
 ## Inclusie
 
@@ -73,7 +73,7 @@ De betrokkenheid van inwoners en het belang van het betrekken van alle doelgroep
     paragraph="Inclusie verdient meer aandacht in de processen waarbij de gemeente van tevoren kan bedenken welke ambities zij hebben op het gebied van inclusie." 
 %}
 
-## Voorbeelden van ambities zijn:
+### Voorbeelden van ambities zijn:
 
 * Een diverse groep mensen die voor de gemeenschap ideeën kan inbrengen en aandacht hebben voor het algemene belang.
 * Een representatieve groep van het dorp.
