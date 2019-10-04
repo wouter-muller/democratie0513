@@ -108,11 +108,12 @@ Deelnemers doen om diverse redenen mee. Het valt op dat de deelnemers aan de G10
 >
 > De processen van lokale democratie trekken over het algemeen de actieve, maatschappelijk betrokken inwoners aan. Het betrekken van niet actieve, bij de gemeente onbekende inwoners blijkt moeilijk. De gemeente kan meer en andere inwoners betrekken door te sturen op vorm van lokale democratie en de wijze van uitnodigen. Inwoners voelen zich bijvoorbeeld eerder uitgenodigd om mee te doen aan een nieuwe vorm (G1000 en Stem uitbrengen), wanneer zij persoonlijk benaderd worden of wanneer ze een heel duidelijk belang hebben.
 
-### Deliberatie
+## Deliberatie
 
 In een directe democratie (referenda, burgerfora) is de kwaliteit van het publieke debat belangrijk voor de besluitvorming. In een debat moeten deelnemers naar elkaar luisteren en standpunten uit kunnen wisselen. Ze moeten bereid zijn om overtuigd te worden door de ander met rationele argumentatie. Dit vraagt een omgeving en omstandigheden waar iedereen gerespecteerd wordt en mee kan doen aan het debat. Deelnemers moeten ook redelijke argumenten kunnen aandragen en oog hebben voor het maatschappelijke belang (Michels, 2011). Bij Deliberatie wordt gekeken naar de dialoog tussen de deelnemers in de verschillende processen.
 
-#### Hoe scoren de processen op Deliberatie?
+### Hoe scoren de processen op Deliberatie?
+
 
 ![Score deliberatie](/uploads/score_deliberatie.jpg "Score deliberatie")
 
@@ -130,11 +131,12 @@ Hoewel de kwaliteit van het debat of de dialoog als belangrijk wordt gezien, is 
 >
 > Inwoners zijn goed in staat om respectvol met elkaar van gedachten te wisselen, maar er zijn maar weinig processen waarin daadwerkelijk een keuze gemaakt moest worden en andere opties afvielen, waarbij deliberatie de inwoners moest helpen bij het maken van een keuze. Voor de kwaliteit van deliberatie is niet alleen van belang dat het gesprek begeleid wordt, maar vooral dat duidelijk is dat er binnen bepaalde kaders een keuze gemaakt moet worden. Als dat helder is dan zijn inwoners prima in staat om door deliberatie die keuze te maken.
 
-### Invloed
+## Invloed
 
 Invloed is in een directe democratie (referenda, burgerfora, etc.) een belangrijke democratische waarde. Burgers moeten immers direct invloed kunnen uitoefenen op het politieke besluitvormingsproces. Bij Invloed wordt gekeken naar in hoeverre er geluisterd wordt naar de mening en de ideeën van burgers en in hoeverre de plannen van burgers leiden tot een werkelijke (beleids)verandering.
 
 ### Hoe scoren de processen op Invloed?
+
 
 ![score invloed](/uploads/score_invloed.jpg "score invloed")
 
@@ -154,11 +156,12 @@ Het blijven informeren en betrekken van inwoners, ook al zitten zij niet in de w
 >
 > Voor inwoners is het daadwerkelijk hebben van invloed niet noodzakelijk om te ervaren dat zij invloed hebben. Het aandragen van ideeën en actief bij kunnen dragen is voor inwoners ook al een vorm van invloed. Als de inwoners zelf verantwoordelijk gemaakt worden en zeggenschap krijgen, dan worden zij geconfronteerd met dezelfde vragen en dilemma’s als de gemeente normaal heeft: hoe zit het met draagvlak en hoe zit het met representativiteit? Daarover kunnen gerichte afspraken worden gemaakt, maar dat wordt nog niet altijd expliciet gedaan.
 
-### Legitimiteit
+## Legitimiteit
 
 Een goed werkende democratie heeft legitimiteit nodig, een goed vertrouwen en steun in het systeem en de mensen (Peters et al, 2014). Steunen inwoners en/of steunen politici en ambtenaren het proces en/of de besluiten? Bij Legitimiteit wordt gekeken naar drie aspecten: acceptatie, vertrouwen en tevredenheid.
 
 ### Hoe scoren de processen op Legitimiteit?
+
 
 ![score legitimiteit](/uploads/score_legitimiteit.jpg "score legitimiteit")
 
@@ -174,10 +177,11 @@ In de kleinere processen hebben inwoners over het algemeen vertrouwen in de uitk
 >
 > De conclusies rond legitimiteit zijn opmerkelijk eensluidend: deelnemers zijn tevreden over uitkomsten en hebben er vertrouwen in dat in ieder geval een deel van de uitkomsten uitgevoerd gaat worden. In de meeste gevallen hebben de deelnemers iets minder vertrouwen in het proces, maar ze zijn zeker niet ontevreden. Mensen vertrouwen erop dat het goed komt als de gemeente verdergaat met de uitkomsten. Bijzonder aan het G1000 proces is de expliciete steun van ambtenaren en politici, dat draagt zeker bij aan een groter vertrouwen.
 
-\### Transparantie\
+## Transparantie
 In een democratie is vrijheid van informatie belangrijk. Als burgers niet over informatie beschikken kunnen zij ook niet deelnemen aan besluitvorming. Het is in samenwerking belangrijk om duidelijk aan te geven wat deelnemers mogen verwachten: wat is ieders rol, wat zijn de kaders en wat gaat er gebeuren met het resultaat. Dit is belangrijk om teleurstelling achteraf te voorkomen. (Michels, 2011). Bij de democratische waarde Transparantie is gekeken naar communicatie over kaders en rollen, inhoud en proces.
 
-\### Hoe scoren de processen op Transparantie?
+### Hoe scoren de processen op Transparantie?
+
 
 ![score transparantie](/uploads/score_transparantie.jpg "score transparantie")
 
@@ -216,6 +220,7 @@ Er is vanuit dit onderzoek een sterke aanwijzing dat het gebruik van visuele mid
 Nieuwe vormen van lokale democratie, zoals loting en burgerfora, moeten een opbrengst geven in termen van versterken van de democratie en vergroten van betrokkenheid. Tegelijkertijd is de gedachte dat het geen efficiënte manier van besturen is en dat het veel tijd kosten van inwoners en de gemeente. David van Reybrouck betoogt dat loting als politiek besluitvormingsproces juist wel een efficiënte manier van besturen is. Het vereist in het begin wellicht veel tijd maar het idee is dat er na de besluitvorming meer draagvlak is en meer legitimiteit. Daardoor zullen de besluiten sneller en beter hun weg vinden (Van Reybrouck, 2015). Bij efficiëntie wordt gekeken naar de beleving van de tijdsinzet van de deelnemers en ambtenaren.
 
 ## Hoe scoren de processen op Efficiëntie?
+
 
 ![score efficiency](/uploads/score_efficiency.jpg "score efficiency")
 
