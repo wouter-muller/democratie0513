@@ -127,6 +127,7 @@ Deelnemers doen om diverse redenen mee. Het valt op dat de deelnemers aan de G10
 > De processen van lokale democratie trekken over het algemeen de actieve, maatschappelijk betrokken inwoners aan. Het betrekken van niet actieve, bij de gemeente onbekende inwoners blijkt moeilijk. De gemeente kan meer en andere inwoners betrekken door te sturen op vorm van lokale democratie en de wijze van uitnodigen. Inwoners voelen zich bijvoorbeeld eerder uitgenodigd om mee te doen aan een nieuwe vorm (G1000 en Stem uitbrengen), wanneer zij persoonlijk benaderd worden of wanneer ze een heel duidelijk belang hebben. 
 
 ### Deliberatie
+
 In een directe democratie (referenda, burgerfora) is de kwaliteit van het publieke debat belangrijk voor de besluitvorming. In een debat moeten deelnemers naar elkaar luisteren en standpunten uit kunnen wisselen. Ze moeten bereid zijn om overtuigd te worden door de ander met rationele argumentatie. Dit vraagt een omgeving en omstandigheden waar iedereen gerespecteerd wordt en mee kan doen aan het debat. Deelnemers moeten ook redelijke argumenten kunnen aandragen en oog hebben voor het maatschappelijke belang (Michels, 2011). Bij Deliberatie wordt gekeken naar de dialoog tussen de deelnemers in de verschillende processen.  
 
 ### Hoe scoren de processen op Deliberatie?
@@ -148,6 +149,7 @@ Hoewel de kwaliteit van het debat of de dialoog als belangrijk wordt gezien, is 
 > Inwoners zijn goed in staat om respectvol met elkaar van gedachten te wisselen, maar er zijn maar weinig processen waarin daadwerkelijk een keuze gemaakt moest worden en andere opties afvielen, waarbij deliberatie de inwoners moest helpen bij het maken van een keuze. Voor de kwaliteit van deliberatie is niet alleen van belang dat het gesprek begeleid wordt, maar vooral dat duidelijk is dat er binnen bepaalde kaders een keuze gemaakt moet worden. Als dat helder is dan zijn inwoners prima in staat om door deliberatie die keuze te maken. 
 
 ### Invloed\
+
 Invloed is in een directe democratie (referenda, burgerfora, etc.) een belangrijke democratische waarde. Burgers moeten immers direct invloed kunnen uitoefenen op het politieke besluitvormingsproces. Bij Invloed wordt gekeken naar in hoeverre er geluisterd wordt naar de mening en de ideeën van burgers en in hoeverre de plannen van burgers leiden tot een werkelijke (beleids)verandering. 
 
 ### Hoe scoren de processen op Invloed?
@@ -171,6 +173,7 @@ Het blijven informeren en betrekken van inwoners, ook al zitten zij niet in de w
 > Voor inwoners is het daadwerkelijk hebben van invloed niet noodzakelijk om te ervaren dat zij invloed hebben. Het aandragen van ideeën en actief bij kunnen dragen is voor inwoners ook al een vorm van invloed. Als de inwoners zelf verantwoordelijk gemaakt worden en zeggenschap krijgen, dan worden zij geconfronteerd met dezelfde vragen en dilemma’s als de gemeente normaal heeft: hoe zit het met draagvlak en hoe zit het met representativiteit? Daarover kunnen gerichte afspraken worden gemaakt, maar dat wordt nog niet altijd expliciet gedaan.  
 
 ### Legitimiteit
+
 Een goed werkende democratie heeft legitimiteit nodig, een goed vertrouwen en steun in het systeem en de mensen (Peters et al, 2014). Steunen inwoners en/of steunen politici en ambtenaren het proces en/of de besluiten? Bij Legitimiteit wordt gekeken naar drie aspecten: acceptatie, vertrouwen en tevredenheid.  
 
 Hoe scoren de processen op Legitimiteit?
@@ -195,3 +198,49 @@ In een democratie is vrijheid van informatie belangrijk. Als burgers niet over i
 Hoe scoren de processen op Transparantie?
 
 \#invoegen tabel#
+
+Elk proces heeft een andere opzet gekregen en elk proces liep anders dan van tevoren verwacht of bedacht. 
+
+De G1000 heeft een vrij strak programma. Dat is ook zo ervaren door de meeste deelnemers. De meeste deelnemers vonden dat prettig. Het begin van de G1000 was duidelijk voor de deelnemers. Gedurende het proces werden bepaalde zaken onduidelijk: de processtappen, het spindiagram, het stemmen en afwegen en de hoeveelheid tijd die het kost om mee te doen. 
+
+Er is door de ambtenaren veel nagedacht en voorbereid in de processen om informatie goed en duidelijk te delen. Een communicatiebureau is ingehuurd, een G1000 organisatie is ingezet en ambtenaren hebben informatie visueel en compact geformuleerd. Toch gaat er gemakkelijk iets mis in de communicatie over het proces en de inhoud. 
+
+In het proces de Omgevingsvisie is vooraf een duidelijke opzet gemaakt voor het proces, ook met een communicatieplan. Tijdens het proces werd bij elke processtap en na elke bijeenkomst geëvalueerd en daarna de werkwijze weer iets aangepast. De omgevingsvisie riep bij de deelnemers vragen op over de bedoeling, de werkvormen en over rollen en taken, ondanks de communicatie daarover. Niet iedere deelnemer las de informatie vooraf of vond dat nodig. 
+
+Het proces Akkrum is het minst voorspelbaar geweest omdat het proces vooraf niet is ingericht. Gedurende het proces zijn steeds aanpassingen gedaan. De communicatie over het proces, de processtappen en de wijze van besluiten werd in het proces Akkrum gemist. Er zijn vooraf geen kaders afgesproken en het is tot heden niet duidelijk en zeker of er budget is voor de plannen die gemaakt worden. De gelegenheid om een extern adviseur in te huren en een werkelijke samenwerking tussen de werkgroep en ambtenaren leverde tevredenheid op bij beide partijen. 
+
+Het proces Aldeboarn is van tevoren opgeschreven en uitgevoerd zoals bedacht en vervolgens ook zo uitgevoerd. Het hele proces, de afspraken en het vervolg was duidelijk voor de inwoners.
+
+In Mildam is van tevoren met het plaatselijk belang besproken hoe het proces eruit moest zien. Dit proces is over het algemeen zo uitgevoerd. Aan het einde van het proces bleek dat er onduidelijkheid was over de vertegenwoordiging van de plannen en de wijze van besluiten. Daarop zijn achteraf nog wijzigingen in gemaakt en interventies op gepleegd door de ambtenaren. 
+
+Wat opvalt is dat de veranderingen in de processtappen of besluiten geen probleem opleveren zolang er maar duidelijk over gecommuniceerd wordt. Als de processtappen en wijze van besluiten goed gecommuniceerd zijn dan voelen de deelnemers zich serieus genomen en heeft het geen negatief effect op de legitimiteit. 
+
+“Een tekening is anders dan een verslag”. 
+
+Verschillende deelnemers geven aan dat een tekening een andere impact heeft dan een verslag. In Mildam werden de grote platen met tekeningen van de straten erg gewaardeerd. De deelnemers konden een goed beeld krijgen van de omgeving en de straat en men kon zelf zien waar en hoe de veranderingen plaats gingen vinden. Het gaf de deelnemers een gevoel van controle en invloed als zij op de tekening konden aangeven wat de wensen waren. Dit geeft een grotere betrokkenheid dan als een ambtenaar notulen maakt van wat er gezegd wordt. Dat heeft met de directe zichtbaarheid te maken, zeggen de deelnemers. Het zien van de uitkomsten maakt het concreet, echt en controleerbaar. Hetzelfde enthousiasme was ook te horen bij de deelnemers van de G1000, over de tekeningen van de plannen van de deelnemers die gemaakt zijn door ambtenaren. 
+
+In Akkrum ondervonden de deelnemers dat zij de ambtenaar onvoldoende mee hebben genomen in hun voortgang doordat zij enkel de verslagen van hun vergaderingen hadden gestuurd. Ze merkten dat toen de ambtenaren de tekeningen van hun plannen zagen dat deze toch anders overkwamen dan de verslagen. 
+
+In het proces Omgevingsvisie zijn platen met grafische tekeningen van de omgeving ter informatie gedeeld. De platen die in de bijeenkomsten gebruikt zijn om ideeën op te schrijven zijn daarentegen vaker verwarrend genoemd. Dit komt doordat de taal die gebruikt wordt door ambtenaren anders kan zijn dan de taal van de deelnemers. De deelnemers zien daardoor soms hun eigen ideeën niet meer terug. Ambtenaren in het proces de Omgevingsvisie ervaren het als een uitdaging om die vertaling goed te maken. 
+
+Er is vanuit dit onderzoek een sterke aanwijzing dat het gebruik van visuele middelen in het vormgeven van ideeën en plannen aan te raden is. 
+
+> Conclusie
+>
+> Bij de waarde legitimiteit bleek dat inwoners minder tevreden zijn over het proces dan over de inhoud. De conclusies bij de waarde transparantie bieden daar een verklaring voor. Processen zijn niet altijd voorspelbaar en het is niet altijd duidelijk hoe de rollen en verhoudingen in een proces liggen. Dat zorgt voor onzekerheid en soms wat minder vertrouwen. Toch hoeft het geen probleem te zijn, als er maar helder over wordt gecommuniceerd. Inwoners begrijpen het best dat als een proces anders loopt dan je denkt, dat je een aantal onderdelen aanpast. Wil je met inwoners samenwerken, dan heb je als gemeente een aantal obstakels te overwinnen: onbegrijpelijke beleidstaal, onbekendheid met de processen op het gemeentehuis en wisselende rollen en taken. Als je gebruikt maakt van beeldinformatie, is het makkelijker om mensen te binden, informeren en betrekken. 
+
+### Efficiëntie
+Nieuwe vormen van lokale democratie, zoals loting en burgerfora, moeten een opbrengst geven in termen van versterken van de democratie en vergroten van betrokkenheid. Tegelijkertijd is de gedachte dat het geen efficiënte manier van besturen is en dat het veel tijd kosten van inwoners en de gemeente. David van Reybrouck betoogt dat loting als politiek besluitvormingsproces juist wel een efficiënte manier van besturen is. Het vereist in het begin wellicht veel tijd maar het idee is dat er na de besluitvorming meer draagvlak is en meer legitimiteit. Daardoor zullen de besluiten sneller en beter hun weg vinden (Van Reybrouck, 2015). Bij efficiëntie wordt gekeken naar de beleving van de tijdsinzet van de deelnemers en ambtenaren.
+
+## Hoe scoren de processen op Efficiëntie?
+
+#invoegen tabel#
+
+De ervaring van deelnemers met efficiëntie in de processen is over het algemeen goed. De deelnemers vinden de tijdsbesteding wel waard voor wat het proces heeft opgeleverd. De deelnemers aan de Omgevingsvisie en Mildam ervaren de tijdsinzet als prima te doen. Een aantal deelnemers ervaren het zelfs als te weinig tijd om het goed te doen. De G1000 burgertop, waarbij deelnemers één zaterdag meepraten, was volgens de deelnemers prima te doen. De deelnemers die het gehele G1000 proces hebben doorlopen als werkgroeplid hebben soms ervaren dat de tijdsinzet te veel was. Aan de andere kant zijn juist in de processen waarin meer tijd is besteed en er zeggenschap voor inwoners was, ook de betrokkenheid en burgerschap groter. 
+Inwoners zijn best bereid om zich in te zetten en tijd te besteden voor het maken van plannen of het inbrengen van ideeën. Ze willen dan wel graag van tevoren weten wat de tijdsinzet betekent. De tijdsinzet is leeftijdsgebonden. Deelnemers die met pensioen zijn en/of geen jonge kinderen hebben kijken anders naar tijd, zij geven aan dat ze ‘genoeg tijd hebben’.
+
+### Conclusie
+Of inwoners nu veel of weinig tijd besteden: ze vinden het de moeite waard. Wel willen ze graag van tevoren weten wat ze kunnen verwachten en is het de verwachting dat inwoners die meer tijd hebben of meer tijd over hebben voor hun omgeving makkelijker deelnemen. Dat heeft wel weer invloed op de mate van inclusie. Inwoners zijn wel meer tevreden over de efficiëntie van de processen waarbij er minder tijdsinvestering werd gevraagd. In de processen waarin veel tijd is besteed, is de betrokkenheid en burgerschap versterkt en is men inhoudelijk meer tevreden. 
+
+### Overzichtstabel 
+Hieronder worden de scores per proces en per waarde in een overzichtstabel samengevat. Daaruit komt duidelijk naar voren de processen waarbij inwoners daadwerkelijke zeggenschap hebben gekregen goed scoren op de verschillende democratische waarden. Dat zijn juist die processen waarbij er een beperkte groep inwoners met een concrete vraag aan de slag gaat. Dan lukt het ook om samen te komen tot afwegingen en keuzes, wat overigens niet altijd op basis van deliberatie gebeurt. 
