@@ -1,6 +1,6 @@
 ---
 layout: default
-title_tag: Monitoren democratisering - Uitkomsten
+title_tag: Uitkomsten
 color: blue
 permalink: /uitkomsten
 hero-heading: Uitkomsten
