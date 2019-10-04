@@ -51,7 +51,6 @@ Inclusie is een belangrijke waarde omdat het gaat om wie in de democratie allema
 
 ### Hoe scoren de processen op Inclusie?
 
-
 ![Score inclusie](/uploads/score_inclusie.jpg "Score inclusie")
 
 De wijze van uitnodigen was divers in de zes processen van lokale democratie. We zagen van een a-selecte loting tot het uitnodigen van een selecte groep directbetrokkenen. Deelnemers geven bij bijna alle processen aan dat nog niet de juiste formule gevonden is in de wijze van uitnodigen of het betrekken van mensen. Het breed uitnodigen van inwoners heeft de voorkeur omdat iedereen dan de kans krijgt om mee te doen en het vergroot ook de bekendheid met de activiteit. Toch zien we ook bij breed uitnodigen, of loten dat niet alle groepen vertegenwoordigd zijn of alle belangen aan tafel zitten.
@@ -93,7 +92,6 @@ Omdat het belangrijk is dat burgers zich duurzaam inzetten voor politiek en same
 
 ### Hoe scoren de processen op Burgerschap?
 
-
 ![Score burgerschap](/uploads/score_burgerschap.jpg "Score burgerschap")
 
 Het valt op dat de deelnemers aan deze processen vaak actieve betrokken deelnemers zijn die vrijwilliger zijn, lid van plaatselijk belang of in de politiek actief (zijn geweest). Bij een stevige a-selecte loting, zoals de G1000, komt in de eerste bijeenkomst een bredere groep inwoners, maar ook daar geven de deelnemers aan dat ze (vaker) maatschappelijk actief zijn dan niet. In Aldeboarn, Mildam en de Burgertop van de G1000 viel het op dat er bij de bijeenkomsten wel een diverse groep inwoners aanwezig waren, waarbij ook de ‘unusual suspects’.
@@ -113,7 +111,6 @@ Deelnemers doen om diverse redenen mee. Het valt op dat de deelnemers aan de G10
 In een directe democratie (referenda, burgerfora) is de kwaliteit van het publieke debat belangrijk voor de besluitvorming. In een debat moeten deelnemers naar elkaar luisteren en standpunten uit kunnen wisselen. Ze moeten bereid zijn om overtuigd te worden door de ander met rationele argumentatie. Dit vraagt een omgeving en omstandigheden waar iedereen gerespecteerd wordt en mee kan doen aan het debat. Deelnemers moeten ook redelijke argumenten kunnen aandragen en oog hebben voor het maatschappelijke belang (Michels, 2011). Bij Deliberatie wordt gekeken naar de dialoog tussen de deelnemers in de verschillende processen.
 
 ### Hoe scoren de processen op Deliberatie?
-
 
 ![Score deliberatie](/uploads/score_deliberatie.jpg "Score deliberatie")
 
@@ -136,7 +133,6 @@ Hoewel de kwaliteit van het debat of de dialoog als belangrijk wordt gezien, is 
 Invloed is in een directe democratie (referenda, burgerfora, etc.) een belangrijke democratische waarde. Burgers moeten immers direct invloed kunnen uitoefenen op het politieke besluitvormingsproces. Bij Invloed wordt gekeken naar in hoeverre er geluisterd wordt naar de mening en de ideeën van burgers en in hoeverre de plannen van burgers leiden tot een werkelijke (beleids)verandering.
 
 ### Hoe scoren de processen op Invloed?
-
 
 ![score invloed](/uploads/score_invloed.jpg "score invloed")
 
@@ -162,7 +158,6 @@ Een goed werkende democratie heeft legitimiteit nodig, een goed vertrouwen en st
 
 ### Hoe scoren de processen op Legitimiteit?
 
-
 ![score legitimiteit](/uploads/score_legitimiteit.jpg "score legitimiteit")
 
 De deelnemers zijn over het algemeen tevreden met de plannen die gemaakt zijn. Alleen de deelnemers van de Omgevingsvisie hebben nog onvoldoende zicht op de plannen omdat die nog moeten komen. De deelnemers aan de G1000 waren bijzonder tevreden over de plannen. Er is ook een groot vertrouwen in de uitvoering van de plannen.
@@ -181,7 +176,6 @@ In de kleinere processen hebben inwoners over het algemeen vertrouwen in de uitk
 In een democratie is vrijheid van informatie belangrijk. Als burgers niet over informatie beschikken kunnen zij ook niet deelnemen aan besluitvorming. Het is in samenwerking belangrijk om duidelijk aan te geven wat deelnemers mogen verwachten: wat is ieders rol, wat zijn de kaders en wat gaat er gebeuren met het resultaat. Dit is belangrijk om teleurstelling achteraf te voorkomen. (Michels, 2011). Bij de democratische waarde Transparantie is gekeken naar communicatie over kaders en rollen, inhoud en proces.
 
 ### Hoe scoren de processen op Transparantie?
-
 
 ![score transparantie](/uploads/score_transparantie.jpg "score transparantie")
 
@@ -220,7 +214,6 @@ Er is vanuit dit onderzoek een sterke aanwijzing dat het gebruik van visuele mid
 Nieuwe vormen van lokale democratie, zoals loting en burgerfora, moeten een opbrengst geven in termen van versterken van de democratie en vergroten van betrokkenheid. Tegelijkertijd is de gedachte dat het geen efficiënte manier van besturen is en dat het veel tijd kosten van inwoners en de gemeente. David van Reybrouck betoogt dat loting als politiek besluitvormingsproces juist wel een efficiënte manier van besturen is. Het vereist in het begin wellicht veel tijd maar het idee is dat er na de besluitvorming meer draagvlak is en meer legitimiteit. Daardoor zullen de besluiten sneller en beter hun weg vinden (Van Reybrouck, 2015). Bij efficiëntie wordt gekeken naar de beleving van de tijdsinzet van de deelnemers en ambtenaren.
 
 ## Hoe scoren de processen op Efficiëntie?
-
 
 ![score efficiency](/uploads/score_efficiency.jpg "score efficiency")
 
