@@ -75,8 +75,6 @@ De gemeente Heerenveen haalde inspiratie voor het vormgeven van de processen uit
 
 [Vergelijking Democratische Waarden.](/de-democratische-meetlat) Lees hier de vergelijking tussen de democratische waarden In de verschillende processen.
 
-## 
-
 ## Vergelijking democratische waarden
 
 ### Inclusie
