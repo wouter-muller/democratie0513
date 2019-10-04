@@ -33,7 +33,7 @@ Eén van de doelen was om te komen tot nieuwe verhoudingen met de inwoners, nieu
 
 Een aantal ambtenaren ervaart een aantal processen niet als nieuwe vormen van lokale democratie. Zij geven aan dat zij al langere tijd samenwerken met inwoners vanaf de ontwerpfase. Deelnemers ervaren de processen wel als nieuw en kunnen het goed waarderen dat zij worden uitgenodigd om mee te doen aan de processen. Zij geven aan dat de gemeente Heerenveen het vaker moet doen. Deelnemers die lid zijn van een plaatselijk belang en een langdurige relatie hebben met de gemeente hebben meer kennis van de processen en hebben een hogere verwachting op de uitvoering van de samenwerking. Alhoewel de procesvormen vernieuwend zijn kun je niet spreken van de laatste stap op de participatieladder: inwoners besluiten. In alle processen (behalve Verkoop pand Aldeboarn) ligt de afweging en het besluit bij raadsleden en/of ambtenaren.
 
-Hieronder is in een overzichtstabel met een aantal kenmerken van de processen samengevat.
+_Hieronder is in een overzichtstabel met een aantal kenmerken van de processen samengevat._
 
 ![Kenmerken processen](/uploads/kenmerken_processen.jpg "Kenmerken processen")
 
