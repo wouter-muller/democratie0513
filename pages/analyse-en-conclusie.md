@@ -160,13 +160,20 @@ De deelnemers aan de verschillende processen worden over het algemeen niet actie
 
 Deelnemers doen om diverse redenen mee. Het valt op dat de deelnemers aan de G1000 en Aldeboarn nieuwsgierig waren naar het proces en dat in de processen gericht op specifieke plannen in het dorp deelnemers vaker benoemen dat zij een persoonlijk belang hebben.
 
-> Conclusie
->
-> \
->
-> De processen van lokale democratie trekken over het algemeen de actieve, maatschappelijk betrokken inwoners aan. Het betrekken van niet actieve, bij de gemeente onbekende inwoners blijkt moeilijk. De gemeente kan meer en andere inwoners betrekken door te sturen op vorm van lokale democratie en de wijze van uitnodigen. Inwoners voelen zich bijvoorbeeld eerder uitgenodigd om mee te doen aan een nieuwe vorm (G1000 en Stem uitbrengen), wanneer zij persoonlijk benaderd worden of wanneer ze een heel duidelijk belang hebben. 
+\
+{% include conclusion-quote.html 
 
-### Deliberatie
+\    title="Conclusie" 
+
+\    paragraph="De processen van lokale democratie trekken over het algemeen de actieve, maatschappelijk betrokken inwoners aan. Het betrekken van niet actieve, bij de gemeente onbekende inwoners blijkt moeilijk. De gemeente kan meer en andere inwoners betrekken door te sturen op vorm van lokale democratie en de wijze van uitnodigen. Inwoners voelen zich bijvoorbeeld eerder uitgenodigd om mee te doen aan een nieuwe vorm (G1000 en Stem uitbrengen), wanneer zij persoonlijk benaderd worden of wanneer ze een heel duidelijk belang hebben." 
+
+%}
+
+
+
+
+
+Deliberatie
 
 In een directe democratie (referenda, burgerfora) is de kwaliteit van het publieke debat belangrijk voor de besluitvorming. In een debat moeten deelnemers naar elkaar luisteren en standpunten uit kunnen wisselen. Ze moeten bereid zijn om overtuigd te worden door de ander met rationele argumentatie. Dit vraagt een omgeving en omstandigheden waar iedereen gerespecteerd wordt en mee kan doen aan het debat. Deelnemers moeten ook redelijke argumenten kunnen aandragen en oog hebben voor het maatschappelijke belang (Michels, 2011). Bij Deliberatie wordt gekeken naar de dialoog tussen de deelnemers in de verschillende processen.  
 
