@@ -9,8 +9,9 @@ hero-subheading: >-
   democratie.
 hero-paragraph: >-
   Wat kunnen we leren van deze experimenten? En hoe hebben inwoners de
-  samenwerking ervaren en beleefd? Lees het allemaal in deze digitale
-  rapportage.
+  samenwerking ervaren en beleefd?
+
+  Lees het allemaal in deze digitale rapportage.
 content-intro: >-
   De afgelopen jaren heeft de gemeente Heerenveen samen met inwoners
   geëxperimenteerd met nieuwe vormen van lokale democratie om de betrokkenheid
