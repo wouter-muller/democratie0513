@@ -4,9 +4,9 @@
 *,
 *::before,
 *::after
-  box-sizing: border-box // This forces padding to not affect height or width of an element
-  margin: 0
-  padding: 0
+    box-sizing: border-box // This forces padding to not affect height or width of an element
+    margin: 0
+    padding: 0
 
 
 /**
@@ -17,12 +17,17 @@
  */
 
 html
-  -moz-osx-font-smoothing: grayscale
-  -webkit-font-smoothing: antialiased
-  font-smoothing: antialiased
-  font-weight: 400
-  scroll-behavior: smooth
-  font-size: 15px
+    -moz-osx-font-smoothing: grayscale
+    -webkit-font-smoothing: antialiased
+    font-smoothing: antialiased
+    font-weight: 400
+    scroll-behavior: smooth
+
+    +mobile
+        font-size: 12px
+
+    +tablet-desktop
+        font-size: 15px
 
 /**
  * Firefox specific rule
