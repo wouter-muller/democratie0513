@@ -222,19 +222,3 @@ Inwoners zijn best bereid om zich in te zetten en tijd te besteden voor het make
 ## Overzichtstabel
 
 Hieronder worden de scores per proces en per waarde in een overzichtstabel samengevat. Daaruit komt duidelijk naar voren de processen waarbij inwoners daadwerkelijke zeggenschap hebben gekregen goed scoren op de verschillende democratische waarden. Dat zijn juist die processen waarbij er een beperkte groep inwoners met een concrete vraag aan de slag gaat. Dan lukt het ook om samen te komen tot afwegingen en keuzes, wat overigens niet altijd op basis van deliberatie gebeurt. _**(overzichtstabel volgt)**_
-
-{% include columns.html
-  column-one="
-
-![](/uploads/Ill_democratie.jpg)
-
-"
-  column-two="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro earum, assumenda, possimus at corrupti delectus nesciunt reiciendis perspiciatis fuga laudantium maiores autem veniam! Accusantium aliquid labore nesciunt, voluptas hic consectetur."
-%}
-
-{% include columns.html
-  column-one="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro earum, assumenda, possimus at corrupti delectus nesciunt reiciendis perspiciatis fuga laudantium maiores autem veniam! Accusantium aliquid labore nesciunt, voluptas hic consectetur."
-  column-two="
-![Ambtenaren burgers](/uploads/Ill_ambtenaren-burgers.jpg)
-"
-%}
