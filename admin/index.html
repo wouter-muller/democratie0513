@@ -8,23 +8,5 @@
 </head>
 <body>
   <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
-  <script>
-CMS.registerEditorComponent({
-  // Internal id of the component
-  id: "quote",
-  // Visible label
-  label: "Custom quote",
-  // Fields the user need to fill out when adding an instance of the component
-  fields: [{name: 'title', label: 'Titel', widget: 'string'}, { name: 'paragraph', label: 'paragraph', widget: 'string'}
-  ],
-  // Preview output for this component. Can either be a string or a React component
-  // (component gives better render performance)
-  toPreview: function(obj) {
-    return (
-      '<div class="c-conclusion-quote"><div class="l-wrapper-medium"><h2>' + obj.title + '</h2><p>' + obj.paragraph + '</p></div></div>'
-    );
-  }
-});
-</script>
 </body>
 </html>
