@@ -1,0 +1,26 @@
+.s-hamburger-menu
+    position: fixed
+    top: 0
+    right: 0
+    width: 100%
+    max-width: px(500)
+    background-color: $turqoise
+    z-index: 999
+    height: 100%
+    padding-top: px(80)
+    transform: translateX(100%)
+    transition: transform 0.2s ease-out
+    overflow-x: auto
+
+    &.\--active
+        transform: translateX(0)
+
+    &__close
+        position: absolute
+        top: 0
+        right: 0
+        color: $inverted-text-color
+        font-size: px(30)
+        font-weight: $bold
+        cursor: pointer
+        padding: px(20)

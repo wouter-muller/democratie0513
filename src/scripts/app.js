@@ -1,5 +1,6 @@
-// var app = new Vue({
-//     el: '#vue',
-//     data: {
-//     }
-// })
+var app = new Vue({
+    el: '#vue',
+    data: {
+        hamburgerMenuOpen: false
+    }
+})

@@ -5,81 +5,112 @@
 
   <body>
 
-    {% include header.html %}
+    <div id="vue">
 
-    <main style="margin-top: 5.625rem">
-        <div class="s-hero --{{ page.color }}">
-            <div class="s-hero__dots"></div>
-            <div class="s-hero__text-area">
-                <h1 class="s-hero__heading">
-                    {{ page.hero-heading }}
-                </h1>
-                <h2 class="s-hero__subheading">
-                    {{ page.hero-subheading }}
-                </h2>
-                <p class="s-hero__paragraph">
-                    {{ page.hero-paragraph }}
-                </p>
+
+        {% include header.html %}
+
+        <main style="margin-top: 5.625rem">
+            <div class="s-hero --{{ page.color }}">
+                <div class="s-hero__dots"></div>
+                <div class="s-hero__text-area">
+                    <h1 class="s-hero__heading">
+                        {{ page.hero-heading }}
+                    </h1>
+                    <h2 class="s-hero__subheading">
+                        {{ page.hero-subheading }}
+                    </h2>
+                    <p class="s-hero__paragraph">
+                        {{ page.hero-paragraph }}
+                    </p>
+                </div>
+                <div class="s-hero-links">
+                    <ul>
+                        <li>
+                            <a href="/g1000" class="s-hero-links__link {% if page.permalink == '/g1000' %}--active{% endif %}">G1000</a>
+                        </li>
+                        <li>
+                            <a href="/omgevingsvisie" class="s-hero-links__link {% if page.permalink == '/omgevingsvisie' %}--active{% endif %}">Omgevingsvisie</a>
+                        </li>
+                        <li>
+                            <a href="/mildam" class="s-hero-links__link {% if page.permalink == '/mildam' %}--active{% endif %}">Mildam Noord</a>
+                        </li>
+                        <li>
+                            <a href="/akkrum" class="s-hero-links__link {% if page.permalink == '/akkrum' %}--active{% endif %}">Akkrum</a>
+                        </li>
+                        <li>
+                            <a href="/de-greiden" class="s-hero-links__link {% if page.permalink == '/de-greiden' %}--active{% endif %}">De Greiden</a>
+                        </li>
+                        <li>
+                            <a href="/aldeboarn" class="s-hero-links__link {% if page.permalink == '/aldeboarn' %}--active{% endif %}">Aldeboarn</a>
+                        </li>
+                    </ul>
+                </div>
             </div>
-            <div class="s-hero-links">
-                <ul class="u-hide@tablet-desktop u-mb">
+
+            {% include chapters.html %}
+
+            <div class="s-content">
+                <div class="l-wrapper-medium">
+                    <div class="s-content__intro">
+                        {{ page.content-intro }}
+                    </div>
+
+                    <div class="s-content__main-content">
+                        {{ content | replace: "<table", "<table class='c-normal-table'"}}
+                    </div>
+                </div>
+            </div>
+
+        </main>
+
+            {% include footer.html %}
+
+            <div class="s-hamburger-menu" :class="{'--active': hamburgerMenuOpen }">
+                <div class="s-hamburger-menu__close" @click="hamburgerMenuOpen = false">X</div>
+                 <ul class="u-mb+">
                     <li>
                         <a href="/" class="s-hero-links__link">Home</a>
                     </li>
                     <li>
-                        <a href="/" class="s-hero-links__link">Home</a>
+                        <a href="/het-onderzoek" class="s-hero-links__link {% if page.permalink == '/het-onderzoek' %}--active{% endif %}">Het onderzoek</a>
                     </li>
                     <li>
-                        <a href="/" class="s-hero-links__link">Home</a>
+                        <a href="/samenvatting" class="s-hero-links__link {% if page.permalink == '/samenvatting' %}--active{% endif %}">Samenvatting</a>
                     </li>
                     <li>
-                        <a href="/" class="s-hero-links__link">Home</a>
+                        <a href="/uitkomsten" class="s-hero-links__link {% if page.permalink == '/uitkomsten' %}--active{% endif %}">Uitkomsten</a>
                     </li>
                     <li>
-                        <a href="/" class="s-hero-links__link">Home</a>
+                        <a href="/analyse" class="s-hero-links__link {% if page.permalink == '/analyse' %}--active{% endif %}">Analyse en Conclusie</a>
+                    </li>
+                    <li>
+                        <a href="/de-democratische-meetlat" class="s-hero-links__link {% if page.permalink == '/de-democratische-meetlat' %}--active{% endif %}">De democratische meetlat</a>
                     </li>
                 </ul>
                 <ul>
-                    <li>
-                        <a href="/g1000" class="s-hero-links__link {% if page.permalink == '/g1000' %}--active{% endif %}">G1000</a>
-                    </li>
-                    <li>
-                        <a href="/omgevingsvisie" class="s-hero-links__link {% if page.permalink == '/omgevingsvisie' %}--active{% endif %}">Omgevingsvisie</a>
-                    </li>
-                    <li>
-                        <a href="/mildam" class="s-hero-links__link {% if page.permalink == '/mildam' %}--active{% endif %}">Mildam Noord</a>
-                    </li>
-                    <li>
-                        <a href="/akkrum" class="s-hero-links__link {% if page.permalink == '/akkrum' %}--active{% endif %}">Akkrum</a>
-                    </li>
-                    <li>
-                        <a href="/de-greiden" class="s-hero-links__link {% if page.permalink == '/de-greiden' %}--active{% endif %}">De Greiden</a>
-                    </li>
-                    <li>
-                        <a href="/aldeboarn" class="s-hero-links__link {% if page.permalink == '/aldeboarn' %}--active{% endif %}">Aldeboarn</a>
-                    </li>
-                </ul>
+                        <li>
+                            <a href="/g1000" class="s-hero-links__link {% if page.permalink == '/g1000' %}--active{% endif %}">G1000</a>
+                        </li>
+                        <li>
+                            <a href="/omgevingsvisie" class="s-hero-links__link {% if page.permalink == '/omgevingsvisie' %}--active{% endif %}">Omgevingsvisie</a>
+                        </li>
+                        <li>
+                            <a href="/mildam" class="s-hero-links__link {% if page.permalink == '/mildam' %}--active{% endif %}">Mildam Noord</a>
+                        </li>
+                        <li>
+                            <a href="/akkrum" class="s-hero-links__link {% if page.permalink == '/akkrum' %}--active{% endif %}">Akkrum</a>
+                        </li>
+                        <li>
+                            <a href="/de-greiden" class="s-hero-links__link {% if page.permalink == '/de-greiden' %}--active{% endif %}">De Greiden</a>
+                        </li>
+                        <li>
+                            <a href="/aldeboarn" class="s-hero-links__link {% if page.permalink == '/aldeboarn' %}--active{% endif %}">Aldeboarn</a>
+                        </li>
+                    </ul>
             </div>
+
         </div>
-
-        {% include chapters.html %}
-
-        <div class="s-content">
-            <div class="l-wrapper-medium">
-                <div class="s-content__intro">
-                    {{ page.content-intro }}
-                </div>
-
-                <div class="s-content__main-content">
-                    {{ content | replace: "<table", "<table class='c-normal-table'"}}
-                </div>
-            </div>
-        </div>
-
-    </main>
-
-    {% include footer.html %}
-
-  </body>
+    </body>
 
 </html>
