@@ -1,0 +1,24 @@
+.c-image
+    cursor: pointer
+
+    &-wrapper
+        position: fixed
+        top: 0
+        right: 0
+        left: 0
+        bottom: 0
+        display: none
+        z-index: 999
+
+        &.\--active
+            display: block
+
+        &:before
+            +fill-space
+            background-color: rgba(black, 0.6)
+            content: ''
+
+        img
+            max-width: 100%
+            max-height: 100%
+            +center
