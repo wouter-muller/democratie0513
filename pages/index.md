@@ -16,7 +16,7 @@ content-intro: >-
   De afgelopen jaren heeft de gemeente Heerenveen samen met inwoners
   geëxperimenteerd met nieuwe vormen van lokale democratie om de betrokkenheid
   van inwoners te vergroten. Deze experimenten waren leerzaam en over het
-  algemeen zijn ze positief gewaardeerd. 
+  algemeen zijn ze positief gewaardeerd.
 chapters:
   - title: Het onderzoek
     type: research
