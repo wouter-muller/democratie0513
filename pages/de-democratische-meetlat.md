@@ -4,25 +4,20 @@ title_tag: De democratische meetlat
 color: blue
 permalink: /de-democratische-meetlat
 hero-heading: De democratische meetlat
-hero-subheading:
-hero-paragraph:
-content-intro:
+hero-subheading: ''
+hero-paragraph: ''
 chapters:
-  - type: research
-    title: Het onderzoek
-    paragraph: ''
+  - title: Het onderzoek
+    type: research
     url: /het-onderzoek
-  - type: summary
-    title: Samenvatting
-    paragraph: ''
+  - title: Samenvatting
+    type: summary
     url: /samenvatting
-  - type: results
-    title: Uitkomsten
-    paragraph: ''
+  - title: Uitkomsten
+    type: results
     url: /uitkomsten
-  - type: analysis
-    title: Analyse en conclusie
-    paragraph: ''
+  - title: Analyse en conclusie
+    type: analysis
     url: /analyse
 content-intro: "Gemeente Heerenveen is een zoektocht gestart naar een nieuwe vorm van lokale democratie waarmee het mogelijk is om meer en andere burgers te betrekken in besluitvormingsprocessen. De gemeente vraagt zich af wat de effecten zijn van de verschillende processen. Om processen van lokale democratie te kunnen duiden is daarom gekeken naar theoretische modellen gericht op democratie. De kernbegrippen in het theoretische kader zijn naar volgorde: democratische waarden, monitoren en evalueren en lokale democratie. De belangrijkste wetenschappelijke artikelen die zijn gebruikt in dit onderzoek zijn van Graham Smith, Ank Michels & Harm Binnema."
 ---
