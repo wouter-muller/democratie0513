@@ -293,3 +293,4 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Illustraties paragraaf", name: "illustrations-paragraph", widget: "markdown"}
           - {label: "Foto's titel", name: "photos-title", widget: "string"}
           - {label: "Foto's paragraaf", name: "photos-paragraph", widget: "markdown"}
+          - {label: "Copyright notice", name: "copyright-notice", widget: "string"}
