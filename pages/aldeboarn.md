@@ -113,7 +113,7 @@ De deelnemers zijn één avond naar een bijeenkomst geweest waar zij luisterden 
 
 Een eenvoudige stemming over een eenvoudig concreet onderwerp (wat wordt de bestemming van een pand) lijkt een goede formule voor een korte maar goede samenwerking tussen inwoners en gemeente. De zaal van een karakteristiek pand in Aldeboarn zat tot de nok toe vol met een diverse, representatieve groep inwoners van het dorp. De inwoners wisten precies waar ze aan toe waren, hebben direct hun invloed kunnen uitoefenen, hebben slechts drie uren van hun tijd besteedt aan een nieuwe beleving en ze gingen tevreden naar huis. Het is voordelig om processen eenvoudig en gemakkelijk in te richten waarbij de benodigde mate van invloed goed af te stemmen is op het vraagstuk. Wanneer inwoners slechts kort verbonden zijn en kort samenwerken dan is er weinig te zeggen over Burgerschap.
 
-Lees verder over:
+### Lees verder over:
 
 * de vergelijking tussen de verschillende processen
 * [het proces Mildam](/mildam)
