@@ -273,3 +273,23 @@ collections: # A list of collections the CMS should be able to edit
               - { label: "Tekst", name: "paragraph", widget: "text", required: false }
               - { label: "Link", name: "url", widget: "string" }
           - {label: "Body", name: "body", widget: "markdown"}
+  - name: "footer"
+    label: "Footer"
+    delete: "false"
+    editor:
+      preview: false
+    files:
+      - name: "footer"
+        label: "Footer"
+        file: "/_data/footer.yaml"
+        fields:
+          - {label: "Onderzoekers titel", name: "research-title", widget: "string"}
+          - {label: "Onderzoekers paragraaf", name: "research-paragraph", widget: "markdown"}
+          - {label: "Vormgeving titel", name: "design-title", widget: "string"}
+          - {label: "Vormgeving paragraaf", name: "design-paragraph", widget: "markdown"}
+          - {label: "Webontwikkeling titel", name: "web-title", widget: "string"}
+          - {label: "Webontwikkeling paragraaf", name: "web-paragraph", widget: "markdown"}
+          - {label: "Illustraties titel", name: "illustrations-title", widget: "string"}
+          - {label: "Illustraties paragraaf", name: "illustrations-paragraph", widget: "markdown"}
+          - {label: "Foto's titel", name: "photos-title", widget: "string"}
+          - {label: "Foto's paragraaf", name: "photos-paragraph", widget: "markdown"}
