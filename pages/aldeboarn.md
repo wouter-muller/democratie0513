@@ -4,27 +4,27 @@ title_tag: Aldeboarn
 color: red
 permalink: /aldeboarn
 hero-heading: Aldeboarn
-hero-subheading:
-hero-paragraph:
-content-intro: Aldeboarn ligt ten noorden van Heerenveen en heeft ongeveer 1545 inwoners. De inwoners van Aldeboarn kregen een stem in de keuze voor een duurzame bestemming voor het oude en karakteristieke pand ‘Het Medium’. 81 inwoners hebben gestemd en gekozen voor één van de drie gepresenteerde plannen.
+content-intro: >-
+  Aldeboarn ligt ten noorden van Heerenveen en heeft ongeveer 1545 inwoners. De
+  inwoners van Aldeboarn kregen een stem in de keuze voor een duurzame
+  bestemming voor het oude en karakteristieke pand ‘Het Medium’. 81 inwoners
+  hebben gestemd en gekozen voor één van de drie gepresenteerde plannen.
 chapters:
-  - type: results
-    title: Uitkomsten
-    url: "#uitkomsten"
-  - type: analysis
-    title: Analyse en conclusie
-    url: "#analysis"
+  - title: Uitkomsten
+    type: results
+    url: '#uitkomsten'
+  - title: Analyse en conclusie
+    type: analysis
+    url: '#analysis'
 ---
-
 <div id="uitkomsten"></div>
-
 
 Onderstaande uitkomsten van het onderzoek zijn gebaseerd op:
 
-- Gesprekken met deelnemers aan de bijeenkomst
-- Gesprek met betrokken ambtenaar
-- Observatie van de bijeenkomst (het stemmen) van 5 juli 2019
-- Folders en webpagina gemeente en plaatselijk belang
+* Gesprekken met deelnemers aan de bijeenkomst
+* Gesprek met betrokken ambtenaar
+* Observatie van de bijeenkomst (het stemmen) van 5 juli 2019
+* Folders en webpagina gemeente en plaatselijk belang
 
 ## Inclusie
 
@@ -36,7 +36,7 @@ Er waren ongeveer 100 mensen aanwezig op de bijeenkomst op 5 juli 2019. De zaal 
 
 {% include conclusion-quote.html
     title="Conclusie Inclusie"
-    paragraph="Er is sprake van inclusie. De groep deelnemers is representatief voor het dorp en het vraagstuk de herinrichting van Mildam-Noord.  "
+    paragraph="Er is sprake van inclusie. De groep deelnemers is representatief voor het dorp en het vraagstuk nieuwe bestemming voor een pand.  "
 %}
 
 ## Burgerschap
@@ -96,7 +96,6 @@ Tijdens de bijeenkomst is verteld wie de betrokkenen zijn en welke rollen zij ha
     paragraph="Er is sprake van Transparantie. Alle deelnemers hebben de processtappen en de stemprocedure gehoord en begrepen.  "
 %}
 
-
 ## Efficiëntie
 
 Er is sprake van efficiëntie als de werkgroep leden het idee hebben dat er balans bestaat tussen de inzet van tijd en de opbrengsten.
@@ -108,8 +107,6 @@ De deelnemers zijn één avond naar een bijeenkomst geweest waar zij luisterden 
     paragraph="Er is sprake van Efficiëntie, de deelnemers vonden dat er een goede balans bestond uit de inzet van tijd en de opbrengsten. "
 %}
 
-
-
 <div id="analysis"></div>
 
 ## Analyse Aldeboarn
@@ -118,10 +115,9 @@ Een eenvoudige stemming over een eenvoudig concreet onderwerp (wat wordt de best
 
 Lees verder over:
 
-- de vergelijking tussen de verschillende processen
-- [het proces Mildam](/mildam)
-- [het proces Omgevingsvisie](/omgevingsvisie)
-- [het proces Akkrum](akkrum)
-- [het proces De Greiden](/de-greiden)
-- [het proces G1000](/g1000)
-
+* de vergelijking tussen de verschillende processen
+* [het proces Mildam](/mildam)
+* [het proces Omgevingsvisie](/omgevingsvisie)
+* [het proces Akkrum](akkrum)
+* [het proces De Greiden](/de-greiden)
+* [het proces G1000](/g1000)
