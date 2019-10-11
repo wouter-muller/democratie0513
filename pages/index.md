@@ -4,9 +4,7 @@ title_tag: Monitoren democratisering
 color: blue
 permalink: /
 hero-heading: Lokale democratie
-hero-subheading: >-
-  Gemeente Heerenveen experimenteert volop met nieuwe vormen van lokale
-  democratie.
+hero-subheading: Gemeente Heerenveen experimenteert volop.
 hero-paragraph: >-
   Wat kunnen we leren van deze experimenten? En hoe hebben inwoners de
   samenwerking ervaren en beleefd?
@@ -16,7 +14,7 @@ content-intro: >-
   De afgelopen jaren heeft de gemeente Heerenveen samen met inwoners
   geëxperimenteerd met nieuwe vormen van lokale democratie om de betrokkenheid
   van inwoners te vergroten. Deze experimenten waren leerzaam en over het
-  algemeen zijn ze positief gewaardeerd.
+  algemeen positief gewaardeerd.
 chapters:
   - title: Het onderzoek
     type: research
@@ -31,7 +29,7 @@ chapters:
     type: analysis
     url: /analyse
 ---
-De gemeenteraad van Heerenveen wil samen met de inwoners van Heerenveen verder samenwerken met nieuwe vormen van lokale democratie (bijvoorbeeld: loting, G1000, community processing), waarbij er meer betrokkenheid ontstaat van inwoners, instellingen en ondernemers. De basis voor deze samenwerking is gelegd in het Thematisch Raadsakkoord 2018-2022, van waaruit de gemeente Heerenveen samen met burgers wil werken aan ideeën en oplossingen voor relevante thema’s zoals de energietransitie, veranderingen aan het centrum van Heerenveen, een omgevingsvisie, etc.
+De gemeenteraad van Heerenveen wil samen met de inwoners van Heerenveen verder met nieuwe vormen van lokale democratie (bijvoorbeeld: loting, G1000, community processing), waarbij er meer betrokkenheid ontstaat van inwoners, instellingen en ondernemers. De basis voor deze samenwerking is gelegd in het Thematisch Raadsakkoord 2018-2022, van waaruit de gemeente Heerenveen samen met burgers wil werken aan ideeën en oplossingen voor relevante thema’s zoals de energietransitie, veranderingen aan het centrum van Heerenveen, een omgevingsvisie, etc.
 
 Van februari tot juli 2019 konden inwoners van de gemeente Heerenveen met ideeën komen voor een nieuw centrum en kwamen zij tot een burgerbesluit. Andere thema’s waren de Omgevingsvisie, herinrichtingsprojecten en een burgerbesluit op een bestemming voor een monumentaal pand. Daarnaast zijn allerlei andere experimenten gedaan vanuit de raad en de organisatie, in verschillende wijken, op verschillende beleidsterreinen.
 
@@ -56,7 +54,7 @@ Wat is de democratische kwaliteit van de verschillende democratische processen i
 
 Deelvraag 4 kan worden opgedeeld in een vraag per waarde:
 
-|---+------------+-----------------|
+\|---+------------+-----------------|
 |   |Deelvragen 4A t/m 1G| Democratische waarde  |
 |-----------------|:-----------|---------------:|
 | **a** | In hoeverre is er sprake van (meer) betrokkenheid of eigen kracht bij betrokken inwoners? | **Burgerschap**  |
