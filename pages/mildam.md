@@ -6,8 +6,12 @@ permalink: /mildam
 hero-heading: Mildam Noord
 hero-subheading: ''
 content-intro: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua.
+  Inwoners van noordelijk Mildam zijn door de gemeente Heerenveen gevraagd om
+  een plan te maken voor herbestrating en herinrichting van Noord-Mildam. Zeker
+  twintig inwoners hebben zich in 2018 aangemeld voor een werkgroep en hebben
+  een plan gemaakt en gepresenteerd op 2 april 2019 aan het dorp. Hoe hebben
+  deze deelnemers het hele proces ervaren en beleefd? Wat kunnen we leren van de
+  herinrichting van Mildam-Noord en welke mechanismes komen we tegen?
 chapters:
   - title: Uitkomsten
     type: results
