@@ -4,16 +4,23 @@ title_tag: Omgevingsvisie
 color: red
 permalink: /omgevingsvisie
 hero-heading: Omgevingsvisie
-hero-subheading:
-hero-paragraph:
-content-intro: De gemeenteraad van Heerenveen moet, net als alle gemeenten in Nederland, een Omgevingsvisie opstellen.  In de visie leggen zij vast wat nodig is om de leefomgeving (verkeer, vervoer, landbouw, water, natuur, etc) te ontwikkelen en in te richten. De Omgevingsvisie gemeente Heerenveen zal in drie hoofdstappen (De Opgave, De Oplossingen, De Scenario’s) tot stand komen waarbij inwoners van de gemeente mogen meedenken en ideeën mogen inbrengen. In maart en mei zijn er in totaal 9 bijeenkomsten geweest waar samen met de inwoners is gesproken over veranderingen in de toekomst en de opgaven en oplossingen in de leefomgeving van de inwoners van alle dorpen in de gemeente Heerenveen. In november 2019 worden mogelijke scenario’s met de inwoners gedeeld en besproken.
+content-intro: >-
+  De gemeenteraad van Heerenveen moet, net als alle gemeenten in Nederland, een
+  Omgevingsvisie opstellen.  In de visie leggen zij vast wat nodig is om de
+  leefomgeving (verkeer, vervoer, landbouw, water, natuur, etc) te ontwikkelen
+  en in te richten. Om te komen tot een Omgevingsvisie organiseert de gemeente
+  Heerenveen bijeenkomsten waarbij inwoners van de gemeente mogen meedenken en
+  ideeën mogen inbrengen. In maart en mei zijn er in totaal negen bijeenkomsten
+  geweest waar samen met de inwoners is gesproken over veranderingen in de
+  toekomst. Er is ook gesproken over de opgaven en de mogelijke oplossingen in
+  de leefomgeving van de inwoners van alle dorpen in de gemeente Heerenveen. 
 chapters:
-  - type: results
-    title: Uitkomsten
-    url: "#uitkomsten"
-  - type: analysis
-    title: Analyse en conclusie
-    url: "#analysis"
+  - title: Uitkomsten
+    type: results
+    url: '#uitkomsten'
+  - title: Analyse en conclusie
+    type: analysis
+    url: '#analysis'
 ---
 
 <div id="uitkomsten"></div>
