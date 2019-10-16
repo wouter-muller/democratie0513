@@ -22,18 +22,17 @@ chapters:
     type: analysis
     url: '#analysis'
 ---
-
 <div id="uitkomsten"></div>
 
 ## Uitkomsten Omgevingsvisie
 
 Onderstaande uitkomsten van het onderzoek zijn gebaseerd op:
 
-- Gesprekken met 12 respondenten: deelnemers van bijeenkomsten
-- Korte gesprekken met deelnemers tijdens bijeenkomsten
-- Gesprekken met 8 ambtenaren en 3 raadsleden
-- Observatie van 9 bijeenkomsten
-- Website: [https://www.heerenveen.nl/actueel/omgevingsvisie/](https://www.heerenveen.nl/actueel/omgevingsvisie/)
+* Gesprekken met 12 respondenten: deelnemers van bijeenkomsten
+* Korte gesprekken met deelnemers tijdens bijeenkomsten
+* Gesprekken met 8 ambtenaren en 3 raadsleden
+* Observatie van 9 bijeenkomsten
+* Website: <https://www.heerenveen.nl/actueel/omgevingsvisie/>
 
 ## Inclusie
 
@@ -43,8 +42,7 @@ Er is zowel breed als smal uitgenodigd. Breed door berichten te plaatsen in de k
 
 In de observaties is gezien dat op sommige bijeenkomsten zo’n 80 deelnemers en andere bijeenkomsten opvallend minder deelnemers (30) aanwezig waren. Gemiddeld één op de drie deelnemers was een ambtenaar of gemeenteraadslid. In de eerste bijeenkomst van Heerenveen (maart 2019) leek de verhouding 1 inwoner op 2 ambtenaren/raadsleden. In de observaties is ook opgevallen dat de deelnemers voornamelijk 40+ waren. In de bijeenkomst Nieuwehorne waren relatief meer jongeren in verband met de aanwezigheid van betrokkenen vanuit sportverenigingen en het Flaeijlfeest.
 
-
-|---+--------------|
+\|---+--------------|
 |  Wat de deelnemers hebben gezegd over Inclusie |   |
 |----------------|:-----------:|
 | Er was een goede opkomst | 4 |
@@ -70,7 +68,7 @@ Je kunt spreken van de aanwezigheid van Burgerschap als de deelnemers zich inzet
 
 **Quote deelnemer**: “We hadden ook meerdere agrariërs uitgenodigd, van kom alsjeblieft wel, want het is voor de agrarische sector belangrijk. We waren met zeven agrariërs aanwezig en ja dan kun je ook een beetje verspreiden over de tafels en een beetje meeluisteren en je eigen zegje doen.”
 
-|---+--------------|
+\|---+--------------|
 |  Welke maatschappelijk activiteiten hebben deelnemers |   |
 |----------------|:-----------:|
 | Lid van plaatselijk belang of een bestuur | 10 |
@@ -79,7 +77,7 @@ Je kunt spreken van de aanwezigheid van Burgerschap als de deelnemers zich inzet
 |   |                    |
 |---+--------------------|
 
-|---+--------------|
+\|---+--------------|
 |  Waarom doen deelnemers mee |   |
 |----------------|:-----------:|
 | Vertegenwoordiging van plaatselijk belang of vereniging | 8 |
@@ -90,13 +88,6 @@ Je kunt spreken van de aanwezigheid van Burgerschap als de deelnemers zich inzet
 |===+====================|
 |   |                    |
 |---+--------------------|
-
-
-
-
-
-
-
 
 Bijna alle deelnemers zijn lid van het plaatselijk belang of van een bestuur van een vereniging. Zij kwamen naar de bijeenkomsten vanuit hun rol of functie. De observaties en korte interviews bevestigen het beeld dat de deelnemers aan de bijeenkomsten betrokken zijn (op het onderwerp of via rol of taak).
 
@@ -111,7 +102,7 @@ Het gaat hier om een groep mensen die bijna allemaal een dubbele pet op hebben. 
 
 Je kunt spreken van de aanwezigheid van deliberatie als in een debat de deelnemers naar elkaar luisteren en standpunten uit kunnen wisselen. Ze moeten bereid zijn om overtuigd te worden door de ander met rationele argumentatie. Dit vraagt van de deelnemers dat zij rationeel en open kunnen delibereren. Zij moeten daarnaast in staat en bereid zijn om hun mening aan te passen en oog te hebben voor het maatschappelijke belang.
 
-|---+--------------|
+\|---+--------------|
 |  Kon iedereen zeggen wat hij wilde |   |
 |----------------|:-----------:|
 | Er werd naar elkaar geluisterd en je kon je mening zeggen  | 12 |
@@ -134,7 +125,7 @@ De deelnemers geven aan dat er alle ruimte was om je mening te geven en dat er n
 
 Er is sprake van de aanwezigheid van de democratische waarde invloed als er geluisterd is naar de ideeën van de inwoners, als deze ideeën opgenomen zijn in de plannen en als er een zichtbare verandering in beleid of uitvoering heeft plaatsgevonden.
 
-|---+--------------|
+\|---+--------------|
 |  Luisteren naar de ideeën van deelnemers |   |
 |----------------|:-----------:|
 | Ik mocht mijn mening geven en ik ben gehoord    | 9 |
@@ -147,7 +138,6 @@ Er is sprake van de aanwezigheid van de democratische waarde invloed als er gelu
 |===+====================|
 |   |                    |
 |---+--------------------|
-
 
 De deelnemers hebben overwegend het gevoel dat zij hun mening konden geven en dat zij gehoord werden. De deelnemers zijn zich bewust dat het ging om het ophalen van ideeën. Een aantal deelnemers maakt zich zorgen over draagvlak bij andere inwoners, andere deelnemers vinden dat dit goed geregeld is door de aanwezige vertegenwoordiging. De vele deelnemers die lid zijn van bonden, besturen of belangenorganisaties voelen zich vertegenwoordiger van een groep of achterban.
 
@@ -166,8 +156,7 @@ Als er sprake is van een sterk vertrouwen en een sterke acceptatie (van het plan
 
 Er zijn nog geen plannen gemaakt. Daarom kan er nog niet gevraagd worden naar de acceptatie van de plannen. Er is wel gevraagd naar de verwachting en het vertrouwen in het uitvoeren van de plannen.
 
-
-|---+--------------|
+\|---+--------------|
 | Is er vertrouwen in het vervolg, het uitvoeren van de plannen? |   |
 |----------------|:-----------:|
 | We moeten nog afwachten wat er gaat gebeuren    | 8 |
@@ -176,9 +165,7 @@ Er zijn nog geen plannen gemaakt. Daarom kan er nog niet gevraagd worden naar de
 |   |                    |
 |---+--------------------|
 
-
-
-|---+--------------|
+\|---+--------------|
 | Zijn deelnemers tevreden met het proces?   |    |
 |----------------|:-----------:|
 | Ik ben tevreden met het proces  |  7 |
@@ -188,7 +175,6 @@ Er zijn nog geen plannen gemaakt. Daarom kan er nog niet gevraagd worden naar de
 |===+====================|
 |   |                    |
 |---+--------------------|
-
 
 De tevredenheid met het proces was groot bij de deelnemers die zonder verwachting en zonder opdracht binnen kwamen. De deelnemers die iets wilden bijdragen of ideeën met een specifiek idee wilden inbrengen waren minder tevreden. Zij gaven aan dat zij niet goed wisten aan welke tafel hun idee paste of goed terecht kwam en ook was niet duidelijk of de gemeente wel iets zou kunnen met hun bijdrage.
 
@@ -201,16 +187,13 @@ Tijdens de observaties kwam ook het beeld naar voren dat er voor de deelnemers t
     paragraph="Er is deels sprake van Legitimiteit. De meeste deelnemers willen afwachten wat er met de ingebrachte ideeën gebeurt. De meeste deelnemers zijn redelijk tevreden met het proces. "
 %}
 
-
 ## Transparantie
 
 Er is sprake van de aanwezigheid van de democratische waarde Transparantie als informatie helder en duidelijk is gedeeld en als er duidelijkheid is over rollen en taken.
 
 De informatie over de bijeenkomsten en de inhoudelijke informatie over de omgeving zijn gedeeld met deelnemers die zich aangemeld hebben. De informatie was ook te lezen op de website mijnkijkopheerenveen.nl Bij binnenkomst stonden grote platen met inhoudelijke informatie.
 
-
-
-|---+--------------|
+\|---+--------------|
 | Hoe heb je informatie over de bijeenkomst ontvangen?    |  |
 |----------------|:-----------:|
 | Ik heb een flyer gelezen    |  4 |
@@ -224,8 +207,7 @@ De informatie over de bijeenkomsten en de inhoudelijke informatie over de omgevi
 |   |                    |
 |---+--------------------|
 
-
-|---+--------------|
+\|---+--------------|
 | De informatie was helder en duidelijk   | |
 |----------------|:-----------:|
 | Ja, de informatie was mij duidelijk |  3 |
@@ -236,8 +218,7 @@ De informatie over de bijeenkomsten en de inhoudelijke informatie over de omgevi
 |   |                    |
 |---+--------------------|
 
-
-|---+--------------|
+\|---+--------------|
 | Helderheid over rollen en taken | |
 |----------------|:-----------:|
 | Ik vond de werkwijze of de bedoeling onduidelijk    |  7 |
@@ -247,18 +228,14 @@ De informatie over de bijeenkomsten en de inhoudelijke informatie over de omgevi
 |   |                    |
 |---+--------------------|
 
-
-
-
-
 **Quote deelnemer**: “We hadden het dan over wonen in het buitengebied. Raadsleden die brachten vakkennis in van bepaalde dingen. Maar die lieten ook wel hun politieke kleur zien. Het verbaasde me een beetje, ik denk, wat voor rol heb je hier nou?”
 
 Niet alle deelnemers hebben dezelfde informatie ontvangen of gelezen. De meeste deelnemers hebben de ontvangen informatie niet gelezen. Ze komen er niet aan toe of ze kiezen bewust om niet te lezen, ze gaan open naar de bijeenkomst. De deelnemers hebben onduidelijkheid ervaren tijdens de bijeenkomsten. Dit ging om verschillende zaken:
 
-- De werkwijze (het plakken van geeltjes in het kwadrant en het schrijven op de plaat)
-- Wie zijn de sprekers (gemeente) en wat is nu eigenlijk hun rol of taak
-- Hoe het nu precies zit met de Omgevingsvisie
-- Wat wordt er van mij (deelnemer) verwacht en wanneer heb ik nu een goede bijdrage geleverd
+* De werkwijze (het plakken van geeltjes in het kwadrant en het schrijven op de plaat)
+* Wie zijn de sprekers (gemeente) en wat is nu eigenlijk hun rol of taak
+* Hoe het nu precies zit met de Omgevingsvisie
+* Wat wordt er van mij (deelnemer) verwacht en wanneer heb ik nu een goede bijdrage geleverd
 
 **Quote deelnemer**: “Omgevingsvisie, dat zei mij in eerste instantie nog niet zoveel. Ik dacht eerst dat het ook een wet over regelgeving was, die nu uitgevoerd moet worden. Maar ik begrijp nu dat het ter voorbereiding is.”
 
@@ -271,7 +248,7 @@ Niet alle deelnemers hebben dezelfde informatie ontvangen of gelezen. De meeste 
 
 Er is sprake van efficiëntie als de deelnemers vinden dat er een goede balans bestaat tussen de inzet van tijd en de opbrengst.
 
-|---+--------------|
+\|---+--------------|
 | Over de tijdsinzet   | |
 |----------------|:-----------:|
 | De inzet van tijd was prima    | 10 |
@@ -279,7 +256,6 @@ Er is sprake van efficiëntie als de deelnemers vinden dat er een goede balans b
 |===+====================|
 |   |                    |
 |---+--------------------|
-
 
 De meeste deelnemers hebben één avond een bijeenkomst Omgevingsvisie gevolgd. Een paar deelnemers waren twee avonden aanwezig. De deelnemers vonden de inzet van tijd prima, helemaal geen probleem. Een aantal deelnemers heeft benoemd dat er te weinig tijd was op de avonden zelf om een bijdrage te leveren. Zij hadden graag langer willen doorpraten en ook graag over de andere thema’s willen praten. Tijdens het observeren is door meerdere deelnemers benoemd dat ze nog niet uitgepraat waren. De gesprekken gingen in de pauzes vaak gewoon door.
 
@@ -290,7 +266,7 @@ De meeste deelnemers hebben één avond een bijeenkomst Omgevingsvisie gevolgd. 
 
 ## Wat raadsleden en ambtenaren vertellen
 
-|---+--------------|
+\|---+--------------|
 | Wat raadsleden en ambtenaren vertellen  |  |
 |----------------|:-----------:|
 | Er was te weinig tijd tijdens de bijeenkomsten voor gesprek over thema  |  5 |
@@ -310,12 +286,9 @@ Sommige bijeenkomsten werden wel goed bezocht, naar tevredenheid van raadsleden 
 
 Het proces Omgevingsvisie wordt door meerdere ambtenaren en raadsleden als lastig benoemd. Bijvoorbeeld als het gaat om het onderwerp, het betrekken van inwoners en het abstractieniveau.
 
-
-
 <div id="analysis"></div>
 
-
-
+![](/uploads/Ill_stemmen-besluiten.jpg)
 
 ## Conclusie en Analyse Omgevingsvisie
 
@@ -329,13 +302,11 @@ Het proces Omgevingsvisie wordt door meerdere ambtenaren en raadsleden als lasti
     paragraph="Er is deels sprake van Burgerschap. De deelnemers zijn overwegend (reeds) actieve inwoners en doen vooral mee vanuit hun maatschappelijke rol of taak. Ze zijn niet actiever of meer betrokken inwoners geworden na deelname aan de bijeenkomsten. "
 %}
 
-
 ## Inclusie en Burgerschap: Wie deden mee?
 
 De opkomst bij de bijeenkomsten van de Omgevingsvisie waren wisselend wat betreft aantallen. De verwachting was dat de bijeenkomsten wel goed bezocht zouden worden, soms viel dat ambtenaren, raadsleden en deelnemers tegen. Als we de opkomst bekijken vanuit het perspectief representatief voor de dorpen dan kunnen we concluderen dat er geen sprake is van Inclusie, er zijn immers te weinig diverse deelnemers aanwezig. Wanneer we de vraag van Inclusie bekijken vanuit het perspectief representativiteit voor het vraagstuk, dan kunnen we wel spreken van Inclusie. De deelnemers hebben het idee dat de vertegenwoordiging van het dorp, de voetbalvereniging of andere vertegenwoordigers aanwezig zijn. Daarnaast viel het op dat de bijeenkomsten vooral mensen aantrok die kennis van zaken hadden. Er was een groot verschil te zien tussen de tafels waaraan ‘kennis’ zat en de tafels waaraan dat ontbrak. Het bleek voor veel deelnemers zonder voorkennis erg moeilijk om in de toekomst te kijken. Het gesprek bleef dan haken op concrete problematiek. De gemeente zou voor elk te starten proces een keuze kunnen maken in de doelstelling voor het proces, wat betreft Inclusie en Burgerschap. Wie wil de gemeente dat deelneemt? Wie moet of kan het beste ideeën brengen en meepraten en wie zou vooral geïnformeerd moeten worden. Zonder inwoners uit te sluiten kan een realistisch en praktisch meetlat genoemd worden waaraan gemeten kan worden of een bijeenkomst geslaagd is op het gebied van Inclusie. Het kan misschien een heel zinvolle avond geweest zijn om met 30 expert inwoners (vertegenwoordigers) te spreken. Dan is het juist goed als er vooral belangenvertegenwoordigers aan tafel zitten.
 
 Het vooraf vaststellen van een strak omschreven doel van de avond en de gewenste opbrengst kan helpen om naderhand aan te geven of het doel wat betreft bijvoorbeeld Inclusie behaald is.
-
 
 ## Deliberatie
 
@@ -343,7 +314,6 @@ Het vooraf vaststellen van een strak omschreven doel van de avond en de gewenste
     title="Conclusie Deliberatie"
     paragraph="Er is deels sprake van Deliberatie. De deelnemers hebben allemaal ervaren dat er naar elkaar is geluisterd en meningen werden gerespecteerd. Er zijn weinig argumenten met elkaar gedeeld. "
 %}
-
 
 De avonden bij de Omgevingsvisie waren over het algemeen gemoedelijk en gezellig. Er werd goed naar elkaar geluisterd en meningen werden over het algemeen gerespecteerd. Het waren gesprekken waar vooral werd uitgewisseld. Deelnemers mochten ideeën geven over wat de opgave en de oplossing was voor verschillende thema’s. Omdat het vooral bleef bij brainstormen en ophalen van ideeën heeft er weinig discussie plaats gevonden. Rationeel argumenten uitwisselen en een afweging maken heeft niet plaatsgevonden en werd niet verwacht van inwoners. Sommige thema’s riep bij de deelnemers concrete voorbeelden en ideeën op terwijl een toekomstvisie werd gevraagd. De gesprekken aan de tafels waren daardoor wisselend van inhoud en opbrengst.
 
@@ -374,7 +344,6 @@ Voor de meeste deelnemers werd het belang niet als groot ervaren, de afweging za
     paragraph="Er is beperkt sprake van Transparantie. De deelnemers hadden de beschikking over informatie maar hebben deze onvoldoende gelezen.  De deelnemers hebben tijdens de bijeenkomsten onduidelijkheid ervaren over de bedoeling en de werkwijze.   "
 %}
 
-
 Alhoewel de deelnemers vanuit hun functie of nevenactiviteiten kennis hebben op deelgebieden, zijn de meeste deelnemers niet zo goed op de hoogte van de werking van de Omgevingsvisie. Deelnemers krijgen er niet zoveel grip op, ze begrijpen de bedoeling niet en ze vinden het lastig inschatten wat de gemeente van hen vraagt en hoe ze kunnen bijdragen in de bijeenkomsten.
 
 **Quote deelnemer**: “Maar dan was het voor mij niet duidelijk, hebben we nu een onderwerp en moeten we daar nu een kwalificatie voor geven? En wie doet dat dan? Nee, het was meer een keukentafelgesprek over het wel en wee met betrekking tot duurzaamheid en energie. Het was niet een gestructureerd iets om tot een gezamenlijk gewogen eindresultaat te komen.”
@@ -392,14 +361,11 @@ Ambtenaren vertellen dat het proces Omgevingsvisie meerdere doelen heeft. Een be
 
 Deelnemers hebben geen probleem met de inzet van tijd voor het proces Omgevingsvisie. De deelnemers geven aan dat zij meer tijd nodig hadden om een goede bijdrage te leveren op de thema’s. Deelnemers hebben ook genoemd dat zij willen dat de gemeente vaker bijeenkomsten organiseert.
 
-
 ### Lees verder over:
 
-- [de vergelijking tussen de verschillende processen]()
-- [het proces Mildam](/mildam)
-- [het proces G1000 Heerenveen](/g1000)
-- [het proces Akkrum](/akkrum)
-- [het proces De Greiden](/de-greiden)
-- [het proces Aldeboarn](/aldeboarn)
-
-
+* [de vergelijking tussen de verschillende processen](<>)
+* [het proces Mildam](/mildam)
+* [het proces G1000 Heerenveen](/g1000)
+* [het proces Akkrum](/akkrum)
+* [het proces De Greiden](/de-greiden)
+* [het proces Aldeboarn](/aldeboarn)
