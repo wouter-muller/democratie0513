@@ -76,7 +76,8 @@ gulp.task('js', function() {
 gulp.task('js-third-party', function() {
   return gulp
     .src([
-      './node_modules/vue/dist/vue.min.js'
+      './node_modules/vue/dist/vue.min.js',
+      './node_modules/scrollmonitor/scrollMonitor.js',
       ])
     .pipe(concat('third-party.js'))
     .pipe(gulp.dest(config.outputDir + '/js'));
