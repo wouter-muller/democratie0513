@@ -22,6 +22,8 @@ chapters:
 ---
 <div id="uitkomsten"></div>
 
+# Uitkomsten Mildam Noord
+
 Onderstaande uitkomsten van het onderzoek zijn gebaseerd op:
 
 * Gesprekken met 8 respondenten: waarvan 6 werkgroepleden en 2 inwoners
