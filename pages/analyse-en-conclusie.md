@@ -207,7 +207,7 @@ Er is vanuit dit onderzoek een sterke aanwijzing dat het gebruik van visuele mid
 "
 %}
 
-### Efficiëntie
+## Efficiëntie
 
 Nieuwe vormen van lokale democratie, zoals loting en burgerfora, moeten een opbrengst geven in termen van versterken van de democratie en vergroten van betrokkenheid. Tegelijkertijd is de gedachte dat het geen efficiënte manier van besturen is en dat het veel tijd kosten van inwoners en de gemeente. David van Reybrouck betoogt dat loting als politiek besluitvormingsproces juist wel een efficiënte manier van besturen is. Het vereist in het begin wellicht veel tijd maar het idee is dat er na de besluitvorming meer draagvlak is en meer legitimiteit. Daardoor zullen de besluiten sneller en beter hun weg vinden (Van Reybrouck, 2015). Bij efficiëntie wordt gekeken naar de beleving van de tijdsinzet van de deelnemers en ambtenaren.
 
