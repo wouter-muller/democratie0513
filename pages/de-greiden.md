@@ -4,16 +4,22 @@ title_tag: De Greiden
 color: red
 permalink: /de-greiden
 hero-heading: De Greiden
-hero-subheading:
-hero-paragraph:
-content-intro: In de wijk De Greiden (Heerenveen) werkt een bewonersforum Buitengewoon De Greiden met 5 actieve leden (en 6 passieve leden) aan een plan voor spelen en ontmoeten voor de wijk. Dit plan is een vervolg op een advies dat het bewonersforum heeft opgesteld voor de gemeenteraad na een proces van lokale democratie met loting. Het bewonersforum zal binnenkort een stichting oprichten. De deelnemers van het bewonersforum hebben ervaringen gedeeld over de samenwerking met de gemeente vanaf de loting. In dit onderzoek zijn de meest recente ervaringen meegenomen (vanaf maart 2018).
+content-intro: >-
+  In de wijk De Greiden (Heerenveen) werkt een bewonersforum Buitengewoon De
+  Greiden met 5 actieve leden (en 6 passieve leden) aan een plan voor spelen en
+  ontmoeten voor de wijk. Dit plan is een vervolg op een advies dat het
+  bewonersforum heeft opgesteld voor de gemeenteraad na een proces van lokale
+  democratie met loting. Het bewonersforum zal binnenkort een stichting
+  oprichten. De deelnemers van het bewonersforum hebben ervaringen gedeeld over
+  de samenwerking met de gemeente vanaf de loting. In dit onderzoek zijn de
+  meest recente ervaringen meegenomen (vanaf maart 2018).
 chapters:
-  - type: results
-    title: Uitkomsten
-    url: "#uitkomsten"
-  - type: analysis
-    title: Analyse en conclusie
-    url: "#analysis"
+  - title: Uitkomsten
+    type: results
+    url: '#uitkomsten'
+  - title: Analyse en conclusie
+    type: analysis
+    url: '#analysis'
 ---
 
 <div id="uitkomsten"></div>
@@ -21,7 +27,6 @@ chapters:
 ## Uitkomsten De Greiden
 
 Onderstaande uitkomsten van het onderzoek zijn gebaseerd op:
-
 - Gesprekken met 3 forumleden (werkgroep)
 - Gesprekken met 1 ambtenaar
 - Observatie van Bijeenkomst van 11 april 2019
