@@ -128,6 +128,9 @@ Ambtenaren vertellen dat Mildam-Noord een dorp is met betrokken inwoners. Ze ver
 Quote ambtenaar: “De avond had ingericht moeten worden als een besluitenavond. We hebben weer veel geleerd en we nemen dat mee.”
 
 <div id="analysis"></div>
+
+![](/uploads/ill_representatief_small.jpg)
+
 ## Analyse en conclusie
 
 Het proces, de herinrichting van Mildam-Noord mocht rekenen op een grote betrokkenheid van de inwoners van Mildam-Noord. Een grote groep inwoners heeft zich aangemeld als werkgroeplid en/of is afgekomen op een bijeenkomst.
