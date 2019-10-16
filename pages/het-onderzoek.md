@@ -4,7 +4,6 @@ title_tag: Het onderzoek
 color: blue
 permalink: /het-onderzoek
 hero-heading: Het onderzoek
-content-intro:
 chapters:
   - title: Het onderzoek
     type: research
@@ -62,3 +61,5 @@ In onderstaand schema is zichtbaar welke en hoeveel actoren zijn geïnterviewd.
 |---+------------+-----------------|
 
 ![](/uploads/schema_thematisch-raadsakkoord-v02.jpg)
+
+[Democratische meetlat.](/de-democratische-meetlat) Lees hier meer over de democratische waarden die zijn onderzocht in de verschillende processen.
