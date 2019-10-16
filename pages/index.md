@@ -35,7 +35,7 @@ Van februari tot juli 2019 konden inwoners van de gemeente Heerenveen met ideeë
 
 De gemeente Heerenveen experimenteert dus volop met nieuwe vormen van democratie. Om hier ook kennis over te ontwikkelen wil de gemeente Heerenveen monitoring en evaluatie toe passen. De opzet en uitvoering van de bijeenkomsten en de ervaringen van de deelnemers aan die bijeenkomsten staat centraal in de monitor. In de aanpak ziet de gemeenteraad graag de theoretische basis (o.a. democratische waarden) die is gebruikt in het eerdere onderzoek naar Buitengewoon De Greiden terug. Daarnaast moet de aanpak ruimte bieden aan diepte-interviews of storytelling vanuit het perspectief van de deelnemers. Lees hieronder verder over de hoofd en deelvragen van het onderzoek.
 
-![Ambtenaren burgers](/uploads/ambtenaren-burgers.jpg "Ambtenaren burgers")
+![Ambtenaren burgers](/uploads/Ill_ambtenaren-burgers.jpg "Ambtenaren burgers")
 
 ## Hoofd en deelvragen
 
@@ -54,7 +54,7 @@ Wat is de democratische kwaliteit van de verschillende democratische processen i
 
 Deelvraag 4 kan worden opgedeeld in een vraag per waarde:
 
-|---+------------+-----------------|
+\|---+------------+-----------------|
 |   |Deelvragen 4A t/m 1G| Democratische waarde  |
 |-----------------|:-----------|---------------:|
 | **a** | In hoeverre is er sprake van (meer) betrokkenheid of eigen kracht bij betrokken inwoners? | **Burgerschap**  |
