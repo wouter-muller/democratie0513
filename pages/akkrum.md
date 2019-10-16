@@ -4,28 +4,33 @@ title_tag: Akkrum
 color: red
 permalink: /akkrum
 hero-heading: Akkrum
-hero-subheading:
-hero-paragraph:
-content-intro: Plaatselijk belang Akkrum Nes is in 2016 een werkgroep gestart om plannen te maken voor de herinrichting van de zogenoemde Tsjerkebleek. In het begin van het proces (2 jaar geleden) hebben de deelnemers ervaren dat zij niet serieus werden genomen door de betrokken ambtenaar en dat er niet werd geluisterd naar de ideeën van de werkgroep. De gemeenteraad heeft op verzoek van de werkgroep een budget toegekend voor een extern adviseur zodat de werkgroep samen met een extern adviseur een plan kon maken voor de herinrichting van Akkrum-Centrum (Tsjerkebleek). Hoe hebben deze deelnemers het hele proces ervaren en beleefd?
+content-intro: >-
+  Plaatselijk belang Akkrum Nes is in 2016 een werkgroep gestart om plannen te
+  maken voor de herinrichting van de zogenoemde Tsjerkebleek. In het begin van
+  het proces (2 jaar geleden) hebben de deelnemers ervaren dat zij niet serieus
+  werden genomen door de betrokken ambtenaar en dat er niet werd geluisterd naar
+  de ideeën van de werkgroep. De gemeenteraad heeft op verzoek van de werkgroep
+  een budget toegekend voor een extern adviseur zodat de werkgroep samen met een
+  extern adviseur een plan kon maken voor de herinrichting van Akkrum-Centrum
+  (Tsjerkebleek). Hoe hebben deze deelnemers het hele proces ervaren en beleefd?
 chapters:
-  - type: results
-    title: Uitkomsten
-    url: "#uitkomsten"
-  - type: analysis
-    title: Analyse en conclusie
-    url: "#analysis"
+  - title: Uitkomsten
+    type: results
+    url: '#uitkomsten'
+  - title: Analyse en conclusie
+    type: analysis
+    url: '#analysis'
 ---
-
 <div id="uitkomsten"></div>
 
 ## Uitkomsten Akkrum
 
 Onderstaande uitkomsten van het onderzoek zijn gebaseerd op:
 
-- Gesprekken met 4 respondenten: waarvan 2 werkgroepleden, 1 adviseur en 1 ambtenaar
-- Observatie van bijeenkomst van 3 juni 2019
-- Mailverkeer tussen gemeente en werkgroep
-- Website plaatselijk belang: [http://www.akkrum-nes.nl/nw-31320-7-3681364/nieuws/herinrichting_tsjerkebleek.html](http://www.akkrum-nes.nl/nw-31320-7-3681364/nieuws/herinrichting_tsjerkebleek.html)
+* Gesprekken met 4 respondenten: waarvan 2 werkgroepleden, 1 adviseur en 1 ambtenaar
+* Observatie van bijeenkomst van 3 juni 2019
+* Mailverkeer tussen gemeente en werkgroep
+* Website plaatselijk belang: <http://www.akkrum-nes.nl/nw-31320-7-3681364/nieuws/herinrichting_tsjerkebleek.html>
 
 ## Inclusie
 
@@ -48,8 +53,6 @@ De respondenten zijn beide lid van plaatselijk belang en actief als vrijwilliger
     title="Conclusie Burgerschap"
     paragraph="Er is deels sprake van Burgerschap. De deelnemers zijn deels maatschappelijk actieve inwoners. Ze zijn niet actiever of meer betrokken inwoners geworden na deelname aan het proces. "
 %}
-
-
 
 ## Deliberatie
 
@@ -110,12 +113,9 @@ De respondenten vinden dat het gehele proces lang duurt. Daar zijn verschillende
     paragraph="Er is sprake van Efficiëntie, de werkgroepleden vonden dat er een goede balans bestond uit de inzet van tijd en de opbrengsten. Het proces heeft wel lang geduurd. "
 %}
 
-
 <div id="analysis"></div>
 
 ## Analyse Akkrum
-
-Introductietekstje
 
 Er is in het proces Akkrum smal uitgenodigd (een kleine groep inwoners en plaatselijk belang) uitgenodigd door de gemeente. Daarna is de mogelijkheid om mee te doen in de werkgroep gesloten. Dit betekent dat niet alle inwoners van Akkrum de gelegenheid hebben gekregen om mee te doen in de werkgroep of bij te dragen, mee te denken, invloed te hebben. Dit is de werkgroep niet ontgaan. Na de zomer gaat de werkgroep de plannen delen met de rest van het dorp. De werkgroep heeft met de gemeente afgesproken dat zij draagvlak organiseren. Zonder draagvlak van het dorp krijgt het plan geen doorgang.
 
@@ -127,12 +127,9 @@ Een groep inwoners die zelf aan de slag gaat met het maken van plannen leert ove
 
 ### Lees verder over:
 
-- [de vergelijking tussen de verschillende processen]()
-- [het proces Mildam](/mildam)
-- [het proces Omgevingsvisie](/omgevingsvisie)
-- [het proces Akkrum](/akkrum)
-- [het proces De Greiden](/de-greiden)
-- [het proces Aldeboarn](/aldeboarn)
-
-
-
+* [de vergelijking tussen de verschillende processen](<>)
+* [het proces Mildam](/mildam)
+* [het proces Omgevingsvisie](/omgevingsvisie)
+* [het proces Akkrum](/akkrum)
+* [het proces De Greiden](/de-greiden)
+* [het proces Aldeboarn](/aldeboarn)
