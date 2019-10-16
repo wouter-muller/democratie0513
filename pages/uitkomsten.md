@@ -32,7 +32,7 @@ De diepte-interviews zijn half gestructureerd en gericht op het verhaal van de d
 De onderzoekers hebben 19 bijeenkomsten geobserveerd. Sommige bijeenkomsten zijn geobserveerd door meerdere studenten die elk een observatieverslag hebben geschreven. Tijdens de observaties is onder andere gelet op aantal deelnemers, type deelnemers (leeftijd, etc), de wijze van communiceren met elkaar, de informatie en de rollen en taken die betrokkenen hadden. Per proces geven de resultaten van alle observaties een beeld van de bijeenkomsten.
 Tijdens de bijeenkomsten zijn ook korte interviews gevoerd over onder andere de reden van de deelname en de ervaring van de deelnemer.
 
-Lees hier verder over de uitkomsten van het onderzoek van het proces:
+### Lees hier verder over de uitkomsten van het onderzoek van het proces:
 
 * [G1000](/g1000)
 * [Omgevingsvisie](/omgevingsvisie)
