@@ -18,6 +18,8 @@ chapters:
     type: analysis
     url: /analyse
 ---
+![](/uploads/ill_levendigdorp_small.jpg)
+
 ## De 6 processen: wat werkt?
 
 In verschillende processen van lokale democratie zijn inwoners van de gemeente Heerenveen gaan samenwerken met elkaar en met ambtenaren, raadsleden en ondernemers. De inwoners hebben ideeën ingebracht en plannen gemaakt voor een diversiteit aan vraagstukken die hen aangaan. Hoe hebben alle betrokkenen dat beleefd en ervaren? Hoe scoren de processen op de democratische waarden? Wat kunnen we leren van deze processen van lokale democratie en welke mechanismes komen we tegen?
@@ -41,9 +43,9 @@ De gemeente Heerenveen haalde inspiratie voor het vormgeven van de processen uit
 
 [Democratische meetlat.](/de-democratische-meetlat) Lees hier meer over de democratische waarden die zijn onderzocht in de verschillende processen.
 
-## Vergelijking democratische waarden
+# Vergelijking democratische waarden
 
-### Inclusie
+## Inclusie
 
 Inclusie is een belangrijke waarde omdat het gaat om wie in de democratie allemaal mee kan doen. In ideale zin zou elke stem en mening van ieder lid van het volk gehoord moeten worden en meetellen. Dit gaat over het algemeen niet en daarom doet vaak maar een selectie van de inwoners mee. Bij Inclusie is gekeken naar de manier van selecteren en uitnodigen in de verschillende processen.
 
@@ -221,4 +223,4 @@ Inwoners zijn best bereid om zich in te zetten en tijd te besteden voor het make
 
 ## Overzichtstabel
 
-Hieronder worden de scores per proces en per waarde in een overzichtstabel samengevat. Daaruit komt duidelijk naar voren de processen waarbij inwoners daadwerkelijke zeggenschap hebben gekregen goed scoren op de verschillende democratische waarden. Dat zijn juist die processen waarbij er een beperkte groep inwoners met een concrete vraag aan de slag gaat. Dan lukt het ook om samen te komen tot afwegingen en keuzes, wat overigens niet altijd op basis van deliberatie gebeurt. _**(overzichtstabel volgt)**_
+Hieronder worden de scores per proces en per waarde in een overzichtstabel samengevat. Daaruit komt duidelijk naar voren de processen waarbij inwoners daadwerkelijke zeggenschap hebben gekregen goed scoren op de verschillende democratische waarden. Dat zijn juist die processen waarbij er een beperkte groep inwoners met een concrete vraag aan de slag gaat. Dan lukt het ook om samen te komen tot afwegingen en keuzes, wat overigens niet altijd op basis van deliberatie gebeurt. **_(overzichtstabel volgt)_**
