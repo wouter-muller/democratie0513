@@ -34,7 +34,7 @@ Onderstaande uitkomsten van het onderzoek zijn gebaseerd op:
 * Communicatie via website: <https://www.maakhet.nl/groep/mildam-grootonderhoud/>
 * Dorpsvisie plaatselijk belang
 
-### Inclusie
+## Inclusie
 
 We kunnen spreken van Inclusie als de groep deelnemers representatief is voor het dorp Mildam of voor het vraagstuk (de herinrichting van Mildam Noord).
 
@@ -52,7 +52,7 @@ paragraph="Er is sprake van inclusie. Er was grote betrokkenheid van een diverse
 
 %}
 
-### Burgerschap
+## Burgerschap
 
 Je kunt spreken van de aanwezigheid van Burgerschap als de deelnemers tevreden zijn over het proces, initiatieven nemen en als ze bereid zijn om nogmaals te participeren. Deelnemers hebben ook verteld waarom ze wilden meedoen in de werkgroep en of ze iets hebben geleerd van het proces.
 
@@ -69,7 +69,7 @@ De deelnemers zijn niet actiever geworden na deelname aan het proces. Zij waren 
 
 {% include conclusion-quote.html title="Conclusie Burgerschap" paragraph="Er is deels sprake van Burgerschap. De deelnemers zijn deels maatschappelijk actieve inwoners. Ze zijn niet actiever of meer betrokken inwoners geworden na deelname aan het proces. " %}
 
-### Deliberatie
+## Deliberatie
 
 Je kunt spreken van de aanwezigheid van deliberatie als in een debat de deelnemers naar elkaar luisteren en standpunten uit kunnen wisselen. Ze moeten bereid zijn om overtuigd te worden door de ander met rationele argumenten. Dit vraagt van de deelnemers dat zij rationeel en open kunnen delibereren. Zij moeten daarnaast in staat en bereid zijn om hun mening aan te passen en oog te hebben voor het maatschappelijke belang.
 
@@ -77,7 +77,7 @@ Respondenten geven aan dat zij ideeën hebben aangedragen. Bijna alle respondent
 
 {% include conclusion-quote.html title="Conclusie Deliberatie" paragraph="Er is deels sprake van Deliberatie. De deelnemers hebben overwegend ervaren dat er naar elkaar is geluisterd. Meningen zijn gedeeld en deels gerespecteerd. Er was deels sprake van inzet op eigen belang.  " %}
 
-### Invloed
+## Invloed
 
 Er is sprake van de aanwezigheid van de democratische waarde invloed als er geluisterd is naar de ideeën van burgers, als meningen gerespecteerd zijn en als er een (beleids)verandering heeft opgetreden.
 
@@ -90,7 +90,7 @@ De herinrichting van Mildam-Noord zal waarschijnlijk in het najaar van 2019 star
 
 {% include conclusion-quote.html title="Conclusie Invloed" paragraph="Er is onvoldoende sprake geweest van Invloed. Deelnemers hebben gelegenheid gehad om hun mening te geven maar een meerderheid heeft ervaren dat er onvoldoende naar deze mening is geluisterd. " %}
 
-### Legitimiteit
+## Legitimiteit
 
 Als er sprake is van een sterk vertrouwen en een sterke acceptatie (van het plan) en tevredenheid (met de uitvoering en opbrengst) dan kunnen we spreken van aanwezigheid van legitimiteit als democratische waarde.
 
@@ -98,7 +98,7 @@ De deelnemers geven aan dat het plan grotendeels wordt geaccepteerd door henzelf
 
 {% include conclusion-quote.html title="Conclusie Legitimiteit" paragraph="Er is sprake van Legitimiteit. Alle deelnemers zijn overwegend positief over het plan en zij hebben vertrouwen dat het plan uitgevoerd gaat worden. De deelnemers zijn overwegend tevreden over het proces.  " %}
 
-### Transparantie
+## Transparantie
 
 Er is sprake van de aanwezigheid van de democratische waarde Transparantie als informatie helder en duidelijk is gedeeld en als er duidelijkheid is over rollen en taken.
 
@@ -114,14 +114,14 @@ Door alle respondenten werd gezegd over de straatvertegenwoordiging:
 
 {% include conclusion-quote.html title="Conclusie Transparantie" paragraph="Er is geen sprake van Transparantie. Er is onduidelijk ervaren over de status van het plan en over de mogelijkheden voor inwoners om plannen te wijzigen. Er is onduidelijkheid geweest over de taak van de werkgroepleden om draagvlak te organiseren. " %}
 
-### Efficiëntie
+## Efficiëntie
 
 Er is sprake van efficiëntie als de werkgroep leden het idee hebben dat er balans bestaat tussen de inzet van tijd en de opbrengsten.
 Alle werkgroep leden vinden dat hun tijd goed besteed is en dat de inzet en tijd die zij gestoken hebben in het maken van de plannen prima te doen is en dat het zinvol was. Eén werkgroep lid heeft aangegeven dat het toch nog meer tijd heeft gekost dan gedacht. Eén werkgroeplid gaf aan dat het proces te snel is verlopen en dat er meer tijd en aandacht nodig was voor een goede afronding van het proces.
 
 {% include conclusion-quote.html title="Conclusie Efficiëntie" paragraph="Er is sprake van Efficiëntie, de werkgroepleden vonden dat er een goede balans bestond uit de inzet van tijd en de opbrengsten. " %}
 
-### Wat ambtenaren vertellen
+## Wat ambtenaren vertellen
 
 Ambtenaren vertellen dat Mildam-Noord een dorp is met betrokken inwoners. Ze vertellen ook dat er onduidelijkheid was over de taak van de werkgroepleden om alle straatbewoners te informeren en te betrekken bij de plannen. Zij geven aan dat er achteraf nog vragen of nabranders zijn geweest maar dat dit gebruikelijk is bij een herinrichting van een dorp. Ambtenaren geven aan dat ze in de slotbijeenkomst duidelijker hadden moeten vertellen dat er op de avond nog gelegenheid was om suggesties te doen.
 
