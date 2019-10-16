@@ -47,6 +47,8 @@ De wijze waarop de processen zijn ingericht beïnvloedt de verschillende democra
 
 ![Draagvlak](/uploads/Ill_draagvlak02.jpg "Draagvlak")
 
+## Inzichten
+
 In het onderzoek is, naar deelvraag vier, iedere waarde voor ieder proces in beeld gebracht aan de hand van de ervaringen van inwoners. Dit leverde de volgende inzichten op:
 
 * Loting is geen garantie voor inclusieve deelname. Wil de gemeente bij een vraagstuk daadwerkelijke inclusie bereiken, dan is het gericht uitnodigen van doelgroepen en het goed aansluiten bij de behoeften en verwachtingen van die doelgroepen noodzakelijk. Ook geldt: hoe kleiner de vraag, hoe makkelijker het is om alle betrokkenen in beeld te krijgen en te betrekken.
