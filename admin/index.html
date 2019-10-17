@@ -17,8 +17,8 @@ CMS.registerEditorComponent({
   label: "Quote blok",
   // Fields the user need to fill out when adding an instance of the component
   fields: [
-    {name: title, label: 'Titel', widget: 'string'},
-    {name: paragraph, label: 'Quote', widget: 'text'}
+    {name: 'title', label: 'Titel', widget: 'string'},
+    {name: 'paragraph', label: 'Quote', widget: 'text'}
     ],
   // Pattern to identify a block as being an instance of this component
   pattern: /^youtube (\S+)$/,
@@ -37,7 +37,7 @@ CMS.registerEditorComponent({
   // (component gives better render performance)
   toPreview: function(obj) {
     return (
-      '<img src="http://img.youtube.com/vi/' + obj.id + '/maxresdefault.jpg" alt="Youtube Video"/>'
+      '<img src="http://img.youtube.com/vi/' + obj.title + '/maxresdefault.jpg" alt="Youtube Video"/>'
     );
   }
 });
