@@ -140,9 +140,8 @@ Een groep inwoners die langere tijd bezig is met het maken van plannen voor de w
 
 De forumleden hebben de regie over de plannen voor Spelen en Ontmoeten voor de wijk. Zij ontdekken dat het maken en uitvoeren van plannen lang duurt, ook als het forum zelf de touwtjes in handen heeft. Ambtenaren moeten wachten met uitvoeren van beleid in de wijk totdat het forum de plannen klaar heeft. Het lijkt erop dat als inwoners regie krijgen over het maken van plannen zij tegen dezelfde zaken aanlopen als ambtenaren. Het maken en uitvoeren van plannen duurt lang omdat men tegen regels en procedures aanlopen. Daarnaast is het organiseren van draagvlak en het meenemen van de wijk in de keuzes soms lastig.
 
-Lees verder over:
+### Lees verder over:
 
-* [de vergelijking tussen de verschillende processen](<>)
 * [het proces Mildam](/mildam)
 * [het proces Omgevingsvisie](/omgevingsvisie)
 * [het proces Akkrum](/akkrum)

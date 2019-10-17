@@ -115,7 +115,6 @@ Een eenvoudige stemming over een eenvoudig concreet onderwerp (wat wordt de best
 
 ### Lees verder over:
 
-* de vergelijking tussen de verschillende processen
 * [het proces Mildam](/mildam)
 * [het proces Omgevingsvisie](/omgevingsvisie)
 * [het proces Akkrum](akkrum)
