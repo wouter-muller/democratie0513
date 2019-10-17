@@ -49,7 +49,7 @@ De belangrijkste actoren in het onderzoek zijn de betrokken inwoners. Uit alle a
 
 In onderstaand schema is zichtbaar welke en hoeveel actoren zijn geïnterviewd.
 
-|---+------------+-----------------|
+\|---+------------+-----------------|
 |  Actor  | Aantal | Hoe  |
 |-----------------|-----------|---------------|
 | Burgers (G1000) | 37 | Diepte-interview |
@@ -64,17 +64,11 @@ In onderstaand schema is zichtbaar welke en hoeveel actoren zijn geïnterviewd.
 
 [Democratische meetlat.](/de-democratische-meetlat) Lees hier meer over de democratische waarden die zijn onderzocht in de verschillende processen.
 
-
-
-
-
-
-
 ## Nieuwe vormen van lokale democratie
 
 De afgelopen decennia zijn er al meerdere vormen van democratisch samenwerken tussen overheid en burgers bedacht of ontstaan, meestal onder de noemer burgerparticipatie of overheidsparticipatie. Deze vormen krijgen allerlei creatieve namen, maar het komt erop neer dat er verschillende niveaus zijn waarop burgers kunnen meedoen. De overheid kan burgers raadplegen, om advies vragen, samen plannen maken of laten (mee)beslissen. Onderstaande tabel geeft een overzicht:
 
-|---+------------+----------+-------|
+\|---+------------+----------+-------|
 | Rol |	Taak | 	Raadplegen	| Adviseren |
 |-------|---|---|---|
 | Politiek Bestuur	| Bepaalt de agenda en verbindt zich niet aan de uitkomst van de gesprekken. |	Spreekuur, Enquête Burgerpanel, Wijk-platform, Politiek café	| Stadsgesprek, ronde tafelgesprek, adviesraden, kwaliteits-schouw |
@@ -140,20 +134,14 @@ Een G1000 is een methode om in een gemeenschap samen te beslissen over een belan
 
 Een G1000 kan op verschillende manieren georganiseerd worden. Het blijft een kostbaar traject, en hoewel kosten en werkwijze aangepast kunnen worden, worden de basisprincipes niet losgelaten. In de gemeente Heerenveen duurt de G1000 vier maanden. De G1000 start met een loting onder inwoners voor deelname aan een Burgertop. Op die dag gaan een paar honderd mensen (inwoners, ondernemers, politici, ambtenaren, vrije denkers) met elkaar praten over de centrale vraag. De belangrijkste thema’s rond de centrale vraag komen in beeld. Na de Burgertop gaan, de deelnemers die dat willen, aan de slag met het uitwerken van de thema’s in concrete plannen. Zij komen daarvoor minimaal vier keer bijeen op het Burgerforum. Na vier maanden, op de bijeenkomst Burgerraad, nemen alle Burgertop-deelnemers gezamenlijk een Burgerbesluit. De deelnemers gaan stemmen welke plannen (een kant-en-klaar voorstel) het beste zijn en uitgevoerd moeten worden. Het Burgerbesluit zal daarna worden aangeboden aan de gemeenteraad. De gemeenteraad verplicht zich om binnen een redelijke termijn na het Burgerbesluit, dit in haar vergadering te behandelen. Dit betekent dat de gemeenteraad de voorstellen van het Burgerbesluit van commentaar voorziet en een besluit neemt over de uitvoering van de plannen.
 
-
-
 ## Coproductie
 
 Een inmiddels gebruikelijke vorm van samenwerken met inwoners is coproductie. In dit soort processen ligt de regie wat meer bij de overheid. Het vraagstuk wordt aangedragen en afgebakend door de gemeente en inwoners worden gevraagd of geselecteerd om mee te doen in het proces in een aantal gespreksronden of avonden. Inwoners worden ingezet om informatie op te halen en om mee te denken in de planvorming. Uiteindelijk maken de ambtenaren een voorstel van de input van inwoners, dat wordt voorgelegd aan de vertegenwoordigers die de beslissingen nemen.
 
-
-
 In de afbeelding hierna worden de drie vormen met elkaar vergeleken. De G1000 loot deelnemers en begint zonder agenda, maar leidt na een strak geregisseerd proces met tussenstappen tot besluiten via stemming door inwoners.
-
-
 
 Bij community processing doet iedereen die zich betrokken voelt mee en is er een heldere kwestie die vooraf bekend is. De agenda wordt gezamenlijk opgesteld binnen de kaders die de raad heeft geschetst. Afhankelijk van het aantal deelnemers en de daarbij passende vorm worden tussenstappen gekozen die uiteindelijk leiden tot een dialoog met als uitkomst een besluit dat iedereen kan dragen (consent).
 
-
-
 Bij coproductie nodigt de gemeente deelnemers uit, die rond een thema informatie mogen aanleveren of mee mogen denken. De input van deelnemers wordt door ambtenaren verwerkt en vervolgens neemt de raad een beslissing.
+
+![](/uploads/processen_lokaledemocratie.jpg)
