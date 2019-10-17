@@ -76,6 +76,7 @@
             margin-bottom: 50px
 
             li
+                // list-style-type: disc
                 position: relative
                 font-size: px(24)
                 margin-left: 40px
@@ -83,6 +84,12 @@
                 line-height: 1.8
 
                 &:before
-                    content: '-'
-                    left: px(-20)
+                    color: $turqoise
+                    content: ''
+                    left: px(-24)
+                    top: px(17)
                     position: absolute
+                    width: 8px
+                    height: 8px
+                    background-color: $turqoise
+                    border-radius: 100%
