@@ -22,7 +22,7 @@ chapters:
     type: analysis
     url: '#analysis'
 ---
-<div id="uitkomsten"></div>
+<div id="uitkomsten" class="s-anchor"></div>
 
 ## Uitkomsten Omgevingsvisie
 
@@ -262,7 +262,7 @@ Sommige bijeenkomsten werden wel goed bezocht, naar tevredenheid van raadsleden 
 
 Het proces Omgevingsvisie wordt door meerdere ambtenaren en raadsleden als lastig benoemd. Bijvoorbeeld als het gaat om het onderwerp, het betrekken van inwoners en het abstractieniveau.
 
-<div id="analysis"></div>
+<div id="analysis" class="s-anchor"></div>
 
 ![](/uploads/Ill_stemmen-besluiten.jpg)
 

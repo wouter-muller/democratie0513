@@ -21,7 +21,7 @@ chapters:
     type: analysis
     url: '#analysis'
 ---
-<div id="uitkomsten"></div>
+<div id="uitkomsten" class="s-anchor"></div>
 
 ## Uitkomsten Akkrum
 
@@ -113,7 +113,7 @@ De respondenten vinden dat het gehele proces lang duurt. Daar zijn verschillende
     paragraph="Er is sprake van Efficiëntie, de werkgroepleden vonden dat er een goede balans bestond uit de inzet van tijd en de opbrengsten. Het proces heeft wel lang geduurd. "
 %}
 
-<div id="analysis"></div>
+<div id="analysis" class="s-anchor"></div>
 
 ## Analyse Akkrum
 

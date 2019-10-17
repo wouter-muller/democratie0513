@@ -17,7 +17,7 @@ chapters:
     type: analysis
     url: '#analysis'
 ---
-<div id="uitkomsten"></div>
+<div id="uitkomsten" class="s-anchor"></div>
 
 Onderstaande uitkomsten van het onderzoek zijn gebaseerd op:
 
@@ -107,7 +107,7 @@ De deelnemers zijn één avond naar een bijeenkomst geweest waar zij luisterden 
     paragraph="Er is sprake van Efficiëntie, de deelnemers vonden dat er een goede balans bestond uit de inzet van tijd en de opbrengsten. "
 %}
 
-<div id="analysis"></div>
+<div id="analysis" class="s-anchor"></div>
 
 ## Analyse Aldeboarn
 

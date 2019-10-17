@@ -22,7 +22,7 @@ chapters:
     url: '#analysis'
 ---
 
-<div id="uitkomsten"></div>
+<div id="uitkomsten" class="s-anchor"></div>
 
 ## Uitkomsten De Greiden
 
@@ -133,10 +133,7 @@ Twee forumleden ervaren dat de activiteiten in het burgerforum veel tijd kosten.
 %}
 
 
-
-
-
-<div id="analysis"></div>
+<div id="analysis" class="s-anchor"></div>
 
 ## Analyse
 
