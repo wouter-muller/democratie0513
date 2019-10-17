@@ -6,6 +6,16 @@ permalink: /de-democratische-meetlat
 hero-heading: De democratische meetlat
 hero-subheading: ''
 hero-paragraph: ''
+content-intro: >-
+  Gemeente Heerenveen is een zoektocht gestart naar een nieuwe vorm van lokale
+  democratie waarmee het mogelijk is om meer en andere burgers te betrekken in
+  besluitvormingsprocessen. De gemeente vraagt zich af wat de effecten zijn van
+  de verschillende processen. Om processen van lokale democratie te kunnen
+  duiden is daarom gekeken naar theoretische modellen gericht op democratie. De
+  kernbegrippen in het theoretische kader zijn naar volgorde: democratische
+  waarden, monitoren en evalueren en lokale democratie. De belangrijkste
+  wetenschappelijke artikelen die zijn gebruikt in dit onderzoek zijn van Graham
+  Smith, Ank Michels & Harm Binnema.
 chapters:
   - title: Het onderzoek
     type: research
@@ -19,10 +29,7 @@ chapters:
   - title: Analyse en conclusie
     type: analysis
     url: /analyse
-content-intro: "Gemeente Heerenveen is een zoektocht gestart naar een nieuwe vorm van lokale democratie waarmee het mogelijk is om meer en andere burgers te betrekken in besluitvormingsprocessen. De gemeente vraagt zich af wat de effecten zijn van de verschillende processen. Om processen van lokale democratie te kunnen duiden is daarom gekeken naar theoretische modellen gericht op democratie. De kernbegrippen in het theoretische kader zijn naar volgorde: democratische waarden, monitoren en evalueren en lokale democratie. De belangrijkste wetenschappelijke artikelen die zijn gebruikt in dit onderzoek zijn van Graham Smith, Ank Michels & Harm Binnema."
 ---
-
-
 ## Democratische waarden
 
 Volgens Graham Smit is het belangrijk om democratische innovaties te bestuderen omdat we daarmee meer inzicht kunnen krijgen in wat democratie kan betekenen en kan worden. Hij zegt hierover: “The government can more fully institutionalize the democratic ideal. By looking and researching democratic innovations we can actually engage in the imaginative and practical task of what democracy might mean and become”. Democratie heeft meer potentie dan we er nu uithalen (G. Smith, 2014).
@@ -45,12 +52,13 @@ Vertrouwen/steunen inwoners en/of politici en ambtenaren het proces en/of de uit
 
 ## Inclusie
 
+{% include conclusion-quote.html title="Quote test" paragraph="Lorem ipsum" %}
+
 Voor een democratie is inclusie een belangrijke waarde, het gaat over de vraag wie allemaal hoort bij ‘het volk’ aan wiens stem de democratie uiting geeft. In ideale zin zou elke stem en mening van het volk gehoord moeten worden en meetellen. Om te komen tot inclusie houdt de verantwoordelijkheid niet op bij het zorgen voor een loting waarin iedereen deelneemt. Je zou nog verder kunnen kijken en ervoor kunnen zorgen dat ook echt alle groepen vertegenwoordigd zijn en niemand is buitengesloten. Niet tijdens de toegang tot de verkozen/gelote groep maar ook niet tijdens het proces zelf. Soms moet participatie gefaciliteerd worden. Mensen met een auditieve beperking hebben bijvoorbeeld een speciaal groepsmicrofoon nodig om de gesprekken te volgen. Een gemeente kan zich afvragen welke regels, normen of verwachting mensen zouden kunnen uitsluiten van het uitspreken van hun mening of gedachte (Graham Smith, 2014).
 
 ### Evaluatievragen op het gebied van inclusie
 
 Op welke manier hadden inwoners toegang tot deelname aan de processen van lokale democratie? Zijn alle groepen die een belang of betrokkenheid hebben bij het vraagstuk of dorp vertegenwoordigd in het proces? Zijn daar ambities over geformuleerd? Hebben de deelnemers zelf het idee dat iedereen mee kon doen, zijn er geen groepen gemist? Er wordt gekeken naar bijvoorbeeld: etniciteit, leeftijd, geslacht, politieke achtergrond, beperking, etc.
-
 
 ## Invloed
 
@@ -77,7 +85,6 @@ In hoeverre en op welke manier heeft deliberatie plaatsgevonden? Deed iedereen m
 ## Efficiëntie
 
 De gedachte is dat nieuwe vormen van lokale democratie, zoals loting en burgertoppen, als opbrengst heeft het versterken van de democratie en vergroten van betrokkenheid. Een argument tegen deelname van burgers in de politieke besluitvorming is dat het te veel tijd kost en geld. Eigenlijk vraag je misschien wel te veel van burgers en ook van politici om gezamenlijk te participeren in deze processen. (Smith p. 30). Daarnaast is de gedachte dat des te meer mensen mee beslissen des te langer het besluitvormingsproces duurt. Burgers moeten zich gaan buigen over voor hen waarschijnlijk nieuwe vraagstukken, waarvoor kennisverwerving nodig is. De burgers die gaan samenwerken moeten elkaar en het politieke en maatschappelijke landschap leren kennen. Voor de gemeente betekent het dat zij de democratische processen, en alle acties die daarbij komen kijken, moeten organiseren. Dit verlangt wellicht een andere inrichting van processen en andere manieren van organiseren en faciliteren. Het klinkt alsof het dus geen efficiënte manier van besturen is. David van Reybrouck betoogt dat loting als politiek besluitvormingsproces juist wel een efficiënte manier van besturen is. Het vereist in het begin wellicht veel tijd maar het idee is dat er na de besluitvorming meer draagvlak is, meer legitimiteit en daardoor zullen de besluiten sneller en beter hun weg vinden (Van Reybrouck, 2015).
-
 
 ### Evaluatievragen op het gebied van Efficiëntie
 
@@ -110,9 +117,9 @@ De conclusie is dat je kunt sturen op waarden door de keuze voor een bepaald pro
 
 Lees hier verder over de uitkomsten van het onderzoek van het proces:
 
-- [G1000](/g1000)
-- [Omgevingsvisie](/omgevingsvisie)
-- [Mildam](/mildam)
-- [Akkrum](/akkrum)
-- [De Greiden](/de-greiden)
-- [Aldeboarn](/aldeboarn)
+* [G1000](/g1000)
+* [Omgevingsvisie](/omgevingsvisie)
+* [Mildam](/mildam)
+* [Akkrum](/akkrum)
+* [De Greiden](/de-greiden)
+* [Aldeboarn](/aldeboarn)
