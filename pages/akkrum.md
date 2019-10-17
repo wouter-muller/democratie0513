@@ -130,6 +130,6 @@ Een groep inwoners die zelf aan de slag gaat met het maken van plannen leert ove
 * [de vergelijking tussen de verschillende processen](<>)
 * [het proces Mildam](/mildam)
 * [het proces Omgevingsvisie](/omgevingsvisie)
-* [het proces Akkrum](/akkrum)
+* [het proces G1000](/g1000)
 * [het proces De Greiden](/de-greiden)
 * [het proces Aldeboarn](/aldeboarn)
