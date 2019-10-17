@@ -21,23 +21,24 @@ chapters:
     type: analysis
     url: '#analysis'
 ---
-
 <div id="uitkomsten" class="s-anchor"></div>
 
 ## Uitkomsten De Greiden
 
 Onderstaande uitkomsten van het onderzoek zijn gebaseerd op:
-- Gesprekken met 3 forumleden (werkgroep)
-- Gesprekken met 1 ambtenaar
-- Observatie van Bijeenkomst van 11 april 2019
-- Mailverkeer
-- Facebookpagina Buitengewoon De Greiden
+
+* Gesprekken met 3 forumleden (werkgroep)
+* Gesprekken met 1 ambtenaar
+* Observatie van Bijeenkomst van 11 april 2019
+* Mailverkeer
+* Facebookpagina Buitengewoon De Greiden
 
 ## Inclusie
 
 We kunnen spreken van Inclusie als de groep deelnemers representatief is voor de wijk De Greiden of voor het vraagstuk (plannen voor de wijk).
 
-**Quote deelnemer**: “Ik zou het fijn vinden om de groep wat diverser te krijgen.”
+**Quote deelnemer**: \
+“Ik zou het fijn vinden om de groep wat diverser te krijgen.”
 
 Het bewonersforum is ontstaan uit een experiment met loting in 2017. Destijds zijn 25 deelnemers geloot waarvan op dit moment nog 5 actief lid zijn en 6 passieve leden. De forumleden geven zelf aan dat zij graag meer deelnemers, en een diversere groep zouden willen hebben. Voor de bijeenkomst op 11 april waren wijkinwoners, ambtenaren, raadsleden, zorg/welzijn medewerkers en anderen uitgenodigd. De verhouding was ongeveer de helft inwoner en de helft vanuit functie.
 
@@ -132,7 +133,6 @@ Twee forumleden ervaren dat de activiteiten in het burgerforum veel tijd kosten.
     paragraph="Er is beperkt sprake van Efficiëntie, de deelnemers vonden dat er geen goede balans bestond uit de inzet van tijd en de opbrengsten maar zij zijn wel bereid om hun tijd in te zetten voor de opbrengsten. "
 %}
 
-
 <div id="analysis" class="s-anchor"></div>
 
 ## Analyse
@@ -143,9 +143,9 @@ De forumleden hebben de regie over de plannen voor Spelen en Ontmoeten voor de w
 
 Lees verder over:
 
-- [de vergelijking tussen de verschillende processen]()
-- [het proces Mildam](/mildam)
-- [het proces Omgevingsvisie](/omgevingsvisie)
-- [het proces Akkrum](/akkrum)
-- [het proces G1000](/g1000)
-- [het proces Aldeboarn](/aldeboarn)
+* [de vergelijking tussen de verschillende processen](<>)
+* [het proces Mildam](/mildam)
+* [het proces Omgevingsvisie](/omgevingsvisie)
+* [het proces Akkrum](/akkrum)
+* [het proces G1000](/g1000)
+* [het proces Aldeboarn](/aldeboarn)
