@@ -37,8 +37,7 @@ Onderstaande uitkomsten van het onderzoek zijn gebaseerd op:
 
 We kunnen spreken van Inclusie als de groep deelnemers representatief is voor de wijk De Greiden of voor het vraagstuk (plannen voor de wijk).
 
-**Quote deelnemer**: \
-“Ik zou het fijn vinden om de groep wat diverser te krijgen.”
+**Quote deelnemer**: “Ik zou het fijn vinden om de groep wat diverser te krijgen.”
 
 Het bewonersforum is ontstaan uit een experiment met loting in 2017. Destijds zijn 25 deelnemers geloot waarvan op dit moment nog 5 actief lid zijn en 6 passieve leden. De forumleden geven zelf aan dat zij graag meer deelnemers, en een diversere groep zouden willen hebben. Voor de bijeenkomst op 11 april waren wijkinwoners, ambtenaren, raadsleden, zorg/welzijn medewerkers en anderen uitgenodigd. De verhouding was ongeveer de helft inwoner en de helft vanuit functie.
 
