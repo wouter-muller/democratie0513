@@ -113,6 +113,8 @@ Alhoewel alle democratische waarden relevant zijn in elk proces, ligt toch in el
 
 De conclusie is dat je kunt sturen op waarden door de keuze voor een bepaald proces. In het ene proces zal de ene waarde meer of uitgebreider aan de orde zijn dan in een ander proces. In de verschillende processen is vergeleken hoe de democratische waarden zijn vormgegeven en beleefd. In het observeren van bijeenkomsten is met name gekeken naar de democratische waarden: deliberatie, inclusie en transparantie. In de interviews is aandacht geweest voor alle democratische waarden. Ambtenaren, inwoners en raadsleden wordt gevraagd hoe zij de processen hebben ervaren en beleefd. Ambtenaren wordt gevraagd hoe zij de processen hebben georganiseerd en ondersteund. In deze plaat wordt een koppeling gemaakt tussen de verwachte plek van de democratische waarden in de processen en de onderzoeksmethoden.
 
+![](/uploads/democratischewaarden.jpg)
+
 Lees hier verder over de uitkomsten van het onderzoek van het proces:
 
 * [G1000](/g1000)
