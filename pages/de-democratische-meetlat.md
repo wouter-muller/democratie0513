@@ -42,7 +42,7 @@ In onderzoek naar burgerparticipatie komen we ook vaak de democratische waarde b
 
 Hieronder komen de 7 democratische waarden stuk voor stuk aan bod. Het gaat om een toelichting op; Inclusie, Deliberatie, Legitimiteit, Invloed, Transparantie, Efficiëntie en Burgerschap. Daarbij worden de waarden uitgewerkt en vervolgens vertaald in een aantal evaluatievragen die rond die waarde gesteld kunnen worden. De focus in dit onderzoek ligt daarbij op de ervaring van de deelnemers.
 
-## Legitimiteit.
+## Legitimiteit
 
 Steun voor het systeem en vertrouwen in het systeem en de mensen zijn nodig voor een goed werkende democratie (Peters et al, 2014). In de literatuur komen we deze aspecten tegen als onderdeel van de democratische waarde Legitimiteit. Legitimiteit wordt op veel verschillende manieren gedefinieerd. De drie aspecten die in dit onderzoek gebruikt worden zijn overgenomen uit de Legitimiteitsmonitor (van Ostaaijen et al, 2013). Dit zijn: acceptatie, vertrouwen en tevredenheid. Legitimiteit komt vooral aan de orde in de fase Besluitvorming van het besluitvormingsproces en heeft het meest betrekking op de actoren burgers (wijkinwoners) en gemeenteraad.
 
@@ -50,7 +50,7 @@ Steun voor het systeem en vertrouwen in het systeem en de mensen zijn nodig voor
 
 Vertrouwen/steunen inwoners en/of politici en ambtenaren het proces en/of de uitkomsten? Bij acceptatie kan men zich afvragen in hoeverre er instemming is voor het besluit of de plannen. Is de acceptatie zwak of sterk en is er (actieve of passieve) steun voor het besluit? Tevredenheid: in hoeverre zijn inwoners of politici tevreden met het besluit of de plannen? Krijgt het plan/besluit een positieve beoordeling?
 
-## Inclusi
+## Inclusie
 
 Voor een democratie is inclusie een belangrijke waarde, het gaat over de vraag wie allemaal hoort bij ‘het volk’ aan wiens stem de democratie uiting geeft. In ideale zin zou elke stem en mening van het volk gehoord moeten worden en meetellen. Om te komen tot inclusie houdt de verantwoordelijkheid niet op bij het zorgen voor een loting waarin iedereen deelneemt. Je zou nog verder kunnen kijken en ervoor kunnen zorgen dat ook echt alle groepen vertegenwoordigd zijn en niemand is buitengesloten. Niet tijdens de toegang tot de verkozen/gelote groep maar ook niet tijdens het proces zelf. Soms moet participatie gefaciliteerd worden. Mensen met een auditieve beperking hebben bijvoorbeeld een speciaal groepsmicrofoon nodig om de gesprekken te volgen. Een gemeente kan zich afvragen welke regels, normen of verwachting mensen zouden kunnen uitsluiten van het uitspreken van hun mening of gedachte (Graham Smith, 2014).
 
