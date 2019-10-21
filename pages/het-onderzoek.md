@@ -49,7 +49,7 @@ De belangrijkste actoren in het onderzoek zijn de betrokken inwoners. Uit alle a
 
 In onderstaand schema is zichtbaar welke en hoeveel actoren zijn geïnterviewd.
 
-\|---+------------+-----------------|
+|---+------------+-----------------|
 |  Actor  | Aantal | Hoe  |
 |-----------------|-----------|---------------|
 | Burgers (G1000) | 37 | Diepte-interview |
@@ -68,7 +68,7 @@ In onderstaand schema is zichtbaar welke en hoeveel actoren zijn geïnterviewd.
 
 De afgelopen decennia zijn er al meerdere vormen van democratisch samenwerken tussen overheid en burgers bedacht of ontstaan, meestal onder de noemer burgerparticipatie of overheidsparticipatie. Deze vormen krijgen allerlei creatieve namen, maar het komt erop neer dat er verschillende niveaus zijn waarop burgers kunnen meedoen. De overheid kan burgers raadplegen, om advies vragen, samen plannen maken of laten (mee)beslissen. Onderstaande tabel geeft een overzicht:
 
-\|---+------------+----------+-------|
+|---+------------+----------+-------|
 | Rol |	Taak | 	Raadplegen	| Adviseren |
 |-------|---|---|---|
 | Politiek Bestuur	| Bepaalt de agenda en verbindt zich niet aan de uitkomst van de gesprekken. |	Spreekuur, Enquête Burgerpanel, Wijk-platform, Politiek café	| Stadsgesprek, ronde tafelgesprek, adviesraden, kwaliteits-schouw |
