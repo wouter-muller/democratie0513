@@ -101,8 +101,7 @@ Hoe het proces om te komen tot een beslissing is ingericht, bepaalt in feite de 
 
 Community Processing is een vorm lokale democratie. Het is in te zetten bij besluiten over maatschappelijke (crisis) vraagstukken. Anke Siegers noemt het een vorm van ‘samensturing’. Ambtenaren van de gemeente Heerenveen hebben training gehad van Anke Siegers in het gebruik van deze methode. Het gezamenlijk nemen van besluiten, met alle mensen die een belang hebben bij de kwestie, heeft positieve effecten, aldus Anke Siegers. Het zorgt voor:
 
-Motivatie en eigen regie van de deelnemers,
-
+* Motivatie en eigen regie van de deelnemers,
 * Betrokkenheid,
 * Gezamenlijke verantwoordelijkheid (de motivatie en betrokkenheid wordt omgezet in actie),
 * Samenredzaamheid, dus niet meer leunend op en afhankelijk van het systeem.
