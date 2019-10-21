@@ -1,3 +1,10 @@
+var app = new Vue({
+    el: '#vue',
+    data: {
+        hamburgerMenuOpen: false
+    }
+})
+
 var images = document.querySelectorAll(".js-image")
 for (i = 0; i < images.length; i++) {
   images[i].onclick = function() {

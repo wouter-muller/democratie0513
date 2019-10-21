@@ -71,7 +71,6 @@ Deelvraag 4 kan worden opgedeeld in een vraag per waarde:
 ### Lees verder over:
 
 * [Hoe het onderzoek is ingericht](/het-onderzoek)
-* De theorie achter het onderzoek
 * [De meetlat democratische waarden](/de-democratische-meetlat)
 * [De resultaten van het onderzoek](/uitkomsten)
 * [De analyse en conclusies van het onderzoek](/analyse)
