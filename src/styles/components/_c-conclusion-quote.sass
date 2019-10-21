@@ -59,11 +59,12 @@
         p
             color: $turqoise
 
-        &:before
-            +background-image('quote-open-blue.svg')
+        &__wrapper
+            &:before
+                +background-image('quote-open-blue.svg')
 
-        &:after
-            +background-image('quote-close-blue.svg')
+            &:after
+                +background-image('quote-close-blue.svg')
 
     @at-root .red &
         background-color: #ffe0e3
