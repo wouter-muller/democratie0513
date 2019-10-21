@@ -1,11 +1,40 @@
 .c-conclusion-quote
     margin-bottom: px(50)
+    position: relative
 
     +mobile
         padding: px(60) px(30)
 
     +tablet-desktop
         padding: px(90)
+
+    &__wrapper
+        position: relative
+
+        &:before,
+        &:after
+            content: ''
+            position: absolute
+            width: px(21)
+            height: px(21)
+
+        &:before
+            +background-image('quote-open.svg')
+
+            +mobile
+                left: px(-30)
+
+            +tablet-desktop
+                left: px(-40)
+
+        &:after
+            +mobile
+                right: px(-20)
+                bottom: 0
+
+            +tablet-desktop
+                right: px(-40)
+                bottom: 0
 
     h2
         +font-merriweather
@@ -21,45 +50,29 @@
         display: inline
         background-color: white
 
-        &:before,
-        &:after
-            content: ''
-            position: absolute
-            width: px(21)
-            height: px(21)
-
-        &:before
-            +background-image('quote-open.svg')
-            left: px(-40)
-
-        &:after
-            right: px(-40)
-            // bottom: px(-10)
-            margin-top: px(20)
 
 
-    &.\--blue
+    @at-root .blue &
         background-color: #e6f2f4
 
         h2,
         p
             color: $turqoise
 
-        p
-            &:before
-                +background-image('quote-open-blue.svg')
+        &:before
+            +background-image('quote-open-blue.svg')
 
-            &:after
-                +background-image('quote-close-blue.svg')
+        &:after
+            +background-image('quote-close-blue.svg')
 
-    &.\--red
+    @at-root .red &
         background-color: #ffe0e3
 
         h2,
         p
             color: $red
 
-        p
+        &__wrapper
             &:before
                 +background-image('quote-open-red.svg')
 
