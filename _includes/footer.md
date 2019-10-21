@@ -6,16 +6,15 @@
                 <img src="{{ site.image_path }}/logo-footer.svg">
             </div>
             <div>
-                <h4 class="s-footer__heading">{{ site.data.footer.research-title }}</h4>
-                {{ site.data.footer.research-paragraph | markdownify }}
-            </div>
-            <div>
                 <h4 class="s-footer__heading">{{ site.data.footer.design-title }}</h4>
                 {{ site.data.footer.design-paragraph | markdownify }}
 
+            </div>
+            <div>
+                <h4 class="s-footer__heading">{{ site.data.footer.research-title }}</h4>
+                {{ site.data.footer.research-paragraph | markdownify }}
                 <h4 class="s-footer__heading u-mt+">{{ site.data.footer.web-title }}</h4>
                 {{ site.data.footer.web-paragraph | markdownify }}
-                <p></p>
             </div>
             <div>
                 <h4 class="s-footer__heading">{{ site.data.footer.illustrations-title }}</h4>
