@@ -16,7 +16,7 @@ var autoprefixer = require('gulp-autoprefixer'),
 
 var config = {
   sourceDir: 'src/',
-  outputDir: '_site/dist/'
+  outputDir: 'httpdocs/dist/'
 };
 
 // ----------------------------------------------------------------------------

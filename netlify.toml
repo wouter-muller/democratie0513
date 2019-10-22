@@ -1,6 +1,6 @@
 [build]
   command = "jekyll build;gulp clean;gulp all"
-  publish = "_site"
+  publish = "httpdocs"
 
 [build.environment]
   JEKYLL_ENV = "production"
