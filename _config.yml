@@ -25,7 +25,6 @@ image_path: "/dist/img"
 # Permalink format (/blog/ is ignored for pages)
 permalink: /blog/:title
 
-
 # Enable section IDs in frontmatter, useful for identifying current page
 # (used as a hook for styling etc)
 section: true
