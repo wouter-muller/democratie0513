@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html class="{{ page.section }} {{ page.color }}" lang="nl">
+
+  {% include head.html %}
+
+  <body>
+
+    <div id="vue">
+
+
+            <div class="s-content">
+                <div class="l-wrapper-medium">
+                    <div class="s-content__main-content">
+                        {{ content | replace: "<table", "<table class='c-normal-table'" | replace: "<img", "<img class='c-image js-image'" | replace: "<strong>Quote deelnemer</strong>:", "<strong>Quote deelnemer</strong>:<br>"}}
+                    </div>
+                </div>
+            </div>
+
+        </main>
+
+    </body>
+
+</html>
