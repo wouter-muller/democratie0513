@@ -2,7 +2,7 @@
 layout: default
 title_tag: Akkrum
 color: red
-permalink: /akkrum
+permalink: /monitoren-democratisering/akkrum
 hero-heading: Akkrum
 content-intro: >-
   Plaatselijk belang Akkrum Nes is in 2016 een werkgroep gestart om plannen te
@@ -128,8 +128,8 @@ Een groep inwoners die zelf aan de slag gaat met het maken van plannen leert ove
 ### Lees verder over:
 
 * [de vergelijking tussen de verschillende processen](<>)
-* [het proces Mildam](/mildam)
-* [het proces Omgevingsvisie](/omgevingsvisie)
-* [het proces G1000](/g1000)
-* [het proces De Greiden](/de-greiden)
-* [het proces Aldeboarn](/aldeboarn)
+* [het proces Mildam](/monitoren-democratisering/mildam)
+* [het proces Omgevingsvisie](/monitoren-democratisering/omgevingsvisie)
+* [het proces G1000](/monitoren-democratisering/g1000)
+* [het proces De Greiden](/monitoren-democratisering/de-greiden)
+* [het proces Aldeboarn](/monitoren-democratisering/aldeboarn)

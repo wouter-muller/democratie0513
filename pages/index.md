@@ -2,7 +2,7 @@
 layout: default
 title_tag: Monitoren democratisering
 color: blue
-permalink: /
+permalink: /monitoren-democratisering
 hero-heading: Lokale democratie
 hero-subheading: Gemeente Heerenveen experimenteert volop.
 hero-paragraph: >-
@@ -18,16 +18,16 @@ content-intro: >-
 chapters:
   - title: Het onderzoek
     type: research
-    url: /het-onderzoek
+    url: /monitoren-democratisering/het-onderzoek
   - title: Samenvatting
     type: summary
-    url: /samenvatting
+    url: /monitoren-democratisering/samenvatting
   - title: Uitkomsten
     type: results
-    url: /uitkomsten
+    url: /monitoren-democratisering/uitkomsten
   - title: Analyse en conclusie
     type: analysis
-    url: /analyse
+    url: /monitoren-democratisering/analyse
 ---
 De gemeenteraad van Heerenveen wil samen met de inwoners van Heerenveen verder met nieuwe vormen van lokale democratie (bijvoorbeeld: loting, G1000, community processing), waarbij er meer betrokkenheid ontstaat van inwoners, instellingen en ondernemers. De basis voor deze samenwerking is gelegd in het Thematisch Raadsakkoord 2018-2022, van waaruit de gemeente Heerenveen samen met burgers wil werken aan ideeën en oplossingen voor relevante thema’s zoals de energietransitie, veranderingen aan het centrum van Heerenveen, een omgevingsvisie, etc.
 
@@ -70,7 +70,7 @@ Deelvraag 4 kan worden opgedeeld in een vraag per waarde:
 
 ### Lees verder over:
 
-* [Hoe het onderzoek is ingericht](/het-onderzoek)
-* [De meetlat democratische waarden](/de-democratische-meetlat)
-* [De resultaten van het onderzoek](/uitkomsten)
-* [De analyse en conclusies van het onderzoek](/analyse)
+* [Hoe het onderzoek is ingericht](/monitoren-democratisering/het-onderzoek)
+* [De meetlat democratische waarden](/monitoren-democratisering/de-democratische-meetlat)
+* [De resultaten van het onderzoek](/monitoren-democratisering/uitkomsten)
+* [De analyse en conclusies van het onderzoek](/monitoren-democratisering/analyse)

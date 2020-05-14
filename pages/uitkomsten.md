@@ -2,22 +2,22 @@
 layout: default
 title_tag: Uitkomsten
 color: blue
-permalink: /uitkomsten
+permalink: /monitoren-democratisering/uitkomsten
 hero-heading: Uitkomsten
 hero-subheading: Het beeld na 80 interviews
 chapters:
   - title: Het onderzoek
     type: research
-    url: /het-onderzoek
+    url: /monitoren-democratisering/het-onderzoek
   - title: Samenvatting
     type: summary
-    url: /samenvatting
+    url: /monitoren-democratisering/samenvatting
   - title: Uitkomsten
     type: results
-    url: /uitkomsten
+    url: /monitoren-democratisering/uitkomsten
   - title: Analyse en conclusie
     type: analysis
-    url: /analyse
+    url: /monitoren-democratisering/analyse
 ---
 ## Uitkomsten
 
@@ -34,11 +34,11 @@ Tijdens de bijeenkomsten zijn ook korte interviews gevoerd over onder andere de 
 
 ### Lees hier verder over de uitkomsten van het onderzoek van het proces:
 
-* [G1000](/g1000)
-* [Omgevingsvisie](/omgevingsvisie)
-* [Mildam](/mildam)
-* [Akkrum](/akkrum)
-* [De Greiden](/de-greiden)
-* [Aldeboarn](/aldeboarn)
+* [G1000](/monitoren-democratisering/g1000)
+* [Omgevingsvisie](/monitoren-democratisering/omgevingsvisie)
+* [Mildam](/monitoren-democratisering/mildam)
+* [Akkrum](/monitoren-democratisering/akkrum)
+* [De Greiden](/monitoren-democratisering/de-greiden)
+* [Aldeboarn](/monitoren-democratisering/aldeboarn)
 
 ![](/uploads/Ill_keuzes.jpg)

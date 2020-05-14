@@ -2,21 +2,21 @@
 layout: default
 title_tag: Samenvatting
 color: blue
-permalink: /samenvatting
+permalink: /monitoren-democratisering/samenvatting
 hero-heading: Samenvatting
 chapters:
   - title: Het onderzoek
     type: research
-    url: /het-onderzoek
+    url: /monitoren-democratisering/het-onderzoek
   - title: Samenvatting
     type: summary
-    url: /samenvatting
+    url: /monitoren-democratisering/samenvatting
   - title: Uitkomsten
     type: results
-    url: /uitkomsten
+    url: /monitoren-democratisering/uitkomsten
   - title: Analyse en conclusie
     type: analysis
-    url: /analyse
+    url: /monitoren-democratisering/analyse
 ---
 ## Samenvatting
 

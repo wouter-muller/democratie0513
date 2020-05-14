@@ -2,7 +2,7 @@
 layout: default
 title_tag: Aldeboarn
 color: red
-permalink: /aldeboarn
+permalink: /monitoren-democratisering/aldeboarn
 hero-heading: Aldeboarn
 content-intro: >-
   Aldeboarn ligt ten noorden van Heerenveen en heeft ongeveer 1545 inwoners. De
@@ -115,8 +115,8 @@ Een eenvoudige stemming over een eenvoudig concreet onderwerp (wat wordt de best
 
 ### Lees verder over:
 
-* [het proces Mildam](/mildam)
-* [het proces Omgevingsvisie](/omgevingsvisie)
-* [het proces Akkrum](akkrum)
-* [het proces De Greiden](/de-greiden)
-* [het proces G1000](/g1000)
+* [het proces Mildam](/monitoren-democratisering/mildam)
+* [het proces Omgevingsvisie](/monitoren-democratisering/omgevingsvisie)
+* [het proces Akkrum](/monitoren-democratisering/akkrum)
+* [het proces De Greiden](/monitoren-democratisering/de-greiden)
+* [het proces G1000](/monitoren-democratisering/g1000)

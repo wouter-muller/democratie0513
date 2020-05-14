@@ -2,21 +2,21 @@
 layout: default
 title_tag: Het onderzoek
 color: blue
-permalink: /het-onderzoek
+permalink: /monitoren-democratisering/het-onderzoek
 hero-heading: Het onderzoek
 chapters:
   - title: Het onderzoek
     type: research
-    url: /het-onderzoek
+    url: /monitoren-democratisering/het-onderzoek
   - title: Samenvatting
     type: summary
-    url: /samenvatting
+    url: /monitoren-democratisering/samenvatting
   - title: Uitkomsten
     type: results
-    url: /uitkomsten
+    url: /monitoren-democratisering/uitkomsten
   - title: Analyse en conclusie
     type: analysis
-    url: /analyse
+    url: /monitoren-democratisering/analyse
 ---
 ## Onderzoeksaanpak
 
@@ -62,7 +62,7 @@ In onderstaand schema is zichtbaar welke en hoeveel actoren zijn geïnterviewd.
 
 ![](/uploads/schema_thematisch-raadsakkoord-v02.jpg)
 
-[Democratische meetlat.](/de-democratische-meetlat) Lees hier meer over de democratische waarden die zijn onderzocht in de verschillende processen.
+[Democratische meetlat.](/monitoren-democratisering/de-democratische-meetlat) Lees hier meer over de democratische waarden die zijn onderzocht in de verschillende processen.
 
 ## Nieuwe vormen van lokale democratie
 

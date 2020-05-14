@@ -2,7 +2,7 @@
 layout: default
 title_tag: Omgevingsvisie
 color: red
-permalink: /omgevingsvisie
+permalink: /monitoren-democratisering/omgevingsvisie
 hero-heading: Omgevingsvisie
 content-intro: >-
   De gemeenteraad van Heerenveen moet, net als alle gemeenten in Nederland, een
@@ -340,8 +340,8 @@ Deelnemers hebben geen probleem met de inzet van tijd voor het proces Omgevingsv
 ### Lees verder over:
 
 * [de vergelijking tussen de verschillende processen](<>)
-* [het proces Mildam](/mildam)
-* [het proces G1000 Heerenveen](/g1000)
-* [het proces Akkrum](/akkrum)
-* [het proces De Greiden](/de-greiden)
-* [het proces Aldeboarn](/aldeboarn)
+* [het proces Mildam](/monitoren-democratisering/mildam)
+* [het proces G1000 Heerenveen](/monitoren-democratisering/g1000)
+* [het proces Akkrum](/monitoren-democratisering/akkrum)
+* [het proces De Greiden](/monitoren-democratisering/de-greiden)
+* [het proces Aldeboarn](/monitoren-democratisering/aldeboarn)

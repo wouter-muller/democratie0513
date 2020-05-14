@@ -2,7 +2,7 @@
 layout: default
 title_tag: De Greiden
 color: red
-permalink: /de-greiden
+permalink: /monitoren-democratisering/de-greiden
 hero-heading: De Greiden
 content-intro: >-
   In de wijk De Greiden (Heerenveen) werkt een bewonersforum Buitengewoon De
@@ -142,8 +142,8 @@ De forumleden hebben de regie over de plannen voor Spelen en Ontmoeten voor de w
 
 ### Lees verder over:
 
-* [het proces Mildam](/mildam)
-* [het proces Omgevingsvisie](/omgevingsvisie)
-* [het proces Akkrum](/akkrum)
-* [het proces G1000](/g1000)
-* [het proces Aldeboarn](/aldeboarn)
+* [het proces Mildam](/monitoren-democratisering/mildam)
+* [het proces Omgevingsvisie](/monitoren-democratisering/omgevingsvisie)
+* [het proces Akkrum](/monitoren-democratisering/akkrum)
+* [het proces G1000](/monitoren-democratisering/g1000)
+* [het proces Aldeboarn](/monitoren-democratisering/aldeboarn)

@@ -2,7 +2,7 @@
 layout: default
 title_tag: Mildam Noord
 color: red
-permalink: /mildam
+permalink: /monitoren-democratisering/mildam
 hero-heading: Mildam Noord
 hero-subheading: ''
 content-intro: >-
