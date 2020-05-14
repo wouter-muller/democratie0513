@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: monitoren-democratisering
 title_tag: Omgevingsvisie
 color: red
 permalink: /monitoren-democratisering/omgevingsvisie
@@ -55,7 +55,7 @@ In de observaties is gezien dat op sommige bijeenkomsten zo’n 80 deelnemers en
 
 De deelnemers benoemden vooral de lage opkomst van de bijeenkomsten (8). De deelnemers die het een goede opkomst hebben genoemd zijn bezoekers van Nieuwehorne (3) en Heerenveen-mei (1). De meeste deelnemers geven aan dat er vooral ‘usual suspects’ aanwezig waren op de bijeenkomsten (10). Een aantal deelnemers geeft aan dat het geen probleem is dat er vooral ‘usual suspects’ aanwezig waren (6) omdat de aanwezigen allemaal betrokken waren bij het onderwerp en/of een vertegenwoordiging waren van het dorp. De meeste deelnemers geven aan dat de gemeente vaker bijeenkomsten moet organiseren.
 
-{% include conclusion-quote.html
+{% include monitoren-democratisering/conclusion-quote.html
     title="Conclusie Inclusie"
     paragraph="Er is deels sprake van inclusie. Het vraagstuk Omgevingsvisie treft alle inwoners van gemeente Heerenveen en de opkomst was relatief laag. De aanwezige deelnemers waren wel betrokken bij en met het vraagstuk Omgevingsvisie.  "
 %}
@@ -87,7 +87,7 @@ Bijna alle deelnemers zijn lid van het plaatselijk belang of van een bestuur van
 
 Het gaat hier om een groep mensen die bijna allemaal een dubbele pet op hebben. Ze zijn inwoner van de gemeente Heerenveen en boer, of lid van plaatselijk belang, of fractielid of lid van een belangenvereniging, of werkzaam in een relevante sector, etc.
 
-{% include conclusion-quote.html
+{% include monitoren-democratisering/conclusion-quote.html
     title="Conclusie Burgerschap"
     paragraph="Er is deels sprake van Burgerschap. De deelnemers zijn overwegend (reeds) actieve inwoners en doen vooral mee vanuit hun maatschappelijke rol of taak. Ze zijn niet actiever of meer betrokken inwoners geworden na deelname aan de bijeenkomsten. "
 %}
@@ -108,7 +108,7 @@ In de observaties in de bijeenkomsten is overwegend gezien dat deelnemers naar e
 
 De deelnemers geven aan dat er alle ruimte was om je mening te geven en dat er naar elkaar werd geluisterd. Argumenten werden wel uitgewisseld maar niet afgewogen. Deelnemers gaven ook aan dat er weinig tijd was voor de gesprekken.
 
-{% include conclusion-quote.html
+{% include monitoren-democratisering/conclusion-quote.html
     title="Conclusie Deliberatie"
     paragraph="Er is deels sprake van Deliberatie. De deelnemers hebben allemaal ervaren dat er naar elkaar is geluisterd en meningen werden gerespecteerd. Er zijn weinig argumenten met elkaar gedeeld. "
 %}
@@ -133,7 +133,7 @@ De deelnemers hebben overwegend het gevoel dat zij hun mening konden geven en da
 
 Er werd weinig verteld over het hebben van invloed. Het proces van de omgevingsvisie loopt nog. De volgende bijeenkomsten met inwoners zal in november 2019 plaats vinden. Het is daarom nog niet aan de orde om te vragen naar beleidsverandering of in hoeverre de ideeën opgenomen zijn in de plannen. Deze vragen kunnen in een later stadium van het proces gesteld worden.
 
-{% include conclusion-quote.html
+{% include monitoren-democratisering/conclusion-quote.html
     title="Conclusie Invloed"
     paragraph="Er is deels sprake van Invloed. De meeste deelnemers hebben ervaren dat zij hun mening konden geven en dat zij gehoord werden. Het is nog te vroeg om iets te zeggen over een verandering in plannen. "
 %}
@@ -168,7 +168,7 @@ Tijdens de observaties kwam ook het beeld naar voren dat er voor de deelnemers t
 
 **Quote deelnemer**: “Want ik merkte dat die vrouw van de gemeente gefrustreerd raakte op het einde omdat er te kort tijd was. Dat merkte je echt, het werd afgeraffeld en je merkte dat zij dat vervelend vond, en dat snap ik ook wel.”
 
-{% include conclusion-quote.html
+{% include monitoren-democratisering/conclusion-quote.html
     title="Conclusie Legitimiteit"
     paragraph="Er is deels sprake van Legitimiteit. De meeste deelnemers willen afwachten wat er met de ingebrachte ideeën gebeurt. De meeste deelnemers zijn redelijk tevreden met het proces. "
 %}
@@ -219,7 +219,7 @@ Niet alle deelnemers hebben dezelfde informatie ontvangen of gelezen. De meeste 
 
 **Quote deelnemer**: “Omgevingsvisie, dat zei mij in eerste instantie nog niet zoveel. Ik dacht eerst dat het ook een wet over regelgeving was, die nu uitgevoerd moet worden. Maar ik begrijp nu dat het ter voorbereiding is.”
 
-{% include conclusion-quote.html
+{% include monitoren-democratisering/conclusion-quote.html
     title="Conclusie Transparantie"
     paragraph="Er is beperkt sprake van Transparantie. De deelnemers hadden de beschikking over informatie maar hebben deze onvoldoende gelezen.  De deelnemers hebben tijdens de bijeenkomsten onduidelijkheid ervaren over de bedoeling en de werkwijze.   "
 %}
@@ -237,7 +237,7 @@ Er is sprake van efficiëntie als de deelnemers vinden dat er een goede balans b
 
 De meeste deelnemers hebben één avond een bijeenkomst Omgevingsvisie gevolgd. Een paar deelnemers waren twee avonden aanwezig. De deelnemers vonden de inzet van tijd prima, helemaal geen probleem. Een aantal deelnemers heeft benoemd dat er te weinig tijd was op de avonden zelf om een bijdrage te leveren. Zij hadden graag langer willen doorpraten en ook graag over de andere thema’s willen praten. Tijdens het observeren is door meerdere deelnemers benoemd dat ze nog niet uitgepraat waren. De gesprekken gingen in de pauzes vaak gewoon door.
 
-{% include conclusion-quote.html
+{% include monitoren-democratisering/conclusion-quote.html
     title="Conclusie Efficiëntie"
     paragraph="Er is sprake van efficiëntie. De inzet die gevraagd wordt is beperkt, mensen zouden zelfs wel meer willen doen.   "
 %}
@@ -268,12 +268,12 @@ Het proces Omgevingsvisie wordt door meerdere ambtenaren en raadsleden als lasti
 
 ## Conclusie en Analyse Omgevingsvisie
 
-{% include conclusion-quote.html
+{% include monitoren-democratisering/conclusion-quote.html
     title="Conclusie Inclusie"
     paragraph="Er is deels sprake van inclusie. Het vraagstuk Omgevingsvisie treft alle inwoners van gemeente Heerenveen en de opkomst was relatief laag. De aanwezige deelnemers waren wel betrokken bij en met het vraagstuk Omgevingsvisie.  "
 %}
 
-{% include conclusion-quote.html
+{% include monitoren-democratisering/conclusion-quote.html
     title="Conclusie Burgerschap"
     paragraph="Er is deels sprake van Burgerschap. De deelnemers zijn overwegend (reeds) actieve inwoners en doen vooral mee vanuit hun maatschappelijke rol of taak. Ze zijn niet actiever of meer betrokken inwoners geworden na deelname aan de bijeenkomsten. "
 %}
@@ -286,7 +286,7 @@ Het vooraf vaststellen van een strak omschreven doel van de avond en de gewenste
 
 ## Deliberatie
 
-{% include conclusion-quote.html
+{% include monitoren-democratisering/conclusion-quote.html
     title="Conclusie Deliberatie"
     paragraph="Er is deels sprake van Deliberatie. De deelnemers hebben allemaal ervaren dat er naar elkaar is geluisterd en meningen werden gerespecteerd. Er zijn weinig argumenten met elkaar gedeeld. "
 %}
@@ -297,7 +297,7 @@ Deelnemers, ambtenaren en raadsleden gaven aan dat er te weinig tijd was om de t
 
 ## Invloed
 
-{% include conclusion-quote.html
+{% include monitoren-democratisering/conclusion-quote.html
     title="Conclusie Invloed"
     paragraph="Er is deels sprake van Invloed. De meeste deelnemers hebben ervaren dat zij hun mening konden geven en dat zij gehoord werden. Het is nog te vroeg om iets te zeggen over een verandering in plannen. "
 %}
@@ -306,7 +306,7 @@ Deelnemers hebben overwegend het idee dat er tijdens de avonden geluisterd werd 
 
 ## Legitimiteit
 
-{% include conclusion-quote.html
+{% include monitoren-democratisering/conclusion-quote.html
     title="Conclusie Legitimiteit"
     paragraph="Er is deels sprake van Legitimiteit. De meeste deelnemers willen afwachten wat er met de ingebrachte ideeën gebeurt. De meeste deelnemers zijn redelijk tevreden met het proces. "
 %}
@@ -315,7 +315,7 @@ Voor de meeste deelnemers werd het belang niet als groot ervaren, de afweging za
 
 ## Transparantie
 
-{% include conclusion-quote.html
+{% include monitoren-democratisering/conclusion-quote.html
     title="Conclusie Transparantie"
     paragraph="Er is beperkt sprake van Transparantie. De deelnemers hadden de beschikking over informatie maar hebben deze onvoldoende gelezen.  De deelnemers hebben tijdens de bijeenkomsten onduidelijkheid ervaren over de bedoeling en de werkwijze.   "
 %}
@@ -330,7 +330,7 @@ Ambtenaren vertellen dat het proces Omgevingsvisie meerdere doelen heeft. Een be
 
 ## Efficiëntie
 
-{% include conclusion-quote.html
+{% include monitoren-democratisering/conclusion-quote.html
     title="Conclusie Efficiëntie"
     paragraph="Er is sprake van efficiëntie. De inzet die gevraagd wordt is beperkt, mensen zouden zelfs wel meer willen doen.   "
 %}

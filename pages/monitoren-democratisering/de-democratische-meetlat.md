@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: monitoren-democratisering
 title_tag: De democratische meetlat
 color: blue
 permalink: /monitoren-democratisering/de-democratische-meetlat

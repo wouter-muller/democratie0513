@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: monitoren-democratisering
 title_tag: Mildam Noord
 color: red
 permalink: /monitoren-democratisering/mildam
@@ -44,7 +44,7 @@ De wijze van uitnodigen was door een brief huis aan huis verstuurd aan alle inwo
 
 Alle geïnterviewden vertellen dat er een grote opkomst was voor de 2 bijeenkomsten (40 en 90 deelnemers) en voor deelname aan de werkgroep (20 deelnemers). De groep was divers en de betrokkenheid werd als groot ervaren. De leeftijdsgroep 18 – 45 jaar was iets ondervertegenwoordigd in de werkgroep. 18 % van de inwoners van Mildam heeft een leeftijd tussen de 25 tot 45 jaar. De groep 45 tot 65+ bestaat uit zo’n 60% van de inwoners van Mildam.
 
-{% include conclusion-quote.html
+{% include monitoren-democratisering/conclusion-quote.html
 
 title="Conclusie inclusie"
 
@@ -67,7 +67,7 @@ Deelnemers aan de werkgroep gaven aan dat zij meedoen omdat ze:
 
 De deelnemers zijn niet actiever geworden na deelname aan het proces. Zij waren reeds actief in het plaatselijk belang of zij deden eenmalig mee omdat zij een belang hadden in de herinrichting. De aanwezige kennis en kunde over groen, onderhoud en verkeersmaatregelen van de werkgroepleden viel positief op. De werkgroepleden geven aan dat veel van deze kennis reeds aanwezig was en niet per sé opgedaan is tijdens dit proces.
 
-{% include conclusion-quote.html title="Conclusie Burgerschap" paragraph="Er is deels sprake van Burgerschap. De deelnemers zijn deels maatschappelijk actieve inwoners. Ze zijn niet actiever of meer betrokken inwoners geworden na deelname aan het proces. " %}
+{% include monitoren-democratisering/conclusion-quote.html title="Conclusie Burgerschap" paragraph="Er is deels sprake van Burgerschap. De deelnemers zijn deels maatschappelijk actieve inwoners. Ze zijn niet actiever of meer betrokken inwoners geworden na deelname aan het proces. " %}
 
 ## Deliberatie
 
@@ -75,7 +75,7 @@ Je kunt spreken van de aanwezigheid van deliberatie als in een debat de deelneme
 
 Respondenten geven aan dat zij ideeën hebben aangedragen. Bijna alle respondenten zeggen dat de gesprekken goed verliepen, er is geluisterd en ideeën van anderen zijn aangehoord. Iedereen mocht zijn eigen idee op een grote tekening van zijn/haar eigen straat visueel maken. Er heeft geen afweging plaatsgevonden door de werkgroepleden.
 
-{% include conclusion-quote.html title="Conclusie Deliberatie" paragraph="Er is deels sprake van Deliberatie. De deelnemers hebben overwegend ervaren dat er naar elkaar is geluisterd. Meningen zijn gedeeld en deels gerespecteerd. Er was deels sprake van inzet op eigen belang.  " %}
+{% include monitoren-democratisering/conclusion-quote.html title="Conclusie Deliberatie" paragraph="Er is deels sprake van Deliberatie. De deelnemers hebben overwegend ervaren dat er naar elkaar is geluisterd. Meningen zijn gedeeld en deels gerespecteerd. Er was deels sprake van inzet op eigen belang.  " %}
 
 ## Invloed
 
@@ -88,7 +88,7 @@ Quote deelnemer: “Goede suggesties die buiten de kaders vielen daar werd niets
 Tijdens de bijeenkomst op 2 april werd duidelijk dat een aantal inwoners verwachtten dat zij nog invloed konden hebben op de inhoud van het plan. Deze verwachting kwam op dat moment niet uit, ambtenaren wilden niet veel meer veranderen aan het plan. Twee inwoners hebben bezwaar aangetekend op het plan.
 De herinrichting van Mildam-Noord zal waarschijnlijk in het najaar van 2019 starten. Er zijn nog geen zichtbare veranderingen na het maken van het plan maar de werkgroepleden hebben een sterk vertrouwen in de uitvoering ervan (zie legitimiteit).
 
-{% include conclusion-quote.html title="Conclusie Invloed" paragraph="Er is onvoldoende sprake geweest van Invloed. Deelnemers hebben gelegenheid gehad om hun mening te geven maar een meerderheid heeft ervaren dat er onvoldoende naar deze mening is geluisterd. " %}
+{% include monitoren-democratisering/conclusion-quote.html title="Conclusie Invloed" paragraph="Er is onvoldoende sprake geweest van Invloed. Deelnemers hebben gelegenheid gehad om hun mening te geven maar een meerderheid heeft ervaren dat er onvoldoende naar deze mening is geluisterd. " %}
 
 ## Legitimiteit
 
@@ -96,7 +96,7 @@ Als er sprake is van een sterk vertrouwen en een sterke acceptatie (van het plan
 
 De deelnemers geven aan dat het plan grotendeels wordt geaccepteerd door henzelf en door het dorp. Alle deelnemers hebben er vertrouwen in dat het plan uitgevoerd gaat worden. Er is enige zorg over een mogelijke vertraging in de uitvoering. De deelnemers zijn overwegend tevreden met het proces.
 
-{% include conclusion-quote.html title="Conclusie Legitimiteit" paragraph="Er is sprake van Legitimiteit. Alle deelnemers zijn overwegend positief over het plan en zij hebben vertrouwen dat het plan uitgevoerd gaat worden. De deelnemers zijn overwegend tevreden over het proces.  " %}
+{% include monitoren-democratisering/conclusion-quote.html title="Conclusie Legitimiteit" paragraph="Er is sprake van Legitimiteit. Alle deelnemers zijn overwegend positief over het plan en zij hebben vertrouwen dat het plan uitgevoerd gaat worden. De deelnemers zijn overwegend tevreden over het proces.  " %}
 
 ## Transparantie
 
@@ -112,14 +112,14 @@ Door alle respondenten werd gezegd over de straatvertegenwoordiging:
 * Een aantal inwoners zijn tijdens het maken van de plannen te weinig en op ongelijke wijze geïnformeerd over de plannen.
 * Een aantal inwoners voelden zich niet gehoord en niet betrokken, er is een bezwaarschrift ingediend.
 
-{% include conclusion-quote.html title="Conclusie Transparantie" paragraph="Er is geen sprake van Transparantie. Er is onduidelijk ervaren over de status van het plan en over de mogelijkheden voor inwoners om plannen te wijzigen. Er is onduidelijkheid geweest over de taak van de werkgroepleden om draagvlak te organiseren. " %}
+{% include monitoren-democratisering/conclusion-quote.html title="Conclusie Transparantie" paragraph="Er is geen sprake van Transparantie. Er is onduidelijk ervaren over de status van het plan en over de mogelijkheden voor inwoners om plannen te wijzigen. Er is onduidelijkheid geweest over de taak van de werkgroepleden om draagvlak te organiseren. " %}
 
 ## Efficiëntie
 
 Er is sprake van efficiëntie als de werkgroep leden het idee hebben dat er balans bestaat tussen de inzet van tijd en de opbrengsten.
 Alle werkgroep leden vinden dat hun tijd goed besteed is en dat de inzet en tijd die zij gestoken hebben in het maken van de plannen prima te doen is en dat het zinvol was. Eén werkgroep lid heeft aangegeven dat het toch nog meer tijd heeft gekost dan gedacht. Eén werkgroeplid gaf aan dat het proces te snel is verlopen en dat er meer tijd en aandacht nodig was voor een goede afronding van het proces.
 
-{% include conclusion-quote.html title="Conclusie Efficiëntie" paragraph="Er is sprake van Efficiëntie, de werkgroepleden vonden dat er een goede balans bestond uit de inzet van tijd en de opbrengsten. " %}
+{% include monitoren-democratisering/conclusion-quote.html title="Conclusie Efficiëntie" paragraph="Er is sprake van Efficiëntie, de werkgroepleden vonden dat er een goede balans bestond uit de inzet van tijd en de opbrengsten. " %}
 
 ## Wat ambtenaren vertellen
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: monitoren-democratisering
 title_tag: Samenvatting
 color: blue
 permalink: /monitoren-democratisering/samenvatting

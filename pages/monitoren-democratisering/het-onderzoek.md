@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: monitoren-democratisering
 title_tag: Het onderzoek
 color: blue
 permalink: /monitoren-democratisering/het-onderzoek

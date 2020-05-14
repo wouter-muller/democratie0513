@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: monitoren-democratisering
 title_tag: De Greiden
 color: red
 permalink: /monitoren-democratisering/de-greiden
@@ -41,7 +41,7 @@ We kunnen spreken van Inclusie als de groep deelnemers representatief is voor de
 
 Het bewonersforum is ontstaan uit een experiment met loting in 2017. Destijds zijn 25 deelnemers geloot waarvan op dit moment nog 5 actief lid zijn en 6 passieve leden. De forumleden geven zelf aan dat zij graag meer deelnemers, en een diversere groep zouden willen hebben. Voor de bijeenkomst op 11 april waren wijkinwoners, ambtenaren, raadsleden, zorg/welzijn medewerkers en anderen uitgenodigd. De verhouding was ongeveer de helft inwoner en de helft vanuit functie.
 
-{% include conclusion-quote.html
+{% include monitoren-democratisering/conclusion-quote.html
     title="Conclusie Inclusie"
     paragraph="Er is geen sprake van inclusie. Het aantal forumleden is laag en onvoldoende divers voor de wijk De Greiden.  "
 %}
@@ -54,7 +54,7 @@ De deelnemers vertellen dat zij al langer actief zijn als forumlid en andere vri
 
 **Quote deelnemer**: “Je kijkt nu anders naar de wijk en je voelt je betrokken. Ik wou dat meer mensen dat hadden maar dat is niet zo.”
 
-{% include conclusion-quote.html
+{% include monitoren-democratisering/conclusion-quote.html
     title="Conclusie Burgerschap"
     paragraph="Er is sprake van Burgerschap. De deelnemers zijn maatschappelijk actieve inwoners. Ze zijn actiever of meer betrokken inwoners geworden na deelname aan het proces van loting in 2017. "
 %}
@@ -65,7 +65,7 @@ Je kunt spreken van de aanwezigheid van deliberatie als in een debat de deelneme
 
 De deelnemers geven aan dat er naar elkaar geluisterd wordt en dat elkaars meningen worden gerespecteerd. De plannen worden gemaakt met het oog op het maatschappelijke belang. De voorzitter heeft een leidende rol bij het plannen maken en het organiseren van bijeenkomsten.
 
-{% include conclusion-quote.html
+{% include monitoren-democratisering/conclusion-quote.html
     title="Conclusie Deliberatie"
     paragraph="Er is sprake van Deliberatie. De deelnemers hebben overwegend ervaren dat er naar elkaar is geluisterd. Meningen zijn gedeeld en gerespecteerd.   "
 %}
@@ -82,7 +82,7 @@ Het burgerforum Buitengewoon De Greiden maakt een plan voor Spelen en Ontmoeten 
 
 **Quote deelnemer**: “De ambtenaar wacht nog steeds op onze besluitvorming. We gaan binnenkort nog een laatste update doen. En ja, zij wacht nu nog steeds op ons, op hoe wij het willen hebben. Wij moeten natuurlijk communiceren met de wijk maar dat moet ook nog georganiseerd worden.”
 
-{% include conclusion-quote.html
+{% include monitoren-democratisering/conclusion-quote.html
     title="Conclusie Invloed"
     paragraph="Er is sprake van Invloed. Deelnemers hebben ervaren dat er wordt geluisterd en dat er gelegenheid was om hun mening te geven en plannen te maken. De deelnemers gaan draagvlak organiseren voor hun plannen in de wijk. De respondenten hebben een klein deel van hun plannen uitgevoerd zien worden.  "
 %}
@@ -97,7 +97,7 @@ Deelnemers geven aan dat hun plannen zijn geaccepteerd door ambtenaren en gemeen
 
 **Quote deelnemer**: “Ten eerste wil ik controleren of de plannen die wij hebben gemaakt ook gerealiseerd gaan worden. Zodra dat klaar is dan gaan we kijken wat we dan gaan doen.”
 
-{% include conclusion-quote.html
+{% include monitoren-democratisering/conclusion-quote.html
     title="Conclusie Legitimiteit"
     paragraph="Er is sprake van Legitimiteit. Alle deelnemers zijn overwegend positief over de plannen en zij hebben vertrouwen dat het plan uitgevoerd gaat worden. De deelnemers zijn overwegend tevreden over het proces.  "
 %}
@@ -112,7 +112,7 @@ Het forum geeft aan dat zij helder hebben wat hun rol is en wat de rollen zijn v
 
 **Quote deelnemer**: “We kregen ook steeds expertises, mensen die ons echt goed konden inlichten, die hebben we met hulp van de gemeente uitgenodigd en de mensen van de gemeente zelf deelde hun expertise.”
 
-{% include conclusion-quote.html
+{% include monitoren-democratisering/conclusion-quote.html
     title="Conclusie Transparantie"
     paragraph="Er is sprake van Transparantie. De forumleden kennen hun eigen rol en weten voor welke vragen en taken zij de gemeente kunnen benaderen.   "
 %}
@@ -127,7 +127,7 @@ Twee forumleden ervaren dat de activiteiten in het burgerforum veel tijd kosten.
 
 **Quote deelnemer**: “De gemeente heeft voor veel dingen geen tijd, eigenlijk zijn wij ook een soort van ambtenaren.”
 
-{% include conclusion-quote.html
+{% include monitoren-democratisering/conclusion-quote.html
     title="Conclusie Efficiëntie"
     paragraph="Er is beperkt sprake van Efficiëntie, de deelnemers vonden dat er geen goede balans bestond uit de inzet van tijd en de opbrengsten maar zij zijn wel bereid om hun tijd in te zetten voor de opbrengsten. "
 %}

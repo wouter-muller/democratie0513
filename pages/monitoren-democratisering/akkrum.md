@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: monitoren-democratisering
 title_tag: Akkrum
 color: red
 permalink: /monitoren-democratisering/akkrum
@@ -38,7 +38,7 @@ We kunnen spreken van Inclusie als de groep deelnemers representatief zijn voor 
 
 De wijze van uitnodigen begon met het uitnodigen van een specifieke groep, de omwonenden van de straat Tsjerkebleek, ondernemers en plaatselijk belang. Respondenten geven aan dat hierdoor andere inwoners zijn uitgesloten van deelname aan de werkgroep. Eén respondent geeft aan dat vrouwen in eerste instantie waren ondervertegenwoordigd. Dat is nu gelijk verdeeld. De werkgroep bestaat uit ongeveer 12 leden die vertegenwoordigers zijn voor bepaalde belangengroepen in het dorp: inwoners, ondernemers, kerk, etc. De werkgroep bepaalt de wijze van uitnodigen en de regels voor het wel of niet mee kunnen doen in de werkgroep. Nieuwe leden worden niet toegelaten maar inwoners mogen wel bij een vergadering aansluiten om hun mening te geven.
 
-{% include conclusion-quote.html
+{% include monitoren-democratisering/conclusion-quote.html
     title="Conclusie Inclusie"
     paragraph="Er is deels sprake van inclusie. De groep deelnemers is representatief voor het vraagstuk de herinrichting van Tsjerkebleek. Niet alle inwoners hebben op gelijke wijze toegang gekregen tot deelname aan de werkgroep.  "
 %}
@@ -49,7 +49,7 @@ Je kunt spreken van de aanwezigheid van Burgerschap als de deelnemers tevreden z
 
 De respondenten zijn beide lid van plaatselijk belang en actief als vrijwilliger. De leden van de werkgroep zitten als vertegenwoordiger lid. Zij vertegenwoordigen de kerk, winkeliers, ondernemers en inwoners van omliggende straten.
 
-{% include conclusion-quote.html
+{% include monitoren-democratisering/conclusion-quote.html
     title="Conclusie Burgerschap"
     paragraph="Er is deels sprake van Burgerschap. De deelnemers zijn deels maatschappelijk actieve inwoners. Ze zijn niet actiever of meer betrokken inwoners geworden na deelname aan het proces. "
 %}
@@ -60,7 +60,7 @@ Je kunt spreken van de aanwezigheid van deliberatie als in een debat de deelneme
 
 Deelnemers geven aan dat er naar elkaar geluisterd wordt en dat er tegelijkertijd stevige discussies zijn. Er wordt naar argumenten geluisterd en op basis van argumenten en algemeen belang keuzes gemaakt. De deelnemers gaan door tot er consensus is bereikt en hebben tot nog toe geen deelnemers gehad die op een inhoudskeuze zijn afgehaakt. Door alle respondenten is genoemd dat zij het algemeen belang als richtlijn nemen voor de te maken keuzes.
 
-{% include conclusion-quote.html
+{% include monitoren-democratisering/conclusion-quote.html
     title="Conclusie Deliberatie"
     paragraph="Er is sprake van Deliberatie. De deelnemers hebben ervaren dat er naar elkaar is geluisterd. Meningen zijn gedeeld en gerespecteerd en keuzes gemaakt op basis van argumenten en algemeen belang.   "
 %}
@@ -71,7 +71,7 @@ Er is sprake van de aanwezigheid van de democratische waarde invloed als er gelu
 
 In deze situatie geven de respondenten aan dat zij ervaren invloed te hebben op het plan. Zij geven ook aan dat zij verantwoordelijk zijn voor draagvlak vanuit het dorp en dat zij daar nog onvoldoende aandacht voor hebben. In het najaar van 2019 zullen zij daar aandacht voor hebben. De wijze van invloed, en de hoeveelheid invloed die inwoners van het dorp krijgen bepaalt de werkgroep.
 
-{% include conclusion-quote.html
+{% include monitoren-democratisering/conclusion-quote.html
     title="Conclusie Invloed"
     paragraph="Er is sprake van Invloed. Er is geluisterd naar de deelnemers en zij hebben gelegenheid gehad om zelf een plan te maken. De deelnemers hebben ervaren dat er naar hun mening is geluisterd. De hoeveelheid invloed van inwoners is nog niet duidelijk. "
 %}
@@ -82,7 +82,7 @@ Als er sprake is van een sterk vertrouwen en een sterke acceptatie (van het plan
 
 De respondenten hebben de indruk dat de ambtenaren het plan accepteren en goed vinden. Het vertrouwen is groot dat het plan door zal gaan. Misschien niet in één keer en met enige wijzigingen. Er is ook twijfel omdat er nog onduidelijkheid is over voldoende financiën. De respondenten zijn in grote mate tevreden over het proces. Punten van aandacht over het proces staan beschreven bij Transparantie.
 
-{% include conclusion-quote.html
+{% include monitoren-democratisering/conclusion-quote.html
     title="Conclusie Legitimiteit"
     paragraph="Er is sprake van Legitimiteit. Alle deelnemers zijn overwegend positief over het plan en zij hebben vertrouwen dat het plan uitgevoerd gaat worden. De deelnemers zijn overwegend tevreden over het proces.  "
 %}
@@ -97,7 +97,7 @@ De respondenten waarderen het dat de gemeente de vrijheid en mogelijkheid geeft 
 
 Afspraken over de samenwerking en over het te verwachten resultaat worden gemist. Tijdens het proces ontstaat meer duidelijkheid over de kaders en over wie gaat over wat, in het proces. De respondenten nemen zelf ook verantwoordelijkheid voor het onvoldoende meenemen van de ambtenaren in de plannen. Zij geven aan dat ze tussentijds meer hadden willen en moeten afstemmen.
 
-{% include conclusion-quote.html
+{% include monitoren-democratisering/conclusion-quote.html
     title="Conclusie Transparantie"
     paragraph="Er is geen sprake van Transparantie. Er is onduidelijkheid over kaders en over het proces. Op bepaalde momenten in het proces is onduidelijk wie waarover gaat.  "
 %}
@@ -108,7 +108,7 @@ Er is sprake van efficiëntie als de werkgroep leden het idee hebben dat er bala
 
 De respondenten vinden dat het gehele proces lang duurt. Daar zijn verschillende redenen voor, waaronder samenwerkingsproblemen. De respondenten hebben geen probleem met de tijdsinzet.
 
-{% include conclusion-quote.html
+{% include monitoren-democratisering/conclusion-quote.html
     title="Conclusie Efficiëntie"
     paragraph="Er is sprake van Efficiëntie, de werkgroepleden vonden dat er een goede balans bestond uit de inzet van tijd en de opbrengsten. Het proces heeft wel lang geduurd. "
 %}

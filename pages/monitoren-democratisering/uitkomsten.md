@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: monitoren-democratisering
 title_tag: Uitkomsten
 color: blue
 permalink: /monitoren-democratisering/uitkomsten

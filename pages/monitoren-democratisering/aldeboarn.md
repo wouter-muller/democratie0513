@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: monitoren-democratisering
 title_tag: Aldeboarn
 color: red
 permalink: /monitoren-democratisering/aldeboarn
@@ -34,7 +34,7 @@ Alle inwoners van het dorp zijn uitgenodigd, via een brief, om te komen stemmen.
 
 Er waren ongeveer 100 mensen aanwezig op de bijeenkomst op 5 juli 2019. De zaal zat bomvol, er konden geen stoelen meer bij en daarom zaten mensen in de vensterbanken of moesten ze staan. Alleen inwoners van Aldeboarn mochten stemmen en 81 deelnemers hebben meegedaan aan het stemmen. De deelnemers waren een diverse groep inwoners. Het viel op dat ook de groep jongeren was vertegenwoordigd.
 
-{% include conclusion-quote.html
+{% include monitoren-democratisering/conclusion-quote.html
     title="Conclusie Inclusie"
     paragraph="Er is sprake van inclusie. De groep deelnemers is representatief voor het dorp en het vraagstuk nieuwe bestemming voor een pand.  "
 %}
@@ -45,7 +45,7 @@ Je kunt spreken van de aanwezigheid van Burgerschap als de deelnemers tevreden z
 
 Uit de korte interviews en de sfeer van de bijeenkomst bleek dat de deelnemers het leuk vonden om mee te doen aan het stemmen. De deelnemers hebben een geschiedenis (betrokkenheid) met het pand. Bijvoorbeeld omdat er jarenlang jongerenactiviteiten hebben plaatsgevonden of omdat het lang geleden een (kleuter)schooltje was. Deelnemers waren vooral nieuwsgierig naar de bestemming van het pand. Een aantal deelnemers hadden ook hoop op een bestemming die hen zou passen (goedkope woningen voor jongeren of een pand met activiteiten voor jongeren).
 
-{% include conclusion-quote.html
+{% include monitoren-democratisering/conclusion-quote.html
     title="Conclusie Burgerschap"
     paragraph="Er is geen sprake van Burgerschap. Deelnemers zijn niet herkend als maatschappelijk actieve inwoners. Ze zijn niet actiever of meer betrokken inwoners geworden na deelname aan het proces. "
 %}
@@ -56,7 +56,7 @@ Je kunt spreken van de aanwezigheid van deliberatie als in een debat de deelneme
 
 De deelnemers hebben kunnen luisteren naar de presentatie van drie plannen. In de pauze hebben deelnemers informeel met elkaar gepraat over de plannen, tijdens een kop koffie of thee. Er was een gemoedelijke sfeer met geanimeerde gesprekken. In de opdracht van de gemeente stond beschreven dat het plan moet bijdragen aan de leefbaarheid en duurzaamheid van het dorp. De deelnemers maakten een persoonlijk afweging. Een gezamenlijke afweging of het maken van keuzes is hier niet relevant.
 
-{% include conclusion-quote.html
+{% include monitoren-democratisering/conclusion-quote.html
     title="Conclusie Deliberatie"
     paragraph="Er is geen sprake van Deliberatie. De deelnemers hebben naar de presentaties geluisterd en er ontstonden gemoedelijke gesprekken over de presentaties. De mening van de ander hoefde niet gerespecteerd te worden en een gezamenlijke afweging maken was niet nodig.  "
 %}
@@ -67,7 +67,7 @@ Er is sprake van de aanwezigheid van de democratische waarde invloed als er gelu
 
 De 81 deelnemers hebben hun stem mogen uitbrengen op het beste plan (als bestemming voor ‘het medium’) voor hun dorp. Dit plan is gekozen door de deelnemers en wordt binnenkort zo uitgevoerd door de winnaars van het plan.
 
-{% include conclusion-quote.html
+{% include monitoren-democratisering/conclusion-quote.html
     title="Conclusie Invloed"
     paragraph="Er is sprake van Invloed. Deelnemers hebben gelegenheid gehad om direct hun stem te geven op het plan met hun voorkeur.  "
 %}
@@ -78,7 +78,7 @@ Als er sprake is van een sterk vertrouwen en een sterke acceptatie (van het plan
 
 Er hing een gemoedelijke en ontspannen sfeer. De deelnemers oogden zeer tevreden en er kwam geen protest of gezucht uit de zaal. Deelnemers hebben een keuze gemaakt voor een plan. Een aantal deelnemers had gehoopt op een plan met een andere inhoud maar was tevreden met de uitvoering en opbrengst.
 
-{% include conclusion-quote.html
+{% include monitoren-democratisering/conclusion-quote.html
     title="Conclusie Legitimiteit"
     paragraph="Er is sprake van Legitimiteit. Alle deelnemers zijn overwegend positief over het plan en het proces. Er is vertrouwen dat het plan uitgevoerd gaat worden. De deelnemers zijn tevreden over het proces.  "
 %}
@@ -91,7 +91,7 @@ Het proces van besluitvorming is uitgelegd in de folders, de brieven en de websi
 
 Tijdens de bijeenkomst is verteld wie de betrokkenen zijn en welke rollen zij hadden. Elke spreker heeft zich voorgesteld en zijn rol in het proces uitgelegd.
 
-{% include conclusion-quote.html
+{% include monitoren-democratisering/conclusion-quote.html
     title="Conclusie Transparantie"
     paragraph="Er is sprake van Transparantie. Alle deelnemers hebben de processtappen en de stemprocedure gehoord en begrepen.  "
 %}
@@ -102,7 +102,7 @@ Er is sprake van efficiëntie als de werkgroep leden het idee hebben dat er bala
 
 De deelnemers zijn één avond naar een bijeenkomst geweest waar zij luisterden naar plannen en mochten stemmen op een plan. Er is niet gevraagd aan (alle) deelnemers of zij de tijdsinzet te veel vonden. Uit de observatie lijkt de tijdsinzet prima. Er zijn geen klachten gekomen, deelnemers zijn niet eerder naar huis gegaan. Bij het verlaten van het pand keken de deelnemers tevreden en ontspannen.
 
-{% include conclusion-quote.html
+{% include monitoren-democratisering/conclusion-quote.html
     title="Conclusie Efficiëntie"
     paragraph="Er is sprake van Efficiëntie, de deelnemers vonden dat er een goede balans bestond uit de inzet van tijd en de opbrengsten. "
 %}
