@@ -1,15 +1,12 @@
 ---
-layout: default
+layout: landing-page
 title_tag: Democratie0513.nl
 color: blue
 permalink: /
-hero-heading: Lokale democratie
-hero-subheading: Gemeente Heerenveen experimenteert volop.
-hero-paragraph: >-
-  Wat kunnen we leren van deze experimenten? En hoe hebben inwoners de
-  samenwerking ervaren en beleefd?
-
-  Lees het allemaal in deze digitale rapportage.
+hero-heading: Kennisportaal Heerenveen
+hero-subheading: Voor een betrokken samenleving
+hero-paragraph: Welkom op democratie 0513; het kennisportaal voor inwoners, gemeenteraad en professionals in de gemeente Heerenveen. Hier kan iedereen de uitkomsten bekijken van alle onderzoeken die zijn uitgevoerd in opdracht van de gemeente Heerenveen.
 
 ---
-Hier komt de hoofdlandingspagina
+
+

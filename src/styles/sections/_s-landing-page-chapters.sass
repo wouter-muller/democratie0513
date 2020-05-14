@@ -1,0 +1,40 @@
+.s-landing-page-chapters
+    display: grid
+    align-items: center
+    position: relative
+
+    +tablet-desktop
+        grid-template-columns: 1fr 1fr 1fr 1fr
+
+    &__chapter
+        color: white
+        text-align: center
+        height: 100%
+        padding: 100px 40px
+
+        img,
+        a
+            display: block
+            margin: 0 auto
+
+        img
+            margin-bottom: 30px
+
+        a
+            +font-merriweather
+            font-size: px(26)
+            font-weight: $bold
+            color: white
+            letter-spacing: px(6)
+
+        &.\--one
+            background-color: $turqoise
+
+        &.\--two
+            background-color: $toxic-orange
+
+        &.\--three
+            background-color: $weathered-stone
+
+        &.\--four
+            background-color: $fingerprint

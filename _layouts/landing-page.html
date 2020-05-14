@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html class="{{ page.section }} {{ page.color }}" lang="nl">
+
+  {% include head.html %}
+
+  <body>
+
+    <div id="vue">
+        {% include landing-page/header.html %}
+
+        <main>
+            <div class="s-landing-page-hero">
+                <div class="s-landing-page-hero__bg">
+                    <img src="{{ site.image_path }}/landing-page/headerimage.jpg">
+                </div>
+                <div class="s-hero__dots"></div>
+                <div class="s-landing-page-hero__text-area">
+                    <h1 class="s-landing-page-hero__heading">
+                        {{ page.hero-heading }}
+                    </h1>
+                    <h2 class="s-landing-page-hero__subheading">
+                        {{ page.hero-subheading }}
+                    </h2>
+                    <p class="s-landing-page-hero__paragraph">
+                        {{ page.hero-paragraph }}
+                    </p>
+                </div>
+                <div class="s-landing-page-hero__arrow">
+                    <img src="{{ site.image_path }}/landing-page/arrow_down_white.png">
+                </div>
+            </div>
+
+            <div class="s-landing-page-chapters">
+                <div class="s-landing-page-chapters__chapter --one">
+                    <a href="/monitoren-democratisering">
+                        <img src="{{ site.image_path }}/landing-page/icon_democratisering.png">
+                        Monitoren democratisering
+                    </a>
+                </div>
+                <div class="s-landing-page-chapters__chapter --two">
+                    <a href="/gebiedsscans-gezondheid-en-leefomgeving">
+                        <img src="{{ site.image_path }}/landing-page/icon_gebiedsscans.png">
+                        Gebiedsscans gezondheid en leefomgeving
+                    </a>
+                </div>
+                <div class="s-landing-page-chapters__chapter --three">
+                    <span></span>
+                </div>
+                <div class="s-landing-page-chapters__chapter --four">
+                    <span></span>
+                </div>
+            </div>
+        </main>
+
+        {% include footer.md %}
+
+        <div class="s-hamburger-menu" :class="{'--active': hamburgerMenuOpen }">
+            <div class="s-hamburger-menu__close" @click="hamburgerMenuOpen = false">X</div>
+             <ul class="u-mb+">
+                <li>
+                    <a href="/monitoren-democratisering/" class="s-hero-links__link">Monitoren democratisering</a>
+                </li>
+                <li>
+                    <a href="/gebiedsscans-gezondheid-en-leefomgeving" class="s-hero-links__link {% if page.permalink == '/monitoren-democratisering/het-onderzoek' %}--active{% endif %}">Gebiedsscans gezondheid en leefomgeving</a>
+                </li>
+
+            </ul>
+        </div>
+    </body>
+
+</html>

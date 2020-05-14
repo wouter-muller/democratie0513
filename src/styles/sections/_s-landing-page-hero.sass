@@ -1,0 +1,57 @@
+.s-landing-page-hero
+    position: relative
+
+    &__bg
+        img
+            object-fit: cover
+            display: block
+            width: 100%
+
+            +mobile
+                height: 90vh
+
+    &__text-area
+        +center-vertical
+        padding: 0 px(70)
+
+    &__heading
+        +font-merriweather
+        font-weight: $medium
+        color: $inverted-text-color
+        margin-bottom: px(35)
+
+        +mobile
+            font-size: px(50)
+
+        +tablet-desktop
+            font-size: px(76)
+
+    &__subheading
+        font-weight: 100
+        color: #c4c4c4
+        margin-bottom: px(40)
+
+        +mobile
+            font-size: px(24)
+
+        +tablet-desktop
+            font-size: px(31)
+
+    &__paragraph
+        font-style: italic
+        font-weight: $bold
+        +font-merriweather
+        line-height: 2
+        color: $inverted-text-color
+
+        +mobile
+            font-size: px(18)
+
+        +tablet-desktop
+            font-size: px(24)
+
+    &__arrow
+        position: absolute
+        bottom: 40px
+        left: 50%
+        transform: translateX(-50%)

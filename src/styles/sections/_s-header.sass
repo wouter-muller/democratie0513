@@ -1,38 +1,46 @@
 .s-header
-    border-top: px(6) solid $red
     height: px(90)
-    background-color: $main-bg-color
+    background-color: $framboise
     display: flex
     justify-content: space-between
     align-items: center
-    position: fixed
-    top: 0
-    left: 0
-    width: 100%
-    z-index: 99
     border-bottom: 1px solid rgba(black, 0.1)
+    padding: 0 px(50) 0 0
 
     +mobile
-        padding: 0 px(20)
+        height: 70px
 
     +tablet-desktop
-        padding: 0 px(50) 0 px(63)
+        height: 150px
 
     &__logo
         display: flex
-        align-items: center
+        position: relative
+        background-color: white
+        border-top: 6px solid $framboise
 
-        &-text
-            color: $dark-blue
-            margin-left: px(28)
-            font-weight: $medium
-            +font-merriweather
+        +mobile
+            padding: 0 30px 0 10px
+            width: 70%
 
+        +tablet-desktop
+            padding: 10px 60px
+
+        img
             +mobile
-                font-size: px(24)
+                width: 100%
 
             +tablet-desktop
-                font-size: px(36)
+                height: 120px
+
+        &-red-corner
+            position: absolute
+            right: -15px
+            background-color: $framboise
+            width: 35px
+            height: 160px
+            transform: rotate(12deg)
+            top: 0
 
     &__nav
         img
