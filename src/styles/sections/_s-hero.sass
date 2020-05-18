@@ -11,11 +11,15 @@
     +tablet-desktop
         padding: 0 px(50) 0 px(63)
 
-    &.\--blue
-        +background-image('hero-blue.jpg')
+    &.\--r1
+        &.\--blue
+            +background-image('hero-blue.jpg')
 
-    &.\--red
-        +background-image('hero-red.jpg')
+        &.\--red
+            +background-image('hero-red.jpg')
+
+    &.\--r2
+        +background-image('r2/hero.jpg')
 
     &__dots
         +fill-space
@@ -58,6 +62,7 @@
 
 .s-hero-links
     margin-top: px(30)
+    margin-bottom: px(30)
 
     +mobile
         transform: translateX(100%)
@@ -111,3 +116,26 @@
             &:hover
                 color: $turqoise
                 +background-image('hero-links-arrow-hover-blue.svg')
+
+        &.\--nested
+            color: $dithered-amber
+            +background-image('r2/arrow_right_yellow.png')
+            background-size: px(36) auto
+            background-position: left center
+
+            &.\--active
+                +background-image('r2/arrow_down_yellow.png')
+
+    &__nested-list
+        margin-top: px(10)
+
+    &__nested-link
+        color: $inverted-text-color
+        font-weight: $bold
+        +font-merriweather
+        display: block
+        text-align: right
+        font-size: px(20)
+        letter-spacing: px(2)
+        padding: px(4) px(20)
+        position: relative

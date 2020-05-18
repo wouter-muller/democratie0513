@@ -1,0 +1,13 @@
+<div class="s-chapters --r2 js-chapters">
+    {% for chapter in page.chapters %}
+        <a href="{{ chapter.url }}" class="s-chapters__chapter --{{ chapter.type }}">
+            <h2 class="s-chapters__heading">{{ chapter.title }}</h2>
+            {% if page.color == "blue" %}
+                <img src="{{ site.image_path }}/chapters/{{ chapter.type }}.svg">
+            {% endif %}
+            {% if chapter.paragraph %}
+                <p class="s-chapters__paragraph">{{ chapter.paragraph }}</p>
+            {% endif %}
+        </a>
+    {% endfor %}
+</div>

@@ -1,0 +1,42 @@
+.s-r2-header
+    border-top: px(6) solid #fe6332
+    height: px(90)
+    background-color: $main-bg-color
+    display: flex
+    justify-content: space-between
+    align-items: center
+    position: fixed
+    top: 0
+    left: 0
+    width: 100%
+    z-index: 99
+    border-bottom: 1px solid rgba(black, 0.1)
+
+    +mobile
+        padding: 0 px(20)
+
+    +tablet-desktop
+        padding: 0 px(50) 0 px(63)
+
+    &__logo
+        display: flex
+        align-items: center
+
+        &-text
+            color: #424400
+            margin-left: px(28)
+            font-weight: $medium
+            +font-merriweather
+
+            +mobile
+                font-size: px(24)
+
+            +tablet-desktop
+                font-size: px(36)
+
+        img
+            height: px(57)
+
+    &__nav
+        img
+            cursor: pointer
