@@ -2,7 +2,7 @@ var app = new Vue({
     el: '#vue',
     data: {
         hamburgerMenuOpen: false,
-        heroNestedList: 1
+        heroNestedList: 0
     },
     methods: {
         toggleHeroNestedList: function(index) {
