@@ -1,4 +1,4 @@
-<div class="s-chapters --r1 js-chapters">
+<div class="s-chapters js-chapters {% if page.color == 'r2' %}--r2{% endif %}">
     {% for chapter in page.chapters %}
         <a href="{{ chapter.url }}" class="s-chapters__chapter --{{ chapter.type }}">
             <h2 class="s-chapters__heading">{{ chapter.title }}</h2>
