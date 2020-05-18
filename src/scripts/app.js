@@ -28,7 +28,7 @@ var app = new Vue({
 })
 
 var images = document.querySelectorAll(".js-image")
-for (i = 0; i < images.length; i++) {
+for (var i = 0; i < images.length; i++) {
   images[i].onclick = function() {
     var snippet = this.cloneNode()
     document.querySelector('.js-image-wrapper').classList.add('--active');
