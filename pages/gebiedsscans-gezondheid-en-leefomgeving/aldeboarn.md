@@ -4,7 +4,7 @@ title_tag: Aldeboarn
 color: r2
 permalink: /gebiedsscans-gezondheid-en-leefomgeving/aldeboarn
 hero-heading: Aldeboarn
-content-intro:
+content-intro: null
 ---
 ## Uitkomsten Aldeboarn
 
@@ -35,7 +35,7 @@ Beleid en maatregelen kunnen gericht worden op de algemene gezondheidsrisico’s
 |  **Bevolking**  |  |    |
 |----|---|---|
 | **Kenmerken**  | **Percentages** * | **Aantal** |
-| Jonger dan 15 jaar                                  | xxx | xxx |
+| Jonger dan 15 jaar                                  | xxxx | xxx |
 | 45-65 jarigen                                       | xxx | xxx |
 | 65-plussers,                                        | xxx | xxx |
 | waarvan 80-plussers                                 | xxx | xxx |
