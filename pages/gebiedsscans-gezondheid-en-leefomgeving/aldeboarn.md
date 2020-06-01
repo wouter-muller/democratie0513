@@ -67,9 +67,9 @@ Beleid en maatregelen kunnen gericht worden op de algemene gezondheidsrisico’s
 | **Inkomen** |     |     |
 |----|---|---|
 | **Kenmerken**    | **Percentages** * | **Aantal** |
-| Huishoudens met laagste inkomens                    |  18% /16%      |   115      |
-| Bijstandsgerechtigden                               |  4% / 3%      |   35      |
-| Huishoudens met hoogste inkomens                    |  14% /22%      |   90      |
+| Huishoudens met laagste inkomens         |  18% /16%      |   115     |
+| Bijstandsgerechtigden                    |  4% / 3%       |   35      |
+| Huishoudens met hoogste inkomens         |  14% /22%      |   90      |
 |---+----+---|
 
 |-----+---+---|
