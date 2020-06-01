@@ -429,26 +429,305 @@ collections: # A list of collections the CMS should be able to edit
               - { label: "Tekst", name: "paragraph", widget: "text", required: false }
               - { label: "Link", name: "url", widget: "string" }
           - {label: "Body", name: "body", widget: "markdown"}
+      - name: "akkrum"
+        label: "Akkrum"
+        file: "/pages/gebiedsscans-gezondheid-en-leefomgeving/akkrum.md"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden"}
+          - {label: "Browser title tag", name: "title_tag", widget: "string"}
+          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "hidden"}
+          - {label: "URL (het deel vanaf https://democratie0513.nl/", name: "permalink", widget: "string"}
+          - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - name: "aldeboarn"
+        label: "aldeboarn"
+        file: "/pages/gebiedsscans-gezondheid-en-leefomgeving/aldeboarn.md"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden"}
+          - {label: "Browser title tag", name: "title_tag", widget: "string"}
+          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "hidden"}
+          - {label: "URL (het deel vanaf https://democratie0513.nl/", name: "permalink", widget: "string"}
+          - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - name: "bontebok"
+        label: "bontebok"
+        file: "/pages/gebiedsscans-gezondheid-en-leefomgeving/bontebok.md"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden"}
+          - {label: "Browser title tag", name: "title_tag", widget: "string"}
+          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "hidden"}
+          - {label: "URL (het deel vanaf https://democratie0513.nl/", name: "permalink", widget: "string"}
+          - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - name: "centrum"
+        label: "centrum"
+        file: "/pages/gebiedsscans-gezondheid-en-leefomgeving/centrum.md"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden"}
+          - {label: "Browser title tag", name: "title_tag", widget: "string"}
+          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "hidden"}
+          - {label: "URL (het deel vanaf https://democratie0513.nl/", name: "permalink", widget: "string"}
+          - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - name: "de-akkers"
+        label: "de-akkers"
+        file: "/pages/gebiedsscans-gezondheid-en-leefomgeving/de-akkers.md"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden"}
+          - {label: "Browser title tag", name: "title_tag", widget: "string"}
+          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "hidden"}
+          - {label: "URL (het deel vanaf https://democratie0513.nl/", name: "permalink", widget: "string"}
+          - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - name: "de-greiden"
+        label: "de-greiden"
+        file: "/pages/gebiedsscans-gezondheid-en-leefomgeving/de-greiden.md"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden"}
+          - {label: "Browser title tag", name: "title_tag", widget: "string"}
+          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "hidden"}
+          - {label: "URL (het deel vanaf https://democratie0513.nl/", name: "permalink", widget: "string"}
+          - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - name: "de-heide"
+        label: "de-heide"
+        file: "/pages/gebiedsscans-gezondheid-en-leefomgeving/de-heide.md"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden"}
+          - {label: "Browser title tag", name: "title_tag", widget: "string"}
+          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "hidden"}
+          - {label: "URL (het deel vanaf https://democratie0513.nl/", name: "permalink", widget: "string"}
+          - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - name: "de-knipe"
+        label: "de-knipe"
+        file: "/pages/gebiedsscans-gezondheid-en-leefomgeving/de-knipe.md"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden"}
+          - {label: "Browser title tag", name: "title_tag", widget: "string"}
+          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "hidden"}
+          - {label: "URL (het deel vanaf https://democratie0513.nl/", name: "permalink", widget: "string"}
+          - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - name: "gersloot-polder"
+        label: "gersloot-polder"
+        file: "/pages/gebiedsscans-gezondheid-en-leefomgeving/gersloot-polder.md"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden"}
+          - {label: "Browser title tag", name: "title_tag", widget: "string"}
+          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "hidden"}
+          - {label: "URL (het deel vanaf https://democratie0513.nl/", name: "permalink", widget: "string"}
+          - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - name: "gersloot"
+        label: "gersloot"
+        file: "/pages/gebiedsscans-gezondheid-en-leefomgeving/gersloot.md"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden"}
+          - {label: "Browser title tag", name: "title_tag", widget: "string"}
+          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "hidden"}
+          - {label: "URL (het deel vanaf https://democratie0513.nl/", name: "permalink", widget: "string"}
+          - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - name: "haskerdijken"
+        label: "haskerdijken"
+        file: "/pages/gebiedsscans-gezondheid-en-leefomgeving/haskerdijken.md"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden"}
+          - {label: "Browser title tag", name: "title_tag", widget: "string"}
+          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "hidden"}
+          - {label: "URL (het deel vanaf https://democratie0513.nl/", name: "permalink", widget: "string"}
+          - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - name: "het-meer"
+        label: "het-meer"
+        file: "/pages/gebiedsscans-gezondheid-en-leefomgeving/het-meer.md"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden"}
+          - {label: "Browser title tag", name: "title_tag", widget: "string"}
+          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "hidden"}
+          - {label: "URL (het deel vanaf https://democratie0513.nl/", name: "permalink", widget: "string"}
+          - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - name: "hoornsterzwaag"
+        label: "hoornsterzwaag"
+        file: "/pages/gebiedsscans-gezondheid-en-leefomgeving/hoornsterzwaag.md"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden"}
+          - {label: "Browser title tag", name: "title_tag", widget: "string"}
+          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "hidden"}
+          - {label: "URL (het deel vanaf https://democratie0513.nl/", name: "permalink", widget: "string"}
+          - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - name: "jubbega"
+        label: "jubbega"
+        file: "/pages/gebiedsscans-gezondheid-en-leefomgeving/jubbega.md"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden"}
+          - {label: "Browser title tag", name: "title_tag", widget: "string"}
+          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "hidden"}
+          - {label: "URL (het deel vanaf https://democratie0513.nl/", name: "permalink", widget: "string"}
+          - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - name: "katlijk"
+        label: "katlijk"
+        file: "/pages/gebiedsscans-gezondheid-en-leefomgeving/katlijk.md"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden"}
+          - {label: "Browser title tag", name: "title_tag", widget: "string"}
+          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "hidden"}
+          - {label: "URL (het deel vanaf https://democratie0513.nl/", name: "permalink", widget: "string"}
+          - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - name: "luinjeberd"
+        label: "luinjeberd"
+        file: "/pages/gebiedsscans-gezondheid-en-leefomgeving/luinjeberd.md"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden"}
+          - {label: "Browser title tag", name: "title_tag", widget: "string"}
+          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "hidden"}
+          - {label: "URL (het deel vanaf https://democratie0513.nl/", name: "permalink", widget: "string"}
+          - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - name: "midden"
+        label: "midden"
+        file: "/pages/gebiedsscans-gezondheid-en-leefomgeving/midden.md"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden"}
+          - {label: "Browser title tag", name: "title_tag", widget: "string"}
+          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "hidden"}
+          - {label: "URL (het deel vanaf https://democratie0513.nl/", name: "permalink", widget: "string"}
+          - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
       - name: "mildam"
-        label: "Mildam Noord"
+        label: "mildam"
         file: "/pages/gebiedsscans-gezondheid-en-leefomgeving/mildam.md"
         fields:
           - {label: "Layout", name: "layout", widget: "hidden"}
           - {label: "Browser title tag", name: "title_tag", widget: "string"}
-          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "string"}
+          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "hidden"}
           - {label: "URL (het deel vanaf https://democratie0513.nl/", name: "permalink", widget: "string"}
           - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
-          - {label: "Subtitel", name: "hero-subheading", widget: "string", required: false}
-          - {label: "Zinnetje bovenaan", name: "hero-paragraph", widget: "text", required: false}
-          - {label: "Intro", name: "content-intro", widget: "text", required: false }
-          - label: "Gekleurde navigatieblokjes"
-            name: "chapters"
-            widget: list
-            fields:
-              - { label: "Type (research, summary, results of analysis", name: "type", widget: "string" }
-              - { label: "Titel", name: "title", widget: "string" }
-              - { label: "Tekst", name: "paragraph", widget: "text", required: false }
-              - { label: "Link", name: "url", widget: "string" }
+          - {label: "Body", name: "body", widget: "markdown"}
+      - name: "nes"
+        label: "nes"
+        file: "/pages/gebiedsscans-gezondheid-en-leefomgeving/nes.md"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden"}
+          - {label: "Browser title tag", name: "title_tag", widget: "string"}
+          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "hidden"}
+          - {label: "URL (het deel vanaf https://democratie0513.nl/", name: "permalink", widget: "string"}
+          - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - name: "nieuwebrug"
+        label: "nieuwebrug"
+        file: "/pages/gebiedsscans-gezondheid-en-leefomgeving/nieuwebrug.md"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden"}
+          - {label: "Browser title tag", name: "title_tag", widget: "string"}
+          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "hidden"}
+          - {label: "URL (het deel vanaf https://democratie0513.nl/", name: "permalink", widget: "string"}
+          - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - name: "nieuwehorne"
+        label: "nieuwehorne"
+        file: "/pages/gebiedsscans-gezondheid-en-leefomgeving/nieuwehorne.md"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden"}
+          - {label: "Browser title tag", name: "title_tag", widget: "string"}
+          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "hidden"}
+          - {label: "URL (het deel vanaf https://democratie0513.nl/", name: "permalink", widget: "string"}
+          - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - name: "nieuweschoot"
+        label: "nieuweschoot"
+        file: "/pages/gebiedsscans-gezondheid-en-leefomgeving/nieuweschoot.md"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden"}
+          - {label: "Browser title tag", name: "title_tag", widget: "string"}
+          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "hidden"}
+          - {label: "URL (het deel vanaf https://democratie0513.nl/", name: "permalink", widget: "string"}
+          - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - name: "nijehaske"
+        label: "nijehaske"
+        file: "/pages/gebiedsscans-gezondheid-en-leefomgeving/nijehaske.md"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden"}
+          - {label: "Browser title tag", name: "title_tag", widget: "string"}
+          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "hidden"}
+          - {label: "URL (het deel vanaf https://democratie0513.nl/", name: "permalink", widget: "string"}
+          - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - name: "noord"
+        label: "noord"
+        file: "/pages/gebiedsscans-gezondheid-en-leefomgeving/noord.md"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden"}
+          - {label: "Browser title tag", name: "title_tag", widget: "string"}
+          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "hidden"}
+          - {label: "URL (het deel vanaf https://democratie0513.nl/", name: "permalink", widget: "string"}
+          - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - name: "oranjewoud"
+        label: "oranjewoud"
+        file: "/pages/gebiedsscans-gezondheid-en-leefomgeving/oranjewoud.md"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden"}
+          - {label: "Browser title tag", name: "title_tag", widget: "string"}
+          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "hidden"}
+          - {label: "URL (het deel vanaf https://democratie0513.nl/", name: "permalink", widget: "string"}
+          - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - name: "oudehorne"
+        label: "oudehorne"
+        file: "/pages/gebiedsscans-gezondheid-en-leefomgeving/oudehorne.md"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden"}
+          - {label: "Browser title tag", name: "title_tag", widget: "string"}
+          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "hidden"}
+          - {label: "URL (het deel vanaf https://democratie0513.nl/", name: "permalink", widget: "string"}
+          - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - name: "oudeschoot"
+        label: "oudeschoot"
+        file: "/pages/gebiedsscans-gezondheid-en-leefomgeving/oudeschoot.md"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden"}
+          - {label: "Browser title tag", name: "title_tag", widget: "string"}
+          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "hidden"}
+          - {label: "URL (het deel vanaf https://democratie0513.nl/", name: "permalink", widget: "string"}
+          - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - name: "skoatterwald"
+        label: "skoatterwald"
+        file: "/pages/gebiedsscans-gezondheid-en-leefomgeving/skoatterwald.md"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden"}
+          - {label: "Browser title tag", name: "title_tag", widget: "string"}
+          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "hidden"}
+          - {label: "URL (het deel vanaf https://democratie0513.nl/", name: "permalink", widget: "string"}
+          - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - name: "terband"
+        label: "terband"
+        file: "/pages/gebiedsscans-gezondheid-en-leefomgeving/terband.md"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden"}
+          - {label: "Browser title tag", name: "title_tag", widget: "string"}
+          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "hidden"}
+          - {label: "URL (het deel vanaf https://democratie0513.nl/", name: "permalink", widget: "string"}
+          - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - name: "tjalleberd"
+        label: "tjalleberd"
+        file: "/pages/gebiedsscans-gezondheid-en-leefomgeving/tjalleberd.md"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden"}
+          - {label: "Browser title tag", name: "title_tag", widget: "string"}
+          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "hidden"}
+          - {label: "URL (het deel vanaf https://democratie0513.nl/", name: "permalink", widget: "string"}
+          - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
       - name: "footer"
         label: "Footer"
