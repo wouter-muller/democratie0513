@@ -50,18 +50,17 @@ Beleid en maatregelen kunnen gericht worden op de algemene gezondheidsrisico’s
 | **Gezondheid** |     |     |
 |----|---|---|
 | **Kenmerken** | **Percentages** * | **Aantal** |
-| Lichamelijke beperkingen                            |  xxx   |  xxx   |
-| Beperkingen in mobiliteit                           |  xxx   |  xxx   |
-| Beperkingen in horen                                |  xxx   |  xxx   |
-| Beperkingen in zien                                 |  xxx   |  xxx   |
-| Ernstige eenzaamheid                                |  xxx   |  xxx   |
-| Risico angst/depressie                              |  xxx   |  xxx   |
-| Weinig eigen regie ervaren                          |  xxx   |  xxx   |
-| Voldoende bewegen                                   |  xxx   |  xxx   |
-| Sporters                                            |  xxx   |  xxx   |
-| Obesitas                                            |  xxx   |  xxx   |
-| Rokers                                              |  xxx   |  xxx   |
-| Voldoen aan richtlijn alcohol (niet teveel drinken) |  xxx   |  xxx   |
+| Lichamelijke beperkingen                            |  10% /11%   |  110   |
+| Beperkingen in mobiliteit                           |  6% / 7%   |  65   |
+| Beperkingen in horen                                |  3% / 4%   |  30   |
+| Beperkingen in zien                                 |  3% / 4%   |  30   |
+| Ernstige eenzaamheid                                |  7% / 7%   |  75   |
+| Risico angst/depressie                              |  4% / 4%   |  45   |
+| Voldoende bewegen                                   |  50% /51%   |  540   |
+| Sporters                                            |  47% /48%   |  510   |
+| Obesitas                                            |  13% /12%   |  140   |
+| Rokers                                              |  21% /19%   |  230   |
+| Voldoen aan richtlijn alcohol (niet teveel drinken) |  34% /37%   |  370   |
 |---+----+---|
 
 |-----+---+---|
