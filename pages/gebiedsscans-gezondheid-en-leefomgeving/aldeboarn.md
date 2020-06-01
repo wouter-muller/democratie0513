@@ -76,9 +76,9 @@ Beleid en maatregelen kunnen gericht worden op de algemene gezondheidsrisico’s
 | **Participatie** |     |     |
 |----|---|---|
 | **Kenmerken**  | **Percentages** * | **Aantal** |
-| Vrijwilligers                                       |  40% /37%      |   435      |
-| Mantelzorgers                                       |  13% /14%     |   140      |
-| Mantelzorg ontvangen (65-plussers)                  |  10% /12%     |   30      |
+| Vrijwilligers                            | 40% / 37% | 435 |
+| Mantelzorgers                            | 13% / 14% | 140 |
+| Mantelzorg ontvangen (65-plussers)       | 10% / 12% | 30  |
 |---+----+---|
 
 |-----+---+---|
