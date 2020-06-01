@@ -35,15 +35,15 @@ Beleid en maatregelen kunnen gericht worden op de algemene gezondheidsrisico’s
 |  **Bevolking**  |  |    |
 |----|---|---|
 | **Kenmerken**  | **Percentages** * | **Aantal** |
-| Jonger dan 15 jaar                                  | xxxx | xxx |
-| 45-65 jarigen                                       | xxx | xxx |
-| 65-plussers,                                        | xxx | xxx |
-| waarvan 80-plussers                                 | xxx | xxx |
-| Westerse migratieachtergrond                        | xxx | xxx |
-| Niet-westerse migratieachtergrond                   | xxx | xxx |
-| Gescheiden                                          | xxx | xxx |
-| Weduwen en weduwnaars                               | xxx | xxx |
-| 1-persoons-huishoudens                              | xxx | xxx |
+| Jonger dan 15 jaar                                  | 20% /16% | 320 |
+| 45-65 jarigen                                       | 27% /32% | 430 |
+| 65-plussers,                                        | 19% /20% | 290 |
+| waarvan 80-plussers                                 | 4% / 5% | 70 |
+| Westerse migratieachtergrond                        | 4% / 5% | 60 |
+| Niet-westerse migratieachtergrond                   | 2% / 3% | 35 |
+| Gescheiden                                          | 9% /9% | 110 |
+| Weduwen en weduwnaars                               | 6% / 6% | 75 |
+| 1-persoons-huishoudens                              | 30% /27%  | 195 |
 |---+----+---|
 
 |-----+---+---|
