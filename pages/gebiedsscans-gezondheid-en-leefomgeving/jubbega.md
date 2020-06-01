@@ -33,92 +33,90 @@ De leefbaarheid is goed.
 |  **Bevolking**  |  |    |
 |----|---|---|
 | **Kenmerken**  | **Percentages** * | **Aantal** |
-| Jonger dan 15 jaar                                  | xxx | xxx |
-| 45-65 jarigen                                       | xxx | xxx |
-| 65-plussers,                                        | xxx | xxx |
-| waarvan 80-plussers                                 | xxx | xxx |
-| Westerse migratieachtergrond                        | xxx | xxx |
-| Niet-westerse migratieachtergrond                   | xxx | xxx |
-| Gescheiden                                          | xxx | xxx |
-| Weduwen en weduwnaars                               | xxx | xxx |
-| 1-persoons-huishoudens                              | xxx | xxx |
+| Jonger dan 15 jaar                                  | 15% / 16% | 500 |
+| 45-65 jarigen                                       | 32% / 32% | 1.045 |
+| 65-plussers,                                        | 21% / 20% | 670 |
+| waarvan 80-plussers                                 | 4% / 5% | 150 |
+| Westerse migratieachtergrond                        | 3% / 5% | 85 |
+| Niet-westerse migratieachtergrond                   | 1% / 3% | 45 |
+| Gescheiden                                          | 9% / 9% | 225 |
+| Weduwen en weduwnaars                               | 8% / 6% | 210 |
+| 1-persoons-huishoudens                              | 28% / 27% | 400 |
 |---+----+---|
 
 |-----+---+---|
 | **Gezondheid** |     |     |
 |----|---|---|
 | **Kenmerken** | **Percentages** * | **Aantal** |
-| Lichamelijke beperkingen                            |  xxx   |  xxx   |
-| Beperkingen in mobiliteit                           |  xxx   |  xxx   |
-| Beperkingen in horen                                |  xxx   |  xxx   |
-| Beperkingen in zien                                 |  xxx   |  xxx   |
-| Ernstige eenzaamheid                                |  xxx   |  xxx   |
-| Risico angst/depressie                              |  xxx   |  xxx   |
-| Weinig eigen regie ervaren                          |  xxx   |  xxx   |
-| Voldoende bewegen                                   |  xxx   |  xxx   |
-| Sporters                                            |  xxx   |  xxx   |
-| Obesitas                                            |  xxx   |  xxx   |
-| Rokers                                              |  xxx   |  xxx   |
-| Voldoen aan richtlijn alcohol (niet teveel drinken) |  xxx   |  xxx   |
+| Lichamelijke beperkingen                            |  13% /11%   |  325   |
+| Beperkingen in mobiliteit                           |  8% / 7%   |  200   |
+| Beperkingen in horen                                |  4% / 4%   |  100   |
+| Beperkingen in zien                                 |  4% / 4%   |  100   |
+| Ernstige eenzaamheid                                |  7% / 7%   |  175   |
+| Risico angst/depressie                              |  4% / 4%   |  100   |
+| Overgewicht                                         |  53% /49%   |  1.325   |
+| Obesitas                                            |  15% /12%   |  375   |
+| Voldoende bewegen                                   |  50% /51%   |  1.250   |
+| Sporters                                            |  42% /48%   |  1.050   |
+| Rokers                                              |  21% /19%   |  525   |
+| Voldoen aan richtlijn alcohol (niet teveel drinken) |  37% /37%   |  925   |
 |---+----+---|
 
 |-----+---+---|
 | **Inkomen** |     |     |
 |----|---|---|
 | **Kenmerken**    | **Percentages** * | **Aantal** |
-| Huishoudens met laagste inkomens                    |  xxx      |   xxx      |
-| Bijstandsgerechtigden                               |  xxx      |   xxx      |
-| Huishoudens met hoogste inkomens                    |  xxx      |   xxx      |
+| Huishoudens met laagste inkomens                    |  16% /16%      |   225      |
+| Bijstandsgerechtigden                               |  4% / 3%      |   75      |
+| Huishoudens met hoogste inkomens                    |  13% /22%      |   180      |
 |---+----+---|
 
 |-----+---+---|
 | **Participatie** |     |     |
 |----|---|---|
 | **Kenmerken**  | **Percentages** * | **Aantal** |
-| Vrijwilligers                                       |  xxx     |   xxx      |
-| Mantelzorgers                                       |  xxx     |   xxx      |
-| Mantelzorg ontvangen (65-plussers)                  |  xxx     |   xxx      |
+| Vrijwilligers                                       |  36% /37%     |   900      |
+| Mantelzorgers                                       |  14% /14%     |   350      |
+| Mantelzorg ontvangen (65-plussers)                  |  13% /12%     |   85      |
 |---+----+---|
 
 |-----+---+---|
 | **Woningen** |     |     |
 |----|---|---|
 | **Kenmerken** | **Percentages** * | **Aantal** |
-| Flats en appartementen                              | xxx |  xxx |
-| Huurwoningen,                                       | xxx |  xxx |
-| Waarvan huurwoningen in corporatiebezit             | xxx |  xxx |
-| Gemiddelde WOZ                                      | xxx |      |
+| Flats en appartementen                              | 6% /13% |  85 |
+| Huurwoningen,                                       | 30% /26% |  425 |
+| Waarvan huurwoningen in corporatiebezit             | 27% /16% |  385 |
+| Gemiddelde WOZ                                      | 207.000 / 246.000 |      |
 |---+----+---|
 
 |-----+---+---|
 | **Gebruik voorzieningen** |     |     |
 |----|---|---|
 | **Kenmerken** | **Percentages** * | **Aantal** |
-| WMO, waarvan:                                       | xxx | xxx |
-| Huishoudelijke hulp                                 | xxx | xxx |
-| Vervoersvoorziening                                 | xxx | xxx |
-| Participatiewet                                     | xxx | xxx |
-| Jeugdzorg                                           | xxx | xxx |
+| WMO, waarvan:                                       | 19% /15% | 560 |
+| - Huishoudelijke hulp                               | 13% /16% | 70 |
+| - Vervoersvoorziening                               | 18% /16% | 100 |
+| Participatiewet                                     | 5% / 4% | 105 |
+| Jeugdzorg                                           | 23% /19% | 160 |
 |---+----+---|
 
 |-----+---+---|
 | **Veiligheid** |     |     |
 |----|---|---|
 | **Kenmerken** | **Percentages** * | **Aantal** |
-| Overlast en vernielingen                                           | xxx | xxx |
-| Gewelds- en seksuele misdrijven (registraties per 1.000 inwoners)  | xxx | xxx |
+| Overlast en vernielingen                                           | 0 / 2 | -- |
+| Gewelds- en seksuele misdrijven (registraties per 1.000 inwoners)  | 3 / 3 | 10 |
 |---+----+---|
 
 |-----+---+---|
 | **Leefbaarheid** |     |     |
 |----|---|---|
-| Leefbaarheid totaal                                | xxx |                     |
-| -Samenstelling bevolking                           | xxx |                     |
-| -Woningen                                          | xxx |                     |
-| -Voorzieningenniveau                               | xxx |                     |
-| -Veiligheid                                        | xxx | xxx |
-| Verkeerslawaai (19-65 jarigen)                     | xxx |                     |
-| Aantal auto's per ha                               | xxx |                     |
+| **Kenmerken** | **Percentages** * | **Aantal** |
+| Leefbaarheid totaal                                | Cijfer 8 / 9 |                     |
+| -Veiligheid                                        | +/- |                         |
+| Verkeerslawaai (19-65 jarigen)                     | 5% / 4% |     125                |
+| Aantal auto's per ha                               | 1  / 4 |                     |
 |---+----+---|
 
 \* Achter de percentages staan in grijs steeds de gemiddelde percentages van de 30 wijken en dorpen in Heerenveen. De percentages die significant boven of onder het gemiddelde liggen zijn geel gemarkeerd. Wanneer percentages voor verschillende gebieden erg uiteenlopen, zijn alleen zeer hoge of zeer lage percentages significant afwijkend van het gemiddelde. De gemiddelde percentages voor Heerenveen zijn rekenkundige gemiddelden, die mogelijk afwijken van gemiddelden uit andere bronnen. De aantallen zijn schattingen en afgerond op 5-tallen; -- betekent dat het aantal verwaarloosbaar klein is.
