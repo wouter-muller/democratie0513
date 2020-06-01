@@ -16,37 +16,37 @@ Daarnaast is een samenvatting gegeven van de Jeugdmonitor 2019 van GGD-Fryslân.
 
 In totaal gaan in de gemeente Heerenveen bijna 1.400 kinderen naar een kindcentrum voor kinderopvang. Dat is ongeveer 65% van de kinderen tot 5 jaar. Ruim 1.400 kinderen gaan naar een kindcentrum voor buitenschoolse opvang.
 
-Er zijn geen opvallende verschillen tussen de gebieden die voldoende groot zijn om vergelijking mogelijk te maken.
+_Er zijn geen opvallende verschillen tussen de gebieden die voldoende groot zijn om vergelijking mogelijk te maken._
 
 ### Voor- en vroegschoolse educatie (VVE)
 
 In de gemeente Heerenveen krijgen ruim 200 kinderen VVE. Ongeveer de helft van deze kinderen behoort tot de zogenoemde doelgroepkinderen. De ouders van deze kinderen hebben een laag opleidingsniveau.
 
-Er zijn geen opvallende verschillen per gebied in percentages kinderen die VVE krijgen. De doelgroepkinderen die VVE krijgen wonen vooral in het Centrum, Heerenveen Midden, De Greiden en De Akkers.
+_Er zijn geen opvallende verschillen per gebied in percentages kinderen die VVE krijgen. De doelgroepkinderen die VVE krijgen wonen vooral in het Centrum, Heerenveen Midden, De Greiden en De Akkers._
 
 ### Leerlinggewichten
 
 Van de leerlingen in het basisonderwijs in de gemeente Heerenveen heeft 5% (ongeveer 400) een leerlinggewicht, wat inhoudt dat de ouders een laag opleidingsniveau hebben.
 
-Vooral op de scholen in Oudeschoot, en in mindere mate de scholen in Centrum, De Akkers en Nijehaske, zijn de aantallen wat hoger dan gemiddeld. Statistische vergelijking is echter niet goed mogelijk.
+_Vooral op de scholen in Oudeschoot, en in mindere mate de scholen in Centrum, De Akkers en Nijehaske, zijn de aantallen wat hoger dan gemiddeld. Statistische vergelijking is echter niet goed mogelijk._
 
 ### Speciaal onderwijs
 
 Ongeveer 100 kinderen gaan vanuit de gemeente Heerenveen naar het speciaal onderwijs.
 
-Vergelijking van gebieden is niet mogelijk.
+_Vergelijking van gebieden is niet mogelijk._
 
 ### Dyslexieverklaring
 
 Een kleine 300 kinderen heeft een dyslexieverklaring.
 
-Er zijn geen opvallende verschillen tussen de gebieden die voldoende groot zijn om vergelijking mogelijk te maken.
+_Er zijn geen opvallende verschillen tussen de gebieden die voldoende groot zijn om vergelijking mogelijk te maken._
 
 ### Speelplekken
 
 Er zijn gemiddeld 4,5 speelplekken per wijk en dorp. Hieronder valt een volledige speeltuin, maar ook een trapveldje met een voetbal-doel of een speelplekje met 2 toestellen voor peuters. Zie voor de ligging van speelplekken https://www.heerenveen.nl/wonen/speelplekken-en-speeltoestellen/
 
-Gezien het oppervlak van de verschillende dorpen en wijken zijn vooral in De Greiden en in Nijehaske relatief veel speelplekken.
+_Gezien het oppervlak van de verschillende dorpen en wijken zijn vooral in De Greiden en in Nijehaske relatief veel speelplekken._
 
 ## Jeugdmonitor 2019 GGD-Fryslân
 
