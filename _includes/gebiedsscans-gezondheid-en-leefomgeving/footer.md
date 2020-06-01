@@ -2,7 +2,7 @@
     <div class="l-wrapper">
         <div class="s-footer__main">
             <div>
-                <img src="{{ site.image_path }}/r2/logo-footer.svg">
+                <img src="{{ site.image_path }}/r2/logo-footer.png">
             </div>
             <div>
                 <h4 class="s-footer__heading">{{ site.data.gebiedsscans-gezondheid-en-leefomgeving.footer.research-title }}</h4>
