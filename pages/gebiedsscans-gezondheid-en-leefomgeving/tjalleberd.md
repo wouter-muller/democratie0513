@@ -8,7 +8,7 @@ content-intro:
 ---
 ## Uitkomsten Tjalleberd
 
-![blah](/uploads/Grafieken_Gebiedsscans_Dorpen-21.png)
+![Gebiedsscan grafiek](/uploads/Grafieken_Gebiedsscans_Dorpen-21.png)
 
 ## Samenvatting
 

@@ -8,7 +8,7 @@ content-intro:
 ---
 ## Uitkomsten Nieuwebrug
 
-![blah](/uploads/Grafieken_Gebiedsscans_Dorpen-14.png)
+![Gebiedsscan grafiek](/uploads/Grafieken_Gebiedsscans_Dorpen-14.png)
 
 ## Samenvatting
 

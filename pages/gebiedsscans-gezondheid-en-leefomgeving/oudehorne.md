@@ -8,7 +8,7 @@ content-intro:
 ---
 ## Uitkomsten Oudehorne
 
-![blah](/uploads/Grafieken_Gebiedsscans_Dorpen-18.png)
+![Gebiedsscan grafiek](/uploads/Grafieken_Gebiedsscans_Dorpen-18.png)
 
 ## Samenvatting
 De cijfers voor Oude- en Nieuwehorne wijken niet sterk af van de gemiddelden voor de gemeente Heerenveen.  Alleen ligt het percentage jongeren in de leeftijd 15 tot 25 jaar in Oudehorne iets onder het gemiddelde

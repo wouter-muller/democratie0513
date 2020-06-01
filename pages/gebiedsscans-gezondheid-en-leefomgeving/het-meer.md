@@ -8,7 +8,7 @@ content-intro:
 ---
 ## Uitkomsten Het Meer
 
-![blah](/uploads/Grafieken_Gebiedsscans_Wijken-05.png)
+![Gebiedsscan grafiek](/uploads/Grafieken_Gebiedsscans_Wijken-05.png)
 
 ## Samenvatting
 

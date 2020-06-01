@@ -8,7 +8,7 @@ content-intro:
 ---
 ## Uitkomsten Heerenveen Noord
 
-![blah](/uploads/Grafieken_Gebiedsscans_Wijken-03.png)
+![Gebiedsscan grafiek](/uploads/Grafieken_Gebiedsscans_Wijken-03.png)
 
 ## Samenvatting
 

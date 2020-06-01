@@ -8,7 +8,7 @@ content-intro:
 ---
 ## Uitkomsten Oudeschoot
 
-![blah](/uploads/Grafieken_Gebiedsscans_Dorpen-19.png)
+![Gebiedsscan grafiek](/uploads/Grafieken_Gebiedsscans_Dorpen-19.png)
 
 ## Samenvatting
 Vergeleken met de gemiddelde cijfers voor de gemeente Heerenveen wordt in Oudeschoot bovengemiddeld gebruik gemaakt van jeugdzorg. Dit kan deels samenhangen met risicofactoren voor jeugdproblematiek, zoals gezinsproblematiek, armoede en psychische problematiek bij de ouders. De percentages lage inkomens, bijstandsuitkeringen, gezondheidsproblemen en scheidingen liggen iets boven het gemiddelde.

@@ -8,7 +8,7 @@ content-intro:
 ---
 ## Uitkomsten Nieuweschoot
 
-![blah](/uploads/Grafieken_Gebiedsscans_Dorpen-16.png)
+![Gebiedsscan grafiek](/uploads/Grafieken_Gebiedsscans_Dorpen-16.png)
 
 ## Samenvatting
 In Nieuweschoot is het percentage kinderen iets lager dan gemiddeld.

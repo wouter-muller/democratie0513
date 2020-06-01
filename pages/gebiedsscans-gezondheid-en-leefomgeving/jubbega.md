@@ -8,7 +8,7 @@ content-intro:
 ---
 ## Uitkomsten Jubbega
 
-![blah](/uploads/Grafieken_Gebiedsscans_Dorpen-09.png)
+![Gebiedsscan grafiek](/uploads/Grafieken_Gebiedsscans_Dorpen-09.png)
 
 ## Samenvatting
 De cijfers voor Jubbega wijken niet sterk af van de gemiddelden voor de gemeente Heerenveen. De percentages voor overgewicht en obesitas liggen iets boven het gemiddelde. Het percentage sporters ligt iets onder het gemiddelde, maar het percentage inwoners dat aan de beweegnorm voldoet is gemiddeld.

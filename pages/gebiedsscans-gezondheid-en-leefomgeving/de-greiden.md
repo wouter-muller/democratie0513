@@ -8,7 +8,7 @@ content-intro:
 ---
 ## Uitkomsten De Greiden
 
-![blah](/uploads/Grafieken_Gebiedsscans_Wijken-01.png)
+![Gebiedsscan grafiek](/uploads/Grafieken_Gebiedsscans_Wijken-01.png)
 
 ## Samenvatting
 

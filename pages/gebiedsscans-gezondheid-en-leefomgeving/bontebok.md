@@ -8,7 +8,7 @@ content-intro:
 ---
 ## Uitkomsten Bontebok
 
-![blah](/uploads/Grafieken_Gebiedsscans_Dorpen-03.png)
+![Gebiedsscan grafiek](/uploads/Grafieken_Gebiedsscans_Dorpen-03.png)
 
 ## Samenvatting
 In Bontebok zijn weinig afwijkingen van de gemiddelde cijfers voor de gemeente.  Er wonen  alleen meer 45 tot 65 jarigen dan gemiddeld en er zijn iets meer huishoudens zonder kinderen.

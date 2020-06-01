@@ -8,7 +8,7 @@ content-intro:
 ---
 ## Uitkomsten Hoornsterzwaag
 
-![blah](/uploads/Grafieken_Gebiedsscans_Dorpen-08.png)
+![Gebiedsscan grafiek](/uploads/Grafieken_Gebiedsscans_Dorpen-08.png)
 
 ## Samenvatting
 De cijfers voor Hoornsterzwaag wijken niet sterk af van de gemiddelden voor de gemeente Heerenveen. Er wonen iets meer gezinnen zonder kinderen dan gemiddeld in de gemeente. Het percentage inwoners dat aan de beweegnorm voldoet ligt iets onder het gemiddelde.

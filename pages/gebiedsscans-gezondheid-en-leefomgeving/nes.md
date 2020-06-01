@@ -8,7 +8,7 @@ content-intro:
 ---
 ## Uitkomsten Nes
 
-![blah](/uploads/Grafieken_Gebiedsscans_Dorpen-13.png)
+![Gebiedsscan grafiek](/uploads/Grafieken_Gebiedsscans_Dorpen-13.png)
 
 ## Samenvatting
 In Nes is meer dan de helft van de woningen na 2000 gebouwd. Het is een jong dorp, waar bovengemiddeld veel gezinnen met kinderen wonen en minder 65-plussers dan gemiddeld in de gemeente. Het percentage hogere inkomens is bovengemiddeld, evenals de percentages voor indicatoren die duiden op een goede gezondheid en leefstijl. Aan de richtlijn voor alcoholgebruik wordt echter minder vaak voldaan.

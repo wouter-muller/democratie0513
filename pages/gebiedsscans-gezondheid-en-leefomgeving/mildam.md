@@ -8,7 +8,7 @@ content-intro:
 ---
 ## Uitkomsten Mildam
 
-![blah](/uploads/Grafieken_Gebiedsscans_Dorpen-12.png)
+![Gebiedsscan grafiek](/uploads/Grafieken_Gebiedsscans_Dorpen-12.png)
 
 ## Samenvatting
 Katlijk en Mildam liggen tegen elkaar aan en de verenigingen van Plaatselijk belang werken veel samen. Ze kunnen als één gebied worden beschouwd. In Katlijk en Mildam zijn nauwelijks afwijkingen van de gemiddelde cijfers in de gemeente.

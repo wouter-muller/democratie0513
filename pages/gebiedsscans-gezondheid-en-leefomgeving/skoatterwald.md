@@ -8,7 +8,7 @@ content-intro:
 ---
 ## Uitkomsten Skoatterwald
 
-![blah](/uploads/Grafieken_Gebiedsscans_Wijken-07.png)
+![Gebiedsscan grafiek](/uploads/Grafieken_Gebiedsscans_Wijken-07.png)
 
 ## Samenvatting
 Skoatterwâld valt op doordat er bovengemiddeld veel gezinnen wonen en weinig 65 plussers vergeleken bij de gemiddelde cijfers voor de gemeente Heerenveen.  Het aandeel hoge inkomens is  eveneens bovengemiddeld.

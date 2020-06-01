@@ -8,7 +8,7 @@ content-intro:
 ---
 ## Uitkomsten De Knipe
 
-![blah](/uploads/Grafieken_Gebiedsscans_Dorpen-04.png)
+![Gebiedsscan grafiek](/uploads/Grafieken_Gebiedsscans_Dorpen-04.png)
 
 ## Samenvatting
 De Knipe en Het Meer kunnen als één gebied worden gezien. Er zijn weinig afwijkingen van de gemiddelde cijfers voor de gemeente Heerenveen.

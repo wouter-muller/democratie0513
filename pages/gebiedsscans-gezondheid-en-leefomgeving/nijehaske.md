@@ -8,7 +8,7 @@ content-intro:
 ---
 ## Uitkomsten Nijehaske
 
-![blah](/uploads/Grafieken_Gebiedsscans_Wijken-06.png)
+![Gebiedsscan grafiek](/uploads/Grafieken_Gebiedsscans_Wijken-06.png)
 
 ## Samenvatting
 

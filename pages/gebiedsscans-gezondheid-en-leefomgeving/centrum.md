@@ -8,7 +8,7 @@ content-intro:
 ---
 ## Uitkomsten Heerenveen Centrum
 
-![blah](/uploads/Grafieken_Gebiedsscans_Wijken-02.png)
+![Gebiedsscan grafiek](/uploads/Grafieken_Gebiedsscans_Wijken-02.png)
 
 ## Samenvatting
 

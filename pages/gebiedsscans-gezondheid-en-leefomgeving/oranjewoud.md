@@ -8,7 +8,7 @@ content-intro:
 ---
 ## Uitkomsten Oranjewoud
 
-![blah](/uploads/Grafieken_Gebiedsscans_Dorpen-17.png)
+![Gebiedsscan grafiek](/uploads/Grafieken_Gebiedsscans_Dorpen-17.png)
 
 ## Samenvatting
 Oranjewoud wordt gekenmerkt doordat er weinig afwijkingen  zijn van de gemiddelde cijfers voor  de gemeente Heerenveen.

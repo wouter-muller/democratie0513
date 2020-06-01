@@ -8,7 +8,7 @@ content-intro:
 ---
 ## Uitkomsten Heerenveen Midden
 
-![blah](/uploads/Grafieken_Gebiedsscans_Wijken-04.png)
+![Gebiedsscan grafiek](/uploads/Grafieken_Gebiedsscans_Wijken-04.png)
 
 ## Samenvatting
 

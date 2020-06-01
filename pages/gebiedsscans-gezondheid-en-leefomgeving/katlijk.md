@@ -8,7 +8,7 @@ content-intro:
 ---
 ## Uitkomsten Katlijk
 
-![blah](/uploads/Grafieken_Gebiedsscans_Dorpen-10.png)
+![Gebiedsscan grafiek](/uploads/Grafieken_Gebiedsscans_Dorpen-10.png)
 
 ## Samenvatting
 Katlijk en Mildam liggen tegen elkaar aan en de verenigingen van Plaatselijk belang werken veel samen. Ze kunnen als één gebied worden beschouwd. In Katlijk en Mildam zijn nauwelijks afwijkingen van de gemiddelde cijfers in de gemeente. In Katlijk  is alleen het percentage jongeren in de leeftijdscategorie 15 tot 25 jaar bovengemiddeld.

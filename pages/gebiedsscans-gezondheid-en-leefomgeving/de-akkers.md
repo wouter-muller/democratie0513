@@ -8,7 +8,7 @@ content-intro:
 ---
 ## Uitkomsten De Akkers
 
-![blah](/uploads/Grafieken_Gebiedsscans_Wijken-09.png)
+![Gebiedsscan grafiek](/uploads/Grafieken_Gebiedsscans_Wijken-09.png)
 
 ## Samenvatting
 

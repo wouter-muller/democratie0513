@@ -8,7 +8,7 @@ content-intro:
 ---
 ## Uitkomsten De Heide
 
-![blah](/uploads/Grafieken_Gebiedsscans_Wijken-08.png)
+![Gebiedsscan grafiek](/uploads/Grafieken_Gebiedsscans_Wijken-08.png)
 
 ## Samenvatting
 Vergeleken bij de gemiddelde cijfers voor de gemeente Heerenveen wonen in de Heide bovengemiddeld veel 65-plussers  en ligt het percentage kinderen wat onder het gemiddelde.  In deze wijk is de toename van het percentage 65-plussers sinds 2014 eveneens groter dan gemiddeld.

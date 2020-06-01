@@ -8,7 +8,7 @@ content-intro:
 ---
 ## Uitkomsten Nieuwehorne
 
-![blah](/uploads/Grafieken_Gebiedsscans_Dorpen-15.png)
+![Gebiedsscan grafiek](/uploads/Grafieken_Gebiedsscans_Dorpen-15.png)
 
 ## Samenvatting
 De cijfers voor Oude- en Nieuwehorne wijken niet sterk af van de gemiddelden voor de gemeente Heerenveen. Het percentage inwoners met  overgewicht is in Nieuwehorne  iets hoger dan gemiddeld.

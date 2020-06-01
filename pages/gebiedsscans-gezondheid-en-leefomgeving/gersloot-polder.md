@@ -8,7 +8,7 @@ content-intro:
 ---
 ## Uitkomsten Gersloot Polder
 
-![blah](/uploads/Grafieken_Gebiedsscans_Dorpen-06.png)
+![Gebiedsscan grafiek](/uploads/Grafieken_Gebiedsscans_Dorpen-06.png)
 
 ## Samenvatting
 Terband, Luinjeberd, Tjalleberd en Gersloot vallen onder De Streek van de vroegere gemeente Aengwirden. Gersloot Polder hoort hier niet bij. Gersloot Polder heeft ook een eigen vereniging voor Plaatselijk belang.

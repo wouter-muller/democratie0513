@@ -8,7 +8,7 @@ content-intro:
 ---
 ## Uitkomsten Haskerdijken
 
-![blah](/uploads/Grafieken_Gebiedsscans_Dorpen-07.png)
+![Gebiedsscan grafiek](/uploads/Grafieken_Gebiedsscans_Dorpen-07.png)
 
 ## Samenvatting
 In het tweelingdorp  Haskerdijken-Nieuwebrug zijn weinig afwijkingen van de gemiddelde cijfers voor de gemeente Heerenveen.
