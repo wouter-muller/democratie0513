@@ -4,10 +4,11 @@ title_tag: Akkrum
 color: r2
 permalink: /gebiedsscans-gezondheid-en-leefomgeving/akkrum
 hero-heading: Akkrum
+content-intro: null
 ---
 ## Uitkomsten Akkrum
 
-![Gebiedsscan grafiek](/uploads/Grafieken_Gebiedsscans_Dorpen-01.png)
+![blah](/uploads/Grafieken_Gebiedsscans_Dorpen-01.png)
 
 ## Samenvatting
 
@@ -20,6 +21,7 @@ Het percentage gebruik van jeugdzorg ligt iets boven het gemiddelde.
 De leefbaarheid is ruim voldoende; de aantrekkelijkheid van de fysieke omgeving ligt echter onder het gemiddelde.
 
 ## Aanvullingen uit interviews met professionals
+
 Akkrum is een dorp met veel activiteiten en een actief Plaatselijk belang. Volgens het recente leefbaarheidsonderzoek is een verbetering van het centrum gewenst: aantrekkelijker en groener. Ook is er behoefte aan een beter aanbod huurwoningen. Er is al het een en ander gerealiseerd. Plaatselijk belang ontwikkelt in samenwerking met andere partijen nieuwe plannen.
 
 Er zijn veel groepen actieve bewoners. Er is een doarpskeamer waar onder meer koffieochtenden worden georganiseerd.  Er zijn buurten met sociale woningbouw waar meer sociale problematiek voorkomt. De professionals komen veel armoede- en schuldenproblematiek tegen, evenals eenzaamheid en dementie.
@@ -27,16 +29,15 @@ Er zijn veel groepen actieve bewoners. Er is een doarpskeamer waar onder meer ko
 **Akkrum: 3.365 inwoners en 1.465 huishoudens**
 
 ## Conclusies voor beleid vanuit de cijfers
+
 Er zijn weinig afwijkingen van de gemiddelde cijfers in de gemeente. Maatregelen kunnen gericht worden op de algemene gezondheidsrisico's, zoals te weinig bewegen en eenzaamheid. Maatregelen kunnen op verschillende doelgroepen gericht worden, waaronder mensen met lichamelijke beperkingen en alleenstaande ouderen.
 
 Daarnaast is preventie van jeugdzorgproblematiek van belang, onder meer door preventie van armoede en schulden.
 
 De leefbaarheid is ruim voldoende. De fysieke omgeving kan  echter  verbeterd.
 
-|-----+---+---|
-|  **Bevolking**  |  |    |
-|----|---|---|
-| **Kenmerken**  | **Percentages** * | **Aantal** |
+\|-----+---+---| |  **Bevolking**  |  |    | |----|---|---|
+| **Kenmerken**  | **Percentages** * | **Aantal** | \
 | Jonger dan 15 jaar                                  | xxx | xxx |
 | 45-65 jarigen                                       | xxx | xxx |
 | 65-plussers,                                        | xxx | xxx |
@@ -48,11 +49,8 @@ De leefbaarheid is ruim voldoende. De fysieke omgeving kan  echter  verbeterd.
 | 1-persoons-huishoudens                              | xxx | xxx |
 |---+----+---|
 
-|-----+---+---|
-| **Gezondheid** |     |     |
-|----|---|---|
-| **Kenmerken** | **Percentages** * | **Aantal** |
-| Lichamelijke beperkingen                            |  xxx   |  xxx   |
+\|-----+---+---| | **Gezondheid** |     |     | |----|---|---|
+| **Kenmerken** | **Percentages** * | **Aantal** | | Lichamelijke beperkingen                            |  xxx   |  xxx   |
 | Beperkingen in mobiliteit                           |  xxx   |  xxx   |
 | Beperkingen in horen                                |  xxx   |  xxx   |
 | Beperkingen in zien                                 |  xxx   |  xxx   |
@@ -66,56 +64,39 @@ De leefbaarheid is ruim voldoende. De fysieke omgeving kan  echter  verbeterd.
 | Voldoen aan richtlijn alcohol (niet teveel drinken) |  xxx   |  xxx   |
 |---+----+---|
 
-|-----+---+---|
-| **Inkomen** |     |     |
-|----|---|---|
-| **Kenmerken**    | **Percentages** * | **Aantal** |
-| Huishoudens met laagste inkomens                    |  xxx      |   xxx      |
+\|-----+---+---| | **Inkomen** |     |     | |----|---|---|
+| **Kenmerken**    | **Percentages** * | **Aantal** | | Huishoudens met laagste inkomens                    |  xxx      |   xxx      |
 | Bijstandsgerechtigden                               |  xxx      |   xxx      |
 | Huishoudens met hoogste inkomens                    |  xxx      |   xxx      |
 |---+----+---|
 
-|-----+---+---|
-| **Participatie** |     |     |
-|----|---|---|
-| **Kenmerken**  | **Percentages** * | **Aantal** |
-| Vrijwilligers                                       |  xxx     |   xxx      |
+\|-----+---+---| | **Participatie** |     |     | |----|---|---|
+| **Kenmerken**  | **Percentages** * | **Aantal** | | Vrijwilligers                                       |  xxx     |   xxx      |
 | Mantelzorgers                                       |  xxx     |   xxx      |
 | Mantelzorg ontvangen (65-plussers)                  |  xxx     |   xxx      |
 |---+----+---|
 
-|-----+---+---|
-| **Woningen** |     |     |
-|----|---|---|
-| **Kenmerken** | **Percentages** * | **Aantal** |
-| Flats en appartementen                              | xxx |  xxx |
+\|-----+---+---| | **Woningen** |     |     | |----|---|---|
+| **Kenmerken** | **Percentages** * | **Aantal** | | Flats en appartementen                              | xxx |  xxx |
 | Huurwoningen,                                       | xxx |  xxx |
 | Waarvan huurwoningen in corporatiebezit             | xxx |  xxx |
 | Gemiddelde WOZ                                      | xxx |      |
 |---+----+---|
 
-|-----+---+---|
-| **Gebruik voorzieningen** |     |     |
-|----|---|---|
-| **Kenmerken** | **Percentages** * | **Aantal** |
-| WMO, waarvan:                                       | xxx | xxx |
+\|-----+---+---| | **Gebruik voorzieningen** |     |     | |----|---|---|
+| **Kenmerken** | **Percentages** * | **Aantal** | | WMO, waarvan:                                       | xxx | xxx |
 | Huishoudelijke hulp                                 | xxx | xxx |
 | Vervoersvoorziening                                 | xxx | xxx |
 | Participatiewet                                     | xxx | xxx |
 | Jeugdzorg                                           | xxx | xxx |
 |---+----+---|
 
-|-----+---+---|
-| **Veiligheid** |     |     |
-|----|---|---|
-| **Kenmerken** | **Percentages** * | **Aantal** |
-| Overlast en vernielingen                                           | xxx | xxx |
+\|-----+---+---| | **Veiligheid** |     |     | |----|---|---|
+| **Kenmerken** | **Percentages** * | **Aantal** | | Overlast en vernielingen                                           | xxx | xxx |
 | Gewelds- en seksuele misdrijven (registraties per 1.000 inwoners)  | xxx | xxx |
 |---+----+---|
 
-|-----+---+---|
-| **Leefbaarheid** |     |     |
-|----|---|---|
+\|-----+---+---| | **Leefbaarheid** |     |     | |----|---|---|
 | Leefbaarheid totaal                                | xxx |                     |
 | -Samenstelling bevolking                           | xxx |                     |
 | -Woningen                                          | xxx |                     |
