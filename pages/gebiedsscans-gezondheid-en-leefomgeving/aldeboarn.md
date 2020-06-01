@@ -10,6 +10,27 @@ content-intro:
 
 ![](/uploads/Grafieken_Gebiedsscans_Dorpen-02.png)
 
+## Samenvatting
+In Aldeboarn wijken de cijfers nauwelijks af van de gemiddelden in de gemeente. In Aldeboarn wonen alleen iets meer kinderen dan gemiddeld in Heerenveen.
+
+Het percentage vrijwilligers is gemiddeld; de vrijwilligers die actief zijn voor het dorp zijn daarbij niet meegerekend.
+
+De leefbaarheid is goed.
+
+## Aanvullingen uit interviews met professionals
+Mooi dorp met een kern. In Aldeboarn is de saamhorigheid sterk. Men kent elkaar, blijft er lang wonen en ook de jongeren willen er blijven wonen. Het dorpsfeest, de gondelvaart, is een bindende factor. Iedere buurt heeft hiervoor zijn eigen club vrijwilligers. Een actieve groep inwoners, verenigd in Takomst Aldeboarn, streeft naar een MFA, behoud scholen en duurzame ontwikkelingen.
+
+Men lost veel zelf op. De kerk is ook actief en zorgt mede voor verbinding.
+
+Wanneer thuis wonen door ouderdomsproblemen niet meer gaat, verhuist men naar Leppehiem in Akkrum.  In de oude melkfabriek zijn ook koop- en huurappartementen.
+
+**Aldeboarn: 1.565 inwoners en 655 huishoudens**
+
+## Conclusies voor beleid vanuit de cijfers
+De cijfers voor Aldeboarn wijken weinig af van de gemiddelde cijfers in de gemeente. De leefbaarheid is goed.
+
+Beleid en maatregelen kunnen gericht worden op de algemene gezondheidsrisico’s zoals te weinig bewegen, overgewicht en alcoholgebruik.
+
 |-----+---+---|
 |  **Bevolking**  |  |    |
 |----|---|---|

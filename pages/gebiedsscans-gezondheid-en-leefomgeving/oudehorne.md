@@ -10,6 +10,33 @@ content-intro:
 
 ![blah](/uploads/Grafieken_Gebiedsscans_Dorpen-18.png)
 
+## Samenvatting
+De cijfers voor Oude- en Nieuwehorne wijken niet sterk af van de gemiddelden voor de gemeente Heerenveen.  Alleen ligt het percentage jongeren in de leeftijd 15 tot 25 jaar in Oudehorne iets onder het gemiddelde
+
+De leefbaarheid is zeer goed. Het percentage inwoners dat last heeft van verkeerslawaai ligt iets boven het gemiddelde.
+
+Het percentage vrijwilligers wijkt niet af van het gemiddelde. Aan het Flaeijelfeest werkt een groot deel van het dorp mee. Dit valt echter niet onder de definitie van georganiseerd vrijwilligerswerk.
+
+## Aanvullingen uit interviews met professionals
+Er zijn veel voorzieningen en ontmoetingsplekken in Oude- en Nieuwehorne. Er is grote betrokkenheid bij het dorp; het Flaeijelfeest geeft onderlinge binding. Een grote groep aanhangers van een geloofsgemeenschap houdt zich echter juist afzijdig van het dorp. Plaatselijk belang functioneert zeer goed.
+
+Burenhulp blijkt niet voldoende in Oude- en Nieuwehorne; Doarpshelp heeft extra vrijwilligers nodig.
+
+**Oudehorne: 840 inwoners en 355 huishoudens**
+
+## Conclusies voor beleid vanuit de cijfers
+Maatregelen tegen algemene gezondheidsrisico's, zoals  te weinig bewegen en eenzaamheid, zijn ook  in Oudehorne  van belang.  Hierbij moet ook aangesloten worden bij diverse leeftijdsgroepen.
+
+De leefbaarheid is zeer goed. Er is specifieke aandacht nodig voor de leefbaarheid in verband met de gevolgen van vergrijzing.
+
+Ook in Oudehorne zijn maatregelen tegen algemene gezondheidsrisico's  van belang.
+
+Verkeerslawaai is een punt van aandacht.
+
+De leefbaarheid is zeer goed. Er is specifieke aandacht nodig voor de leefbaarheid in verband met de gevolgen van vergrijzing.
+
+
+
 |-----+---+---|
 |  **Bevolking**  |  |    |
 |----|---|---|

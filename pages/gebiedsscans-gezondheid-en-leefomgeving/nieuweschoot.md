@@ -10,6 +10,30 @@ content-intro:
 
 ![blah](/uploads/Grafieken_Gebiedsscans_Dorpen-16.png)
 
+## Samenvatting
+In Nieuweschoot is het percentage kinderen iets lager dan gemiddeld.
+
+Inkomensgegevens zijn niet bekend, maar de WOZ-waarde is bovengemiddeld. Dit kan mede veroorzaakt worden door de aanwezige boerderijen.
+
+Het percentage Westerse migranten is bovengemiddeld, maar wordt door de geïnterviewden niet herkend.
+
+De leefbaarheid is goed. De fysieke omgeving (aantrekkelijke bebouwing, groen) scoort laag. Mogelijk door het aangrenzende bedrijventerrein.
+
+## Aanvullingen uit interviews met professionals
+In Nieuweschoot zijn geen voorzieningen, er is wel veel saamhorigheid. Men komt er wonen vanwege het dorpse gevoel. Er zijn veel activiteiten voor een dorp met weinig inwoners. Plaatselijk belang is goed georganiseerd en krijgt veel voor elkaar.
+
+'Zwakte' is de vergrijzing. Het centrum van Heerenveen, met alle voorzieningen, is niet dichtbij. Het dorp denkt na over oplossingen.
+
+Het aantal inwoners van Nieuweschoot is klein. De cijfers moeten daarom met voorzichtigheid worden geïnterpreteerd.
+
+**Nieuweschoot: 180 inwoners en 70 huishoudens**
+
+## Conclusies voor beleid vanuit de cijfers
+Beleid en maatregelen kunnen gericht worden op de algemene gezondheidsrisico’s, zoals te weinig bewegen en eenzaamheid.
+
+De leefbaarheid is goed.  Het lage voorzieningenniveau kan een probleem worden met de toenemende vergrijzing.
+
+
 |-----+---+---|
 |  **Bevolking**  |  |    |
 |----|---|---|

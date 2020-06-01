@@ -10,6 +10,27 @@ content-intro:
 
 ![blah](/uploads/Grafieken_Gebiedsscans_Dorpen-07.png)
 
+## Samenvatting
+In het tweelingdorp  Haskerdijken-Nieuwebrug zijn weinig afwijkingen van de gemiddelde cijfers voor de gemeente Heerenveen.
+
+De leefbaarheid is er (zeer) goed. De veiligheid draagt positief bij aan de leefbaarheid. De fysieke omgeving scoort  onder het gemiddelde in Nieuwebrug. Mogelijk door de ligging aan een industrieterrein.
+
+Het percentage inwoners dat zich houdt aan de alcoholrichtlijn ligt wat onder het gemiddelde, wat betekent dat het percentage inwoners dat meer drinkt dan gezond wordt geacht iets boven het gemiddeld ligt.
+
+## Aanvullingen uit interviews met professionals
+Het tweelingdorp heeft een actieve vereniging voor Plaatselijk belang. Er zijn geen winkels, maar er is wel een dorpshuis waar veel gebeurt en wat verbindend werkt. Er zijn veel vrijwilligers bij Doarpshelp en er wordt goed gebruik van gemaakt. Er is veel onderlinge hulp.
+
+Bij Kensoor wonen en werken mensen met een beperking. Zij doen veel aan onderhoud en vernieuwing in het dorp. Kensoor, maar ook andere partijen, geven leegstaande panden een nieuwe bestemming voor mensen met een indicatie.
+
+Nieuwebrug ligt aan een industrieterrein. Plaatselijk belang is actief voor het behoud van de veiligheid. De gemeente heeft toegezegd dat de maximum snelheid van de doorgaande weg van 80 km/uur naar 60 km/uur wordt teruggebracht. De oude vuilstort wordt afgedekt en biedt kans voor groene ontwikkeling.
+
+**Haskerdijken: 400 inwoners en 160 huishoudens**
+
+## Conclusies voor beleid vanuit de cijfers
+Haskerdijken / Nieuwebrug vertoont weinig afwijkingen van de gemiddelde cijfers. De leefbaarheid is (zeer) goed.
+
+Beleid en maatregelen in deze wijk kunnen toegespitst worden op meer algemeen voorkomende gezondheidsrisico’s, zoals te weinig bewegen en eenzaamheid. Met name het percentage inwoners dat niet aan de alcoholrichtlijn voldoet ligt daarbij iets boven het gemiddelde. Maatregelen  kunnen worden gericht op de diverse leeftijdsgroepen.
+
 |-----+---+---|
 |  **Bevolking**  |  |    |
 |----|---|---|

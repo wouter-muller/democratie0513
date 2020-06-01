@@ -10,6 +10,22 @@ content-intro:
 
 ![blah](/uploads/Grafieken_Gebiedsscans_Dorpen-03.png)
 
+## Samenvatting
+In Bontebok zijn weinig afwijkingen van de gemiddelde cijfers voor de gemeente.  Er wonen  alleen meer 45 tot 65 jarigen dan gemiddeld en er zijn iets meer huishoudens zonder kinderen.
+
+De leefbaarheid is uitstekend. De aantrekkelijke omgeving draagt daar aan bij.
+
+Het percentage jongeren dat jeugdzorg krijgt ligt significant boven het gemiddelde. Dit wordt mede bepaald door de aanwezigheid van een  gezinshuis voor jongeren met jeugdzorgproblematiek.
+
+## Aanvullingen uit interviews met professionals
+
+Er zijn weinig voorzieningen in Bontebok, maar wel een dorpshuis. Het is een actief dorp. Men is zelfvoorzienend, gewend aan de voorzieningen op afstand.
+
+**Bontebok: 405 inwoners en 180 huishoudens**
+
+## Conclusies voor beleid vanuit de cijfers
+In Bontebok is de leefbaarheid uitstekend. Er zijn geen specifieke gezondheidsrisico's. Net zoals voor Heerenveen als geheel geldt dat er aandacht nodig is voor gezondheidsrisico's als te weinig bewegen, alcoholgebruik en eenzaamheid. De maatregelen kunnen specifiek gericht worden op inwoners in de leeftijdscategorie 45 tot 65 jaar en huishoudens zonder kinderen, de bewonersgroepen die  relatief veel voorkomen in Bontebok.
+
 |-----+---+---|
 |  **Bevolking**  |  |    |
 |----|---|---|

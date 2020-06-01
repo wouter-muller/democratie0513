@@ -10,6 +10,23 @@ content-intro:
 
 ![blah](/uploads/Grafieken_Gebiedsscans_Dorpen-10.png)
 
+## Samenvatting
+Katlijk en Mildam liggen tegen elkaar aan en de verenigingen van Plaatselijk belang werken veel samen. Ze kunnen als één gebied worden beschouwd. In Katlijk en Mildam zijn nauwelijks afwijkingen van de gemiddelde cijfers in de gemeente. In Katlijk  is alleen het percentage jongeren in de leeftijdscategorie 15 tot 25 jaar bovengemiddeld.
+
+In beide dorpen is de leefbaarheid uitstekend.  In Katlijk draagt de omgeving daar positief aan bij.
+
+## Aanvullingen uit interviews met professionals
+Er is een initiatiefrijk Plaatselijk belang en men krijgt met de dorpsbewoners veel voor elkaar. Er zijn weinig voorzieningen. Jongeren die vertrekken willen na hun studie echter terugkomen.  Er is ook veel zorg voor elkaar, georganiseerd en ongeorganiseerd. De zelfredzaamheid is groot. Een klacht van de bewoners is dat er te hard wordt gereden.
+
+**Katlijk: 590 inwoners en 230 huishoudens**
+
+## Conclusies voor beleid vanuit de cijfers
+Katlijk wijkt weinig af van de gemiddelde cijfers voor de gemeente. De leefbaarheid is uitstekend.
+
+Naast de aandacht voor de algemene gezondheidsrisico’s, zoals te weinig bewegen en eenzaamheid, zijn er geen specifieke onderwerpen die aandacht behoeven.
+
+De maatregelen kunnen gericht worden op de diverse leeftijdsgroepen.
+
 |-----+---+---|
 |  **Bevolking**  |  |    |
 |----|---|---|

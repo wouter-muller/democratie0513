@@ -10,6 +10,22 @@ content-intro:
 
 ![blah](/uploads/Grafieken_Gebiedsscans_Dorpen-08.png)
 
+## Samenvatting
+De cijfers voor Hoornsterzwaag wijken niet sterk af van de gemiddelden voor de gemeente Heerenveen. Er wonen iets meer gezinnen zonder kinderen dan gemiddeld in de gemeente. Het percentage inwoners dat aan de beweegnorm voldoet ligt iets onder het gemiddelde.
+
+De leefbaarheid is goed. Er wordt gebruik gemaakt van de voorzieningen van Jubbega.
+
+## Aanvullingen uit interviews met professionals
+
+Hoornsterzwaag is een lintdorp met grote afstand tussen woningen. Er wordt gebruik gemaakt van de voorzieningen in Jubbega. In Jubbega zijn scholen, sportvoorzieningen en voorzieningen voor ouderen. Er is vrijwilligerswerk en zorg voor ouderen, er zijn activiteiten in het dorp en ontmoetingsplekken. Men helpt elkaar.
+
+**Hoornsterzwaag: 820 inwoners en 330 huishoudens**
+
+## Conclusies voor beleid vanuit de cijfers
+Te weinig bewegen komt in Hoornsterzwaag nog iets meer voor dan gemiddeld. Dit onderwerp vraagt daarom naast de andere algemene gezondheidsrisico’s, zoals overgewicht en eenzaamheid, nog wat meer aandacht. Bij de maatregelen kan onder meer worden aangesloten bij de groep inwoners zonder kinderen.
+
+De leefbaarheid is goed.
+
 |-----+---+---|
 |  **Bevolking**  |  |    |
 |----|---|---|

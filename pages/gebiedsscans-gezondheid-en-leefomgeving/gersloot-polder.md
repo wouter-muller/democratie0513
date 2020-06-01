@@ -10,6 +10,29 @@ content-intro:
 
 ![blah](/uploads/Grafieken_Gebiedsscans_Dorpen-06.png)
 
+## Samenvatting
+Terband, Luinjeberd, Tjalleberd en Gersloot vallen onder De Streek van de vroegere gemeente Aengwirden. Gersloot Polder hoort hier niet bij. Gersloot Polder heeft ook een eigen vereniging voor Plaatselijk belang.
+
+In de dorpen van De Streek en Gersloot Polder wonen over het algemeen iets meer gezinnen dan gemiddeld in de gemeente Heerenveen. De populatie  is wat jonger dan gemiddeld en daarmee ook gezonder. Er wordt dan ook iets minder dan gemiddeld gebruik gemaakt van WMO-voorzieningen. Er wonen minder bijstandsgerechtigden dan gemiddeld.
+
+De leefbaarheid is er zeer goed tot uitstekend. Het voorzieningenniveau is wat lager, maar de veiligheid en samenstelling van de bevolking dragen positief bij aan de leefbaarheid.
+
+In sommige dorpen wonen minder weduwen en weduwnaars dan gemiddeld, wat erop kan duiden dat ouderen verhuizen wanneer ze alleen komen te staan.
+
+## Aanvullingen uit interviews met professionals
+Er zijn geen winkels en weinig voorzieningen. Maar men is erop ingespeeld. De bewoners zien de ontwikkeling van industrieterrein Klaverblad NO als een bedreiging voor de leefbaarheid.
+
+De verenigingen voor Plaatselijk belang zijn sterk en initiatiefrijk. Er zijn veel activiteiten en de bewoners van de dorpen regelen veel zelf in het dorp. Vanwege de lintbebouwing liggen woningen ver uit elkaar, maar er is een diversiteit aan ontmoetingsplaatsen: MFA/Doarpskeamer, cafés, school.
+
+Omdat het aantal inwoners in het dorp klein is, moeten de cijfers met voorzichtigheid worden geïnterpreteerd.
+
+**Gersloot Polder: 190 inwoners en 65 huishoudens**
+
+## Conclusies voor beleid vanuit de cijfers
+In dit gebied zijn weinig afwijkingen van de gemiddelde cijfers voor de gemeente. Beleid en maatregelen kunnen gericht worden op meer algemeen voorkomende gezondheidsrisico’s, zoals te weinig bewegen en eenzaamheid. Het gezondheidsbeleid kan vooral worden toegespitst  op gezinnen.
+
+De leefbaarheid is zeer goed tot uitstekend en er zijn veel vrijwilligers. Met het oog op de vergrijzing is mogelijk specifieke aandacht nodig voor de leefbaarheid voor ouderen.
+
 |-----+---+---|
 |  **Bevolking**  |  |    |
 |----|---|---|

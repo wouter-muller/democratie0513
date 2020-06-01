@@ -10,6 +10,37 @@ content-intro:
 
 ![blah](/uploads/Grafieken_Gebiedsscans_Wijken-04.png)
 
+## Samenvatting
+
+Vergeleken bij de gemiddelde cijfers voor de gemeente Heerenveen wonen in de wijk bovengemiddeld veel:
+
+- alleenstaanden
+- mensen met een niet-westerse migratieachtergrond
+- mensen met een laag inkomen, wat samenhangt met het bovengemiddelde percentage sociale woningbouw
+- mensen met psychosociale  en gezondheidsproblematiek
+- mensen met ernstige eenzaamheidsproblematiek en een gebrek aan ervaren regie over het leven.
+
+Het percentage ouderen is daarbij gemiddeld. Het percentage inwoners met hoge inkomens ligt wat onder het gemiddelde.
+
+Het percentage WMO-gebruik is  iets hoger dan gemiddeld. Ondanks de diverse problematiek is het gebruik van jeugdzorg niet bovengemiddeld.
+
+De leefbaarheid ligt iets onder het gemiddelde, maar is ruim voldoende. Het voorzieningen-niveau draagt daar positief aan bij en de veiligheid negatief.
+
+## Aanvullingen uit interviews met professionals
+Er zijn veel voorzieningen rond de wijk, in de wijk zelf zijn echter geen school en supermarkt. Bewoners zijn moeilijk bereikbaar, onder meer door taalproblemen. Er is geen wijkgevoel, mede doordat de wijk doorsneden wordt door de burg. Falkenaweg. Het is een multiculturele wijk met een aantal woonzorg-complexen waar 80-plussers wonen.
+
+Er heeft wijkvernieuwing plaatsgevonden en het wijkcentrum is in ontwikkeling, wat verbinding geeft. Er wordt veel georganiseerd in de wijk, mede door kerken en moskee.
+
+**Heerenveen Midden: 3.430 inwoners en 1.880 huishoudens**
+
+## Conclusies voor beleid vanuit de cijfers
+
+Maatregelen gericht op het verkrijgen van werk en preventie van armoede zijn relevant in deze wijk.
+
+Maatregelen gericht op gezondheidsrisico's, zoals te weinig bewegen en eenzaamheid, moeten aansluiten bij de doelgroepen die veel voorkomen in de wijk, zoals alleenstaanden, mensen met beperkingen, migratieachtergrond en lage inkomens.
+
+De leefbaarheid is ruim voldoende, maar de veiligheid kan verbeterd worden.
+
 |-----+---+---|
 |  **Bevolking**  |  |    |
 |----|---|---|

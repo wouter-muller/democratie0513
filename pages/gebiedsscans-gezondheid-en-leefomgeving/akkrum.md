@@ -10,6 +10,30 @@ content-intro:
 
 ![blah](/uploads/Grafieken_Gebiedsscans_Dorpen-01.png)
 
+## Samenvatting
+
+Vergeleken bij de gemiddelde cijfers voor de gemeente Heerenveen wonen in Akkrum bovengemiddeld veel weduwen en weduwnaars. Dit sluit aan bij het bovengemiddelde percentage mensen  met lichamelijke beperkingen. Mogelijk wonen er in Akkrum relatief veel ouderen met beperkingen door de aanwezigheid van woonvormen met zorg in Mienskipssintrum Leppehiem.
+
+Het percentage 65- plussers dat mantelzorg ontvangt is significant hoger dan in andere gebieden.
+
+Het percentage gebruik van jeugdzorg ligt iets boven het gemiddelde.
+
+De leefbaarheid is ruim voldoende; de aantrekkelijkheid van de fysieke omgeving ligt echter onder het gemiddelde.
+
+## Aanvullingen uit interviews met professionals
+Akkrum is een dorp met veel activiteiten en een actief Plaatselijk belang. Volgens het recente leefbaarheidsonderzoek is een verbetering van het centrum gewenst: aantrekkelijker en groener. Ook is er behoefte aan een beter aanbod huurwoningen. Er is al het een en ander gerealiseerd. Plaatselijk belang ontwikkelt in samenwerking met andere partijen nieuwe plannen.
+
+Er zijn veel groepen actieve bewoners. Er is een doarpskeamer waar onder meer koffieochtenden worden georganiseerd.  Er zijn buurten met sociale woningbouw waar meer sociale problematiek voorkomt. De professionals komen veel armoede- en schuldenproblematiek tegen, evenals eenzaamheid en dementie.
+
+**Akkrum: 3.365 inwoners en 1.465 huishoudens**
+
+## Conclusies voor beleid vanuit de cijfers
+Er zijn weinig afwijkingen van de gemiddelde cijfers in de gemeente. Maatregelen kunnen gericht worden op de algemene gezondheidsrisico's, zoals te weinig bewegen en eenzaamheid. Maatregelen kunnen op verschillende doelgroepen gericht worden, waaronder mensen met lichamelijke beperkingen en alleenstaande ouderen.
+
+Daarnaast is preventie van jeugdzorgproblematiek van belang, onder meer door preventie van armoede en schulden.
+
+De leefbaarheid is ruim voldoende. De fysieke omgeving kan  echter  verbeterd.
+
 |-----+---+---|
 |  **Bevolking**  |  |    |
 |----|---|---|

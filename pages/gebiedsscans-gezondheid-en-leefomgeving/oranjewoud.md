@@ -10,6 +10,27 @@ content-intro:
 
 ![blah](/uploads/Grafieken_Gebiedsscans_Dorpen-17.png)
 
+## Samenvatting
+Oranjewoud wordt gekenmerkt doordat er weinig afwijkingen  zijn van de gemiddelde cijfers voor  de gemeente Heerenveen.
+
+De leefbaarheid uitstekend.
+
+Het percentage inwoners dat rookt ligt iets onder het gemiddelde en het percentage inwoners dat voldoet aan de beweegrichtlijn en sport is bovengemiddeld. Desalniettemin beweegt nog 46% van de inwoners van Oranjewoud te weinig volgens de richtlijn.
+
+## Aanvullingen uit interviews met professionals
+Oranjewoud is een mooi gebied; de oostkant is beschermd dorpsgezicht. De op- en afritten van en naar de snelweg gaan veranderen, waardoor bewoners bezorgd zijn om de leefbaarheid. In het wijkje De Appelhof is relatief meer sociale problematiek.
+
+De inwoners van Oranjewoud leven vaak wat meer op zichzelf. De voorzieningen zijn wat verder weg en er is geen wijkcentrum. Plaatselijk belang is wel actief, maar kampt met een tekort aan vrijwilligers.
+
+**Oranjewoud: 1.580 inwoners en 665 huishoudens**
+
+## Conclusies voor beleid vanuit de cijfers
+Naast de aandacht voor de algemene gezondheidsrisico's, zoals te weinig bewegen, alcoholgebruik en eenzaamheid, zijn er in Oranjewoud geen specifieke onderwerpen die aandacht behoeven.  De maatregelen kunnen gericht  worden op de diverse leeftijdsgroepen.
+
+De leefbaarheid is uitstekend.
+
+
+
 |-----+---+---|
 |  **Bevolking**  |  |    |
 |----|---|---|

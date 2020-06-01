@@ -10,6 +10,28 @@ content-intro:
 
 ![blah](/uploads/Grafieken_Gebiedsscans_Wijken-07.png)
 
+## Samenvatting
+Skoatterwâld valt op doordat er bovengemiddeld veel gezinnen wonen en weinig 65 plussers vergeleken bij de gemiddelde cijfers voor de gemeente Heerenveen.  Het aandeel hoge inkomens is  eveneens bovengemiddeld.
+
+Er wordt bovengemiddeld veel gesport, en (iets minder) voldaan aan de bewegingsrichtlijn. Dit sluit aan bij de leeftijdsopbouw.
+
+De leefbaarheid is uitstekend, de fysieke omgeving draagt daar positief aan bij. De wijk is na 2000 gebouwd; het gaat om relatief goede woningen. De samenstelling van de bevolking is wat minder evenwichtig wat leeftijdsopbouw betreft.
+
+## Aanvullingen uit interviews met professionals
+
+Het is een rustige, mooie wijk. De woningen zijn dicht op elkaar gebouwd en er zijn verkeersproblemen (bij de scholen). De  betrokkenheid bij de wijk is laag, wel zijn er onderlinge contacten op straatniveau. Er zijn weinig voorzieningen, wat met name voor de snel groeiende groep jongeren en mensen die minder mobiel zijn beperkend kan zijn.
+
+Problematiek als gevolg van economische crisis (werkloosheid, scheidingen met gedwongen verkoop huizen), zoals genoemd in de Wijkkrachtscan van 2014, is momenteel niet opvallend aanwezig.
+
+**Skoatterwâld: 4.065 inwoners en 1.415 huishoudens**
+
+## Conclusies voor beleid vanuit de cijfers
+Naast de aandacht voor de algemene gezondheidsrisico’s,  zoals  te weinig bewegen, alcoholgebruik en eenzaamheid, zijn er geen specifieke onderwerpen die aandacht behoeven. Het gezondheids- en preventiebeleid kan toegespitst worden  op gezinnen met kinderen.
+
+De leefbaarheid is uitstekend.
+
+Het is de vraag of, en zo ja welke, voorzieningen in de wijk gewenst zijn voor de grote groep opgroeiende jongeren.
+
 |-----+---+---|
 |  **Bevolking**  |  |    |
 |----|---|---|
