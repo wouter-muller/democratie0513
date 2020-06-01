@@ -36,8 +36,10 @@ Daarnaast is preventie van jeugdzorgproblematiek van belang, onder meer door pre
 
 De leefbaarheid is ruim voldoende. De fysieke omgeving kan  echter  verbeterd.
 
-\|-----+---+---| |  **Bevolking**  |  |    | |----|---|---|
-| **Kenmerken**  | **Percentages** * | **Aantal** | \
+|-----+---+---|
+|  **Bevolking**  |  |    |
+|----|---|---|
+| **Kenmerken**  | **Percentages** * | **Aantal** |
 | Jonger dan 15 jaar                                  | xxx | xxx |
 | 45-65 jarigen                                       | xxx | xxx |
 | 65-plussers,                                        | xxx | xxx |
@@ -49,7 +51,7 @@ De leefbaarheid is ruim voldoende. De fysieke omgeving kan  echter  verbeterd.
 | 1-persoons-huishoudens                              | xxx | xxx |
 |---+----+---|
 
-\|-----+---+---| | **Gezondheid** |     |     | |----|---|---|
+|-----+---+---| | **Gezondheid** |     |     | |----|---|---|
 | **Kenmerken** | **Percentages** * | **Aantal** | | Lichamelijke beperkingen                            |  xxx   |  xxx   |
 | Beperkingen in mobiliteit                           |  xxx   |  xxx   |
 | Beperkingen in horen                                |  xxx   |  xxx   |
@@ -64,26 +66,26 @@ De leefbaarheid is ruim voldoende. De fysieke omgeving kan  echter  verbeterd.
 | Voldoen aan richtlijn alcohol (niet teveel drinken) |  xxx   |  xxx   |
 |---+----+---|
 
-\|-----+---+---| | **Inkomen** |     |     | |----|---|---|
+|-----+---+---| | **Inkomen** |     |     | |----|---|---|
 | **Kenmerken**    | **Percentages** * | **Aantal** | | Huishoudens met laagste inkomens                    |  xxx      |   xxx      |
 | Bijstandsgerechtigden                               |  xxx      |   xxx      |
 | Huishoudens met hoogste inkomens                    |  xxx      |   xxx      |
 |---+----+---|
 
-\|-----+---+---| | **Participatie** |     |     | |----|---|---|
+|-----+---+---| | **Participatie** |     |     | |----|---|---|
 | **Kenmerken**  | **Percentages** * | **Aantal** | | Vrijwilligers                                       |  xxx     |   xxx      |
 | Mantelzorgers                                       |  xxx     |   xxx      |
 | Mantelzorg ontvangen (65-plussers)                  |  xxx     |   xxx      |
 |---+----+---|
 
-\|-----+---+---| | **Woningen** |     |     | |----|---|---|
+|-----+---+---| | **Woningen** |     |     | |----|---|---|
 | **Kenmerken** | **Percentages** * | **Aantal** | | Flats en appartementen                              | xxx |  xxx |
 | Huurwoningen,                                       | xxx |  xxx |
 | Waarvan huurwoningen in corporatiebezit             | xxx |  xxx |
 | Gemiddelde WOZ                                      | xxx |      |
 |---+----+---|
 
-\|-----+---+---| | **Gebruik voorzieningen** |     |     | |----|---|---|
+|-----+---+---| | **Gebruik voorzieningen** |     |     | |----|---|---|
 | **Kenmerken** | **Percentages** * | **Aantal** | | WMO, waarvan:                                       | xxx | xxx |
 | Huishoudelijke hulp                                 | xxx | xxx |
 | Vervoersvoorziening                                 | xxx | xxx |
@@ -91,12 +93,12 @@ De leefbaarheid is ruim voldoende. De fysieke omgeving kan  echter  verbeterd.
 | Jeugdzorg                                           | xxx | xxx |
 |---+----+---|
 
-\|-----+---+---| | **Veiligheid** |     |     | |----|---|---|
+|-----+---+---| | **Veiligheid** |     |     | |----|---|---|
 | **Kenmerken** | **Percentages** * | **Aantal** | | Overlast en vernielingen                                           | xxx | xxx |
 | Gewelds- en seksuele misdrijven (registraties per 1.000 inwoners)  | xxx | xxx |
 |---+----+---|
 
-\|-----+---+---| | **Leefbaarheid** |     |     | |----|---|---|
+|-----+---+---| | **Leefbaarheid** |     |     | |----|---|---|
 | Leefbaarheid totaal                                | xxx |                     |
 | -Samenstelling bevolking                           | xxx |                     |
 | -Woningen                                          | xxx |                     |
