@@ -269,7 +269,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Body", name: "body", widget: "markdown"}
       - name: "footer"
         label: "Footer"
-        file: "/_data/footer.yaml"
+        file: "/_data/monitoren-democratisering/footer.yaml"
         fields:
           - {label: "Onderzoekers titel", name: "research-title", widget: "string"}
           - {label: "Onderzoekers paragraaf", name: "research-paragraph", widget: "markdown"}
