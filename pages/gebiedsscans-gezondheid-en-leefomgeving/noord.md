@@ -37,8 +37,8 @@ Beleid en maatregelen in deze wijk kunnen toegespitst worden op meer algemeen vo
 |----|---|---|
 | **Kenmerken**  | **Percentages** * | **Aantal** |
 | Jonger dan 15 jaar                                  | 14% /16% | 525 |
-| 45-65 jarigen                                       | 25% /19% | 925 |
-| 25-45 jarigen                                       | 28% /32% | 1.050 |
+| 25-45 jarigen                                       | 25% /19% | 925 |
+| 45-65 jarigen                                       | 28% /32% | 1.050 |
 | 65-plussers,                                        | 22% /20% | 820 |
 | waarvan 80-plussers                                 | 8% / 5% | 295 |
 | Westerse migratieachtergrond                        | 5% / 5% | 185 |
