@@ -92,8 +92,8 @@ Wijkactiviteiten komen moeizaam van de grond, toch lijkt de betrokkenheid wel te
 |----|---|---|
 | **Kenmerken** | **Percentages** * | **Aantal** |
 | WMO, waarvan:                                       |    34% /15%     |       735       |
-| Huishoudelijke hulp                                 |    17% /16%     |      120        |
-| Vervoersvoorziening                                 |    17% /16%     |        125      |
+| - Huishoudelijke hulp                                 |    17% /16%     |      120        |
+| - Vervoersvoorziening                                 |    17% /16%     |        125      |
 | Participatiewet                                     |    10% / 4%     |       150       |
 | Jeugdzorg                                           |    26% /19%     |      115        |
 |---+----+---|

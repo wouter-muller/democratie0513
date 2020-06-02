@@ -99,8 +99,8 @@ De leefbaarheid is zeer goed tot uitstekend en er zijn veel vrijwilligers. Met h
 |----|---|---|
 | **Kenmerken** | **Percentages** * | **Aantal** |
 | WMO, waarvan:                                       | xxx | xxx |
-| Huishoudelijke hulp                                 | xxx | xxx |
-| Vervoersvoorziening                                 | xxx | xxx |
+| - Huishoudelijke hulp                                 | xxx | xxx |
+| - Vervoersvoorziening                                 | xxx | xxx |
 | Participatiewet                                     | xxx | xxx |
 | Jeugdzorg                                           | xxx | xxx |
 |---+----+---|

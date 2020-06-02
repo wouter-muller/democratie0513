@@ -112,8 +112,8 @@ Activiteiten kunnen beter afgestemd worden op de diversiteit in belangstelling v
 |----|---|---|
 | **Kenmerken** | **Percentages** * | **Aantal** |
 | WMO, waarvan:                                       | xxx | xxx |
-| Huishoudelijke hulp                                 | xxx | xxx |
-| Vervoersvoorziening                                 | xxx | xxx |
+| - Huishoudelijke hulp                                 | xxx | xxx |
+| - Vervoersvoorziening                                 | xxx | xxx |
 | Participatiewet                                     | xxx | xxx |
 | Jeugdzorg                                           | xxx | xxx |
 |---+----+---|

@@ -96,8 +96,8 @@ Het is  de vraag of het verkeerslawaai op Het Meer nog steeds overlast geeft. Zo
 |----|---|---|
 | **Kenmerken** | **Percentages** * | **Aantal** |
 | WMO, waarvan:                                       | 9% /15% | 115 |
-| Huishoudelijke hulp                                 | 15% /16% | 15 |
-| Vervoersvoorziening                                 | 13% /16% | 15 |
+| - Huishoudelijke hulp                                 | 15% /16% | 15 |
+| - Vervoersvoorziening                                 | 13% /16% | 15 |
 | Participatiewet                                     | 0% / 4% | -- |
 | Jeugdzorg                                           | 15% /19% | 50 |
 |---+----+---|

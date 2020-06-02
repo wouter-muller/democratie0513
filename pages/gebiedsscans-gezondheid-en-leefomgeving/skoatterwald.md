@@ -98,8 +98,8 @@ Het is de vraag of, en zo ja welke, voorzieningen in de wijk gewenst zijn voor d
 |----|---|---|
 | **Kenmerken** | **Percentages** * | **Aantal** |
 | WMO, waarvan:                                       | xxx | xxx |
-| Huishoudelijke hulp                                 | xxx | xxx |
-| Vervoersvoorziening                                 | xxx | xxx |
+| - Huishoudelijke hulp                                 | xxx | xxx |
+| - Vervoersvoorziening                                 | xxx | xxx |
 | Participatiewet                                     | xxx | xxx |
 | Jeugdzorg                                           | xxx | xxx |
 |---+----+---|

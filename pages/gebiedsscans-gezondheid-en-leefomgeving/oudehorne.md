@@ -103,8 +103,8 @@ De leefbaarheid is zeer goed. Er is specifieke aandacht nodig voor de leefbaarhe
 |----|---|---|
 | **Kenmerken** | **Percentages** * | **Aantal** |
 | WMO, waarvan:                                       | xxx | xxx |
-| Huishoudelijke hulp                                 | xxx | xxx |
-| Vervoersvoorziening                                 | xxx | xxx |
+| - Huishoudelijke hulp                                 | xxx | xxx |
+| - Vervoersvoorziening                                 | xxx | xxx |
 | Participatiewet                                     | xxx | xxx |
 | Jeugdzorg                                           | xxx | xxx |
 |---+----+---|

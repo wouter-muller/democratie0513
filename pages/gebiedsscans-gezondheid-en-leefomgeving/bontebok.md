@@ -92,8 +92,8 @@ In Bontebok is de leefbaarheid uitstekend. Er zijn geen specifieke gezondheidsri
 |----|---|---|
 | **Kenmerken** | **Percentages** * | **Aantal** |
 | WMO, waarvan:                                       | 5% /15% | 20 |
-| Huishoudelijke hulp                                 | 40% /16% | 10 |
-| Vervoersvoorziening                                 | 15% / 16% | <10 |
+| - Huishoudelijke hulp                                 | 40% /16% | 10 |
+| - Vervoersvoorziening                                 | 15% / 16% | <10 |
 | Participatiewet                                     | 3% / 4% | 10 |
 | Jeugdzorg                                           | _36%_ /19% | 20 |
 |---+----+---|

@@ -96,8 +96,8 @@ Beleid en maatregelen kunnen gericht worden op de algemene gezondheidsrisico’s
 |----|---|---|
 | **Kenmerken** | **Percentages** * | **Aantal** |
 | WMO, waarvan:                                       | 13% /15% | 175 |
-| Huishoudelijke hulp                                 | 14% /16% | 25 |
-| Vervoersvoorziening                                 | 18% /16% | 30 |
+| - Huishoudelijke hulp                                 | 14% /16% | 25 |
+| - Vervoersvoorziening                                 | 18% /16% | 30 |
 | Participatiewet                                     | 3% / 4% | 30 |
 | Jeugdzorg                                           | 18% /19% | 75 |
 |---+----+---|
