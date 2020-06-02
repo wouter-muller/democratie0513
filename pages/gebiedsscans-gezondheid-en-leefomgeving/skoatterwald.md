@@ -26,7 +26,7 @@ Problematiek als gevolg van economische crisis (werkloosheid, scheidingen met ge
 **Skoatterwâld: 4.065 inwoners en 1.415 huishoudens**
 
 ## Conclusies voor beleid vanuit de cijfers
-Naast de aandacht voor de algemene gezondheidsrisico’s,  zoals  te weinig bewegen, alcoholgebruik en eenzaamheid, zijn er geen specifieke onderwerpen die aandacht behoeven. Het gezondheids- en preventiebeleid kan toegespitst worden  op gezinnen met kinderen.
+Naast de aandacht voor de algemene gezondheidsrisico's,  zoals  te weinig bewegen, alcoholgebruik en eenzaamheid, zijn er geen specifieke onderwerpen die aandacht behoeven. Het gezondheids- en preventiebeleid kan toegespitst worden  op gezinnen met kinderen.
 
 De leefbaarheid is uitstekend.
 
