@@ -30,8 +30,8 @@ De cijfers over jeugd staan apart beschreven.
 ### Bekijk hier de gebiedsscans:
 
 * [Heerenveen Centrum](/gebiedsscans-gezondheid-en-leefomgeving/centrum)
-* [Heerenveen Noord](//gebiedsscans-gezondheid-en-leefomgeving/noord)
-* [Heerenveen Midden](//gebiedsscans-gezondheid-en-leefomgeving/midden)
-* [De Akkers](//gebiedsscans-gezondheid-en-leefomgeving/de-akkers)
-* [De Greiden](//gebiedsscans-gezondheid-en-leefomgeving/de-greiden)
+* [Heerenveen Noord](/gebiedsscans-gezondheid-en-leefomgeving/noord)
+* [Heerenveen Midden](/gebiedsscans-gezondheid-en-leefomgeving/midden)
+* [De Akkers](/gebiedsscans-gezondheid-en-leefomgeving/de-akkers)
+* [De Greiden](/gebiedsscans-gezondheid-en-leefomgeving/de-greiden)
 * ...
