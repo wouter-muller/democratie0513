@@ -43,6 +43,9 @@
             font-weight: $bold
             margin-bottom: 15px
 
+            @at-root html.r2 &
+                color: $sahara
+
         h4
             font-size: px(38)
             font-weight: $bold
@@ -92,7 +95,6 @@
                 line-height: 1.8
 
                 &:before
-                    color: $turqoise
                     content: ''
                     left: px(-24)
                     top: px(15)
@@ -101,3 +103,7 @@
                     height: 8px
                     background-color: $turqoise
                     border-radius: 100%
+                    color: $turqoise
+
+                    @at-root html.r2 &
+                        background-color: $toxic-orange

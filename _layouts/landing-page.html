@@ -48,7 +48,7 @@
 
         {% include landing-page/footer.md %}
 
-        <div class="s-hamburger-menu" :class="{'--active': hamburgerMenuOpen }">
+        <div class="s-hamburger-menu --r0" :class="{'--active': hamburgerMenuOpen }">
             <div class="s-hamburger-menu__close" @click="hamburgerMenuOpen = false">X</div>
              <ul class="u-mb+">
                 <li>
@@ -57,7 +57,6 @@
                 <li>
                     <a href="/gebiedsscans-gezondheid-en-leefomgeving" class="s-hero-links__link {% if page.permalink == '/monitoren-democratisering/het-onderzoek' %}--active{% endif %}">Gebiedsscans gezondheid en leefomgeving</a>
                 </li>
-
             </ul>
         </div>
     </body>
