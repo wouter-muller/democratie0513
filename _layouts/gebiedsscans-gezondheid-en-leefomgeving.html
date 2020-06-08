@@ -168,9 +168,16 @@
 
         <div class="s-hamburger-menu" :class="{'--active': hamburgerMenuOpen }">
             <div class="s-hamburger-menu__close" @click="hamburgerMenuOpen = false">X</div>
+
+            <ul class="u-mb+">
+                <li>
+                    <a href="/" class="s-hero-links__link">Home</a>
+                </li>
+            </ul>
+
              <ul class="u-mb+">
                 <li>
-                    <a href="/gebiedsscans-gezondheid-en-leefomgeving/" class="s-hero-links__link">Home</a>
+                    <a href="/gebiedsscans-gezondheid-en-leefomgeving/" class="s-hero-links__link">Onderzoek home</a>
                 </li>
                 <li>
                     <a href="/gebiedsscans-gezondheid-en-leefomgeving/het-onderzoek" class="s-hero-links__link {% if page.permalink == '/gebiedsscans-gezondheid-en-leefomgeving/het-onderzoek' %}--active{% endif %}">Het onderzoek</a>
