@@ -27,11 +27,40 @@ Daaronder staat een tabel. Daarin staan de basisgegevens (percentages en aantall
 
 De cijfers over jeugd staan apart beschreven.
 
-### Bekijk hier de gebiedsscans:
+## Bekijk hier de gebiedsscans:
 
-* [Heerenveen Centrum](/gebiedsscans-gezondheid-en-leefomgeving/centrum)
-* [Heerenveen Noord](/gebiedsscans-gezondheid-en-leefomgeving/noord)
-* [Heerenveen Midden](/gebiedsscans-gezondheid-en-leefomgeving/midden)
-* [De Akkers](/gebiedsscans-gezondheid-en-leefomgeving/de-akkers)
-* [De Greiden](/gebiedsscans-gezondheid-en-leefomgeving/de-greiden)
-* ...
+### Heerenveen
+
+<a href="/gebiedsscans-gezondheid-en-leefomgeving/de-akkers" >De Akkers</a>
+<a href="/gebiedsscans-gezondheid-en-leefomgeving/de-greiden" >De Greiden</a>
+<a href="/gebiedsscans-gezondheid-en-leefomgeving/de-heide" >De Heide</a>
+<a href="/gebiedsscans-gezondheid-en-leefomgeving/centrum" >Centrum</a>
+<a href="/gebiedsscans-gezondheid-en-leefomgeving/midden" >Midden</a>
+<a href="/gebiedsscans-gezondheid-en-leefomgeving/noord" >Noord</a>
+<a href="/gebiedsscans-gezondheid-en-leefomgeving/het-meer" >Het Meer</a>
+<a href="/gebiedsscans-gezondheid-en-leefomgeving/nijehaske" >Nijehaske</a>
+<a href="/gebiedsscans-gezondheid-en-leefomgeving/skoatterwald" >Skoatterwâld</a>
+
+### Dorpen
+
+<a href="/gebiedsscans-gezondheid-en-leefomgeving/aldeboarn" >Aldeboarn</a>
+<a href="/gebiedsscans-gezondheid-en-leefomgeving/akkrum" >Akkrum</a>
+<a href="/gebiedsscans-gezondheid-en-leefomgeving/bontebok" >Bontebok</a>
+<a href="/gebiedsscans-gezondheid-en-leefomgeving/de-knipe" >De Knipe</a>
+<a href="/gebiedsscans-gezondheid-en-leefomgeving/gersloot" >Gersloot</a>
+<a href="/gebiedsscans-gezondheid-en-leefomgeving/gersloot-polder" >Gersloot Polder</a>
+<a href="/gebiedsscans-gezondheid-en-leefomgeving/haskerdijken" >Haskerdijken</a>
+<a href="/gebiedsscans-gezondheid-en-leefomgeving/hoornsterzwaag" >Hoornsterzwaag</a>
+<a href="/gebiedsscans-gezondheid-en-leefomgeving/jubbega" >Jubbega</a>
+<a href="/gebiedsscans-gezondheid-en-leefomgeving/katlijk" >Katlijk</a>
+<a href="/gebiedsscans-gezondheid-en-leefomgeving/luinjeberd" >Luinjeberd</a>
+<a href="/gebiedsscans-gezondheid-en-leefomgeving/mildam" >Mildam</a>
+<a href="/gebiedsscans-gezondheid-en-leefomgeving/nes" >Nes</a>
+<a href="/gebiedsscans-gezondheid-en-leefomgeving/nieuwebrug" >Nieuwebrug</a>
+<a href="/gebiedsscans-gezondheid-en-leefomgeving/nieuwehorne" >Nieuwehorne</a>
+<a href="/gebiedsscans-gezondheid-en-leefomgeving/nieuweschoot" >Nieuweschoot</a>
+<a href="/gebiedsscans-gezondheid-en-leefomgeving/oranjewoud" >Oranjewoud</a>
+<a href="/gebiedsscans-gezondheid-en-leefomgeving/oudehorne" >Oudehorne</a>
+<a href="/gebiedsscans-gezondheid-en-leefomgeving/oudeschoot" >Oudeschoot</a>
+<a href="/gebiedsscans-gezondheid-en-leefomgeving/terband" >Terband</a>
+<a href="/gebiedsscans-gezondheid-en-leefomgeving/tjalleberd" >Tjalleberd</a>
