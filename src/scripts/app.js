@@ -37,7 +37,7 @@ for (var i = 0; i < images.length; i++) {
 }
 
 document.querySelector('.js-image-wrapper').onclick = function() {
-    document.querySelector('.js-image-wrapper').classList.remove('--active');
+    this.classList.remove('--active');
 }
 
 var ScrollMonitor = {
