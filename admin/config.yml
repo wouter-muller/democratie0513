@@ -36,7 +36,7 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: "Layout", name: "layout", widget: "hidden"}
           - {label: "Browser title tag", name: "title_tag", widget: "string"}
-          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "string"}
+          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "hidden"}
           - {label: "URL (het deel vanaf https://democratie0513.nl/", name: "permalink", widget: "string"}
           - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
           - {label: "Subtitel", name: "hero-subheading", widget: "string", required: false }
@@ -57,7 +57,7 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: "Layout", name: "layout", widget: "hidden"}
           - {label: "Browser title tag", name: "title_tag", widget: "string"}
-          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "string"}
+          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "hidden"}
           - {label: "URL (het deel vanaf https://democratie0513.nl/", name: "permalink", widget: "string"}
           - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
           - {label: "Subtitel", name: "hero-subheading", widget: "string", required: false}
@@ -78,7 +78,7 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: "Layout", name: "layout", widget: "hidden"}
           - {label: "Browser title tag", name: "title_tag", widget: "string"}
-          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "string"}
+          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "hidden"}
           - {label: "URL (het deel vanaf https://democratie0513.nl/", name: "permalink", widget: "string"}
           - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
           - {label: "Subtitel", name: "hero-subheading", widget: "string", required: false}
@@ -99,7 +99,7 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: "Layout", name: "layout", widget: "hidden"}
           - {label: "Browser title tag", name: "title_tag", widget: "string"}
-          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "string"}
+          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "hidden"}
           - {label: "URL (het deel vanaf https://democratie0513.nl/", name: "permalink", widget: "string"}
           - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
           - {label: "Subtitel", name: "hero-subheading", widget: "string", required: false}
@@ -120,7 +120,7 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: "Layout", name: "layout", widget: "hidden"}
           - {label: "Browser title tag", name: "title_tag", widget: "string"}
-          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "string"}
+          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "hidden"}
           - {label: "URL (het deel vanaf https://democratie0513.nl/", name: "permalink", widget: "string"}
           - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
           - {label: "Subtitel", name: "hero-subheading", widget: "string", required: false}
@@ -141,7 +141,7 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: "Layout", name: "layout", widget: "hidden"}
           - {label: "Browser title tag", name: "title_tag", widget: "string"}
-          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "string"}
+          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "hidden"}
           - {label: "URL (het deel vanaf https://democratie0513.nl/", name: "permalink", widget: "string"}
           - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
           - {label: "Subtitel", name: "hero-subheading", widget: "string", required: false}
@@ -162,7 +162,7 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: "Layout", name: "layout", widget: "hidden"}
           - {label: "Browser title tag", name: "title_tag", widget: "string"}
-          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "string"}
+          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "hidden"}
           - {label: "URL (het deel vanaf https://democratie0513.nl/", name: "permalink", widget: "string"}
           - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
           - {label: "Subtitel", name: "hero-subheading", widget: "string", required: false}
@@ -183,7 +183,7 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: "Layout", name: "layout", widget: "hidden"}
           - {label: "Browser title tag", name: "title_tag", widget: "string"}
-          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "string"}
+          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "hidden"}
           - {label: "URL (het deel vanaf https://democratie0513.nl/", name: "permalink", widget: "string"}
           - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
           - {label: "Subtitel", name: "hero-subheading", widget: "string", required: false}
@@ -204,7 +204,7 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: "Layout", name: "layout", widget: "hidden"}
           - {label: "Browser title tag", name: "title_tag", widget: "string"}
-          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "string"}
+          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "hidden"}
           - {label: "URL (het deel vanaf https://democratie0513.nl/", name: "permalink", widget: "string"}
           - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
           - {label: "Subtitel", name: "hero-subheading", widget: "string", required: false}
@@ -225,7 +225,7 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: "Layout", name: "layout", widget: "hidden"}
           - {label: "Browser title tag", name: "title_tag", widget: "string"}
-          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "string"}
+          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "hidden"}
           - {label: "URL (het deel vanaf https://democratie0513.nl/", name: "permalink", widget: "string"}
           - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
           - {label: "Subtitel", name: "hero-subheading", widget: "string", required: false}
@@ -246,7 +246,7 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: "Layout", name: "layout", widget: "hidden"}
           - {label: "Browser title tag", name: "title_tag", widget: "string"}
-          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "string"}
+          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "hidden"}
           - {label: "URL (het deel vanaf https://democratie0513.nl/", name: "permalink", widget: "string"}
           - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
           - {label: "Subtitel", name: "hero-subheading", widget: "string", required: false}
@@ -267,7 +267,7 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: "Layout", name: "layout", widget: "hidden"}
           - {label: "Browser title tag", name: "title_tag", widget: "string"}
-          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "string"}
+          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "hidden"}
           - {label: "URL (het deel vanaf https://democratie0513.nl/", name: "permalink", widget: "string"}
           - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
           - {label: "Subtitel", name: "hero-subheading", widget: "string", required: false}
@@ -309,7 +309,7 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: "Layout", name: "layout", widget: "hidden"}
           - {label: "Browser title tag", name: "title_tag", widget: "string"}
-          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "string"}
+          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "hidden"}
           - {label: "URL (het deel vanaf https://democratie0513.nl/", name: "permalink", widget: "string"}
           - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
           - {label: "Subtitel", name: "hero-subheading", widget: "string", required: false }
@@ -330,7 +330,7 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: "Layout", name: "layout", widget: "hidden"}
           - {label: "Browser title tag", name: "title_tag", widget: "string"}
-          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "string"}
+          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "hidden"}
           - {label: "URL (het deel vanaf https://democratie0513.nl/", name: "permalink", widget: "string"}
           - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
           - {label: "Subtitel", name: "hero-subheading", widget: "string", required: false}
@@ -351,7 +351,7 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: "Layout", name: "layout", widget: "hidden"}
           - {label: "Browser title tag", name: "title_tag", widget: "string"}
-          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "string"}
+          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "hidden"}
           - {label: "URL (het deel vanaf https://democratie0513.nl/", name: "permalink", widget: "string"}
           - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
           - {label: "Subtitel", name: "hero-subheading", widget: "string", required: false}
@@ -372,7 +372,7 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: "Layout", name: "layout", widget: "hidden"}
           - {label: "Browser title tag", name: "title_tag", widget: "string"}
-          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "string"}
+          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "hidden"}
           - {label: "URL (het deel vanaf https://democratie0513.nl/", name: "permalink", widget: "string"}
           - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
           - {label: "Subtitel", name: "hero-subheading", widget: "string", required: false}
@@ -393,7 +393,7 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: "Layout", name: "layout", widget: "hidden"}
           - {label: "Browser title tag", name: "title_tag", widget: "string"}
-          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "string"}
+          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "hidden"}
           - {label: "URL (het deel vanaf https://democratie0513.nl/", name: "permalink", widget: "string"}
           - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
           - {label: "Subtitel", name: "hero-subheading", widget: "string", required: false}
@@ -414,7 +414,7 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: "Layout", name: "layout", widget: "hidden"}
           - {label: "Browser title tag", name: "title_tag", widget: "string"}
-          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "string"}
+          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "hidden"}
           - {label: "URL (het deel vanaf https://democratie0513.nl/", name: "permalink", widget: "string"}
           - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
           - {label: "Subtitel", name: "hero-subheading", widget: "string", required: false}
