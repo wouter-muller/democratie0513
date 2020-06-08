@@ -408,27 +408,6 @@ collections: # A list of collections the CMS should be able to edit
               - { label: "Tekst", name: "paragraph", widget: "text", required: false }
               - { label: "Link", name: "url", widget: "string" }
           - {label: "Body", name: "body", widget: "markdown"}
-      - name: "omgevingsvisie"
-        label: "Omgevingsvisie"
-        file: "/pages/gebiedsscans-gezondheid-en-leefomgeving/omgevingsvisie.md"
-        fields:
-          - {label: "Layout", name: "layout", widget: "hidden"}
-          - {label: "Browser title tag", name: "title_tag", widget: "string"}
-          - {label: "Kleurschema van de pagina (blue of red)", name: "color", widget: "hidden"}
-          - {label: "URL (het deel vanaf https://democratie0513.nl/", name: "permalink", widget: "string"}
-          - {label: "Hoofdtitel", name: "hero-heading", widget: "string"}
-          - {label: "Subtitel", name: "hero-subheading", widget: "string", required: false}
-          - {label: "Zinnetje bovenaan", name: "hero-paragraph", widget: "text", required: false}
-          - {label: "Intro", name: "content-intro", widget: "text", required: false }
-          - label: "Gekleurde navigatieblokjes"
-            name: "chapters"
-            widget: list
-            fields:
-              - { label: "Type (research, summary, results of analysis", name: "type", widget: "string" }
-              - { label: "Titel", name: "title", widget: "string" }
-              - { label: "Tekst", name: "paragraph", widget: "text", required: false }
-              - { label: "Link", name: "url", widget: "string" }
-          - {label: "Body", name: "body", widget: "markdown"}
       - name: "akkrum"
         label: "Akkrum"
         file: "/pages/gebiedsscans-gezondheid-en-leefomgeving/akkrum.md"
