@@ -6,8 +6,13 @@
         +font-merriweather
         font-size: px(25)
         line-height: 1.5
-        color: $dark-blue
         margin-bottom: px(70)
+
+        @at-root html.blue &
+            color: $dark-blue
+
+        @at-root html.r2 &
+            color: $storm
 
     &__main-content // Markdown
         p
