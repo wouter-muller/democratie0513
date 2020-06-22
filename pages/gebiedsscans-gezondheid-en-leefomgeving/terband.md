@@ -10,6 +10,8 @@ content-intro:
 
 ![Gebiedsscan grafiek](/uploads/Grafieken_Gebiedsscans_Dorpen-20.png)
 
+De grafiek laat zien welke indicator boven of onder het gemiddelde van de gemeente scoort. Binnen de gele lijn scoort de indicator voor de wijk/het dorp onder het gemiddelde van de gemeente. Buiten de gele lijn scoort de indicator boven het gemiddelde.
+
 ## Samenvatting
 Terband, Luinjeberd, Tjalleberd en Gersloot vallen onder De Streek van de vroegere gemeente Aengwirden. Gersloot Polder hoort hier niet bij. Gersloot Polder heeft ook een eigen vereniging voor Plaatselijk belang.
 
@@ -25,13 +27,13 @@ Er zijn geen winkels en weinig voorzieningen. Maar men is erop ingespeeld. De be
 
 De verenigingen voor Plaatselijk belang zijn sterk en initiatiefrijk.  Er zijn veel activiteiten en de bewoners van de dorpen regelen veel zelf in het dorp. Vanwege de lintbebouwing liggen woningen ver uit elkaar, maar er is een diversiteit aan ontmoetingsplaatsen: MFA/Doarpskeamer, cafés, school.
 
-**Omdat het aantal inwoners in het dorp klein is, moeten de cijfers met voorzichtigheid worden geïnterpreteerd.**
 
 ## Conclusies voor beleid vanuit de cijfers
 In dit gebied zijn weinig afwijkingen van de gemiddelde cijfers voor de gemeente. Beleid en maatregelen in deze dorpen kunnen gericht worden op meer algemeen voorkomende gezondheidsrisico’s, zoals  te weinig bewegen en eenzaamheid. Het gezondheidsbeleid kan vooral worden toegespitst  op gezinnen.
 
 De leefbaarheid is zeer goed tot uitstekend en er zijn veel vrijwilligers. Met het oog op de vergrijzing is mogelijk specifieke aandacht nodig voor de leefbaarheid voor ouderen.
 
+**Omdat het aantal inwoners in het dorp klein is, moeten de cijfers met voorzichtigheid worden geïnterpreteerd.**
 
 |-----+---+---|
 |  **Bevolking**  |  |    |

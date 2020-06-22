@@ -10,6 +10,8 @@ content-intro:
 
 ![Gebiedsscan grafiek](/uploads/Grafieken_Gebiedsscans_Wijken-09.png)
 
+De grafiek laat zien welke indicator boven of onder het gemiddelde van de gemeente scoort. Binnen de gele lijn scoort de indicator voor de wijk/het dorp onder het gemiddelde van de gemeente. Buiten de gele lijn scoort de indicator boven het gemiddelde.
+
 ## Samenvatting
 
 In de wijk De Akkers wonen bovengemiddeld veel  65-plussers vergeleken met het gemiddelde in de gemeente. Een bovengemiddeld percentage inwoners heeft bovendien lichamelijke beperkingen. waaronder beperkingen in mobiliteit, horen en zien.  Het percentage inwoners dat voldoende beweegt ligt onder het gemiddelde. Het percentage inwoners dat weinig regie over het leven ervaart is hoger dan gemiddeld.

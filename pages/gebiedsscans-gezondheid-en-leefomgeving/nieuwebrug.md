@@ -10,6 +10,8 @@ content-intro:
 
 ![Gebiedsscan grafiek](/uploads/Grafieken_Gebiedsscans_Dorpen-14.png)
 
+De grafiek laat zien welke indicator boven of onder het gemiddelde van de gemeente scoort. Binnen de gele lijn scoort de indicator voor de wijk/het dorp onder het gemiddelde van de gemeente. Buiten de gele lijn scoort de indicator boven het gemiddelde.
+
 ## Samenvatting
 
 In het tweelingdorp  Haskerdijken-Nieuwebrug zijn weinig afwijkingen van de gemiddelde cijfers voor de gemeente Heerenveen. De leefbaarheid is er (zeer) goed. De veiligheid draagt positief bij aan de leefbaarheid. De fysieke omgeving scoort  onder het gemiddelde in Nieuwebrug. Mogelijk door de ligging aan een industrieterrein.
@@ -26,12 +28,12 @@ Nieuwebrug ligt aan een industrieterrein. Plaatselijk belang is actief om veilig
 
 De cijfers moeten met voorzichtigheid worden geïnterpreteerd, vanwege het kleine aantal inwoners in Nieuwebrug.
 
-**Nieuwebrug: 200 inwoners en 75 huishoudens**
-
 ## Conclusies voor beleid vanuit de cijfers
 Haskerdijken / Nieuwebrug vertoont weinig afwijkingen van de gemiddelde cijfers. De leefbaarheid is (zeer) goed.
 
 Beleid en maatregelen in deze wijk kunnen toegespitst worden op meer algemeen voorkomende gezondheidsrisico’s, zoals te weinig bewegen en eenzaamheid. Met name het percentage inwoners dat niet aan de alcoholrichtlijn voldoet ligt daarbij iets boven het gemiddelde.  Maatregelen  kunnen worden gericht op de diverse leeftijdsgroepen.
+
+**Nieuwebrug: 200 inwoners en 75 huishoudens**
 
 |-----+---+---|
 |  **Bevolking**  |  |    |

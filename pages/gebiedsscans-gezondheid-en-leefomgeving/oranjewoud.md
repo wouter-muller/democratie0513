@@ -10,6 +10,8 @@ content-intro:
 
 ![Gebiedsscan grafiek](/uploads/Grafieken_Gebiedsscans_Dorpen-17.png)
 
+De grafiek laat zien welke indicator boven of onder het gemiddelde van de gemeente scoort. Binnen de gele lijn scoort de indicator voor de wijk/het dorp onder het gemiddelde van de gemeente. Buiten de gele lijn scoort de indicator boven het gemiddelde.
+
 ## Samenvatting
 Oranjewoud wordt gekenmerkt doordat er weinig afwijkingen  zijn van de gemiddelde cijfers voor  de gemeente Heerenveen.
 
@@ -22,12 +24,12 @@ Oranjewoud is een mooi gebied; de oostkant is beschermd dorpsgezicht. De op- en 
 
 De inwoners van Oranjewoud leven vaak wat meer op zichzelf. De voorzieningen zijn wat verder weg en er is geen wijkcentrum. Plaatselijk belang is wel actief, maar kampt met een tekort aan vrijwilligers.
 
-**Oranjewoud: 1.580 inwoners en 665 huishoudens**
-
 ## Conclusies voor beleid vanuit de cijfers
 Naast de aandacht voor de algemene gezondheidsrisico's, zoals te weinig bewegen, alcoholgebruik en eenzaamheid, zijn er in Oranjewoud geen specifieke onderwerpen die aandacht behoeven.  De maatregelen kunnen gericht  worden op de diverse leeftijdsgroepen.
 
 De leefbaarheid is uitstekend.
+
+**Oranjewoud: 1.580 inwoners en 665 huishoudens**
 
 |-----+---+---|
 |  **Bevolking**  |  |    |

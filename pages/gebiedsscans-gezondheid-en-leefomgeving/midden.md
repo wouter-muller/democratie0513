@@ -10,6 +10,8 @@ content-intro:
 
 ![Gebiedsscan grafiek](/uploads/Grafieken_Gebiedsscans_Wijken-04.png)
 
+De grafiek laat zien welke indicator boven of onder het gemiddelde van de gemeente scoort. Binnen de gele lijn scoort de indicator voor de wijk/het dorp onder het gemiddelde van de gemeente. Buiten de gele lijn scoort de indicator boven het gemiddelde.
+
 ## Samenvatting
 
 Vergeleken bij de gemiddelde cijfers voor de gemeente Heerenveen wonen in de wijk bovengemiddeld veel:
@@ -31,8 +33,6 @@ Er zijn veel voorzieningen rond de wijk, in de wijk zelf zijn echter geen school
 
 Er heeft wijkvernieuwing plaatsgevonden en het wijkcentrum is in ontwikkeling, wat verbinding geeft. Er wordt veel georganiseerd in de wijk, mede door kerken en moskee.
 
-**Heerenveen Midden: 3.430 inwoners en 1.880 huishoudens**
-
 ## Conclusies voor beleid vanuit de cijfers
 
 Maatregelen gericht op het verkrijgen van werk en preventie van armoede zijn relevant in deze wijk.
@@ -40,6 +40,8 @@ Maatregelen gericht op het verkrijgen van werk en preventie van armoede zijn rel
 Maatregelen gericht op gezondheidsrisico's, zoals te weinig bewegen en eenzaamheid, moeten aansluiten bij de doelgroepen die veel voorkomen in de wijk, zoals alleenstaanden, mensen met beperkingen, migratieachtergrond en lage inkomens.
 
 De leefbaarheid is ruim voldoende, maar de veiligheid kan verbeterd worden.
+
+**Heerenveen Midden: 3.430 inwoners en 1.880 huishoudens**
 
 |-----+---+---|
 |  **Bevolking**  |  |    |

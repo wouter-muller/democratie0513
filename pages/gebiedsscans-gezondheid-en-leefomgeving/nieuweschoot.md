@@ -10,6 +10,8 @@ content-intro:
 
 ![Gebiedsscan grafiek](/uploads/Grafieken_Gebiedsscans_Dorpen-16.png)
 
+De grafiek laat zien welke indicator boven of onder het gemiddelde van de gemeente scoort. Binnen de gele lijn scoort de indicator voor de wijk/het dorp onder het gemiddelde van de gemeente. Buiten de gele lijn scoort de indicator boven het gemiddelde.
+
 ## Samenvatting
 In Nieuweschoot is het percentage kinderen iets lager dan gemiddeld.
 
@@ -26,12 +28,12 @@ In Nieuweschoot zijn geen voorzieningen, er is wel veel saamhorigheid. Men komt 
 
 Het aantal inwoners van Nieuweschoot is klein. De cijfers moeten daarom met voorzichtigheid worden geïnterpreteerd.
 
-**Nieuweschoot: 180 inwoners en 70 huishoudens**
-
 ## Conclusies voor beleid vanuit de cijfers
 Beleid en maatregelen kunnen gericht worden op de algemene gezondheidsrisico’s, zoals te weinig bewegen en eenzaamheid.
 
 De leefbaarheid is goed.  Het lage voorzieningenniveau kan een probleem worden met de toenemende vergrijzing.
+
+**Nieuweschoot: 180 inwoners en 70 huishoudens**
 
 
 |-----+---+---|

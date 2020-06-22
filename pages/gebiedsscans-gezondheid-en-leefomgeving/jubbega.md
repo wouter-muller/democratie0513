@@ -10,6 +10,8 @@ content-intro:
 
 ![Gebiedsscan grafiek](/uploads/Grafieken_Gebiedsscans_Dorpen-09.png)
 
+De grafiek laat zien welke indicator boven of onder het gemiddelde van de gemeente scoort. Binnen de gele lijn scoort de indicator voor de wijk/het dorp onder het gemiddelde van de gemeente. Buiten de gele lijn scoort de indicator boven het gemiddelde.
+
 ## Samenvatting
 De cijfers voor Jubbega wijken niet sterk af van de gemiddelden voor de gemeente Heerenveen. De percentages voor overgewicht en obesitas liggen iets boven het gemiddelde. Het percentage sporters ligt iets onder het gemiddelde, maar het percentage inwoners dat aan de beweegnorm voldoet is gemiddeld.
 
@@ -21,13 +23,14 @@ Een deel van de bewoners heeft te maken met problematiek van laaggeletterdheid, 
 
 Er zijn scholen, sportvoorzieningen en voorzieningen voor ouderen. Er is vrijwilligerswerk en zorg voor ouderen; maatschappelijk werk en jeugdwerk zijn ook aanwezig in de MFA. Ook de kerk is actief. Er zijn activiteiten in het dorp en ontmoetingsplekken. Men helpt elkaar. Participatie in de vorm van meedenken over wat goed is voor het dorp lijkt in de loop der jaren breder gedragen te worden.
 
-**Jubbega: 3.255 inwoners en 1.405 huishoudens**
 
 ## Conclusies voor beleid vanuit de cijfers
 
 Overgewicht komt in Jubbega nog iets meer voor dan gemiddeld. Dit onderwerp vraagt daarom naast de andere algemene gezondheidsrisico’s, zoals te weinig bewegen en eenzaamheid, nog wat meer aandacht. Bij de maatregelen kan onder meer worden aangesloten bij de groep inwoners met lage inkomens.
 
 De leefbaarheid is goed.
+
+**Jubbega: 3.255 inwoners en 1.405 huishoudens**
 
 |-----+---+---|
 |  **Bevolking**  |  |    |

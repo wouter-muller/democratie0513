@@ -10,6 +10,8 @@ content-intro:
 
 ![Gebiedsscan grafiek](/uploads/Grafieken_Gebiedsscans_Dorpen-19.png)
 
+De grafiek laat zien welke indicator boven of onder het gemiddelde van de gemeente scoort. Binnen de gele lijn scoort de indicator voor de wijk/het dorp onder het gemiddelde van de gemeente. Buiten de gele lijn scoort de indicator boven het gemiddelde.
+
 ## Samenvatting
 Vergeleken met de gemiddelde cijfers voor de gemeente Heerenveen wordt in Oudeschoot bovengemiddeld gebruik gemaakt van jeugdzorg. Dit kan deels samenhangen met risicofactoren voor jeugdproblematiek, zoals gezinsproblematiek, armoede en psychische problematiek bij de ouders. De percentages lage inkomens, bijstandsuitkeringen, gezondheidsproblemen en scheidingen liggen iets boven het gemiddelde.
 
@@ -24,14 +26,14 @@ In de Uitvindersbuurt is de leefbaarheid over het algemeen minder groot. Vanuit 
 
 Er zijn positieve ontwikkelingen in de school/IKC waardoor, samen met het preventiebeleid voor de jeugd, de jeugdzorgproblematiek aangepakt wordt.
 
-**Oudeschoot: 1.575 inwoners en 660 huishoudens**
-
 ## Conclusies voor beleid vanuit de cijfers
 Beleid en maatregelen kunnen gericht worden op preventie van jeugdzorgproblematiek. Onder dit laatste valt onder meer reïntegratie van bijstandsgerechtigden en ondersteuning bij psychosociale problematiek van de ouders.
 
 Beleid en maatregelen kunnen daarnaast gericht worden op de algemene gezondheidsrisico’s, zoals overgewicht en te weinig bewegen. Hierbij moet rekening worden gehouden met doelgroepen met beperkingen en lagere inkomens.
 
 De leefbaarheid is ruim voldoende.
+
+**Oudeschoot: 1.575 inwoners en 660 huishoudens**
 
 |-----+---+---|
 |  **Bevolking**  |  |    |

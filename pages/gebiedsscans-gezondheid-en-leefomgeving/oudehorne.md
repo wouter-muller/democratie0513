@@ -10,6 +10,8 @@ content-intro:
 
 ![Gebiedsscan grafiek](/uploads/Grafieken_Gebiedsscans_Dorpen-18.png)
 
+De grafiek laat zien welke indicator boven of onder het gemiddelde van de gemeente scoort. Binnen de gele lijn scoort de indicator voor de wijk/het dorp onder het gemiddelde van de gemeente. Buiten de gele lijn scoort de indicator boven het gemiddelde.
+
 ## Samenvatting
 De cijfers voor Oude- en Nieuwehorne wijken niet sterk af van de gemiddelden voor de gemeente Heerenveen.  Alleen ligt het percentage jongeren in de leeftijd 15 tot 25 jaar in Oudehorne iets onder het gemiddelde
 
@@ -22,8 +24,6 @@ Er zijn veel voorzieningen en ontmoetingsplekken in Oude- en Nieuwehorne. Er is 
 
 Burenhulp blijkt niet voldoende in Oude- en Nieuwehorne; Doarpshelp heeft extra vrijwilligers nodig.
 
-**Oudehorne: 840 inwoners en 355 huishoudens**
-
 ## Conclusies voor beleid vanuit de cijfers
 Maatregelen tegen algemene gezondheidsrisico's, zoals  te weinig bewegen en eenzaamheid, zijn ook  in Oudehorne  van belang.  Hierbij moet ook aangesloten worden bij diverse leeftijdsgroepen.
 
@@ -35,7 +35,7 @@ Verkeerslawaai is een punt van aandacht.
 
 De leefbaarheid is zeer goed. Er is specifieke aandacht nodig voor de leefbaarheid in verband met de gevolgen van vergrijzing.
 
-
+**Oudehorne: 840 inwoners en 355 huishoudens**
 
 |-----+---+---|
 |  **Bevolking**  |  |    |

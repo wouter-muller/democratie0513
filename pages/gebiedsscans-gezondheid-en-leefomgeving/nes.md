@@ -10,6 +10,8 @@ content-intro:
 
 ![Gebiedsscan grafiek](/uploads/Grafieken_Gebiedsscans_Dorpen-13.png)
 
+De grafiek laat zien welke indicator boven of onder het gemiddelde van de gemeente scoort. Binnen de gele lijn scoort de indicator voor de wijk/het dorp onder het gemiddelde van de gemeente. Buiten de gele lijn scoort de indicator boven het gemiddelde.
+
 ## Samenvatting
 In Nes is meer dan de helft van de woningen na 2000 gebouwd. Het is een jong dorp, waar bovengemiddeld veel gezinnen met kinderen wonen en minder 65-plussers dan gemiddeld in de gemeente. Het percentage hogere inkomens is bovengemiddeld, evenals de percentages voor indicatoren die duiden op een goede gezondheid en leefstijl. Aan de richtlijn voor alcoholgebruik wordt echter minder vaak voldaan.
 
@@ -20,16 +22,13 @@ De leefbaarheid is uitstekend. Dit wordt sterk beïnvloed door het type woningen
 ## Aanvullingen uit interviews met professionals
 Akkrum en Nes hebben een gezamenlijk plaatselijk belang en zijn één als het gaat om activiteiten. Daarnaast zijn er nog allerlei andere initiatieven in het dorp zelf. Er is een speelcourt gerealiseerd voor jeugd en men is bezig met een dorpsmoestuin. Door het gemiddeld hoge opleidings- en inkomensniveau is men over het algemeen zelfredzaam.
 
-**Nes: 1.060 inwoners en 360 huishoudens**
-
 ## Conclusies voor beleid vanuit de cijfers
 
 Nes is een jong en welvarend dorp, met uitstekende leefbaarheid en veel vrijwilligers.
 
 Hoewel in Nes de percentages voor gezondheidsproblemen en ongezonde leefstijl onder het gemiddelde liggen, zijn ook in dit dorp maatregelen gericht op de algemene gezondheidsrisico's  nodig, zoals het stimuleren meer te bewegen. Deze maatregelen  moeten aansluiten bij de doelgroepen gezinnen met kinderen. Alcoholgebruik vraagt extra aandacht.
 
-
-
+**Nes: 1.060 inwoners en 360 huishoudens**
 
 |-----+---+---|
 |  **Bevolking**  |  |    |

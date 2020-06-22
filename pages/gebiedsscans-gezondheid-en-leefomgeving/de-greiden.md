@@ -10,6 +10,8 @@ content-intro:
 
 ![Gebiedsscan grafiek](/uploads/Grafieken_Gebiedsscans_Wijken-01.png)
 
+De grafiek laat zien welke indicator boven of onder het gemiddelde van de gemeente scoort. Binnen de gele lijn scoort de indicator voor de wijk/het dorp onder het gemiddelde van de gemeente. Buiten de gele lijn scoort de indicator boven het gemiddelde.
+
 ## Samenvatting
 
 De cijfers voor De Greiden wijken niet sterk af van de gemiddelde cijfers voor de gemeente Heerenveen. In de Greiden is het percentage inwoners met een niet-westerse migratieachtergrond bovengemiddeld. Verder komen diverse gezondheidsproblemen er wat meer voor dan gemiddeld. Het percentage inwoners met obesitas is eveneens wat hoger dan gemiddeld.
@@ -24,7 +26,6 @@ De professionals zien in deze wijk veel schulden en werkloosheid, onder andere d
 
 Huizen die verkocht zijn door de woningcorporaties worden door de verouderde staat mogelijk onverkoopbaar.
 
-**De Greiden: 7.235 inwoners en 3.230 huishoudens**
 
 ## Conclusies voor beleid vanuit de cijfers
 
@@ -35,6 +36,8 @@ Maatregelen voor preventie van jeugdzorgproblematiek kunnen gericht worden op de
 Daarnaast is schuldenpreventie en aanpak van achterliggende problematiek relevant, waaronder verminderen van laaggeletterdheid.
 
 Activiteiten kunnen beter afgestemd worden op de diversiteit in belangstelling van bewoners.
+
+**De Greiden: 7.235 inwoners en 3.230 huishoudens**
 
 |-----+---+---|
 |  **Bevolking**  |  |    |

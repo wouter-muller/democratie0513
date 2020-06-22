@@ -10,6 +10,8 @@ content-intro:
 
 ![Gebiedsscan grafiek](/uploads/Grafieken_Gebiedsscans_Wijken-02.png)
 
+De grafiek laat zien welke indicator boven of onder het gemiddelde van de gemeente scoort. Binnen de gele lijn scoort de indicator voor de wijk/het dorp onder het gemiddelde van de gemeente. Buiten de gele lijn scoort de indicator boven het gemiddelde.
+
 ## Samenvatting
 
 De wijk Centrum vertoont de meeste afwijkingen van de gemiddelde cijfers voor de gemeente. In Centrum zijn bovengemiddeld veel:
@@ -31,7 +33,6 @@ Er zijn veel bewoners met financiële problemen en mensen zonder uitzicht op wer
 
 Er zijn wel veel voorzieningen en er is veel te doen in het centrum. Het aanbod is echter niet overzichtelijk voor de wijkbewoners. Initiatieven die gestimuleerd worden door opbouwwerk, specifiek voor bewoners van de wijk, lijken aan te slaan. Nieuwbouwprojecten, waaronder woningen die gebouwd zijn om meer ontmoeting mogelijk te maken, bieden kansen voor versterking van sociale samenhang.
 
-**Heerenveen Centrum: 2.875 inwoners en 1.870 huishoudens**
 
 ## Conclusies voor beleid vanuit de cijfers
 
@@ -39,6 +40,7 @@ Naast de algemene voorkomende gezondheidsrisico´s van te weinig bewegen, overge
 
 Beleid en maatregelen in deze wijk moeten met name toegespitst worden op de bovengemiddeld grote doelgroepen 65-plussers en éénpersoons-huishoudens met lage inkomens. Het gaat daarbij vaak om inwoners met o.a. gezondheidsproblemen en inwoners die weinig regie ervaren over eigen leven.
 
+**Heerenveen Centrum: 2.875 inwoners en 1.870 huishoudens**
 
 |-----+---+---|
 |  **Bevolking**  |  |    |

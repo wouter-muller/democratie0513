@@ -21,9 +21,7 @@ chapters:
 ---
 ## Uitkomsten
 
-Per dorp en wijk wordt een grafiek gegeven van de opvallendste gegevens voor het gebied. De grafiek laat zien op welke indicatoren de wijk/het dorp afwijkt van het gemiddelde in de gemeente. Daarnaast  staat een beschrijving van de belangrijkste gegevens. Onder de grafiek staat aanvullende informatie uit interviews met professionals die werkzaam zijn in het gebied. De conclusies voor beleid staan in het gekleurde kader onderaan.
-
-Daaronder staat een tabel. Daarin staan de basisgegevens (percentages en aantallen) waarop de grafiek, beschrijving en aanbevelingen zijn gebaseerd.
+Per dorp en wijk wordt een grafiek gegeven van de opvallendste gegevens voor het gebied. De grafiek laat zien op welke indicatoren de wijk/het dorp afwijkt van het gemiddelde in de gemeente. Daaronder staan de beschrijving van de belangrijkste gegevens en aanvullende informatie uit interviews met professionals die werkzaam zijn in het gebied. Na de conclusies voor beleid staat een tabel. Daarin staan de basisgegevens (percentages en aantallen) waarop de grafiek, beschrijving en aanbevelingen zijn gebaseerd.
 
 De cijfers over jeugd staan apart beschreven.
 

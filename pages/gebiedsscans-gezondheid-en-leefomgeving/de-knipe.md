@@ -10,6 +10,8 @@ content-intro:
 
 ![Gebiedsscan grafiek](/uploads/Grafieken_Gebiedsscans_Dorpen-04.png)
 
+De grafiek laat zien welke indicator boven of onder het gemiddelde van de gemeente scoort. Binnen de gele lijn scoort de indicator voor de wijk/het dorp onder het gemiddelde van de gemeente. Buiten de gele lijn scoort de indicator boven het gemiddelde.
+
 ## Samenvatting
 De Knipe en Het Meer kunnen als één gebied worden gezien. Er zijn weinig afwijkingen van de gemiddelde cijfers voor de gemeente Heerenveen.
 
@@ -18,11 +20,6 @@ De  leefbaarheid is uitstekend. De fysieke omgeving is aantrekkelijk gezien type
 ## Aanvullingen uit interviews met professionals
 De Knipe is een actief dorp. Men kent elkaar en er is veel onderlinge hulp. De dorpsbewoners organiseren jaarlijks terugkerende evenementen en er is een MFA waar activiteiten voor ouderen worden georganiseerd. Voor de toekomst is behoud van voorzieningen met het oog op vergrijzing en ontgroening van belang.
 
-
-
-**De Knipe: 1.425 inwoners en 570 huishoudens**
-
-
 ## Conclusies voor beleid vanuit de cijfers
 De leefbaarheid is uitstekend. De cijfers voor De Knipe en Het Meer wijken verder nauwelijks af van de gemiddelde cijfers in de gemeente.
 
@@ -30,6 +27,7 @@ Naast de aandacht  voor de algemene gezondheidsrisico's, zoals te weinig bewegen
 
 Het is  de vraag of het verkeerslawaai op Het Meer nog steeds overlast geeft. Zo ja, dan zouden extra maatregelen om het geluidsniveau omlaag te brengen aan te bevelen zijn.
 
+**De Knipe: 1.425 inwoners en 570 huishoudens**
 
 |-----+---+---|
 |  **Bevolking**  |  |    |

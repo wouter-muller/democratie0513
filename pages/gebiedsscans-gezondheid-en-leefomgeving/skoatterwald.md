@@ -10,6 +10,8 @@ content-intro:
 
 ![Gebiedsscan grafiek](/uploads/Grafieken_Gebiedsscans_Wijken-07.png)
 
+De grafiek laat zien welke indicator boven of onder het gemiddelde van de gemeente scoort. Binnen de gele lijn scoort de indicator voor de wijk/het dorp onder het gemiddelde van de gemeente. Buiten de gele lijn scoort de indicator boven het gemiddelde.
+
 ## Samenvatting
 Skoatterwâld valt op doordat er bovengemiddeld veel gezinnen wonen en weinig 65 plussers vergeleken bij de gemiddelde cijfers voor de gemeente Heerenveen.  Het aandeel hoge inkomens is  eveneens bovengemiddeld.
 
@@ -23,14 +25,14 @@ Het is een rustige, mooie wijk. De woningen zijn dicht op elkaar gebouwd en er z
 
 Problematiek als gevolg van economische crisis (werkloosheid, scheidingen met gedwongen verkoop huizen), zoals genoemd in de Wijkkrachtscan van 2014, is momenteel niet opvallend aanwezig.
 
-**Skoatterwâld: 4.065 inwoners en 1.415 huishoudens**
-
 ## Conclusies voor beleid vanuit de cijfers
 Naast de aandacht voor de algemene gezondheidsrisico's,  zoals  te weinig bewegen, alcoholgebruik en eenzaamheid, zijn er geen specifieke onderwerpen die aandacht behoeven. Het gezondheids- en preventiebeleid kan toegespitst worden  op gezinnen met kinderen.
 
 De leefbaarheid is uitstekend.
 
 Het is de vraag of, en zo ja welke, voorzieningen in de wijk gewenst zijn voor de grote groep opgroeiende jongeren.
+
+**Skoatterwâld: 4.065 inwoners en 1.415 huishoudens**
 
 |-----+---+---|
 |  **Bevolking**  |  |    |

@@ -10,6 +10,8 @@ content-intro: null
 
 ![blah](/uploads/Grafieken_Gebiedsscans_Dorpen-01.png)
 
+De grafiek laat zien welke indicator boven of onder het gemiddelde van de gemeente scoort. Binnen de gele lijn scoort de indicator voor de wijk/het dorp onder het gemiddelde van de gemeente. Buiten de gele lijn scoort de indicator boven het gemiddelde.
+
 ## Samenvatting
 
 Vergeleken bij de gemiddelde cijfers voor de gemeente Heerenveen wonen in Akkrum bovengemiddeld veel weduwen en weduwnaars. Dit sluit aan bij het bovengemiddelde percentage mensen  met lichamelijke beperkingen. Mogelijk wonen er in Akkrum relatief veel ouderen met beperkingen door de aanwezigheid van woonvormen met zorg in Mienskipssintrum Leppehiem.
@@ -26,8 +28,6 @@ Akkrum is een dorp met veel activiteiten en een actief Plaatselijk belang. Volge
 
 Er zijn veel groepen actieve bewoners. Er is een doarpskeamer waar onder meer koffieochtenden worden georganiseerd.  Er zijn buurten met sociale woningbouw waar meer sociale problematiek voorkomt. De professionals komen veel armoede- en schuldenproblematiek tegen, evenals eenzaamheid en dementie.
 
-**Akkrum: 3.365 inwoners en 1.465 huishoudens**
-
 ## Conclusies voor beleid vanuit de cijfers
 
 Er zijn weinig afwijkingen van de gemiddelde cijfers in de gemeente. Maatregelen kunnen gericht worden op de algemene gezondheidsrisico's, zoals te weinig bewegen en eenzaamheid. Maatregelen kunnen op verschillende doelgroepen gericht worden, waaronder mensen met lichamelijke beperkingen en alleenstaande ouderen.
@@ -35,6 +35,8 @@ Er zijn weinig afwijkingen van de gemiddelde cijfers in de gemeente. Maatregelen
 Daarnaast is preventie van jeugdzorgproblematiek van belang, onder meer door preventie van armoede en schulden.
 
 De leefbaarheid is ruim voldoende. De fysieke omgeving kan  echter  verbeterd.
+
+**Akkrum: 3.365 inwoners en 1.465 huishoudens**
 
 |-----+---+---|
 |  **Bevolking**  |  |    |

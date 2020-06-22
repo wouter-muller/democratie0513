@@ -10,6 +10,8 @@ content-intro: null
 
 ![](/uploads/Grafieken_Gebiedsscans_Dorpen-02.png)
 
+De grafiek laat zien welke indicator boven of onder het gemiddelde van de gemeente scoort. Binnen de gele lijn scoort de indicator voor de wijk/het dorp onder het gemiddelde van de gemeente. Buiten de gele lijn scoort de indicator boven het gemiddelde.
+
 ## Samenvatting
 In Aldeboarn wijken de cijfers nauwelijks af van de gemiddelden in de gemeente. In Aldeboarn wonen alleen iets meer kinderen dan gemiddeld in Heerenveen.
 
@@ -24,12 +26,13 @@ Men lost veel zelf op. De kerk is ook actief en zorgt mede voor verbinding.
 
 Wanneer thuis wonen door ouderdomsproblemen niet meer gaat, verhuist men naar Leppehiem in Akkrum.  In de oude melkfabriek zijn ook koop- en huurappartementen.
 
-**Aldeboarn: 1.565 inwoners en 655 huishoudens**
 
 ## Conclusies voor beleid vanuit de cijfers
 De cijfers voor Aldeboarn wijken weinig af van de gemiddelde cijfers in de gemeente. De leefbaarheid is goed.
 
 Beleid en maatregelen kunnen gericht worden op de algemene gezondheidsrisico’s zoals te weinig bewegen, overgewicht en alcoholgebruik.
+
+**Aldeboarn: 1.565 inwoners en 655 huishoudens**
 
 |-----+---+---|
 |  **Bevolking**  |  |    |

@@ -10,6 +10,8 @@ content-intro:
 
 ![Gebiedsscan grafiek](/uploads/Grafieken_Gebiedsscans_Dorpen-15.png)
 
+De grafiek laat zien welke indicator boven of onder het gemiddelde van de gemeente scoort. Binnen de gele lijn scoort de indicator voor de wijk/het dorp onder het gemiddelde van de gemeente. Buiten de gele lijn scoort de indicator boven het gemiddelde.
+
 ## Samenvatting
 De cijfers voor Oude- en Nieuwehorne wijken niet sterk af van de gemiddelden voor de gemeente Heerenveen. Het percentage inwoners met  overgewicht is in Nieuwehorne  iets hoger dan gemiddeld.
 
@@ -23,14 +25,14 @@ Het percentage vrijwilligers wijkt niet af van het gemiddelde. Aan het Flaeijelf
 
 Er zijn veel voorzieningen en ontmoetingsplekken. Er is grote betrokkenheid bij het dorp; het Flaeijelfeest geeft onderlinge binding. Een grote groep aanhangers van een geloofsgemeenschap houdt zich echter juist afzijdig van het dorp. Plaatselijk belang functioneert zeer goed.
 
-Bij zowel gezinnen als bij ouderen komt schuldenproblematiek voor. Onder ouderen komt dementie regelmatig voor. Naast de ouderen wonen er in het dorp mensen met lichamelijke en verstandelijke beperkingen die een beroep doen op ondersteuning. Burenhulp blijkt niet voldoende. Doarpshelp heeft extra vrijwilligers nodig.
-
-**Nieuwehorne: 1.465 inwoners en 645 huishoudens**
 
 ## Conclusies voor beleid vanuit de cijfers
 Maatregelen gericht op algemene gezondheidsrisico's, zoals  te weinig bewegen en eenzaamheid, zijn ook  in Nieuwehorne  van belang.  Overgewicht verdient daarbij extra aandacht. Hierbij moet ook aangesloten worden bij groepen met lagere inkomens.
 
 De leefbaarheid is zeer goed. Er is specifieke aandacht nodig voor de leefbaarheid in verband met de gevolgen van vergrijzing.
+Bij zowel gezinnen als bij ouderen komt schuldenproblematiek voor. Onder ouderen komt dementie regelmatig voor. Naast de ouderen wonen er in het dorp mensen met lichamelijke en verstandelijke beperkingen die een beroep doen op ondersteuning. Burenhulp blijkt niet voldoende. Doarpshelp heeft extra vrijwilligers nodig.
+
+**Nieuwehorne: 1.465 inwoners en 645 huishoudens**
 
 |-----+---+---|
 |  **Bevolking**  |  |    |

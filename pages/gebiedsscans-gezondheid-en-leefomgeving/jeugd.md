@@ -69,18 +69,109 @@ De cijfers zijn uitgesplitst naar 9 gebieden. Vergelijking van de 30 wijken en d
 
 In onderstaande tabellen staan steeds eerst de percentages voor het deelgebied. De gemiddelde percentages voor de gemeente Heerenveen staan erachter in grijs. De aantallen jongeren per dorp en wijk zijn afgerond op 5-tallen.
 
+### Gezondheidsrisico's volgens GGD-monitor voor
+
+Jongeren 12-18 jaar in woonservicezone 1 : Heerenveen Noord-280 jongeren, Heerenveen Centrum-120 jongeren, de dorpen van De Streek/Oud Aengwirden-Gersloot Polder-185 jongeren en Haskerdijken-Nieuwebrug-50 jongeren
+
+Gestrest door school of huiswerk                          | 32% / 23% |
+Beweegt 5 of meer dagen in de week minstens 1 uur         | 49% / 59% |
+
+‘Slachtoffer van pesten’ en ‘afgelopen 4 weken ziek thuis’ komen minder dan gemiddeld voor
+
+
+### Gezondheidsrisico's volgens GGD-monitor voor
+
+jongeren 12-18 jaar in woonservicezone 2a  : Skoatterwâld-530 jongeren
+
+Er zijn geen bovengemiddelde gezondheidsrisico’s voor de jongeren uit Skoatterwâld
+
+Sporten bij een club, vereniging etc. en lopend of op de fiets naar school komt bovengemiddeld veel voor. Bingedrinken komt minder voor dan gemiddeld, evenals het meemaken van geestelijke mishandeling (treiteren, kleineren of uitschelden), niet goed rondkomen van inkomen en jonge mantelzorger zijn.
+
+
+### Gezondheidsrisico's volgens GGD-monitor voor
+
+ jongeren 12-18 jaar in woonservicezone 2b  : Oranjewoud-160 jongeren, De Knipe-150 jongeren en Bontebok-40 jongeren
+
+Eet elke dag fruit                            | 22% /33%
+Te weinig ontmoetingsplekken in de buurt      | 81% /68%
+
+Overgewicht en het drinken van energiedrankjes scoren lager dan gemiddeld
+
+### Gezondheidsrisico's volgens GGD-monitor voor
+
+jongeren 12-18 jaar in woonservicezone 3 : Jubbega-270 jongeren, Hoornsterzwaag-75, Oudehorne-70, Nieuwehorne-120 en Katlijk-65 jongeren
+
+Gestrest over wat anderen van hem/haar vinden | 17% / 10%
+Slachtoffer van pesten                        | 5% / 2%
+Drinken suikerhoudende dranken                | 51% / 32%
+
+Opm: Gezien de aantallen jongeren per dorp, is Jubbega het meest bepalend voor de resultaten.
+
+Gestrest door huiswerk en school komt minder dan gemiddeld voor. Op de fiets of lopend naar school komt ook minder dan gemiddeld voor, maar minimaal 5 dagen per week minstens een uur bewegen per dag komt meer voor dan gemiddeld.
+
+### Gezondheidsrisico's volgens GGD-monitor voor
+
+jongeren 12-18 jaar in woonservicezone 4 : Heerenveen Midden-200 jongeren, De Akkers-180, Oudeschoot-120 en Mildam-65 jongeren
+
+Drinken van water                                       |  62% /70%
+Wekelijks sporten bij een club, vereniging, sportschool | 70% /79%
+Bingedrinken                                            | 24% /17%
+Ooit harddrugs en/of lachgas gebruikt                   | 13% / 6%
+Dader pesten op school                                  | 7% / 3%
+
+### Gezondheidsrisico's volgens GGD-monitor voor
+
+jongeren 12-18 jaar in woonservicezone 5a : De Greiden-630 jongeren
+
+Onvoldoende weerbaar | 9% / 5%
+Matig en ernstig overgewicht | 16% /10%
+Elke dag groente  | 34% /44%
+Elke dag fruit | 24% /33%
+Beweegt 5 of meer dagen in de week minstens 1 uur  | 44% /59%
+Wekelijks sporten bij een club, vereniging, sportschool | 70% /78%
+Laatste 4 weken ziek thuis | 37% /29%
+Moeite met rondkomen | 14% / 7%
+Voelt zich wel eens onveilig in de buurt | 14% / 9%
+
+### Gezondheidsrisico's volgens GGD-monitor voor
+
+ jongeren 12-18 jaar in woonservicezone 5b : De Heide-135 jongeren, Nijehaske-305 jongeren en Nieuweschoot-15 jongeren
+
+Beweegt 5 of meer dagen in de week minstens 1 uur | 46% /59%
+Dader cyberpesten | 6% / 2%
+Jonge mantelzorger | 17% / 9%
+
+Opm: Gezien het kleine aantal jongeren in Nieuweschoot zijn de twee grote wijken het meest bepalend voor de resultaten
+
+Eten van groente en fruit, water drinken en lidmaatschap van vereniging of club komt meer dan gemiddeld voor
+
+### Gezondheidsrisico's volgens GGD-monitor voor
+
+ jongeren 12-18 jaar in woonservicezone 6a : Akkrum-315 jongeren
+
+Voelt zich gestrest over wat anderen van hem/haar vinden | 17% /10%
+
+Eten van fruit, minimaal 5 dagen een uur bewegen per dag komt meer dan gemiddeld voor en slachtofferschap van cyberpesten minder
+
+### Gezondheidsrisico's volgens GGD-monitor voor
+
+jongeren 12-18 jaar in woonservicezone 6b : Nes- 180 jongeren en Aldeboarn-115 jongeren
+
+Wel eens geestelijk mishandeld (treiteren, kleineren of uitschelden) | 9% / 4%
+
+Eten van groente en  minimaal 5 dagen een uur bewegen per dag komt meer dan gemiddeld voor
 
 
 
 
 
-|---+------------+-----------------|
-|  Actor  | Aantal | Hoe  |
-|-----------------|-----------|---------------|
-| Burgers (G1000) | 37 | Diepte-interview |
-| Ambtenaren | 12 | Diepte-interview |
-| Raadsleden | 7 | Diepte-interview |
-| Burgers overige processen | 26 | Diepte-interview |
-|===+============+=================|
-| Alle Actoren  | 100+     | Observaties bij bijeenkomsten    |
-|---+------------+-----------------|
+
+
+
+
+
+
+
+
+
+

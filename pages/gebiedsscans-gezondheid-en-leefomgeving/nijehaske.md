@@ -10,6 +10,8 @@ content-intro:
 
 ![Gebiedsscan grafiek](/uploads/Grafieken_Gebiedsscans_Wijken-06.png)
 
+De grafiek laat zien welke indicator boven of onder het gemiddelde van de gemeente scoort. Binnen de gele lijn scoort de indicator voor de wijk/het dorp onder het gemiddelde van de gemeente. Buiten de gele lijn scoort de indicator boven het gemiddelde.
+
 ## Samenvatting
 
 Voor Nijehaske wijken de cijfers veelal niet significant af van de gemiddelde cijfers voor  de gemeente Heerenveen. Nijehaske is een wat jongere wijk met bovengemiddeld veel 25 tot 45 jarigen en minder 65-plussers. Het percentage inwoners dat voldoet aan de beweegnorm is, mede daardoor, significant hoger dan gemiddeld. Psychosociale problematiek komt er eveneens wat meer voor dan gemiddeld.
@@ -22,14 +24,14 @@ De leefbaarheid is zeer goed. Er zijn bovengemiddeld veel huurwoningen, niet all
 
 Het is een wijk met grote diversiteit aan bewoners. Er is weinig verbondenheid met wijk, mede doordat er veel forenzen wonen. Een deel van de woningen is kwalitatief minder goed. Schuldenproblematiek vraagt aandacht.
 
-**Nijehaske: 3.230 inwoners en 1.495 huishoudens**
-
 ## Conclusies voor beleid vanuit de cijfers
 Nijehaske heeft een wat jongere populatie dan gemiddeld in de gemeente Heerenveen. De leefbaarheid is  zeer goed, hoewel de veiligheid nog verbeterd kan worden. Opvallend veel inwoners voldoen aan de beweegnorm.
 
 Maatregelen gericht op gezondheidsrisico's, zoals roken en eenzaamheid, moeten aansluiten bij de doelgroepen die veel voorkomen in de wijk, waaronder 45 -65 jarigen, inwoners met diverse psychosociale problematiek en alleenstaanden.
 
 Preventie van schulden is in deze wijk ook van belang.
+
+**Nijehaske: 3.230 inwoners en 1.495 huishoudens**
 
 |-----+---+---|
 |  **Bevolking**  |  |    |

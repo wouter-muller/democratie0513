@@ -10,6 +10,8 @@ content-intro:
 
 ![Gebiedsscan grafiek](/uploads/Grafieken_Gebiedsscans_Wijken-03.png)
 
+De grafiek laat zien welke indicator boven of onder het gemiddelde van de gemeente scoort. Binnen de gele lijn scoort de indicator voor de wijk/het dorp onder het gemiddelde van de gemeente. Buiten de gele lijn scoort de indicator boven het gemiddelde.
+
 ## Samenvatting
 
 In Noord zijn de afwijkingen van de gemiddelde cijfers In Heerenveen klein. In deze wijk is het percentage eenpersoonshuishoudens, waaronder weduwen en weduwnaars, iets bovengemiddeld. De leeftijdsgroep van 25 tot 45 jaar ligt in deze wijk eveneens iets boven het gemiddelde. De leefbaarheid is goed. Vooral het voorzieningenniveau is goed. De veiligheid is iets minder.
@@ -24,13 +26,13 @@ Er zijn veel instellingen met kwetsbare bewoners die soms overlast geven voor de
 
 Men woont dichtbij voorzieningen, waardoor ouderen er ook lang  blijven wonen.
 
-**Heerenveen Noord: 3.740 inwoners en 1.825 huishoudens**
-
 ## Conclusies voor beleid vanuit de cijfers
 
 Heerenveen Noord vertoont weinig afwijkingen van de gemiddelde cijfers. De leefbaarheid is goed.
 
 Beleid en maatregelen in deze wijk kunnen toegespitst worden op meer algemeen voorkomende risico’s, zoals te weinig beweging en overgewicht. Daarbij kan aangesloten worden bij behoeften van  diverse  leeftijdsgroepen en alleenstaanden.
+
+**Heerenveen Noord: 3.740 inwoners en 1.825 huishoudens**
 
 |-----+---+---|
 |  **Bevolking**  |  |    |
