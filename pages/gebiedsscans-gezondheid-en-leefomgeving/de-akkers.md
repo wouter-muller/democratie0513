@@ -122,3 +122,4 @@ Wijkactiviteiten komen moeizaam van de grond, toch lijkt de betrokkenheid wel te
 
 \* Achter de percentages voor dit gebied staan steeds de gemiddelde percentages van de 30 wijken en dorpen in Heerenveen. De percentages die significant boven of onder het gemiddelde liggen zijn geel gemarkeerd. Wanneer percentages voor verschillende gebieden erg uiteenlopen, zijn alleen zeer hoge of zeer lage percentages significant afwijkend van het gemiddelde. De gemiddelde percentages voor Heerenveen zijn rekenkundige gemiddelden, die mogelijk afwijken van gemiddelden uit andere bronnen. De aantallen zijn schattingen en afgerond op 5-tallen; -- betekent dat het aantal verwaarloosbaar klein is.
 
+Voor de definities van de indicatoren in de tabel zie de toelichting onder  ‘Het onderzoek’.

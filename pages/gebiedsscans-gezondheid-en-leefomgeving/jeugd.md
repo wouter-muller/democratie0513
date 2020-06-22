@@ -161,17 +161,4 @@ Wel eens geestelijk mishandeld (treiteren, kleineren of uitschelden) | 9% / 4%
 
 Eten van groente en  minimaal 5 dagen een uur bewegen per dag komt meer dan gemiddeld voor
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Voor de definities van de indicatoren in de tabel zie de toelichting onder  ‘Het onderzoek’.

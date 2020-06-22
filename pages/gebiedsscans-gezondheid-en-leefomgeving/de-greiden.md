@@ -147,3 +147,4 @@ Activiteiten kunnen beter afgestemd worden op de diversiteit in belangstelling v
 
 
 
+Voor de definities van de indicatoren in de tabel zie de toelichting onder  ‘Het onderzoek’.
