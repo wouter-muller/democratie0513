@@ -33,7 +33,9 @@ In dit gebied zijn weinig afwijkingen van de gemiddelde cijfers voor de gemeente
 
 De leefbaarheid is zeer goed tot uitstekend en er zijn veel vrijwilligers. Met het oog op de vergrijzing is mogelijk specifieke aandacht nodig voor de leefbaarheid voor ouderen.
 
-**Omdat het aantal inwoners in het dorp klein is, moeten de cijfers met voorzichtigheid worden geïnterpreteerd.**
+Omdat het aantal inwoners in het dorp klein is, moeten de cijfers met voorzichtigheid worden geïnterpreteerd.
+
+**Terband: 270 inwoners en 115 huishoudens**
 
 |-----+---+---|
 |  **Bevolking**  |  |    |

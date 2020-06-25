@@ -9,11 +9,7 @@ hero-paragraph: De gebiedsscans over gezondheid, welzijn en woonomgeving geven
   per dorp of wijk een beeld van de situatie in 2019. Het onderzoek komt niet
   alleen met veel cijfers, maar roept ook vragen op voor verdere verklaring,
   discussie en onderzoek.
-content-intro: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-  eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-  veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-  commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit
-  esse cillum dolore eu fugiat.
+content-intro: De gebiedsscans geven per dorp en wijk cijfers over bijvoorbeeld het percentage gezinnen en alleenstaanden, het percentage inwoners met een lichamelijke beperking, het aantal inwoners met eenzaamheidsklachten en het aantal inwoners dat voldoet aan de norm voor gezond bewegen. Ook geven de cijfers inzicht in de mate van vergrijzing, de inkomensverdeling, de mate waarin vrijwilligerswerk wordt gedaan en de leefbaarheid.
 chapters:
   - title: Het onderzoek
     type: research
