@@ -26,12 +26,12 @@ Bij Kensoor wonen en werken mensen met een beperking. Zij doen veel aan onderhou
 
 Nieuwebrug ligt aan een industrieterrein. Plaatselijk belang is actief om veiligheid te behouden. De gemeente heeft toegezegd dat de maximum snelheid van de doorgaande weg van 80 km/uur naar 60 km/uur wordt teruggebracht. De oude vuilstort wordt afgedekt en biedt kans voor groene ontwikkeling.
 
-De cijfers moeten met voorzichtigheid worden geïnterpreteerd, vanwege het kleine aantal inwoners in Nieuwebrug.
-
 ## Conclusies voor beleid vanuit de cijfers
 Haskerdijken / Nieuwebrug vertoont weinig afwijkingen van de gemiddelde cijfers. De leefbaarheid is (zeer) goed.
 
 Beleid en maatregelen in deze wijk kunnen toegespitst worden op meer algemeen voorkomende gezondheidsrisico’s, zoals te weinig bewegen en eenzaamheid. Met name het percentage inwoners dat niet aan de alcoholrichtlijn voldoet ligt daarbij iets boven het gemiddelde.  Maatregelen  kunnen worden gericht op de diverse leeftijdsgroepen.
+
+De cijfers moeten met voorzichtigheid worden geïnterpreteerd, vanwege het kleine aantal inwoners in Nieuwebrug.
 
 **Nieuwebrug: 200 inwoners en 75 huishoudens**
 

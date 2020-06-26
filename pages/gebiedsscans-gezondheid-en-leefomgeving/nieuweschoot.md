@@ -26,12 +26,13 @@ In Nieuweschoot zijn geen voorzieningen, er is wel veel saamhorigheid. Men komt 
 
 'Zwakte' is de vergrijzing. Het centrum van Heerenveen, met alle voorzieningen, is niet dichtbij. Het dorp denkt na over oplossingen.
 
-Het aantal inwoners van Nieuweschoot is klein. De cijfers moeten daarom met voorzichtigheid worden geïnterpreteerd.
 
 ## Conclusies voor beleid vanuit de cijfers
 Beleid en maatregelen kunnen gericht worden op de algemene gezondheidsrisico’s, zoals te weinig bewegen en eenzaamheid.
 
 De leefbaarheid is goed.  Het lage voorzieningenniveau kan een probleem worden met de toenemende vergrijzing.
+
+Het aantal inwoners van Nieuweschoot is klein. De cijfers moeten daarom met voorzichtigheid worden geïnterpreteerd.
 
 **Nieuweschoot: 180 inwoners en 70 huishoudens**
 

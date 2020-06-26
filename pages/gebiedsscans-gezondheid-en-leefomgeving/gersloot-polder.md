@@ -26,7 +26,6 @@ Er zijn geen winkels en weinig voorzieningen. Maar men is erop ingespeeld. De be
 
 De verenigingen voor Plaatselijk belang zijn sterk en initiatiefrijk. Er zijn veel activiteiten en de bewoners van de dorpen regelen veel zelf in het dorp. Vanwege de lintbebouwing liggen woningen ver uit elkaar, maar er is een diversiteit aan ontmoetingsplaatsen: MFA/Doarpskeamer, cafés, school.
 
-Omdat het aantal inwoners in het dorp klein is, moeten de cijfers met voorzichtigheid worden geïnterpreteerd.
 
 
 ## Conclusies voor beleid vanuit de cijfers
@@ -34,7 +33,10 @@ In dit gebied zijn weinig afwijkingen van de gemiddelde cijfers voor de gemeente
 
 De leefbaarheid is zeer goed tot uitstekend en er zijn veel vrijwilligers. Met het oog op de vergrijzing is mogelijk specifieke aandacht nodig voor de leefbaarheid voor ouderen.
 
+Omdat het aantal inwoners in het dorp klein is, moeten de cijfers met voorzichtigheid worden geïnterpreteerd.
+
 **Gersloot Polder: 190 inwoners en 65 huishoudens**
+
 
 |-----+---+---|
 |  **Bevolking**  |  |    |
