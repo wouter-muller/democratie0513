@@ -12,12 +12,12 @@ hero-paragraph: >-
   Lees het allemaal in deze digitale rapportage.
 content-intro: "De afgelopen jaren heeft de gemeente Heerenveen samen met
   inwoners geëxperimenteerd met nieuwe vormen van lokale democratie om de
-  betrokkenheid van inwoners te vergroten.  In de tweede helft van 2019 zijn zes
-  experimenten in opdracht van de gemeenteraad  door NHL-Stenden gemonitord en
-  geëvalueerd: Burgerbesluit Centrum, Mildam Noord, Omgevingsvisie, Akkrum, de
-  Greiden en Aldeboarn. De opzet en uitvoering van de bijeenkomsten en de
-  ervaringen van de deelnemers stonden centraal in de monitor. Deze experimenten
-  waren leerzaam en zijn over het algemeen positief gewaardeerd."
+  betrokkenheid van inwoners te vergroten.  In  2019 zijn zes experimenten in
+  opdracht van de gemeenteraad  door NHL-Stenden gemonitord en geëvalueerd:
+  Burgerbesluit Centrum, Mildam Noord, Omgevingsvisie, Akkrum, de Greiden en
+  Aldeboarn. De opzet en uitvoering van de bijeenkomsten en de ervaringen van de
+  deelnemers stonden centraal in de monitor. Deze experimenten waren leerzaam en
+  zijn over het algemeen positief gewaardeerd."
 chapters:
   - title: Het onderzoek
     type: research
