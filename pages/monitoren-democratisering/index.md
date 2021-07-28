@@ -1,6 +1,6 @@
 ---
 layout: monitoren-democratisering
-title_tag: Monitoren democratisering
+title_tag: 2019 Monitoren democratisering
 color: blue
 permalink: /monitoren-democratisering
 hero-heading: Lokale democratie
@@ -10,11 +10,10 @@ hero-paragraph: >-
   samenwerking ervaren en beleefd?
 
   Lees het allemaal in deze digitale rapportage.
-content-intro: >-
-  De afgelopen jaren heeft de gemeente Heerenveen samen met inwoners
-  geëxperimenteerd met nieuwe vormen van lokale democratie om de betrokkenheid
-  van inwoners te vergroten. Deze experimenten waren leerzaam en over het
-  algemeen positief gewaardeerd.
+content-intro: De afgelopen jaren heeft de gemeente Heerenveen samen met
+  inwoners geëxperimenteerd met nieuwe vormen van lokale democratie om de
+  betrokkenheid van inwoners te vergroten. Deze experimenten waren leerzaam en
+  over het algemeen positief gewaardeerd.
 chapters:
   - title: Het onderzoek
     type: research
